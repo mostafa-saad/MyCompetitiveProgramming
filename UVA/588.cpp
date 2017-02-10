@@ -5,6 +5,13 @@
  * 
  * This problem can be solved directly using simple geometry utilities.
  * For sake of practice, one can apply polygon cut algorithm.
+ * 
+ * The idea is pretty simple. Think of the visbility from edges perspective.
+ * If we have edge A, which point makes every point of this line visible? A point a bove (left) of this line. 
+ * Then, everything below is useless and shouldn't be our target point area.
+ *
+ * So solution is, for every edge, cut the polygon part that doesn't see this edge. IF we are done, if there is still
+ * a polygon (area > 0), then any point anside this sub-polygon can see everything.
  */
 
 #include<set>
