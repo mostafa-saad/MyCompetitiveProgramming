@@ -12,6 +12,11 @@
  *
  * So solution is, for every edge, cut the polygon part that doesn't see this edge. IF we are done, if there is still
  * a polygon (area > 0), then any point anside this sub-polygon can see everything.
+ *
+ * One more time: Every edge represents a visbility constraint. We can find the subpolygon that satisfies all the constraints.
+ * Edge visbility = space above it. So for every edge, we cut and remove space below it.
+ *
+ * The best way to get it still can't, draw some polygons and trace the code :)
  */
 
 #include<set>
