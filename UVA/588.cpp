@@ -17,6 +17,9 @@
  * Edge visbility = space above it. So for every edge, we cut and remove space below it.
  *
  * The best way to get it still can't, draw some polygons and trace the code :)
+ *
+ * Once advantage of this approach: It tell us the maximum area that has visbility. Also this idea can be used as a sub-utility 
+ * to solve more complex problems. 
  */
 
 #include<set>
