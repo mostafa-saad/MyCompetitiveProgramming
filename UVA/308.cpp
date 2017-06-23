@@ -1,8 +1,11 @@
-// Src: I think author solution
 /*
 	Algorithm:	Interval Compression & Flood Fill
 	Complexity:	n^2
+	Source: Contest Author Solution
 */
+
+// For Arabian: https://www.youtube.com/watch?v=nqJIXtfs7p4
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
