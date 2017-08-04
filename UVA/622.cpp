@@ -1,5 +1,6 @@
 // This is a context free grammar: https://en.wikipedia.org/wiki/Context-free_grammar
 // One natural way to handle this style is using recursion
+    // See also: https://github.com/Emsawy/CompetitiveProgramming/blob/master/UVA/622.cpp
 
 // One can still handle it using stl datastructures
 	// E.g. https://en.wikipedia.org/wiki/Context-free_grammar
