@@ -1,0 +1,150 @@
+The problem statement is challenging to understand with a single example! Here are more clarifications.
+
+Concerns to remember:
+- Table can't have just a single person. So if 1 person, then must be removed
+- Also can't have even # of persons
+- It is circular. E.g. if they are 1 5 3 7, then 1-7 must not hate each other
+
+
+- Say you have N nodes.
+- If we can arrange the N such that rules are ok, then answer is 0
+- Otherwise, for every node X, can we find a setup (removing others) where X can be ok? If no, then X must be removed. Think in that in an individual way. For each X do that separately.
+
+Examples
+1)
+3 3 ( 3 nodes, 3 edges, forming a trianlge)
+1 2
+1 3
+2 3
+
+A) We can't set them all together
+B) Can we make node=1 with us? never
+- if we removed node 2, then remaining over all 2 nodes = rejected
+- if we removed nodes 2, 3, then remaining over all 1 node = rejected
+C) same for nodes 2, 3. So we must remove the 3 nodes
+=======================
+2)
+5 4 (your example, triangle + edge)
+1 2
+1 3
+2 3
+4 5
+
+A) We can't set them all together
+B) Can we make node=1 with us? never
+- Remove 2, 3 from triangle and 4 from the edge. Remains 2 nodes overall (even) = rejected
+- Remove 2, 3 from triangle and 4, 5 from the edge. Remains 1 nodes overall  = rejected
+C) Can we make node=4 with us? never
+- Same logic as node 1
+D) Overall, every node must be removed
+=======================
+Example (sample)
+A) Can we keep node 1: yes 1, 2, 3 (these are 3 nodes ok)
+B) Can we keep 4: Impossible. Same for 5
+C) so total 3 nodes are ok. 2 nodes remain
+
+Note, output for the sample should be a single number 2 (numer of persons to never attend the meetings)
+
+============
+More examples
+
+Input file:
+10 0
+
+4 3
+1 2
+2 3
+1 3
+
+5 3
+1 2
+2 3
+1 3
+
+
+7 9
+1 2
+2 3
+3 1
+1 4
+4 5
+5 1
+1 6
+6 7
+7 1
+
+4 5
+1 2
+2 3
+3 4
+4 1
+2 4
+
+4 4
+1 2
+2 3
+3 1
+1 4
+
+5 5
+1 4
+1 5
+2 5
+3 4
+4 5
+
+12 3
+8 7
+2 3
+4 2
+
+7 12
+4 7
+5 6
+1 7
+2 1
+1 3
+2 7
+5 1
+6 3
+6 7
+3 7
+3 4
+4 1
+
+0 0
+
+
+
+
+Output file
+0
+4
+0
+1
+4
+4
+2
+0
+2
+
+
+
+=======================
+Web Solution: 
+https://github.com/morris821028/UVa/blob/master/volume013/1364%20-%20Knights%20of%20the%20Round%20Table.cpp
+
+https://github.com/dogsaur/AlgorithmContestEntry_TrainingGuide/blob/master/%E7%AC%AC%E4%BA%94%E7%AB%A0%E2%80%94%E2%80%94%E5%9B%BE%E8%AE%BA%E7%AE%97%E6%B3%95%E4%B8%8E%E6%A8%A1%E5%9E%8B/%E4%BE%8B%E9%A2%98/5_EuropCentral2005_LA3523.cpp
+
+Eng Engy solution with some comments:
+    https://raw.githubusercontent.com/engyebrahim/CompetitiveProgramming/master/UVA/1364.cpp
+
+=======================
+Hints:
+- Think about odd cycles and its relation to the problem. Think in a triangle. In a square.
+
+
+
+
+
+

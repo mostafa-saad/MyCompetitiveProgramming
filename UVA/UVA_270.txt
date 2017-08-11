@@ -1,0 +1,22 @@
+ It is not a hard geometry problem. It has several interesting ways (some can be implemented in different ways). I uploaded my codes for them in case you like (I prefer) to see them. One can implement this problem using no doubles at all in O(n^2) using hashtable. Avoiding doubles can save you many WAs because of precision.
+
+Note: These are pretty old codes from me. I did not revise (comments or codes).
+
+https://raw.githubusercontent.com/mostafa-saad/MyCompetitiveProgramming/master/UVA/270_1.cpp
+https://raw.githubusercontent.com/mostafa-saad/MyCompetitiveProgramming/master/UVA/270_2.cpp
+https://raw.githubusercontent.com/mostafa-saad/MyCompetitiveProgramming/master/UVA/270_3.cpp
+https://raw.githubusercontent.com/mostafa-saad/MyCompetitiveProgramming/master/UVA/270_4.cpp
+https://raw.githubusercontent.com/mostafa-saad/MyCompetitiveProgramming/master/UVA/270_5.cpp
+https://raw.githubusercontent.com/mostafa-saad/MyCompetitiveProgramming/master/UVA/270_6.cpp
+
+
+One the other side, one might write O(N^3) solution: for(i, for(j = i+1, for(k = j+1...)
+such as https://github.com/Youssef-Abdel-Meguid/CompetitiveProgramming/blob/master/UVA/UVA%20270.cpp
+
+these 3 loops has a story in one of SRMs. People thought petr should get TLE for that much operations!
+
+For N = 1000, Do u know how many exact # of operations they do? Not 1000^3, much much less. Sometimes you need to submit that solution if code body in the 3 nested 3 loops is very little.
+
+For N = 700, it is 57M loop operations. For N = 1000, it is 167M operations. Generally, things closes to 200M are ok, if you don't do much inside the loops.
+
+There was a formula for these 3 loops operations count, but I forgot it.

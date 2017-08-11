@@ -1,0 +1,6 @@
+1- Backtrack with heavy pruning/heuristics
+	https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/UVA/529.cpp
+
+2- Iterative deeping
+	https://github.com/AhmedRamadanAbdElghany/CompetitiveProgramming/blob/master/UVA/UVA%20529.cpp
+

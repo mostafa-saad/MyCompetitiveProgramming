@@ -1,0 +1,10 @@
+One way to solve this problem is by using "reflection principle".
+
+A simple version is http://www.spoj.com/problems/FUNPROB, where K is always 0, but here it can be from 1 to 10.
+
+Materials:
+- https://artofproblemsolving.com/community/c6h579448s1_reflection_principle__combinatorics
+- https://en.wikipedia.org/wiki/Bertrand%27s_ballot_theorem
+
+Solution by Mohamed Nasser: https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF26-D12-D.cpp
+
