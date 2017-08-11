@@ -1,0 +1,17 @@
+Give fast readings about Great-circle distance
+Which is about: Calculate distance, bearing and more between Latitude/Longitude points
+
+Here are some 'random' links
+E.g. https://en.wikipedia.org/wiki/Great-circle_distance
+E.g. http://www.movable-type.co.uk/scripts/gis-faq-5.1.html
+
+
+Use the following function:
+
+double sphericalDist(double p_lat, double p_long, double q_lat, double q_long)
+{	// Assume lat & long in radians
+	const double Radius = 6378.0;
+	return acos( sin(p_lat)*sin(q_lat) +
+                 cos(p_lat)*cos(q_lat) * cos(p_long - q_long) ) * Radius;
+}
+
