@@ -1,5 +1,5 @@
 Pure dp probability solution
-	https://github.com/Youssef-Abdel-Meguid/CompetitiveProgramming/blob/master/PKU/PKU%203744.cpp
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/PKU/PKU%203744.cpp
 
 Math solution
 	http://www.blogjava.net/sbzlyessit/archive/2009/08/28/293026.html
