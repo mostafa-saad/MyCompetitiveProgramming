@@ -2,7 +2,7 @@ Meet in middle
 	https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/UVA/10125.cpp
 	https://github.com/thabetx/CompetitiveProgramming/blob/master/UVA/10125.cpp
 	
-Meet in middle, other way based on brute force
+1) Meet in middle (as above), 2) brute force
 	See both here: http://blog.csdn.net/synapse7/article/details/15815645
 	https://github.com/magdy-hasan/competitive-programming/blob/master/uva-/uva%2010125%20-%20Sumsets.cpp
 	
