@@ -1,0 +1,10 @@
+Seems solvable in the following ways:
+
+1- binary Search
+	https://github.com/VitSalis/SPOJ/blob/master/BALLOT/boxes.cpp
+
+2- Min Cost Max Flow
+	https://github.com/Neroysq/Neroysq-SPOJ/blob/master/Codes/BOXES.cpp
+
+3- Seems segment tree sol
+	https://github.com/sananth12/spoj-codechef-codeforces/blob/master/SPOJ/BOXES.cpp
