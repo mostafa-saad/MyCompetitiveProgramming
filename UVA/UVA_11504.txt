@@ -1,0 +1,7 @@
+1) Using Topological Sort
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/UVA/UVA%2011504.cpp
+	https://github.com/ajahuang/UVa/blob/master/UVa%2011504%20-%20Dominos.cpp
+
+2) Using SCC
+	https://github.com/yelghareeb/UVA-solutions/blob/master/UVA%2011504%20-%20Dominos.cpp
+	https://github.com/AymanSalah96/CompetitiveProgramming/blob/master/UVA/11504.cpp
