@@ -1,0 +1,26 @@
+The problem can be solved in several ways:
+
+1- Binary Indexed Tree
+	https://github.com/amraboelkher/CompetitiveProgramming/blob/master/TopCoder/SRM234-D1-1000.cpp
+
+2- Segment Tree
+	https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/TopCoder/SRM234-D1-1000.cpp
+
+3- Merge Sort
+	See TC Editorials
+	http://www.topcoder.com/tc?module=Static&d1=match_editorials&d2=srm234
+
+
+A similar problem in case wanna google for solutions: SPOJ INVCNT
+	merge sort
+	https://github.com/aswinm/spoj/blob/master/INVCNT.cpp
+	https://github.com/t3nsor/SPOJ/blob/master/invcnt.cpp
+	https://github.com/VitSalis/SPOJ/blob/master/INVCNT/INVCNT.cpp
+
+	BIT
+	https://github.com/dwar94/SPOJ-problems-/blob/master/invcnt.cpp
+
+	Others
+	https://github.com/DheerendraRathor/SPOJ/blob/master/INVCNT.cpp
+
+
