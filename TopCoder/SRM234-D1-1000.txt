@@ -20,6 +20,8 @@ A similar problem in case wanna google for solutions: SPOJ INVCNT
 	BIT
 	https://github.com/dwar94/SPOJ-problems-/blob/master/invcnt.cpp
 
+	Segment Tree Lazy Propagation: https://ideone.com/VKzJ4K
+
 	Others
 	https://github.com/DheerendraRathor/SPOJ/blob/master/INVCNT.cpp
 
