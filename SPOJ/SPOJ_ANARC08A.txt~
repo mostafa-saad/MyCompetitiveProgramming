@@ -1,0 +1,15 @@
+- The problem from ACPC 2008 (Named ANARC on these days). 
+- Clearly It is a BFS. You may suffer from long implementation or TLEs if did not thoink enough
+
+Here are some approaches
+	
+1) Pure BFS
+	https://github.com/magdy-hasan/competitive-programming/blob/master/SPOJ/SPOJ%20ANARC08A%20-%20Tobo%20or%20not%20Tobo.cpp
+
+2) BFS with Trie
+	https://github.com/MichaelMounir12/CompetitiveProgramming/blob/master/SPOJ/SPOJ_ANARC08A.cpp
+	https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/SPOJ/ANARC08A%20(with%20heap%20decleration)%20.cpp
+
+3) BFS with meet and middle
+	
+
