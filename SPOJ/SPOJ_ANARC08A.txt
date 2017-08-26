@@ -1,5 +1,5 @@
-- The problem from ACPC 2008 (Named ANARC on these days). 
-- Clearly It is a BFS. You may suffer from long implementation or TLEs if did not thoink enough
+- The problem from ACPC 2008 (Named ANARC on those days). 
+- Clearly It is a BFS. You may suffer from long implementation or TLEs if did not think enough
 
 Here are some approaches
 	
