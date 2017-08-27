@@ -1,0 +1,12 @@
+Standard trick: Whenever asking for cyclic shifts, think about concateanting input to itself.
+E.g. give a string, find a shift that make it lexicographically smallest: Concatenate string to itself + suffix arrays
+
+===
+
+1) Adhock way
+	https://github.com/yelghareeb/problem_solving/blob/master/SPOJ/PARSUMS.cpp?fref=gc	
+	https://github.com/hashemsellat/CompetitiveProgramming/blob/master/SPOJ/PARSUMS.cpp?fref=gc
+
+
+2) Segment Tree
+	https://github.com/madel0093/competitive/blob/master/spoj/PARSUMS.cpp?fref=gc
