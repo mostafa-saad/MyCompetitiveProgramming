@@ -9,4 +9,5 @@ E.g. give a string, find a shift that make it lexicographically smallest: Concat
 
 
 2) Segment Tree
+	https://github.com/HosamEissa/Competitive-programming-/blob/master/Spoj/PARSUMS.cpp
 	https://github.com/madel0093/competitive/blob/master/spoj/PARSUMS.cpp?fref=gc
