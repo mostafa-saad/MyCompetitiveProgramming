@@ -1,0 +1,25 @@
+A cyclic DP problem 
+	For knowledge, review 3 videos: https://www.youtube.com/watch?v=M4yPThuiwBs&index=28&list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p
+
+
+Its main properties:
+	1- Probability Domain (e.g. depth trick?)
+	2- Direct cycling
+	3- Small # of variables
+
+
+Solutions
+
+1) Arrange DP calls to drop the cycle, this is the most proper way
+	https://github.com/liuq901/code/blob/master/UVA/uv_11755.cpp
+
+2) Don't know how to arrange, but it is probability
+	After some depth, computed precision will be very low
+	So code a cyclic reccurance, and use the depth trick
+	Depth limit? Use the biggest possible according to your dp consumed memory
+
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/11755.cpp
+
+3) Small # of variables, just arrange the calls in a system of linear equations and solve
+	Gaussian is ok
+	Can we use upper triangle matrix processing?
