@@ -1,25 +1,26 @@
 A cyclic DP problem 
 	For knowledge, review 3 videos: https://www.youtube.com/watch?v=M4yPThuiwBs&index=28&list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p
 
+===
 
-Its main properties:
-	1- Probability Domain (e.g. depth trick?)
-	2- Direct cycling
-	3- Small # of variables
-
-
-Solutions
-
-1) Arrange DP calls to drop the cycle, this is the most proper way
-	https://github.com/liuq901/code/blob/master/UVA/uv_11755.cpp
-
-2) Don't know how to arrange, but it is probability
-	After some depth, computed precision will be very low
-	So code a cyclic reccurance, and use the depth trick
-	Depth limit? Use the biggest possible according to your dp consumed memory
+1) It is probability, after some depth, returned computed values will be very low, hence useless calls
+	
+	Depth limit? Secure yourself. Use the biggest possible according to your dp consumed memory
 
 	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/11755.cpp
+	https://github.com/liuq901/code/blob/master/UVA/uv_11755.cpp
 
-3) Small # of variables, just arrange the calls in a system of linear equations and solve
-	Gaussian is ok
-	Can we use upper triangle matrix processing?
+2) Indirect cycles => just arrange the reccurance calls as a system of linear equations and solve
+	A state is (x, y) = 21x21 variables
+	reasonable variables to fit in Gaussian, but handle the sparsity of the matrix
+
+3) Can we do a dp that still handle the special cycle case?
+	Most probably yes
+
+4) Can we do a more adhock dp handling?
+	???
+
+===
+Mohamed Nasser Notes: Special cases that might cause WA :
+	1- Judge might give empty lines instead of WLWLWLWL.
+	2- If the probability of winning is 1.0, but you lose, this case is invalid. :)
