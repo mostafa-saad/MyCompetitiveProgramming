@@ -18,7 +18,8 @@ A cyclic DP problem
 	Most probably yes
 
 4) Can we do a more adhock dp handling?
-	???
+	https://github.com/ishassan/ProblemSolving/blob/master/UVa/11755%20-%20Table%20Tennis.cpp
+	Mido: This solution is DP without cycles..Also I understand what he's doing, I think some part in his base case is wrong or don't make sense to me
 
 ===
 Mohamed Nasser Notes: Special cases that might cause WA :
