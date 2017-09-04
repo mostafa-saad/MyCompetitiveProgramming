@@ -1,0 +1,11 @@
+1) Sqrt Decomposition
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20RACETIME
+	https://github.com/minaamir26/Competitive-Programming/blob/master/SPOJ/RACETIME.java
+
+2) Segment Tree
+	https://github.com/pushkarmishra/SPOJ/blob/master/RACETIME.cpp
+	
+3) Balance BST (I think)
+	https://github.com/Deependra-Patel/coding_problems/blob/master/spoj/racetime.cpp
+	
+
