@@ -1,6 +1,12 @@
-1) LCA + BIT solution
+1) HLD Solution
+	https://github.com/OmarKharouba/CompetitiveProgramming/blob/master/PKU/PKU2763.java
+
+2) LCA + BIT solution
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/POJ/2763.cpp?fref=gc&dti=160725894286891
 	https://github.com/Minamego/CompetitiveProgramming/blob/master/PKU/PKU%202763
 
+	Mohamed Nasser Comments: Root the tree at 0, and then for each edge from u to v, drop it's weight on v. Now for each query to update edge (u,v), treat it as updating weights on v. Now maintain a bit with range updates and point query on euler tour of the tree
 
-2) HLD Solution
-	https://github.com/OmarKharouba/CompetitiveProgramming/blob/master/PKU/PKU2763.java
+
+
+
