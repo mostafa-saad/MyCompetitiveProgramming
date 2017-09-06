@@ -7,6 +7,7 @@ A cyclic DP problem
 	
 	Depth limit? Secure yourself. Use the biggest possible according to your dp consumed memory
 
+	https://ideone.com/a147XD
 	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/11755.cpp
 	https://github.com/liuq901/code/blob/master/UVA/uv_11755.cpp
 
