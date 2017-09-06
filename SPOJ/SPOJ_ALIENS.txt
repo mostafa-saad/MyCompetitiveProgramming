@@ -1,0 +1,8 @@
+The problem is an application over the minimum enclosing circle algorithm.
+
+For materials, see my video (or its pdf): 
+	https://youtu.be/Fa69kqT9NPY?list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&t=1105
+
+For solution
+	https://github.com/AhmedRamadanAbdElghany/CompetitiveProgramming/blob/master/Spoj/ALIENS.cpp
+	
