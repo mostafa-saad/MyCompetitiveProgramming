@@ -8,5 +8,5 @@
 
 3) Segment tree + Divide and Conquer O(N logn logn)
 	This is a risky order. For N=10^5, max intended is NlogN or very optimized O(N logn logn)
-	Abdelrahman Mounir code passed (but TLED before for return 2e9 instead of 1e9)
+	Abdelrahman Mounir code passed
 	https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20HISTOGRA.cpp
