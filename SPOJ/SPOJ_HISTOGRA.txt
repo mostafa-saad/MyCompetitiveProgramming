@@ -1,0 +1,10 @@
+1) Stack Data structure
+	https://github.com/guluuu3/spoj/blob/master/histogram.cpp
+	https://github.com/hbdhj/spoj-cpp/blob/master/1805_HISTOGRA.cpp
+	https://github.com/sahilshah/my-spoj-solutions/blob/master/spoj/histogram.cpp
+
+2) RMQ + Divide and Conquer
+	Coach wahab code: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/SPOJ/SPOJ_HISTOGRA.cpp
+
+3) Pure segment tree (gamal/mounier cases)
+	Probably TLE: https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20HISTOGRA.cpp
