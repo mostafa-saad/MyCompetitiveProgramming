@@ -8,5 +8,6 @@
 
 3) Segment tree + Divide and Conquer O(N logn logn)
 	This is a risky order. For N=10^5, max intended is NlogN or very optimized O(N logn logn)
-	Abdelrahman Mounir code passed
-	https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20HISTOGRA.cpp
+	Abdelrahman Mounir code passed with divide and conquer idea and TLED with pure STL
+	AC: https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20HISTOGRA.cpp%20-%20divide%20and%20conquer%20%2B%20segment%20tree%20%5BACC%5D
+	TLE: https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20HISTOGRA.cpp%20-%20binary%20search%20%2B%20segment%20tree%20%5BTLE%5D
