@@ -1,10 +1,14 @@
-1) Stack Data structure
+1) Stack Data structure O(N)
 	https://github.com/guluuu3/spoj/blob/master/histogram.cpp
 	https://github.com/hbdhj/spoj-cpp/blob/master/1805_HISTOGRA.cpp
 	https://github.com/sahilshah/my-spoj-solutions/blob/master/spoj/histogram.cpp
 
-2) RMQ + Divide and Conquer
+2) RMQ + Divide and Conquer O(N logn)
 	Coach wahab code: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/SPOJ/SPOJ_HISTOGRA.cpp
 
-3) Pure segment tree (gamal/mounier cases)
-	Probably TLE: https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20HISTOGRA.cpp
+3) Segment tree + Divide and Conquer O(N logn logn)
+	This is a risky order. For N=10^5, max intended is NlogN or very optimized O(N logn logn)
+	Abdelrahman Mounir code TLE and when replaced min/max with if conditions => passed!
+	
+	TLE: https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20HISTOGRA.cpp%20-%20divide%20and%20conquer%20%2B%20segment%20tree%20%5BTLE%5D
+	AC: https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20HISTOGRA.cpp%20ACC
