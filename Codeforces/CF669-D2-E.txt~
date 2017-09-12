@@ -1,0 +1,38 @@
+The problem is solvable in several ways. Please investigate and maybe write some of the other approaches.
+
+===
+
+Normal segment tree
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/CodeForces/CF669-D2-E.cpp	[with Compress Values]
+	http://codeforces.com/contest/669/submission/17495492
+	http://codeforces.com/contest/669/submission/17493836
+	http://codeforces.com/contest/669/submission/17495865
+
+
+Implicit segment tree (https://www.quora.com/What-are-the-differences-among-dynamic-segment-tree-%E2%80%98implicit-segment-tree%E2%80%99-and-persistent-segment-tree)
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/CodeForces/CF669-D2-E.cpp%20implicit%20segment%20tree
+
+Binary Index Tree
+	http://codeforces.com/contest/669/submission/17491017
+	http://codeforces.com/contest/669/submission/17493817
+	http://codeforces.com/contest/669/submission/17492979
+
+
+Sqrt Decomposition or what?
+	See editorials for Sqrt Decomposition
+	http://codeforces.com/contest/669/submission/17496546
+	http://codeforces.com/contest/669/submission/17492382
+	http://codeforces.com/contest/669/submission/17493172
+
+
+Order-statistic tree (http://codeforces.com/blog/entry/11080)
+	http://codeforces.com/contest/669/submission/17493518
+	http://codeforces.com/contest/669/submission/17497293
+
+Balanced BST
+	http://codeforces.com/contest/669/submission/17493393	RedBlack Tree
+	http://codeforces.com/contest/669/submission/17495303	Treap
+
+
+
+
