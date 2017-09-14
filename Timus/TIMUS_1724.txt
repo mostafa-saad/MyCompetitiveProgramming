@@ -1,0 +1,5 @@
+Segemnt Tree Solution
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/Timus/TIMUS%201724
+
+Mo's Algorithm Solution
+	https://github.com/hashemsellat/CompetitiveProgramming/blob/master/TIMUS/1724.cpp
