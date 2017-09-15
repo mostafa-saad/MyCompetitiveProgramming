@@ -1,0 +1,8 @@
+Matrix power problem
+
+Initial notes on the problem in my video: 
+	https://www.youtube.com/watch?v=Tm0KGpoQ5JA&feature=youtu.be&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&t=896
+
+Solutions with notes
+	https://github.com/magdy-hasan/competitive-programming/blob/master/SPOJ/SPOJ%20SUMSUMS%20-%20Summing%20Sums.cpp?fref=gc&dti=160725894286891
+	https://ideone.com/7G454h?fref=gc&dti=160725894286891
