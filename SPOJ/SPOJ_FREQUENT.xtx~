@@ -1,0 +1,22 @@
+Problem originally from UVA 11235.
+
+I remember solving by checking the forums: https://uva.onlinejudge.org/board/viewtopic.php?t=19064
+
+TC Forums
+	https://apps.topcoder.com/forums/?module=Thread&threadID=793880&start=0&mc=4#1754751
+	https://apps.topcoder.com/forums/?module=Thread&threadID=641835&start=0&mc=12#1103429
+
+RMQ - sparse table
+	https://github.com/morris821028/UVa/blob/master/volume112/11235%20-%20Frequent%20values.cpp
+	
+
+Segment Tree
+	https://github.com/Diusrex/UVA-Solutions/blob/master/11235%20Frequent%20values.cpp
+	https://github.com/lamphanviet/competitive-programming/blob/master/uva-online-judge/accepted-solutions/11235%20-%20Frequent%20values.cpp
+	https://github.com/Diusrex/UVA-Solutions/blob/master/11235%20Frequent%20values.cpp
+	https://github.com/paulot/uva/blob/master/11235.cpp
+	https://github.com/math10/Solved-Problem/blob/master/UVA-11235%20-%20Frequent%20values.cpp
+
+
+Hmm
+	https://github.com/morris821028/UVa/blob/master/volume112/11235%20-%20Frequent%20values%5Bvx%5D.cpp
