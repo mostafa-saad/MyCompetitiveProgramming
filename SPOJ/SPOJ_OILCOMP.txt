@@ -1,0 +1,6 @@
+1) Mido: This problem can be modeled as maximum weighted independent set in a graph. A closer look, and one can see a grid is a bipartite graph. So we can get min cover by maxflow, and  since it’s complement of MIS, we subtract total from min cover.
+	Internet: proof is an extension of the König's theorem for weighted graphs
+	https://github.com/marioyc/Online-Judge-Solutions/blob/master/SPOJ/Classical/3007%20-%20Oil%20Company.cpp
+
+2) The small limits allows also dp bit masks
+	https://github.com/oaakx/YAYAPS/blob/master/SPOJ/OILCOMP.cpp
