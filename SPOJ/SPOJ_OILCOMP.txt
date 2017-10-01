@@ -2,6 +2,6 @@
 	Internet: proof is an extension of the König's theorem for weighted graphs
 	https://github.com/marioyc/Online-Judge-Solutions/blob/master/SPOJ/Classical/3007%20-%20Oil%20Company.cpp
 
-2) The small limits allows also dp bit masks
+2) The small limits allows also dp bit masks - all submasks iteration
 	https://www.quora.com/What-is-the-approach-of-solving-the-Oilcomp-SPOJ-problem
 	https://github.com/oaakx/YAYAPS/blob/master/SPOJ/OILCOMP.cpp
