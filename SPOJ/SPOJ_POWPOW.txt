@@ -1,0 +1,9 @@
+
+Mohamed Nasser approach
+	CRT + Fermat little theorm + counting + vandermot identity
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/SPOJ/POWPOW.cpp
+
+
+Online discussions
+	https://apps.topcoder.com/forums/?module=Thread&threadID=766867
+	https://discuss.codechef.com/questions/40715/how-to-solve-pow-pow-problem-of-spoj
