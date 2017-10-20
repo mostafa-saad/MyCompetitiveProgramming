@@ -1,0 +1,6 @@
+Jouseph problem and can be handeled by an intersting dp: 
+	https://www.youtube.com/watch?v=iN9PLGp8k90&index=23
+
+
+Another way, is to brute force it and find the pattern
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/10940.cpp
