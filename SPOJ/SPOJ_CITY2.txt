@@ -1,0 +1,6 @@
+1) Seg tree sols
+	https://github.com/cacophonix/SPOJ/blob/master/CITY2.cpp
+
+
+2) Greedy
+	https://github.com/Omaar22/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20CITY2.cpp
