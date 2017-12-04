@@ -1,0 +1,5 @@
+1) Max Flow
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/UVA/UVA%2010349.cpp
+
+2) Dp, bitmasks
+	https://github.com/MNT95/Competitive-Programming/blob/master/UVa/DP/10349%20-%20Antenna%20Placement.cpp
