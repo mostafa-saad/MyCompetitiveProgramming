@@ -1,0 +1,18 @@
+The problem with multiset TLE, but works with priority Queue. 
+
+Hint:
+	Use 2 proiroty queues
+
+Idea (MohamedNabil97):
+    If we split the sorted array into 2 parts equally (if size not divisble by 2 make the first have bigger)
+    ... The median will be the last element of the first half
+    
+    This can be done using 2 priority queues one sorting bigger and one sorting smaller and each time we add an element
+    balance them to be split correctly L.size()<=R.size()<L.size()+1 
+
+
+See following PQ codes:
+https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/SPOJ/WEIRDFN.cpp
+https://github.com/magdy-hasan/competitive-programming/blob/master/SPOJ/SPOJ%20WEIRDFN%20-%20Weird%20Function.cpp
+https://github.com/MedoN11/CompetitiveProgramming/blob/master/SPOJ/WEIRDFN.cpp	
+
