@@ -1,0 +1,6 @@
+1) Sweep line is intuitive
+	https://github.com/cacophonix/SPOJ/blob/master/SHORTCUT.cpp
+	https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/SPOJ/SHORTCUT.cpp
+
+2) Can be brute forced too
+	https://github.com/osamahatem/CompetitiveProgramming/blob/master/SPOJ/SHORTCUT.cpp
