@@ -1,0 +1,4 @@
+geometry, circles, dfs/radial sweep
+
+https://github.com/osamahatem/CompetitiveProgramming/blob/master/ZOJ/2318%20-%20Get%20Out!.cpp
+https://github.com/MedoN11/CompetitiveProgramming/blob/master/ZOJ/2318.cpp
