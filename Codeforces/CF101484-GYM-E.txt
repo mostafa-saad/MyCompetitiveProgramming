@@ -1,0 +1,5 @@
+1) Convex Hull Solution
+	https://github.com/AbdelrahmanRamadan/competitive-programming/blob/master/Codeforces/101484-gym-E.cpp
+
+2) Adhock/centroid
+	https://github.com/HosamEissa/Competitive-programming-/blob/master/Codeforces/CF101484-GYM-E.cpp
