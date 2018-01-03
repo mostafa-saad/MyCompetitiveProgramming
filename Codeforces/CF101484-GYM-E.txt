@@ -1,5 +1,8 @@
 1) Convex Hull Solution
 	https://github.com/AbdelrahmanRamadan/competitive-programming/blob/master/Codeforces/101484-gym-E.cpp
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF101484-GYM-E.cpp
+		Nasser: basically we need to check if one of the polygons is the convex hull of both ( while processing colinear points in the hull), 
+			Another way to do it is point in convex polygon in log(n) but I got many WA's..either I can't implement it correctly or missing some case <.<
 
 2) Adhock/centroid
 	https://github.com/HosamEissa/Competitive-programming-/blob/master/Codeforces/CF101484-GYM-E.cpp
