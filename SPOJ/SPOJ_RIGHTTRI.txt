@@ -1,0 +1,7 @@
+Next 2 solutions of same idea and complexity O(N^2logn)
+
+A) https://github.com/osamahatem/CompetitiveProgramming/blob/master/SPOJ/RIGHTTRI.cpp
+	Easier code, but you will face precision problems
+
+B) No https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/SPOJ/SPOJ_RIGHTTRI.cpp
+	Little more code, no precision
