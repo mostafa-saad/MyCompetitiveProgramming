@@ -1,5 +1,5 @@
 
 https://github.com/OmarKharouba/CompetitiveProgramming/blob/master/UVA/v_123/UVA12300.java
 https://github.com/osamahatem/CompetitiveProgramming/blob/master/UVA/12300%20-%20Smallest%20Regular%20Polygon.cpp
-
+https://github.com/AbdelrahmanRamadan/competitive-programming/blob/master/UVA/12300-Smallest-Regular-Polygon.cpp
 
