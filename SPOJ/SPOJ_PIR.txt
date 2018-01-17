@@ -1,0 +1,8 @@
+Heron-type formula
+	One should try to solve first, then search for the frmual
+	https://github.com/osamahatem/CompetitiveProgramming/blob/master/SPOJ/PIR.cpp
+
+Useful links
+	http://mathforum.org/dr.math/faq/formulas/faq.irreg.tetrahedron.html
+	http://math.wikia.com/wiki/Heron%27s_formula
+	https://www.geeksforgeeks.org/determinant-of-a-matrix/
