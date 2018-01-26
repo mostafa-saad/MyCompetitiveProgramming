@@ -3,17 +3,20 @@ From chineese source: http://www.voidcn.com/article/p-zyichllk-co.html
 The most satisfying: Must pass two turning points, and 1 on 1 down.
 
 Proof (from black book):
-		If you do not pass any turning point, then you can make the light by moving it through at 
-			least one turning point, and x increases;
-		If you pass only one point, you can certainly make x grow by rotating the light through two points (one up and one down).
+===
+If you do not pass any turning point, then you can make the light by moving it through at 
+	least one turning point, and x increases;
+If you pass only one point, you can certainly make x grow by rotating the light through two points (one up and one down).
 
-		If you pass two of the same side (same as above or below), you must be able to make x increase by not 
-		passing through any points when translating.
+If you pass two of the same side (same as above or below), you must be able to make x increase by not 
+passing through any points when translating.
 
-		If you have the above property, you can enumerate each point up and down to form a ray, 
-			and then check whether the ray passes through the turning point (from left to right) until it can 
-			not pass a turning point (set as the mth point) -1, m to the pipe wall must have the point of intersection. 
-			Can find the intersection of x. Find the largest x can be:
+If you have the above property, you can enumerate each point up and down to form a ray, 
+	and then check whether the ray passes through the turning point (from left to right) until it can 
+	not pass a turning point (set as the mth point) -1, m to the pipe wall must have the point of intersection. 
+	Can find the intersection of x. Find the largest x can be:
+			
+==
 			
 #include <bits/stdc++.h>
 using namespace std;
