@@ -1,0 +1,111 @@
+==============
+From chineese source: http://www.voidcn.com/article/p-zyichllk-co.html
+The most satisfying: Must pass two turning points, and 1 on 1 down.
+
+Proof (from black book):
+		If you do not pass any turning point, then you can make the light by moving it through at 
+			least one turning point, and x increases;
+		If you pass only one point, you can certainly make x grow by rotating the light through two points (one up and one down).
+
+		If you pass two of the same side (same as above or below), you must be able to make x increase by not 
+		passing through any points when translating.
+
+		If you have the above property, you can enumerate each point up and down to form a ray, 
+			and then check whether the ray passes through the turning point (from left to right) until it can 
+			not pass a turning point (set as the mth point) -1, m to the pipe wall must have the point of intersection. 
+			Can find the intersection of x. Find the largest x can be:
+			
+#include <bits/stdc++.h>
+using namespace std;
+
+const int N=30;
+const double esp=1e-6;
+const int oo=1<<30;
+typedef struct {double x,y;}point;
+point up[N],down[N];
+double ans;
+
+int dblcmp(double x)
+{
+  if(fabs(x)<esp)
+    return 0;
+  return (x>0)?1:-1;
+}
+double crossleft(point a,point b,point c)
+{
+  double x1,x2,y1,y2;
+  x1=b.x-a.x,y1=b.y-a.y;
+  x2=c.x-a.x,y2=c.y-a.y;
+  return x1*y2-x2*y1;
+}
+double intersection(point a,point b,point c,point d)
+{
+  double k,s1,s2;
+  point ff,tt;
+  ff.x=b.x-(a.x-d.x);
+  ff.y=b.y-(a.y-d.y);
+  s1=crossleft(a,b,c);
+  s2=crossleft(d,ff,c);
+  k=s1/s2;
+  tt.x=c.x+k*(d.x-c.x);
+  return tt.x;
+}
+void have(int n)
+{
+  int i,j,k,s;
+  ans=-oo;
+  for(i=1;i<=n;i++)
+    for(j=1;j<=n;j++)
+    {
+      s=max(i,j);
+      for(k=1;k<=n;k++)
+        if( dblcmp( crossleft(up[i],down[j],up[k]) )* dblcmp( crossleft(up[i],down[j],down[k]) )>0 )
+          break;
+      if(k>s)
+      {
+        if(k>n)
+        {
+          printf("Through all the pipe.\n");
+          return;
+        }
+        double t;
+        if( dblcmp( crossleft(up[i],down[j],up[k-1]) )* dblcmp( crossleft(up[i],down[j],up[k]) )<0 )
+          t=intersection(up[i],down[j],up[k-1],up[k]);
+        else
+          t=intersection(up[i],down[j],down[k-1],down[k]);
+        if(ans<t)
+          ans=t;
+      }
+    }
+  printf("%.2lf\n",ans);
+}
+
+int main()
+{
+#ifndef ONLINE_JUDGE
+  freopen("test.txt", "rt", stdin);
+  //freopen("my.txt", "wt", stdout);
+#endif
+
+  int n;
+  while(scanf("%d",&n)!=EOF&&n)
+  {
+    for(int i=1;i<=n;i++)
+    {
+      scanf("%lf %lf",&up[i].x,&up[i].y);
+      down[i].x=up[i].x;
+      down[i].y=up[i].y-1;
+    }
+    have(n);
+  }
+  return 0;
+}
+
+
+			
+==============
+
+Other Web
+	https://github.com/Diusrex/UVA-Solutions/blob/master/303%20Pipe.cpp
+	https://github.com/morris821028/UVa/blob/master/temp/303%20-%20Pipe.cpp
+	
