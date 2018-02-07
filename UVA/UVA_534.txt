@@ -1,0 +1,2 @@
+https://github.com/magdy-hasan/competitive-programming/blob/master/uva-/uva%20534%20-%20Frogger.cpp
+https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/UVA/534.cpp
