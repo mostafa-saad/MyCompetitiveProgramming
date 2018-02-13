@@ -3,15 +3,9 @@ By Proving that if a polygon can be  bounded by a circle then there is a way to 
 with one of the verticies on the circle and vice versa
 And then proving if we can bound the polygon with 1 vertex on the circle then we can do it with 2 verticies on the circle
 and vice versa
-
 Solution:
 Loop through all pairs of vertecies.. construct a circle that touches them both with radius R.. (There may be more than
 one or non at all) and for each constructed circle check if all other points can be counded 
-===
-Some solutions are O(N^3)
-
-Michel solution is based on MEC
-===
 
 Solutions
 	https://github.com/OmarKharouba/CompetitiveProgramming/blob/master/UVA/v_100/UVa_10005.java		O(N^3)
@@ -22,8 +16,5 @@ Solutions
 	https://github.com/osamahatem/CompetitiveProgramming/blob/master/UVA/10005%20-%20Packing%20polygons.cpp		O(N^4)
 	
 	https://github.com/Diusrex/UVA-Solutions/blob/master/10005%20Packing%20polygons.cpp
-
-
-	https://github.com/MeGaCrazy/CompetitiveProgramming/blob/cd2e803105738fea77d60d2dba88bdf3174d7d14/UVA/UVA_10005.cpp	MEC
 
 	

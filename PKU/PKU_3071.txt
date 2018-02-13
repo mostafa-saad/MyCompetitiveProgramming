@@ -1,0 +1,6 @@
+https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/PKU/3071.cpp
+
+
+https://github.com/3agwa/CompetitiveProgramming/blob/master/PKU/PKU%203071.cpp
+	Shorter, table method, no editorial
+
