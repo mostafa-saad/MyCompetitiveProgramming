@@ -1,3 +1,7 @@
+Osama solutions (1, and simpler one)
+	https://github.com/osamahatem/CompetitiveProgramming/blob/master/UVA/303%20-%20Pipe.cpp
+	https://github.com/osamahatem/CompetitiveProgramming/blob/master/UVA/303%20-%20Pipe%20-%20simpler%20solve.cpp
+
 ==============
 From chineese source: http://www.voidcn.com/article/p-zyichllk-co.html
 The most satisfying: Must pass two turning points, and 1 on 1 down.
