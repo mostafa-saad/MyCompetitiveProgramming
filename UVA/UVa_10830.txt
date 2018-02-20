@@ -1,0 +1,19 @@
+See http://www.algorithmist.com/index.php/UVa_10830
+	Or its image: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/UVA/UVA_10830.png
+
+Mazen Magdy
+/**
+ * Answer is Summation from 2 to N of (floor(N / i) - 1) * i.
+ * the value floor(N / i) - 1 is repeated for a-lot of values
+ * so we calculate the length of the repeated values and
+ * multiply it and sum to the answer.
+ */
+
+Equation
+	https://github.com/magdy-hasan/competitive-programming/blob/master/uva-/uva%2010830%20-%20A%20New%20Function.cpp
+	https://github.com/rezwan4029/UVA-CODES/blob/master/10830%20-%20A%20New%20Function.cpp
+	https://github.com/TheRealImaginary/CompetitiveProgramming/blob/master/UVA/UVA_10830_ANewFunction.java
+	https://github.com/Serchinastico/UVa/blob/master/10830.cpp
+
+Binary Search
+	https://github.com/morris821028/UVa/blob/master/volume108/10830%20-%20A%20New%20Function.cpp
