@@ -1,0 +1,7 @@
+Not sure which link is the easiest, but sure not the last
+
+https://github.com/MeGaCrazy/CompetitiveProgramming/blob/1a5a9980507fea4bbab22f7f3dd12e85eaa21099/UVA/UVA_1643.cpp
+
+https://github.com/OmarKharouba/CompetitiveProgramming/blob/master/UVA/v_016/UVA1643.java
+
+http://qkxue.net/info/32768/UVa-Angle-and-Squares-1643
