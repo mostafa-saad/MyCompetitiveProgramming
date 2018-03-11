@@ -1,0 +1,14 @@
+Topic: Graph Theory
+
+Algorithm: BFS
+
+Suppose the mouse will escape from cell (i,j) at time T (T starts from 0), then this is only possible if none of the cats can reach this cell before than or equal to T, because otherwise, the cat would eat the mouse. Since we are always trying to get there as fast as possible, T here is equal to the minimum number of steps.
+
+Using this idea, the idea is getting all distances from the mouse, and the two cats to every grid corner, and checking if the mouse can reach it in strictly less number of steps.
+
+Since the graph is unweighted, 3 BFS's are enough.
+
+
+Code for reference : https://github.com/MedoN11/CompetitiveProgramming/blob/master/SPOJ/CATM.cpp
+
+Done by : Medo Nasser

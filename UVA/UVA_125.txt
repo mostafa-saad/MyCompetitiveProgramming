@@ -1,0 +1,20 @@
+Topic: Graph Theory Shortest paths
+
+Algorithm: Floyd
+
+Problem can be rephrased simply as given a directed graph, for each two nodes print the number
+of paths between them. If infinitely many paths exists, print -1.
+
+The key idea to solving this problem is by applying a modification to floyd warshall. Good understanding of floyd is required. In a regular floyd shortest paths, the algorithm looks as follows :
+floyd[i][j] = min(floyd[i][j],floyd[i][k] + floyd[k][j])
+
+To count paths we do the following change:
+floyd[i][j] += floyd[i][k] * floyd[k][j] where k here stands for a node that lies in the path between them.
+
+Every path added is unique because each time we are adding a unique node. ( iterating from 1 to k) in the outermost loop.
+
+To deal with infinite cycles, a node lies in a cycle if it goes to itself (floyd[i][i] is greater than zero).
+So we can rerun an iteration of floyd with this node i as the intermediate k, and set every two nodes it connects to -1.
+Code for reference which implements the same idea :https://github.com/ajahuang/UVa/blob/master/UVa%20125%20-%20Numbering%20Paths.cpp
+
+Done by : Medo Nasser
