@@ -1,0 +1,12 @@
+Same as: Timus 1234, POJ 2172 
+
+http://www.cnblogs.com/Wiki-ki/archive/2012/08/03/2622202.html
+	Translation: The abstraction of these two questions is to determine whether a rectangle of length and breadth A and B can be placed in the rectangle of length and width C and D. This is a pure mathematics topic. The schematic diagram is as follows: Suddenly found that the map is getting bigger, regardless of the calculation, all the above quantities can be calculated in turn, of course, prior to the determination of A <D when the output NO, and then as long as B * cosa + A * sina <= E, then output YES, Otherwise, you can output NO.
+
+https://github.com/Otrebus/timus/blob/master/1234.cpp
+http://xoptutorials.com/index.php/2017/01/01/timus1234/
+
+Timus Discussion: http://acm.timus.ru/forum/?space=1&num=1234
+
+
+Pascal Solution from judge (problem b): https://neerc.ifmo.ru/archive/2002.html

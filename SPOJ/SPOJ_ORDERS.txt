@@ -3,6 +3,7 @@ This problem can be tackled in several ways, please study.
 *) Segment Tree
 	https://github.com/MichaelMounir12/CompetitiveProgramming/blob/6d54cd606f09d3bc924db4872f0946c50f4ba535/SPOJ/SPOJ_ORDERS.cpp
 	https://www.quora.com/What-are-the-ways-to-solve-this-spoj-problem-SPOJ-com-Problem-ORDERS
+	https://github.com/VAMPIER000001/CompetitiveProgramming/blob/master/Spoj/SPOJ%20ORDERS.Cpp
 
 	https://github.com/cacophonix/SPOJ/blob/master/ORDERS.cpp
 	https://github.com/RohitJV/SPOJ/blob/master/orders.cpp
