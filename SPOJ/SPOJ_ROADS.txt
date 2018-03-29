@@ -1,0 +1,5 @@
+Dijkstra
+	https://github.com/VAMPIER000001/CompetitiveProgramming/blob/master/Spoj/SPOJ%20ROADS(dijkstra).Cpp
+
+DP
+	https://github.com/VAMPIER000001/CompetitiveProgramming/blob/a617c3c50009634924600549a1b1bfcca958d9ee/Spoj/SPOJ%20ROADS(dp).Cpp
