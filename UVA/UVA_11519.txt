@@ -1,0 +1,2 @@
+https://github.com/Maverick10/Competitive-Programming/blob/master/Solutions/UVa/UVa%20-%2011519.cpp
+https://github.com/osamahatem/CompetitiveProgramming/blob/master/UVA/11519%20-%20Logo%202.cpp

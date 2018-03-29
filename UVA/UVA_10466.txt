@@ -1,0 +1,2 @@
+https://github.com/Maverick10/Competitive-Programming/blob/master/Solutions/UVa/UVa%20-%2010466.cpp
+https://github.com/magdy-hasan/competitive-programming/blob/master/uva-/uva%2010991%20-%20Region.cpp
