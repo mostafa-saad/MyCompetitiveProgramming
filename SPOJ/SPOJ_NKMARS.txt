@@ -1,0 +1,14 @@
+Make sure your code handles this case:
+
+3  
+10 10 20 20  
+15 15 25 30  
+9 10 10 20
+
+Answer should be: 235
+
+
+O(N^2) Correct code: https://github.com/MNT95/Competitive-Programming/blob/master/SPOJ/Line%20Sweep/NKMARS.cpp
+
+The following is like my video one, seems missing a case (For UVA 688 code)
+https://github.com/magdy-hasan/competitive-programming/blob/master/uva-/uva%20688%20-%20Mobile%20Phone%20Coverage.cpp
