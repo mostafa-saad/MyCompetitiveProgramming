@@ -1,0 +1,15 @@
+https://github.com/AbdelrahmanRamadan/competitive-programming/blob/master/UVA/10250-The-Other-Two-Trees.cpp
+
+===
+http://www.questtosolve.com/browse.php?pid=10250
+
+With a bit of math, you can prove that the four trees are the vertices of a square, and the two trees you're given are from opposite corners. So the problem is to find the other two corners.
+
+I'm not the most elegant with geometry in general, but I think this method is pretty good.
+
+Let (mx,my) be the midpoint of the line connecting (x1,y1) and (x2,y2).
+
+Let dx = (mx-x1)
+Let dy = (my-y1)
+
+The other two corners are (mx-dy, my+dx) and (mx+dy, my-dx).
