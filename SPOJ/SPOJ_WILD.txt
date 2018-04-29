@@ -1,0 +1,3 @@
+https://github.com/osamahatem/CompetitiveProgramming/blob/master/SPOJ/WILD%20-%20set.cpp
+
+https://github.com/osamahatem/CompetitiveProgramming/blob/master/SPOJ/WILD.cpp
