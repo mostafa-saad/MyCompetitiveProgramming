@@ -111,6 +111,8 @@ int main()
 
 			
 ==============
+https://github.com/osamahatem/CompetitiveProgramming/blob/master/UVA/303%20-%20Pipe.cpp
+https://github.com/osamahatem/CompetitiveProgramming/blob/master/UVA/303%20-%20Pipe%20-%20simpler%20solve.cpp
 
 Other Web
 	https://github.com/Diusrex/UVA-Solutions/blob/master/303%20Pipe.cpp
