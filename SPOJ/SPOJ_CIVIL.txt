@@ -1,0 +1,6 @@
+Ternary - Integration
+	https://github.com/osamahatem/CompetitiveProgramming/blob/master/SPOJ/CIVIL%20-%20ternary%20search%20%2B%20integration.cpp
+	
+Formula
+	Osama: same idea as the other solution, but got rid of the ternary search by derivating the cost function and equating it to zero instead, which also cancelled out the integral from the other solution. i still needed the formula i looked up online for curve length though.
+		https://github.com/osamahatem/CompetitiveProgramming/blob/master/SPOJ/CIVIL%20-%20formula.cpp

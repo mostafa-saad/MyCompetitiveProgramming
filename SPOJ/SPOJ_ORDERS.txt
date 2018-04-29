@@ -15,6 +15,9 @@ This problem can be tackled in several ways, please study.
 	https://github.com/pushkarmishra/SPOJ/blob/master/ORDERS.cpp
 	https://github.com/vfonic/SPOJ/blob/master/orders.cpp
 
+*) Treaps
+	https://github.com/Alimagde/CompitativeProgramming/blob/master/SPOJ/SPOJORDERS.cpp
+
 Similar problems: SPOJ QUE2
 
 Note for my self:
