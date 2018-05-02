@@ -1,3 +1,5 @@
 http://codeforces.com/blog/entry/7566
 
 https://ideone.com/xMKDMW
+
+https://github.com/OmarHashim/Competitive-Programming/blob/master/UVA/11354.cpp

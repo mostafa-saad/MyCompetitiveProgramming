@@ -1,4 +1,7 @@
 https://github.com/3agwa/CompetitiveProgramming/blob/master/LiveArchive/LIVEARCHIVE%205108.cpp
 
+Based on shoelace-formula [learn]
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/LiveArchive/5108.cpp
+
 Mo-Based algorthim, is that overestimation?
 	https://github.com/Maverick10/Competitive-Programming/blob/master/Solutions/Live%20Archive/LA%20-%205108.cpp
