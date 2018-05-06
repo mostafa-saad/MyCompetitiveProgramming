@@ -1,0 +1,6 @@
+To solve it one needs to understand the proof of Cayley's formula for the number of the labeled trees (n^n-2).
+
+Because for any undirected graph, we can compress its biconnected component, thus we obtain a tree ... So the solution can be stated as count number of labeled trees such that each of its "nodes" is a labeled bi connected component
+
+
+Noureldin Yousri

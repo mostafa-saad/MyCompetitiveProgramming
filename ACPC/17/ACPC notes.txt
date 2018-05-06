@@ -1,0 +1,30 @@
+A. Count the Graphs: Hussain Kara Fallah		Div1-E DP
+B. Game of Nim Everywhere: Noureldin Yosri		Medium		obseration/DP/combinatorics
+C. FIFA World Cup: Noureldin Yosri				Medium		Greedy
+D. Crazy LCP: Badry Atef						
+E. This Means War: Noureldin Yosri				Div2-E		Dynamic convex hull, DP
+F. The Walking Adam: Ahmed Aly					ACE
+G. Darts Game: Ahmed Aly						Div2-E		Circle Sweep algorithm / Easy idea / tough impl
+H. Stock Exchange: Islam Al-Aarag				Medium		Greedy	Needs validator for floats
+I. Winter is Here: Badry Atef					Div1-D		dsu on trees + segment trees (Reasonable idea / Impl is the hard part)
+J. Array Queries: Hussain Kara Fallah			Div2-E 		Segment Tree (teams don't try, though doable)
+K. Duplicate Files: Ahmed Aly					ACE
+=============
+- K/F: 2 ACE (So Easy/impl) problems
+- H/B/C: Medium problems. H/C are greedy and B needed some obseration to reduce to DP/combinatorics. Level opinions vary from Div2-C to Div2-D
+- D: needed Trie + Mo (or segment tree). Its level is like Div2-E problem. Opinion: Something wrong for this problem from judges side as many solutions should be TLEd.
+Hard Problems (Div2-E level)
+- J: segment tree with few observations. Weird that many teams did not solve. Not that hard.
+- E: Dynamic convex hull, DP
+- G: Circle Sweep algorithm. (Reasonable idea / Impl is the hard part)
+Very Hard Problems
+- I: (Div1-D) dsu on trees + segment trees (Reasonable idea / Impl is the hard part)
+- A: (Div1-E) DP
+
+General notes:
+- Common reported issue after the easiest 5 problems: "difficulty curve was not smooth; a lot of teams solved the same number of problems and were only differentiated by penalty, even in the top spots"
+- Overall level, like ECPC, is harder than last ACPC.
+- J solved by Ossama team. 
+- A/G not solved by any teams. Many tried in G but with several wrong answers
+- Good Quality / Interesting problems
+- A is really the challenging idea problem, but others are more of reduce to problem / hard impl / handle cases

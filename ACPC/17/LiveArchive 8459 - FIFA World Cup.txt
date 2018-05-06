@@ -1,0 +1,10 @@
+Let's consider each team separately. For a team to qualify, the number of other
+teams with strictly higher score must be at most one, otherwise that team will
+not have a score equal to one of the teams in the top two positions.
+
+We first see which matches are remaining in the last round. This can be easily
+done using a 2D boolean array. We make the team we're considering win his game,
+and for other games we calculate the outcome of all three possible scenarios
+(win, lose, and draw), and pick the outcome that minimises the number of teams
+in that game ending with strictly higher score. If the total number of such
+teams exceeds one, the current team cannot qualify.

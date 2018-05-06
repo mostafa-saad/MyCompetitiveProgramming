@@ -1,0 +1,51 @@
+Problem:
+The problem is a game of nim of 3 piles of size {N,2*N,3*N}, and we want to count the number of winning positions between [L,R].
+
+Solution:
+In nim, to check if a game in a winning state or not, it is sufficient to check the xor of sizes of all piles, if it is non-zero then the game is in winning state,
+so here we want to count all numbers N such that N ^ 2N ^ 3N is non-zero,
+
+2N is just N shifted left by one position, and 3N can be viewed as (N + (N<<1)), 
+so we want to count number of N such that N xored with N shifted left by one xored with summation of those two to be equal non-zero.
+
+let's get through bits from right to left, we can take observations by case analysis:
+1- If we counter a bit 0 (with no previous ones), N ^ 2N ^ 3N will be zero
+2- If we counted a bit 1 for the first time, then: N ^ 2N ^ 3N for current bit will be zero (but notice that there will be one in next bit of 2N)
+	N  = 010
+	2N = 100
+	---------
+	3N = 110
+	---------
+	xor	 000
+3- If the bit followed by first one is zero, N ^ 2N ^ 3N will be also zero (see third bit from the left in the previous example), and then we got back to case 1 because no of the current bits will have effect on next bits
+4- If the bit followed by first one is one, and then by other one, the xor will be one as in the following case:
+	N  = x1110
+	2N = 11100
+	----------
+	3N = x1010
+	----------
+	xor	 x1000
+5- If the bit followed by first one is zero then zero, it wlil also have xor one as in the following case:
+	N  = x10110
+	2N = x01100
+	------------
+	3N = x00010 
+	------------
+	xor	 x10000
+6- If the bit followed by first oe is zero then one, it wlil also have xor one as in the following case:
+	N  = 00110
+	2N = 01100
+	----------
+	3N = 10010
+	----------
+	xor	 10000
+		 
+
+We can notice that N ^ 2N ^ 3N gives non-zero value if and only if there is two consecutive ones in its binary representation
+
+so we can now do a DP that solves how many number less than or equal N that have two consecutive ones in binary representation, and total answer will be solve(R) - solve(L-1)
+
+the state of the DP is just the number of the current bit to process, and whether the prefix of the bits processed so far is equal to prefix of N or not
+
+
+Osama Hatem
