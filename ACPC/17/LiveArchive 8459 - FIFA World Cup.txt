@@ -8,3 +8,5 @@ and for other games we calculate the outcome of all three possible scenarios
 (win, lose, and draw), and pick the outcome that minimises the number of teams
 in that game ending with strictly higher score. If the total number of such
 teams exceeds one, the current team cannot qualify.
+
+Osama Hatem
