@@ -1,8 +1,8 @@
-1- Iterative deepening depth-first searc (Call DFS multiple times, but with limited depth - See wiki)
+1- Iterative deepening depth-first search (Call DFS multiple times, but with limited depth - See wiki)
 	https://github.com/AhmedRamadanAbdElghany/CompetitiveProgramming/blob/master/UVA/UVA%20529.cpp
 
 
-2- Backtrack with heavy pruning/heuristics
+2- Backtrack with pruning/heuristics
 	https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/UVA/529.cpp
 
 
