@@ -1,0 +1,18 @@
+========================
+D&C and are more frequent than Knuth. Knuth is Not frequent so far
+
+
+Divide and Conquer Optimization
+	https://elevencompetingnodes.quora.com/DP-Divide-and-Conquer-Optimization
+	https://www.quora.com/What-is-divide-and-conquer-optimization-in-dynamic-programming
+	As far as I remember: DP Chapter in Algorithm Design by Jon Kleinberg
+	
+Convex Hull
+	https://wcipeg.com/wiki/Convex_hull_trick
+
+Knuth
+	https://www.quora.com/What-is-Knuths-optimization-in-dynamic-programming
+
+
+Convex Hull, Divide and Conquer, Knuth Optimizations summary: http://codeforces.com/blog/entry/8219
+========================

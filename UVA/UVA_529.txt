@@ -1,6 +1,7 @@
 1- Iterative deepening depth-first search (Call DFS multiple times, but with limited depth - See wiki)
 	https://github.com/AhmedRamadanAbdElghany/CompetitiveProgramming/blob/master/UVA/UVA%20529.cpp
 	https://github.com/timpostuvan/CompetitiveProgramming/blob/master/UVA/529.cpp
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/UVA/UVA_529.cpp
 
 
 2- Backtrack with pruning/heuristics
