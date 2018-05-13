@@ -1,7 +1,7 @@
 This is the EGGs puzzle. It was popular in the past, due to Google interviews for case eggs=2
 
-Here are some related tutorial: 
-	https://brilliant.org/wiki/egg-dropping
+Tutorial (Study all): https://brilliant.org/wiki/egg-dropping
+	You may go directly to solutions below first.
 
 ====
 Solutions with Editorials below:
