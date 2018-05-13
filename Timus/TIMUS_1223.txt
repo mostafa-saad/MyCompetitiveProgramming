@@ -4,6 +4,8 @@ Here are some related tutorial:
 	https://brilliant.org/wiki/egg-dropping
 
 ====
+Solutions with Editorials below:
+
 DP Solution
 	https://github.com/Otrebus/timus/blob/master/1223.cpp
 	
