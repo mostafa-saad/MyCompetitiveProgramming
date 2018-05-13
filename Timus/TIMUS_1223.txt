@@ -1,0 +1,13 @@
+This is the EGGs puzzle. It was popular in the past, due to Google interviews for case eggs=2
+
+Here are some related tutorial: 
+
+
+DP Solution
+	
+Binary Search Solution
+	https://github.com/arvindr9/CompetitiveProgramming/blob/master/Timus/TIMUS%201223.cpp
+
+
+Same version but tough constraints: SPOJ NPC2015E
+	Discussion: http://codeforces.com/blog/entry/47686
