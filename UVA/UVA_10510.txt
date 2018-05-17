@@ -1,0 +1,7 @@
+Background
+	At some time, there were several Cactus based problems in ICPC and Japanian OI. 
+	Right now, kind of out-dated topic, but much fun & benifical to solve
+	
+https://github.com/achrafmam2/CompetitiveProgramming/blob/master/UVA/10510.cc
+https://ideone.com/RKxn1t
+https://github.com/godely/Problems/blob/master/UVa/10510.cpp
