@@ -1,0 +1,7 @@
+
+1) Analytical Solution
+	https://github.com/marioyc/Online-Judge-Solutions/blob/master/UVA/Contest%20Volumes/11648%20-%20Divide%20The%20Land.cpp
+	https://github.com/yulonglong/UVa-Solutions/blob/master/11648.cpp
+	
+2) trapezoid formula, binary search
+	https://github.com/ryuzmukhametov/CompetitiveProgramming/blob/master/uva/UVA%2011648.cpp
