@@ -1,0 +1,7 @@
+Can be solved in 2 ways:
+
+DP
+	https://github.com/BRAINOOOO/CompetitiveProgramming/blob/master/Poj/PKU%202374.Cpp
+	
+Segment Tree with DP
+	https://github.com/OmarAhmedSaleh/competitive-programming/blob/master/poj/2374-Fence%20Obstacle%20Course.cpp
