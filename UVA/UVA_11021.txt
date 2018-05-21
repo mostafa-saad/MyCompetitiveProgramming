@@ -1,0 +1,2 @@
+https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/11021%20-%20Tribles.cpp
+https://github.com/BRAINOOO/CompetitiveProgramming/blob/master/UVA/V-110/UVA%2011021.cpp
