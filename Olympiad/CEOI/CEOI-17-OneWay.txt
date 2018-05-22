@@ -1,0 +1,6 @@
+Dsu, Briges Sol
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/17-OneWay.cpp
+	
+SCC/LCA Sol
+	https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/CEOI/OneWayStreets2017.cpp
+

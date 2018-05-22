@@ -21,8 +21,11 @@ TIMUS_1223
 		
 	====
 
-Same version but tough constraints: SPOJ NPC2015E
+Same version but tough constraints/strict time limit: SPOJ NPC2015E
+	Be careful from integer overflow
+	
 	Discussion: http://codeforces.com/blog/entry/47686
 
 	Binary Search: 
 		https://github.com/arvindr9/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20NPC2015E.cpp
+		https://github.com/achrafmam2/CompetitiveProgramming/blob/master/SPOJ/NPC2015E.cc
