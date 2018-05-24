@@ -1,0 +1,8 @@
+This is a Cannical Form problem. When you have to compare objects (e.g. strings, trees, et), one way is to canonicalize
+each one of them. Then comparison is trivial. Sorting will typically be involved.
+
+Solution: 
+	https://github.com/Huvok/CompetitiveProgramming/blob/master/LiveArchive/2935.cpp
+
+Arabian Editorials if can't get solution: 
+	https://youtu.be/RASvnfG2SSE?t=734
