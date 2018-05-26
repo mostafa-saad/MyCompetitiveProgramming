@@ -1,0 +1,5 @@
+DFS based sol (Arabic) video
+	https://www.youtube.com/watch?v=86oGEiHeDO0
+
+Pattern based
+	https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/10368%20-%20Euclid's%20Game.cpp
