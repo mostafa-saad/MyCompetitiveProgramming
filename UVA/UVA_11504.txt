@@ -3,5 +3,7 @@
 	https://github.com/ajahuang/UVa/blob/master/UVa%2011504%20-%20Dominos.cpp
 
 2) Using SCC
-	https://github.com/yelghareeb/UVA-solutions/blob/master/UVA%2011504%20-%20Dominos.cpp
 	https://github.com/AymanSalah96/CompetitiveProgramming/blob/master/UVA/11504.cpp
+	https://github.com/BRAINOOOO/CompetitiveProgramming/blob/master/UVA/V-115/UVA%2011504.Cpp
+	https://github.com/yelghareeb/UVA-solutions/blob/master/UVA%2011504%20-%20Dominos.cpp
+	
