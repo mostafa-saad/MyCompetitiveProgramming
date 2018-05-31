@@ -1,0 +1,2 @@
+https://www.quora.com/How-do-I-solve-MCAMP-SPOJ
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IZHO/14-Divide.cpp
