@@ -1,0 +1,8 @@
+binary indexed tree, dfs
+	Much simpler solution that relies on more observations. Although it has the same time and memory complexities, the constant factors are much smaller.
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/13OC-Synchronization(2).cpp
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/13OC-Synchronization(1).cpp
+	
+centroid-decomposition, segment tree
+	I didn't expect centroid decomposition to be in this problem. Although this problem is interesting in the use of centroid decomposition, the use of persistent segment trees for dp, and the use of mergeable segment trees for dp, it is very hard to implement. I still found it fun :) However, I found several other codes that are much shorter and don't run close to the TL. My memory usage is also not the best.
+	
