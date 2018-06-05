@@ -1,0 +1,15 @@
+Using STL
+	multiset:  (Find it if is not your solution)
+		https://github.com/magdy-hasan/competitive-programming/blob/master/uva-/uva%20501%20-%20Black%20Box.cpp
+		https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/501%20-%20Black%20Box%20-%20Multiset%20solution.cpp
+		https://github.com/ksaveljev/UVa-online-judge/blob/master/501.cpp
+		https://github.com/yulonglong/UVa-Solutions/blob/master/501.cpp	[vectors]
+		
+		
+	Priority queues
+		https://github.com/morris821028/UVa/blob/master/volume005/501%20-%20Black%20Box.cpp
+		https://github.com/raiso717/code/blob/master/uva-501.cpp	[queues]
+
+Using Segment Tree
+	https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/501%20-%20Black%20Box%20-%20Segment%20tree%20solution.cpp
+	
