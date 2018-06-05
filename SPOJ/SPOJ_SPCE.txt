@@ -1,0 +1,5 @@
+You could solve based on observation:
+	https://github.com/YazanRi/CompetitiveProgramming/blob/master/SPOJ/SPCE.cpp
+	
+Write a prove to it
+	proof is an extension of the Cayley's formula
