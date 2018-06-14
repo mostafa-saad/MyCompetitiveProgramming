@@ -1,0 +1,2 @@
+https://github.com/abdullaAshraf/Problem-Solving/blob/master/UVA/12124.cpp
+https://github.com/ilyesG/Competitive-Programming/blob/master/UVA/UVA%2012124.cpp
