@@ -1,0 +1,5 @@
+DP/Tree Solution
+	https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/Balkan/CityAttractions2017.cpp
+	
+Segment Tree
+	https://github.com/updown2/OI-Practice/blob/master/BOI%20(Balkan)/2017/City%20Attractions.cpp
