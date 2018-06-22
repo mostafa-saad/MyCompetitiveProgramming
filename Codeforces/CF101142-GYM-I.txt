@@ -1,4 +1,5 @@
 shoelace formula
 	https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF101142-GYM-I.cpp
 	
+https://github.com/MeGaCrazy/CompetitiveProgramming/blob/667eb77c9798ed279c78920ca34d2303340f9dc9/Codeforces/CF101142-GYM-I.cpp
 https://github.com/hashemsellat/CompetitiveProgramming/blob/master/Codeforces/CF101142-GYM-I.cpp

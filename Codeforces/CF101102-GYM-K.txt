@@ -1,0 +1,5 @@
+DFS
+	https://github.com/osamahatem/CompetitiveProgramming/blob/master/Codeforces/101102K.%20Topological%20Sort.cpp
+
+Segment Tree to speed topo
+	https://github.com/shanto86/Training/blob/master/CodeForces/CF-101102-GYM-K.cpp
