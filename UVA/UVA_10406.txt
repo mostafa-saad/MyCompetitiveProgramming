@@ -1,0 +1,2 @@
+https://github.com/Emsawy/CompetitiveProgramming/blob/master/UVA/10406.cpp
+https://github.com/MeGaCrazy/CompetitiveProgramming/blob/b848636573830c28c5d431db9d639f2c5472c08d/UVA/UVA_10406.cpp
