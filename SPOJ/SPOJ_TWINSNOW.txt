@@ -1,0 +1,2 @@
+This is a practice on canonical form.
+	https://github.com/t3nsor/SPOJ/blob/master/twinsnow.cpp
