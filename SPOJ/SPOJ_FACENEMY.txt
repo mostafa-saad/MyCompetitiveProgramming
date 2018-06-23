@@ -1,0 +1,13 @@
+By Khaled Kee 
+Calculate the non-reflex angle between the 2 vectors (Heroine-Hero) and (u1,v1 - Hero), then calculate the non-reflex angle between the 2 vectors (Hero-Heroine) and (u2,v2 - Heroine), finally find the smallest or state if they are equal.
+
+Code linK: http://ideone.com/AY5Z5w
+
+More technical details: 
+- non-reflex angle is the one with value not more than PI or 180 degree. For a reflex angle the opposite of it (2*PI-angle) is non-reflex.
+- Because we've angles which have very very small value we have to use small epsilon when comparing the difference between them with zero. I used 1e-15 because ba4mohandes Mohamed Yasser used it in ICPC 2016 problem G which also required comparing angles.
+
+Discussion:
+Mohamed Emad Emsawy Khaled Kee momken twada7 ezay 7sabt el angle bean 2 vectors. ana 7sbtha bl dot product w btgeab WA !.
+Khaled Kee: بـatan2 لكل vector و أطرحهم من بعض. أعتقد المشكلة عندك precision مش مشكلة فكرة
+و كمان أنت بتـcompare الـdot product ذات نفسه ولا بتجيب الـangle من الـdot product؟! لو بتقارن بالـdot product ذات نفسه فده مش تمام لأن كدة بتاخد الـmagnitude فى الحسبان!
