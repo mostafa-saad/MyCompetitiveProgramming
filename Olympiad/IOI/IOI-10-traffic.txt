@@ -1,0 +1,5 @@
+dp, tree
+	https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/TrafficCongestion2010.cpp
+
+segment tree
+	https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202010/Traffic.cpp
