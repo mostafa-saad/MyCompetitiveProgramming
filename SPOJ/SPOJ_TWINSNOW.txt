@@ -1,2 +1,20 @@
-This is a practice on canonical form.
+Lots of people say the text is unclear or the logic is wrong.
+	Please, read problem, comments, revise problem text again. Seems also image is src of confusion
+	
+	Don't spend much time thinking about it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is kind of canonical form problem. When you want to compare things, canonical form comes to mind (e.g. trees isomorphism problem)
 	https://github.com/t3nsor/SPOJ/blob/master/twinsnow.cpp
+	https://github.com/Youssef-Abdel-Meguid/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20TWINSNOW.cpp
