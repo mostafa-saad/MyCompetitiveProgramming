@@ -1,0 +1,29 @@
+The problem can be thought of as follows. Given a permutation of N numbers. Find all possible grouping but none of the groups should be empty, and you may not use all numbers.
+
+For example a possible grouping for n = 4 is (4,3) (2) (1)
+
+Notice that N is small so you could enumerate all possible ways by DP.
+
+How to do so ? Use a bit-mask as your state where the ith bit is set to 0 if the ith number was used in a previous group.
+
+At every state, try all possible masks for a current group. If they are valid, meaning, all numbers are not used, and it is not empty, you recurse further.
+
+Base case when all numbers are used. ( Note since every group must be non-empty each time we use at least one number so our recursion must end).
+
+Code : https://github.com/MedoN11/CompetitiveProgramming/blob/master/LiveArchive/3498.cpp
+
+In this code (msk & i == i) is quick way way to check if a mask is valid.
+
+Note :
+
+The first approach is easier to understand and code, but notice that you don’t care about which number is used, instead you worry about how many numbers can be used, so you could just do it by a dfs by keep tracking of “free” numbers and using factorials. The depth in this case will be at most n.
+
+This trick is nice, and sometimes appears in many counting problems where you must use it as bitmask would TLE. Try to understand it, and let me know if you have any questions or need help.
+
+Code: https://github.com/marioyc/Online-Judge-Solutions/blob/master/Live%20Archive/3498%20-%20Push%20Button%20Lock.cpp
+
+I have also put the second solution here: https://github.com/MedoN11/CompetitiveProgramming/blob/master/LiveArchive/3498-V2.cpp
+
+By Mohamed Nasser Aly 
+ 
+ 
