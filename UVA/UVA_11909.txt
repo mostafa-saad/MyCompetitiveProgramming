@@ -15,6 +15,6 @@ Answer of the second case is vol2
 
 Then just Apply it on 3D.
 
-See UVA_1990
+See https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/UVA/UVA_11909.jpg
 
 https://github.com/Emsawy/CompetitiveProgramming/blob/master/UVA/11909.cpp
