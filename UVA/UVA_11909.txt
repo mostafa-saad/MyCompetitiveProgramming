@@ -1,0 +1,20 @@
+By Mohamed Emad Emsawy 
+
+First, consider the shape as a 2D shape with length l and height h. Get the angle (A) which make by the diagonal of the 2D shape. The angle of the top edge (l) and the remaining milk is equal to the given angle (theta) . 
+
+Will appear two cases.
+First : if the given angle (theta) is smaller than or equal A.
+Second : if the given angle is bigger than A. 
+
+For each case will appear a triangle which will use it with the answer.
+First case triangle is the lost volume (vol1) with angle (A) and sides (l and part of h)
+Second case triangle is the remaining volume (vol2) with angle (90 - (theta - A)) and sides (h and part of l)
+
+Answer of the first case is (l * h) - vol1.
+Answer of the second case is vol2
+
+Then just Apply it on 3D.
+
+See UVA_1990
+
+https://github.com/Emsawy/CompetitiveProgramming/blob/master/UVA/11909.cpp
