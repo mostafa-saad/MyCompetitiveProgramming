@@ -1,0 +1,16 @@
+Problem Desc
+فيه 3 مراقبين A,B,C مصفوفين عخط واحد وكل تنين ورا بعض بيبعدو عن بعض مسافة D ومع كل واحد جهاز قياس بيرتفع ارتفاع H عن سطح الارض , و فيه نقطة بفضاء 3D .. بيعطيك الزاوية الي بشكلها كل جهاز مع النقطة والمستوي الموازي لسطح الارض
+,المطلوب حساب ارتفاع النقطة عن سطح الارض
+
+
+Three observation points with the same height are collinear, the distance between them is equal, the distance between observation points is d, the height of three observation points is h, and the elevation angle when viewing is α, β, γ, find the height of the rocket.
+
+==========
+
+Background reading: Midline Theorem / parallelogram law
+
+
+https://wcr1996.com/2016/09/25/uva-1333-model-rocket-height/
+
+==========
+
