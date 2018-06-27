@@ -1,0 +1,2 @@
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/13-Board.cpp
+https://github.com/updown2/OI-Practice/blob/master/CEOI/2013/Board.cpp
