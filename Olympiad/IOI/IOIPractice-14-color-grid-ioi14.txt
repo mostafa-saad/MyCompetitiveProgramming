@@ -1,0 +1,4 @@
+constrains is not mentioned :(
+
+https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202014/Color%20Grid%20%5BPractice%5D.cpp
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/ColorGridPractice2014.cpp
