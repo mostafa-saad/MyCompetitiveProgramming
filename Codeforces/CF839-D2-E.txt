@@ -1,0 +1,8 @@
+meet in middle / dp
+	As in editorial http://codeforces.com/contest/839/submission/29412249
+	
+Bron–Kerbosch algorithm 
+	http://codeforces.com/contest/839/submission/29466499
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF839-D2-E.java
+	
+	
