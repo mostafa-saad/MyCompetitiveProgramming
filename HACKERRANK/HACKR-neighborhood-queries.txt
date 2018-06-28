@@ -1,0 +1,5 @@
+centroid decomposition, parallel binary search, binary indexed tree, lca  (editorial)
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/HackerRank/neighborhood-queries(1).cpp
+	
+persistent segment tree, centroid decomposition, binary search
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/HackerRank/neighborhood-queries(2).cpp
