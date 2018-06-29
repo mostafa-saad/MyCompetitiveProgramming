@@ -5,6 +5,8 @@
 // most people handle "next greater element" part using a simple datastructures such as Stack or Prioirty Queue
 // For priority based solution, See: https://github.com/yelghareeb/problem_solving/blob/master/SPOJ/SPOJ%20FSEQ.cpp
 // For stack explantation for "next greater element", See: http://www.geeksforgeeks.org/next-greater-element/
+// Others:
+	// https://github.com/abdullaAshraf/Problem-Solving/blob/master/SPOJ/FSEQ
 
 // The first equation is not given in a straightforward way.
 // Then naturally you should try to arrange in a better format, or even simulate and detect the pattern
@@ -26,7 +28,7 @@
 
 // Last part is trivial, we need to compute length of each position. This is a simple linear DP
 
-// Overall, this is an example problem = combinations of sub-problems. One can decompose and tackle each part reasonably
+// Overall, this is an example problem = combinations of easy sub-problems. One can decompose and tackle each part reasonably
 
 
 #include<cassert>
