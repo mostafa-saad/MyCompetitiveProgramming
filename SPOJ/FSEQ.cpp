@@ -3,7 +3,9 @@
 // Author and chief judge is Mostafa Saad Ibrahim
 // This solution is based on segment tree. However, naturally, 
 // most people handle "next greater element" part using a simple datastructures such as Stack or Prioirty Queue
-// For priority based solution, See: https://github.com/yelghareeb/problem_solving/blob/master/SPOJ/SPOJ%20FSEQ.cpp
+// For priority based solution, 
+	// https://github.com/yelghareeb/problem_solving/blob/master/SPOJ/SPOJ%20FSEQ.cpp
+	// https://github.com/BRAINOOOO/CompetitiveProgramming/blob/dd02ff8e60a2e238e61e6a4421aec2338e3f39a8/Spoj/SPOJ%20FSEQ.Cpp
 // For stack explantation for "next greater element", See: http://www.geeksforgeeks.org/next-greater-element/
 // Others:
 	// https://github.com/abdullaAshraf/Problem-Solving/blob/master/SPOJ/FSEQ

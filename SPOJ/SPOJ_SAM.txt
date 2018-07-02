@@ -1,0 +1,14 @@
+Greedy. It’s similar to job scheduling.
+
+Let’s keep our items in a set. Iterate on the array of size p in order, while set size is less than K, keep adding to the set, and increment moves. ( Because there is no need to remove items).
+
+When set size is k, you need to start removing items. Let’s say we are currently processing element in index i
+
+Which item should you remove ? For each item in the set find the first index > i such that it occurs. (If it doesn’t occur past i, then treat it as infinity) Remove the item with the largest number. You are just removing the furthest item to occur in the set, and this is always optimal because you have to swap something anyways so it makes sense to delay it.
+
+Simulating this algorithm directly takes O(N^2) but with preprocessing + PQ/Set you can do it in O(NlogN), it also appears the judge set a strict time limit, a clean nLogn is needed to pass.
+
+==
+https://github.com/AhmedRamadanAbdElghany/CompetitiveProgramming/blob/master/Spoj/SAM
+==
+similar to cf101498-gym-f

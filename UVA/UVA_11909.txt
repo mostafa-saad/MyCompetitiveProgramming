@@ -18,3 +18,6 @@ Then just Apply it on 3D.
 See https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/UVA/UVA_11909.jpg
 
 https://github.com/Emsawy/CompetitiveProgramming/blob/master/UVA/11909.cpp
+
+===
+https://github.com/MeGaCrazy/CompetitiveProgramming/blob/b9b19baf5d0d8213b0dfc0dc54967e8b3e93abac/UVA/UVA_11909.cpp
