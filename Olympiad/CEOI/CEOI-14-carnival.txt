@@ -1,0 +1,2 @@
+https://github.com/updown2/OI-Practice/blob/master/CEOI/2014/Carnival.cpp
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CEOI/CEOI%2014-carnival.cpp
