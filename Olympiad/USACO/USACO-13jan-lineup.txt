@@ -1,0 +1,2 @@
+https://github.com/updown2/OI-Practice/blob/master/USACO/2012-2013/January/Cow%20Lineup.cpp
+https://github.com/goar5670/CompetitiveProgramming/blob/master/USACO%2013jan-lineup.cpp
