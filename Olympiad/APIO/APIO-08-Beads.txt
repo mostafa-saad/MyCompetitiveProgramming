@@ -1,0 +1,2 @@
+https://github.com/updown2/OI-Practice/blob/master/APOI/2008/Beads.cpp
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/APIO/APIO%2008-Beads.cpp
