@@ -1,0 +1,3 @@
+
+http://isolvedaproblem.blogspot.com/2011/08/maximum-triangle-area-part-1.html
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CodeForces/CF0682-D2-E.cpp
