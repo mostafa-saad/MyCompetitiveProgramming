@@ -1,0 +1,13 @@
+Mohamed A. Nabil From what I remember.. assume you have a sequence of numbers A and a function F.. where F(x) is equal to the sum of all elements in the sequence A from index 0 till index X... 
+
+The problem states that only one element in sequence A is odd.
+
+If All number in A are even then F(X) is always even for all X
+If only one number in A is odd with index Y then F(X) is even for all X<Y and is odd for all X>=Y (It starts being odd at the position where X =A
+
+So we binary search on X till we find the first position where F(X) is odd and that is our answer
+
+
+===
+
+https://github.com/BRAINOOOO/CompetitiveProgramming/blob/master/Spoj/SPOJ%20MSE07E.java
