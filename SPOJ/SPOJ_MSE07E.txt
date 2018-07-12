@@ -1,3 +1,6 @@
+
+
+==============
 Mohamed A. Nabil From what I remember.. assume you have a sequence of numbers A and a function F.. where F(x) is equal to the sum of all elements in the sequence A from index 0 till index X... 
 
 The problem states that only one element in sequence A is odd.
