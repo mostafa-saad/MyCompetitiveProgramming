@@ -1,8 +1,16 @@
-It's obvious that the largest "h" will be included in the solution no matter how we partitioned the set. Notice the small constraints on "t".
-The partition problem in general is one of the NP-complete problems but it has a pseudo-polynomial solution (i.e. O(N^p * MAXSUM^q) where N is input size and p and q are some positive power). With that in mind we can see a dynamic programming solution that minimizes one parameter ("h" or "t") based on the other parameter. We're going to use "t" in the state as it has the smallest MAXSUM.
+It's obvious that the largest "h" will be included in the solution no matter how we partitioned the set. 
+Notice the small constraints on "t".
+The partition problem in general is one of the NP-complete problems but it has a pseudo-polynomial solution 
+(i.e. O(N^p * MAXSUM^q) where N is input size and p and q are some positive power). 
+With that in mind we can see a dynamic programming solution that minimizes one parameter ("h" or "t") based 
+on the other parameter. We're going to use "t" in the state as it has the smallest MAXSUM.
 Sort the input on "h". then:
-Let DP[index][SUM2][SUM3] = the minimum sum of maximum "h" using the first "index" elements while the second set has "t" sum of SUM2 and the third set has "t" sum of SUM3. Add the "h" of the element[index] to the solution only when you're adding it to a set whose SUM is 0 (i.e. DP[index][t[index]][SUM3] = min(DP[index][t[index]][SUM3], DP[index-1][0][SUM3] + h[index]).
-To find the solution find the DP[N][SUM2][SUM3] with SUM2 and SUM3 > 0 and minimum (h[0] + DP[N][SUM2][SUM3]) * max(SUM2, SUM3, SUM - SUM2 - SUM3).
+Let DP[index][SUM2][SUM3] = the minimum sum of maximum "h" using the first "index" elements while the second 
+set has "t" sum of SUM2 and the third set has "t" sum of SUM3. Add the "h" of the element[index] to the solution 
+only when you're adding it to a set whose SUM is 0 
+(i.e. DP[index][t[index]][SUM3] = min(DP[index][t[index]][SUM3], DP[index-1][0][SUM3] + h[index]).
+To find the solution find the DP[N][SUM2][SUM3] with SUM2 and SUM3 > 0 and 
+minimum (h[0] + DP[N][SUM2][SUM3]) * max(SUM2, SUM3, SUM - SUM2 - SUM3).
 To avoid MLE we can omit the first dimension and store only the current and last tables.
 
 By Khaled Kee 
