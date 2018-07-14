@@ -4,7 +4,7 @@ Matrix Power Approach
 	
 	
 DP
-	First ignore the splitting part and assume that we only want to calculate the number of ways to create size k board. 
+	By khaled kee: First ignore the splitting part and assume that we only want to calculate the number of ways to create size k board. 
 	The recurrence is: Ways(N) = 2 * Ways(N-1) + 2 * Ways(N-2); Of course we can calculate this using matrix exponentiation 
 	but that is not the problem. The modulus is very small 10007. If we calculated the recurrence we can be sure that we will
 	find cycle in the states in less than the modulus power 2 (because the recurrence depends only on the last two values and
