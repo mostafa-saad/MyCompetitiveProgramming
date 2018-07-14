@@ -8,10 +8,10 @@ DP
 	The recurrence is: Ways(N) = 2 * Ways(N-1) + 2 * Ways(N-2); Of course we can calculate this using matrix exponentiation 
 	but that is not the problem. The modulus is very small 10007. If we calculated the recurrence we can be sure that we will
 	find cycle in the states in less than the modulus power 2 (because the recurrence depends only on the last two values and
-    their values are less than the modulus so we have only modulus * modulus possible states). In fact the cycle length is 
-    even shorter (10006). So Ways(N) depends solely on N mod 10006. That means that
-    Ways(k) * Ways(N-k) equal Ways(k+10006) * Ways(N-k-10006) (for k <= N-10006). 
+	their values are less than the modulus so we have only modulus * modulus possible states). In fact the cycle length is 
+	even shorter (10006). So Ways(N) depends solely on N mod 10006. That means that
+	Ways(k) * Ways(N-k) equal Ways(k+10006) * Ways(N-k-10006) (for k <= N-10006). 
 	Using this, we can calculate the answer only to k in range 0..10006 and multiply times 
-    the number we will repeat this cycle (i.e. "(N+1)/10006") and then add the rest of the numbers 
-    outside these cycles (i.e. k in range floor((N+1)/10006) * 10006..N).
+	the number we will repeat this cycle (i.e. "(N+1)/10006") and then add the rest of the numbers 
+	outside these cycles (i.e. k in range floor((N+1)/10006) * 10006..N).
 		https://github.com/khaledkee/CP-solutions/blob/master/Combinatorics/Finding%20cycle/icpcarchive-4332.cpp
