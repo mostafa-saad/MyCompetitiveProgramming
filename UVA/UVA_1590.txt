@@ -1,0 +1,5 @@
+BF, Bitmasks
+	https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/1590%20-%20IP%20Networks.cpp
+	
+Trie bitmasks
+	https://github.com/HosamEissa/Competitive-programming-/blob/master/UVA/1590.cpp
