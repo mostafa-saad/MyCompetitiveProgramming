@@ -1,0 +1,25 @@
+One Solution with Editorial:
+	https://github.com/arvindr9/CompetitiveProgramming/blob/master/LiveArchive/LiveArchive%203343.cpp
+	
+	
+Another Solution outline by vlad89 (I followed this way)
+	a^phi(n)=1 (mod n)
+	Let's factorize a=p1^f1*...*pn^fn. 
+		Consider some p=pi which is also a divisor of n. Let g be a greatest power of p that divides n. Notice that by Euler's theorem:
+	p^phi(n/(p^g)) = 1 (mod n/(p^g))
+	Multiply everything by p^g:
+	p^g * p^phi (n/(p^g))= p^g (mod n)
+	So we can calculate exponent x modulo phi(n/(p^g)) to find p^x.
+	
+		If p^g * p^w = p^g (mod n) then
+		(p^g * p^w) * p^w = p^g * p^w = p^g (mod n). 
+		i.e. p^g * p^(k*w) = p^g (mod n).
+		Now if x >= g then p^x = p^g * p^(x-g) = p^g * p^((x-g)%w) (mod n)
+
+
+
+Also might be solvable by Generalization of euler theorem
+
+Web Solutions
+	https://github.com/marioyc/Online-Judge-Solutions/blob/master/Live%20Archive/3343%20-%20Last%20Digits.cpp
+	https://github.com/pkkj/ACM-ICPC-OJ-Code/blob/master/ICPC.Regional/2005.Rocky_Mountain/la3343.cpp

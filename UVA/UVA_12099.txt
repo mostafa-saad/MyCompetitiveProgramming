@@ -16,3 +16,6 @@ To avoid MLE we can omit the first dimension and store only the current and last
 By Khaled Kee 
 
 ==============
+Aviroop Pal comment on kee solution
+	 I have a doubt in the complexity. The solution uses O(T * N * MAXSUM^2) which is very huge. I optimized it by just iterating through possible sums and it got AC. 
+	 https://github.com/aviroop123/CompetitiveProgramming/blob/master/UVA/UVA%2012099.cpp
