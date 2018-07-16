@@ -8,7 +8,7 @@ One Solution with Editorial:
 Another Solution outline by vlad89 (I followed this way)
 	a^phi(n)=1 (mod n)
 	Let's factorize a=p1^f1*...*pn^fn. 
-		Consider some p=pi which is also a divisor of n. Let g be a greatest power of p that divides n. Notice that by Euler's theorem:
+	Consider some p=pi which is also a divisor of n. Let g be a greatest power of p that divides n. Notice that by Euler's theorem:
 	p^phi(n/(p^g)) = 1 (mod n/(p^g))
 	Multiply everything by p^g:
 	p^g * p^phi (n/(p^g))= p^g (mod n)
