@@ -1,3 +1,6 @@
+Try to understand the different solutions:
+==============================================
+
 One Solution with Editorial:
 	https://github.com/arvindr9/CompetitiveProgramming/blob/master/LiveArchive/LiveArchive%203343.cpp
 	
