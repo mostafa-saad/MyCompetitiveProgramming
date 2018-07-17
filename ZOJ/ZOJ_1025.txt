@@ -1,0 +1,10 @@
+Longest Decreasing Subsequence
+	https://github.com/MeGaCrazy/CompetitiveProgramming/blob/master/Contests/SuperVision-Contest-32972/1/ZOJ_1025.cpp
+	
+Greedy
+	Mohamed A. Nabil If we imagine the sticks as nodes and each node has length l and width W....Let there be a path from node a to node b if la<=lb and wa<=wb... We want to divide the graph into minimum number of path such that we cover all the nodes...Since starting a new path entails adding an additional minute
+	We could use maximum matching but I wanted to avoid using it here becausue I saw so many teams solved it and I thought there must be something Im missing... After some tracing I found that we can achieve the optimum solution by sorting the sticks based on L and W and connecteing stick a to the first stick b it finds.
+	I have more of an intution than a proof to why this greedy solution works
+	If Im connecting stick A to B It is better to connect to one such that the difference in L and W is as minum as possible so I leave chance for other sticks to connect to connect to the sticks which have a higher L and W
+
+	https://github.com/AmrMaghraby/Competitve-Programming/blob/master/ZOJ/1025.cpp
