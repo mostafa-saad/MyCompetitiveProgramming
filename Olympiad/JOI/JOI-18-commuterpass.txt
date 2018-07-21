@@ -1,0 +1,2 @@
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18-Commuter_Pass.cpp
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/JOI/CommuterPass2018.cpp
