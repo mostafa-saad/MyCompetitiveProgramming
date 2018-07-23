@@ -1,0 +1,2 @@
+https://github.com/aviroop123/CompetitiveProgramming/blob/master/CodeChef/CODECHEF%20SERSUM.cpp
+https://github.com/Andres-Unt/problem_solving/blob/master/CodeChef/MAY18A/sersum.cpp
