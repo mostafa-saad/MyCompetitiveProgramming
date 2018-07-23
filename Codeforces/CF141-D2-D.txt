@@ -1,0 +1,4 @@
+Editorial Sol is based on sparse graph
+
+Another way	
+	https://github.com/aviroop123/CompetitiveProgramming/blob/master/CodeForces/CF141-D2-D.cpp
