@@ -1,0 +1,19 @@
+Well after dividing the first and second equation into two parts LHS and RHS we can observe that 
+all of them have the same coefficient  (1 * X1 + 2 * X2 + 3 * X3 + 4 * X4) . 
+
+This problem can be formulated now as follows : 
+given any set of four numbers out of 16 numbers , how many sets of four numbers are exist such that 
+having the same sum as the given set any set of four numbers also have 4! different sums 
+	(as all the given numbers are distinct  ) 
+
+So right now we can answer the following problem : 
+given a set of 8 numbers , how many ways can we divide these 8 numbers into 
+	two mutually exclusive sets of four numbers    
+
+In order to solve the problem for two equations after solving the above problem   
+The answer will be the summation of choosing any set of 8 numbers and multiply its 
+	number of ways by number of ways of the other 8 numbers  
+	
+This step actually depends on your solution  you may traverse all the possible combination of 8 numbers
+ out of 16 but in this case you'll have to divide your answer by two as you've computed 
+ (A * B) & (B * A) or you can just visit each one of them once
