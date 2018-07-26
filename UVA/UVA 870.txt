@@ -1,0 +1,7 @@
+The solution that i intends you solve it grid compression to learn it (See my channel video in case)
+	https://github.com/miguelAlessandro/CompetitiveProgramming/blob/master/UVA/870.cpp
+	https://github.com/miguelAlessandro/CompetitiveProgramming/blob/master/UVA/870.cpp
+	
+The problem is solvable classically using line sweep
+	https://github.com/morris821028/UVa/blob/master/volume008/870%20-%20Intersecting%20Rectangles.cpp
+	
