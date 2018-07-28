@@ -1,0 +1,4 @@
+I am the author of this problem, ECPC 2011, I was the chief judge
+
+https://github.com/yelghareeb/problem_solving/blob/master/SPOJ/SPOJ%20FISHES.cpp
+https://github.com/tanmoy13/CompetitveProgramming/blob/master/Online-Judge-Solutions/SPOJ/FISHES%20-%20Finding%20Fishes.cpp
