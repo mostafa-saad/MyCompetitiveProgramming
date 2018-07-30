@@ -1,0 +1,3 @@
+DP games, find O(n^2)
+	https://github.com/racsosabe/CompetitiveProgramming/blob/master/SPOJ/XOINC.cpp
+	https://github.com/hashemsellat/CompetitiveProgramming/blob/master/SPOJ/XOINC.cpp
