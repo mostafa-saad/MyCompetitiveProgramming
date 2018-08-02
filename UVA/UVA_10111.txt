@@ -1,2 +1,4 @@
-DP bitmask 	https://github.com/aabdelzaher/Competitive-Programming/blob/master/UVa/UVa10111.java
+DP bitmask 	
+	https://github.com/racsosabe/CompetitiveProgramming/blob/master/UVA/10111.cpp
+	https://github.com/aabdelzaher/Competitive-Programming/blob/master/UVa/UVa10111.java
 Backtrack	https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/10111%20-%20Find%20the%20Winning%20Move.cpp
