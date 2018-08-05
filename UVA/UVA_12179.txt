@@ -1,0 +1,2 @@
+https://github.com/ilyesG/Competitive-Programming/blob/master/UVA/UVA%2012179.cpp
+https://github.com/MeGaCrazy/CompetitiveProgramming/blob/master/Contests/SuperVision-Contest-32972/3/UVA_12179.cpp
