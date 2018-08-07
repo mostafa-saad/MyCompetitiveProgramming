@@ -1,0 +1,9 @@
+segment tree, lazy propagation, [handle dimensions independently]
+	Mohamed Anany: the idea is that instead of making a 3rd segment tree we need to only make a segment tree for each dimension where 
+	it makes us able to count the X-dimensions that have red cubes and the same for the Y and the Z, after that the answer would be for
+	 each query clearly be = (redx * redy * redz)->dimensions colored red 3 times + 
+		(redx * greenx * greenz) + (greenx * redy * greenz) + (greenx * greeny * redz)->dimensions colored red -> 1 time
+		where greenx is the number of green x dimensions and so on for y and z
+		
+Sol don't handle dimensions independently
+	https://github.com/miguelAlessandro/CompetitiveProgramming/blob/master/spoj/IOPC2017.cpp
