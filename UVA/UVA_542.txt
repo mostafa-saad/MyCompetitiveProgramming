@@ -4,6 +4,7 @@ DP probability solutions
 	https://github.com/morris821028/UVa/blob/master/volume005/542%20-%20France%20%2798.cpp
 	https://github.com/Diusrex/UVA-Solutions/blob/master/542%20France%20%2798.cpp
 	https://github.com/dibery/UVa/blob/master/problem/vol5/542.cpp
+	https://github.com/SaraElkadi/competitive-programming-/blob/master/UVA/542.cpp
 
 Probability solutions
 	https://github.com/Johniel/uva/blob/master/542.cpp
