@@ -1,0 +1,2 @@
+https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/12154%20-%20Shrinking%20Polygons.cpp
+https://github.com/TheRealImaginary/CompetitiveProgramming/blob/master/UVA/UVA_12154_ShrinkingPolygons.java
