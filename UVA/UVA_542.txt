@@ -6,6 +6,5 @@ DP probability solutions
 	https://github.com/dibery/UVa/blob/master/problem/vol5/542.cpp
 	https://github.com/SaraElkadi/competitive-programming-/blob/master/UVA/542.cpp
 
-Probability solutions
-	https://github.com/Johniel/uva/blob/master/542.cpp
-	TODO
+Other sol
+	https://github.com/Johniel/uva/blob/master/542.cpp		[more of segment tree like?]
