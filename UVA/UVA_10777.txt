@@ -1,0 +1,5 @@
+math
+	https://github.com/ilyesG/Competitive-Programming/blob/master/UVA/UVA%2010777.cpp
+	
+dp probability
+	https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/10777%20-%20God!%20Save%20me.cpp

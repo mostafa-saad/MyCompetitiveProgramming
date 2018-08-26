@@ -1,2 +1,11 @@
-https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/PKU/1177.cpp
-https://github.com/osamahatem/CompetitiveProgramming/blob/master/PKU/1177%20-%20Picture.cpp
+Line Sweep
+	https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/PKU/1177.cpp
+	https://github.com/osamahatem/CompetitiveProgramming/blob/master/PKU/1177%20-%20Picture.cpp
+
+
+2D-Coordinate Compression, DP
+	https://github.com/racsosabe/CompetitiveProgramming/blob/master/PKU/1177.cpp
+
+
+Segment Tree Sols
+	
