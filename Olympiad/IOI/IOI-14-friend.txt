@@ -1,0 +1,2 @@
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/Friend2014.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/14-Friend.cpp
