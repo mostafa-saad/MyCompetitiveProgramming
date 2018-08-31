@@ -1,0 +1,9 @@
+Parsing Problem
+
+C++
+	https://github.com/ilyesG/Competitive-Programming/blob/master/UVA/UVA%2010058.cpp
+	
+Java is great in that
+	https://github.com/ackoroa/UVa-Solutions/blob/master/UVa%2010058%20-%20Jimmi's%20Riddles/src/Main.java
+	
+	Note: Nowadays, problem-setters avoid language advantages. E.g. Problems solved trivially using Java geometry library are not used, as C++ guys lose such advantage
