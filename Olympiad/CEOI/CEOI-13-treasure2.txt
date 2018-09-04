@@ -1,0 +1,2 @@
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CEOI/13-treasure2.cpp
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/CEOI/Treasure2013.cpp
