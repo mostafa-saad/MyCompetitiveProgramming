@@ -1,5 +1,5 @@
 DP Convex Hull - very tight constraints
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/APIO/14-Sequence.cpp
 	https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/APIO/SplitTheSequence2014.cpp
-
+	https://github.com/OmarHashim/Competitive-Programming/blob/master/Olympiad/APIO/APIO-14-Sequence.cpp
 	
