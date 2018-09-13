@@ -1,0 +1,2 @@
+https://github.com/ryuzmukhametov/CompetitiveProgramming/blob/master/spoj/SPOJ%20EASYFACT.cpp
+https://github.com/OmarHashim/Competitive-Programming/blob/master/SPOJ/EASYFACT.cpp

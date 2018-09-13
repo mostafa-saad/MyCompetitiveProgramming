@@ -1,0 +1,2 @@
+https://github.com/mushisgosuuu/oj-solutions/blob/master/BOI/net2015.cpp
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/Baltic/15-net.cpp

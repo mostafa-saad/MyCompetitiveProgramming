@@ -28,4 +28,5 @@ Same version but tough constraints/strict time limit: SPOJ NPC2015E
 
 	Binary Search: 
 		https://github.com/arvindr9/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20NPC2015E.cpp
+		https://github.com/OmarHashim/Competitive-Programming/blob/master/SPOJ/NPC2015E.cpp
 		https://github.com/achrafmam2/CompetitiveProgramming/blob/master/SPOJ/NPC2015E.cc

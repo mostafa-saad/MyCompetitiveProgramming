@@ -10,6 +10,7 @@ This problem can be tackled in several ways, please study.
 
 *) Binary indexed Tree
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/SPOJ/SPOJ_ORDERS.cpp
+	https://github.com/ilyesG/Competitive-Programming/blob/master/SPOJ/SPOJ%20ORDERS.cpp
 
 *) Binary Search Tree
 	https://github.com/pushkarmishra/SPOJ/blob/master/ORDERS.cpp

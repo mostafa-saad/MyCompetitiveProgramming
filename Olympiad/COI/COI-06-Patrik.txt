@@ -1,0 +1,2 @@
+https://github.com/mushisgosuuu/oj-solutions/blob/master/COI/patrik2006.cpp
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/COI/Patrik2006.cpp
