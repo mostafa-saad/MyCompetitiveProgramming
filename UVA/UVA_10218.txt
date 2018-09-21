@@ -1,0 +1,12 @@
+Kindely, study all
+
+DP
+	Memoization
+		https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/10218%20-%20Let's%20Dance%20!!!.cpp
+	
+	Table
+		https://github.com/evandrix/UVa-1/blob/master/10218.cpp
+		https://github.com/dibery/UVa/blob/master/contest/vol102/10218.cpp
+		
+Combinatorics
+	https://github.com/marlonwc3/cp-codes/blob/master/Uva/Uva10218%3D%3DLet's%20Dance!!.cpp
