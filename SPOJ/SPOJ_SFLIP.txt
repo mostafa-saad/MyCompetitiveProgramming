@@ -1,0 +1,3 @@
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/SPOJ/SFLIP.cpp
+https://gist.github.com/OmarBazaraa/69e60e2745db206b1b3dde344c040b5c
+
