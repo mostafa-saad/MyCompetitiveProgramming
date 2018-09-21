@@ -1,8 +1,17 @@
-There is a possibility that cases are weak
+================================= Background================================= 
+
+There were around ~4 problems with the idea of power tower (a^b^c^d...)%M
+	It might be all of power same vale (a^a^a....), such as LIVEARCHIVE 3343
+	Power is Factorials
+	Special Mode, e.g. M=10^k
 
 
-Try to understand the different solutions:
-==============================================
+There are different solutions for this problem, some of them may need very biasc number theory background.
+It will be benficial to understand these solutions (check editorials for different solutions)
+
+Note: There is a possibility that cases are weak in some of these problems
+
+================================= LIVEARCHIVE 3343 ================================= 
 
 One Solution with Editorial:
 	https://github.com/arvindr9/CompetitiveProgramming/blob/master/LiveArchive/LiveArchive%203343.cpp
@@ -30,4 +39,34 @@ Web Solutions
 	https://github.com/aviroop123/CompetitiveProgramming/blob/master/LiveArchive/LIVE%20ARCHIVE%203343.cpp
 
 
-Also might be solvable by Generalization of euler theorem
+Also solvable by Generalization of euler theorem: https://artofproblemsolving.com/community/c6h123069
+
+
+================================= Balkan Olympiad in Informatics 2016 - Power Towers Problem ================================= 
+General version (x1^x2...x^n)%M
+
+Problem and Solution: https://bytefreaks.net/cyprus-computer-society/tasks-balkan-olympiad-in-informatics-2016
+	This solution needs very biasc number theory background 
+
+Online judge: https://www.acmicpc.net/problem/13970
+
+ 
+================================= SRM283-D1-500 ================================= 
+Factorial Tower Problem
+
+Depends on detecting cycle idea. See editorial: https://www.topcoder.com/tc?module=Static&d1=match_editorials&d2=srm283
+
+Test cases were weak and some codes passed (such as MikeMirzayanov one)
+	MikeMirzayanov Sol: http://community.topcoder.com/stat?c=problem_solution&rm=247371&rd=8080&pm=5961&cr=308953
+		Can you know why wrong? Find a challenge case?
+		http://apps.topcoder.com/forums/?module=Thread&threadID=508749&start=0
+
+
+================================= Others ================================= 
+
+Forgot UVA problem, it was general form similar to Balkan and has strong test cases
+	TODO to check if power tower releated: UVA 10837 / UVA 11073
+	
+	
+	
+
