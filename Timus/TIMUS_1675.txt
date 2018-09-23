@@ -1,0 +1,2 @@
+https://github.com/shanto86/Training/blob/master/Timus/1675.cpp
+https://github.com/jebouin/CompetitiveProgramming/blob/master/Timus/TIMUS%201675.cpp

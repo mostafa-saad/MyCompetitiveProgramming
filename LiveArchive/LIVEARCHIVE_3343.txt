@@ -33,7 +33,8 @@ Another Solution outline by vlad89 (I followed this way)
 			i.e. p^g * p^(k*w) = p^g (mod n).
 			Now if x >= g then p^x = p^g * p^(x-g) = p^g * p^((x-g)%w) (mod n)
 
-Web Solutions
+Other Solutions
+	https://github.com/swapnil119/CompetitiveProgramming/blob/master/CompetitiveProgramming/ICPCLiveArchive/3343.cpp
 	https://github.com/marioyc/Online-Judge-Solutions/blob/master/Live%20Archive/3343%20-%20Last%20Digits.cpp
 	https://github.com/pkkj/ACM-ICPC-OJ-Code/blob/master/ICPC.Regional/2005.Rocky_Mountain/la3343.cpp
 	https://github.com/aviroop123/CompetitiveProgramming/blob/master/LiveArchive/LIVE%20ARCHIVE%203343.cpp
