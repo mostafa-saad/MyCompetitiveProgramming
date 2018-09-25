@@ -1,0 +1,2 @@
+https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF710-D12-E.cpp
+https://github.com/magdy-hasan/competitive-programming/blob/aeb543d0ae22246b09849ffc6cb0b75b6b8f08e0/Codeforces/CF710-D12-E.cpp
