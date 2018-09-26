@@ -1,0 +1,5 @@
+Grundy
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CodeChef/GHVSSI.cpp
+	
+DP Games
+	https://github.com/swapnil119/CompetitiveProgramming/blob/master/CompetitiveProgramming/Codechef/ghvssi.cpp

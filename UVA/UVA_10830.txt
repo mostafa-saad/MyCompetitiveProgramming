@@ -1,3 +1,4 @@
+https://github.com/racsosabe/CompetitiveProgramming/blob/master/UVA/10830.cpp
 https://github.com/sggutier/CompetitiveProgramming/blob/master/UVa/10830.cpp
 
 See http://www.algorithmist.com/index.php/UVa_10830
