@@ -1,2 +1,5 @@
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/16-Match.cpp
 https://github.com/swapnil119/CompetitiveProgramming/blob/master/CompetitiveProgramming/CEOI/Match.cpp
+
+Dp Ranges
+	https://github.com/Triplem5ds/Competitve-Programming/blob/master/Olympiad/CEOI%20MATCH.cc
