@@ -1,0 +1,9 @@
+Rolling Hash
+	https://github.com/dasannagariraja/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20LPS.cpp
+	
+Manachar’s Algorithm
+	https://turing13.wordpress.com/2017/06/08/spoj-lps-longest-palindromic-substring/
+	
+Suffix Array
+	https://ideone.com/1D8tAF
+	Google - Stanford Suffix Array

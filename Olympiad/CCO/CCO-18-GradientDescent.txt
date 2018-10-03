@@ -1,2 +1,6 @@
-https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CCO/18-GradientDescent.cpp
-https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/CCO/GradientDescent2018.cpp
+Ternay Search
+	https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CCO/18-GradientDescent.cpp
+	https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/CCO/CCO18-GradientDescent.cpp
+
+Binary Search
+	https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/CCO/GradientDescent2018.cpp
