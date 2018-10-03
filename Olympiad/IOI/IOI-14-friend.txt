@@ -1,3 +1,7 @@
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/Friend2014.cpp
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/14-Friend.cpp
 https://github.com/swapnil119/CompetitiveProgramming/blob/master/CompetitiveProgramming/IOI/IOI14-Friend.cpp
+
+
+
+https://github.com/Triplem5ds/Competitve-Programming/blob/master/Olympiad/IOI%2014-friend.cc
