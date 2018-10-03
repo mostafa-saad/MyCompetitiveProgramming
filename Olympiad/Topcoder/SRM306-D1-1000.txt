@@ -1,4 +1,5 @@
 Read Editorial analysis for 2 solutions
 	https://www.topcoder.com/tc?module=Static&d1=match_editorials&d2=srm306
 	
+	https://github.com/jebouin/CompetitiveProgramming/blob/master/TopCoder/SRM306-D1-1000.cpp
 	https://github.com/jebouin/CompetitiveProgramming/blob/master/TopCoder/SRM306-D1-1000-2.cpp
