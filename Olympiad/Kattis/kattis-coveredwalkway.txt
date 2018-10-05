@@ -1,0 +1,10 @@
+dp_convex_hull problem
+
+Editoral
+	http://neerc.ifmo.ru/trains/zurich/analysis/20170424.pdf
+	
+	Videos
+		https://www.youtube.com/watch?v=MltMEIfgdQw
+		https://www.youtube.com/watch?v=OrH2ah4ylv4
+		
+Another OJ: https://www.e-olymp.com/en/problems/3972
