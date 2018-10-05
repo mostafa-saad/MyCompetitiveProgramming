@@ -1,0 +1,11 @@
+The problem can be solved in several ways such as segment tree or bit
+	BIT
+		https://github.com/morris821028/UVa/blob/master/volume126/12697%20-%20Minimal%20Subarray%20Length.cpp
+	
+	Segment Tree
+		https://github.com/rezwan4029/UVA-CODES/blob/master/12697%20-%20Minimal%20Subarray%20Length.cpp
+
+The nice way to learn solutions bag thinking
+	http://algorithms-live.blogspot.com/2017/02/episode-9-solution-bags.html
+	
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/12697.java
