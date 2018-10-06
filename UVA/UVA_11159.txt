@@ -1,5 +1,6 @@
 min path vertex cover maxflow
 	https://github.com/BRAINOOOO/CompetitiveProgramming/blob/master/UVA/V-111/UVA%2011159.Cpp
+	https://github.com/tanmoy13/CompetitveProgramming/blob/master/Online-Judge-Solutions/UVA/11159%20-%20Factors%20and%20Multiples.cpp
 	
 min-cut
 	https://github.com/ilyesG/Competitive-Programming/blob/master/UVA/UVA%2011159.cpp
