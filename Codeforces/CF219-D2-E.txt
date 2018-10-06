@@ -1,0 +1,5 @@
+datastructures, set
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/CodeForces/CF219-D2-E.cpp
+
+segment tree
+	https://github.com/magdy-hasan/competitive-programming/blob/759b2e93eaff18c007abf9cebea4549cf062b25f/Codeforces/CF219-D2-E.cpp
