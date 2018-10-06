@@ -8,7 +8,6 @@ Using STL
 		
 	Priority queues
 		https://github.com/morris821028/UVa/blob/master/volume005/501%20-%20Black%20Box.cpp
-		https://github.com/raiso717/code/blob/master/uva-501.cpp	[queues]
 
 Using Segment Tree
 	https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/501%20-%20Black%20Box%20-%20Segment%20tree%20solution.cpp

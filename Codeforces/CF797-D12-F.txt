@@ -1,0 +1,5 @@
+Is the editorial DP uses solution bag thinking?
+
+Divide and Conquer
+	http://codeforces.com/contest/797/submission/26399564
+	

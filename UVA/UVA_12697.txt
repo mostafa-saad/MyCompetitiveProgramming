@@ -8,4 +8,5 @@ The problem can be solved in several ways such as segment tree or bit
 The nice way to learn solutions bag thinking
 	http://algorithms-live.blogspot.com/2017/02/episode-9-solution-bags.html
 	
+	https://pastebin.com/THDh3shA
 	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/12697.java

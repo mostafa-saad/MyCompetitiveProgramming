@@ -1,0 +1,6 @@
+The problem can be solved in ways such as segment tree
+
+The nice way to learn solutions bag thinking - get ordered set solutions
+	http://algorithms-live.blogspot.com/2017/02/episode-9-solution-bags.html
+	
+	
