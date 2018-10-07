@@ -1,0 +1,8 @@
+Read the editorial
+
+
+Dp sol
+	https://github.com/MichaelMounir12/CompetitiveProgramming/blob/master/Topcoder/SRM428-D2-1000.cpp
+	
+Perm, adhoc
+	https://github.com/magdy-hasan/competitive-programming/blob/1781f54c772445b891e41ad3ae8cb07a88c3e016/Topcoder/SRM428-D2-1000.cpp

@@ -10,3 +10,8 @@ The nice way to learn solutions bag thinking
 	
 	https://pastebin.com/THDh3shA
 	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/12697.java
+
+
+
+Nice sets / 2 pointers sol
+	https://github.com/tfg50/Competitive-Programming/blob/master/UVA/UVA_12697.cpp
