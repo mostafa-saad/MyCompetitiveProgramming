@@ -1,0 +1,5 @@
+BFS, Math
+	https://github.com/jebouin/CompetitiveProgramming/blob/master/UVA/UVA%2011883.cpp
+	
+ternary search
+	https://github.com/yazanKabbany/CompetitiveProgramming/blob/master/UVA/UVA%2011883.cpp
