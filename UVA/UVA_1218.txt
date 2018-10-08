@@ -1,0 +1,5 @@
+This problem is a bit harder version from the classical Vertex Cover Problem in trees
+	Study/try if don't know https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/
+	
+For this problem, it is again DP
+	https://github.com/Triplem5ds/Competitve-Programming/blob/master/UVA/UVA%201218.cc

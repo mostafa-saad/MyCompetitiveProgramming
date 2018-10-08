@@ -1,0 +1,15 @@
+Solveable using several ways, see editorial: https://csacademy.com/contest/round-70/task/squared-ends/solution/
+
+DP Convex Hull: https://csacademy.com/submission/1375368/
+
+
+
+LiChao segment tree (not popular yet, I think so)
+	https://github.com/beet-aizu/library/blob/dd6bccacc7bfec9cd267cb8431856e5da35bdc1f/segtree/lichao.cpp
+	
+	Tutorial:	https://cp-algorithms.com/geometry/convex_hull_trick.html
+				http://codeforces.com/blog/entry/51275?#comment-351413
+
+
+Other sol (not sure, if know let me know)
+	https://csacademy.com/submission/1375268/

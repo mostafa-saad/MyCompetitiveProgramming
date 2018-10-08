@@ -1,0 +1,2 @@
+https://github.com/jebouin/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20EQBOX.cpp
+https://github.com/OmarHashim/Competitive-Programming/blob/master/SPOJ/EQBOX.cpp
