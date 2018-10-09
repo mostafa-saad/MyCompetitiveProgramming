@@ -1,7 +1,11 @@
-The problem can be solved by sqrt decomposoition
-	https://github.com/Triplem5ds/Competitve-Programming/blob/master/atcoder/AtCoder002-AGC-D.cc
-	
-However, the most interesting is how to solve it using 'Parallel Binary Search'
+The most interesting is how to solve it using 'Parallel Binary Search'
 	https://github.com/Triplem5ds/Competitve-Programming/blob/master/atcoder/AtCoder002-AGC-D-ParallelBinarySearch.cc
 	
 	Tutorial: http://codeforces.com/blog/entry/45578
+
+
+Sqrt decomposoition
+	https://github.com/Triplem5ds/Competitve-Programming/blob/master/atcoder/AtCoder002-AGC-D.cc
+
+Persistent DSU + binary search
+	https://github.com/Cerberus97/CompetitiveProgrammingSolutions/blob/master/AtCoder/AtCoder002-AGC-D.cpp
