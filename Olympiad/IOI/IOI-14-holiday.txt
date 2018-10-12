@@ -1,0 +1,11 @@
+https://ioinformatics.org/files/ioi2014solutions.zip
+
+
+
+Bit, D&C
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/14-Holiday.cpp
+	
+
+Segment tree, D&C
+	 https://oj.uz/submission/68942
+	 

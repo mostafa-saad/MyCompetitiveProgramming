@@ -1,0 +1,2 @@
+https://github.com/arvindr9/CompetitiveProgramming/blob/master/Timus/TIMUS%201682.cpp
+https://github.com/thackerhelik/Timus/blob/master/Timus1682.cpp

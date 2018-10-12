@@ -1,5 +1,5 @@
 This problem can be solved by a nice technique to learn: Paralel Binary Search  ( needs segment tree)
-	https://codeforces.com/blog/entry/45578
+	https://codeforces.com/blog/entry/45578 (Study this article and comments)
 	
 	Sol: 
 		https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/SPOJ/METEORS.cpp

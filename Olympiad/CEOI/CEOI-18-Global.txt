@@ -1,0 +1,5 @@
+DP, Greedy, Impl
+	https://github.com/s6007589/competitive-programming/blob/master/CEOI%2018-Global.cpp
+	
+Bit, Dp
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/18-Global.cpp

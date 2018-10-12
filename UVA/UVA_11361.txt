@@ -1,0 +1,11 @@
+Mohamed Nasser Aly 
+
+This can be solved by DP on digits. Start with a simple problem, let's say you want to count numbers between a and b using DP. Your state would start enumerating all possible numbers, while keeping track if you are larger than b, and less than A. (2 Flags)
+This can be done in log(b). You can find more information about this online.
+
+Here we can modify this to count numbers divisble by k along with their sums by taking the mod in each step.
+
+So now we have a solution that works in T*logN*K^2..with K being 10000 this is too much, but notice that the numbers are at most 2^31,
+which means that the sum of their digits cannot exceed 100, so for any K > 100, answer is indeed zero. For K < 100, we do the DP, since K in this case is at most 100, the DP will be fast enough
+
+https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/11361.cpp
