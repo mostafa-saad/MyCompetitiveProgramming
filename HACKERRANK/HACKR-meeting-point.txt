@@ -1,7 +1,3 @@
 https://github.com/teja349/Competitive-Programming/blob/master/Hackerrank/meeting-point.cpp
 https://github.com/KhaledSami/hackerrank/blob/master/meeting_point.cpp
 https://github.com/shanto86/Training/blob/master/Hackerrank/HACKR%20meeting-point.cpp
-
-
-Manhattan2DRotation is a cool (x,y) transformation trick that appears in some problems
-So it is good to understand. If failed to understand from this editorial, it is explained in editorials of SRM573-D1-1000 and SRM577-D1-500
