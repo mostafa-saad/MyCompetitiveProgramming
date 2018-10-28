@@ -1,3 +1,8 @@
+https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/UVA/11361.cpp
+
+==
+
+
 Mohamed Nasser Aly 
 
 This can be solved by DP on digits. Start with a simple problem, let's say you want to count numbers between a and b using DP. Your state would start enumerating all possible numbers, while keeping track if you are larger than b, and less than A. (2 Flags)

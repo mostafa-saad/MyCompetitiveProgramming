@@ -1,0 +1,18 @@
+Solveable in several ways:
+
+Segment Tree
+	https://pastebin.com/7gEHXy7Z
+	
+Binary Indexed Tree
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/10909.java
+
+
+Balanced Trees
+	Adhoc	http://www.algorithmist.com/index.php/UVa_10909
+	Treap	https://github.com/Ownography/CP/blob/master/UVA%2010909
+	Splay Order Statistics Tree		https://github.com/Hikari9/UVa/blob/master/10909%20-%20Lucky%20Number.cpp
+
+
+Others
+	https://github.com/morris821028/UVa/blob/master/volume109/10909%20-%20Lucky%20Number.cpp
+	

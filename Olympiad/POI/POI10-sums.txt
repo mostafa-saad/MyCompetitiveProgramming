@@ -1,0 +1,6 @@
+
+
+See Solution By Mohamed Nasser
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/POI10-sums-Mohamed_Nasser.pdf
+		Type: >= S to <= S
+		https://github.com/MedoN11/CompetitiveProgramming/blob/master/POI/10SUMS.cpp
