@@ -1,0 +1,12 @@
+This problem is composed of 2 sub-problems
+	The diamond shape. This is a popular trick, where we rotate the grid 45 degrees to make our calculation easy
+		To practice this problem you may solve: 
+			CF124-D2-D or  
+			HACKR meeting-point (https://www.hackerrank.com/challenges/meeting-point/problem)	
+				Sol https://github.com/KhaledSami/hackerrank/blob/master/meeting_point.cpp
+		
+	The DP reccurance:
+		Close to SRM520-D1-500, with a good editorial explantation
+	
+Editorial:  http://codeforces.com/blog/entry/9571
+	https://github.com/sggutier/CompetitiveProgramming/blob/master/Codeforces/CF100283-Gym-C.cpp
