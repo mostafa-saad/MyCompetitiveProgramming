@@ -1,5 +1,5 @@
 https://ioinformatics.org/files/ioi2014solutions.zip
-
+http://blog.brucemerry.org.za/2014/07/
 
 
 Bit, D&C
@@ -9,3 +9,7 @@ Bit, D&C
 Segment tree, D&C
 	 https://oj.uz/submission/68942
 	 
+
+
+
+

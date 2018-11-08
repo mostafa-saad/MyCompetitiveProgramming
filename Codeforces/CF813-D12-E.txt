@@ -1,0 +1,19 @@
+Solveable in several ways:
+
+0) Read the editorial
+
+1) Merge sort segment tree
+	Tutoiral: https://www.commonlounge.com/discussion/fe6ac441785c44d6a959eab662f15adc
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/CodeForces/CF813-D12-E.cpp
+	
+2) Sqrt decomposition
+	http://codeforces.com/blog/entry/52410?#comment-364666
+
+3) Wavelet Trees
+	Tutoiral: https://users.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
+	Editorial: http://codeforces.com/blog/entry/52410?#comment-364684
+
+
+3) Persistent segment tree
+
+4) Centroid decomposition
