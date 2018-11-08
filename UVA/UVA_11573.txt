@@ -1,3 +1,5 @@
 This is a good problem to learn 0-1 BFS
 	https://www.geeksforgeeks.org/0-1-bfs-shortest-path-binary-graph
 	https://codeforces.com/blog/entry/22276
+	
+		https://ideone.com/2RNWVr

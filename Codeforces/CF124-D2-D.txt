@@ -1,4 +1,5 @@
-This is the popular Manhattan 2D Rotation. There is are ~10 problem that uses this trick, so good to understand it.
+This is the popular Manhattan 2D Rotation (chebyshev distance to mahnattan). There is are ~10 problem that uses this trick, so good to understand it.
+	Distance types: https://lyfat.wordpress.com/2012/05/22/euclidean-vs-chebyshev-vs-manhattan-distance/
 
 Check editorials for explantation. 
 

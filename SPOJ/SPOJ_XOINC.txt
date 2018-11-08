@@ -1,3 +1,7 @@
 DP games, find O(n^2)
 	https://github.com/racsosabe/CompetitiveProgramming/blob/master/SPOJ/XOINC.cpp
 	https://github.com/hashemsellat/CompetitiveProgramming/blob/master/SPOJ/XOINC.cpp
+
+	USACO official sol
+		http://contest.usaco.org/TESTDATA/NOV09.xoinc.htm
+		https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/SPOJ/XOINC.cpp

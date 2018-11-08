@@ -1,2 +1,4 @@
+https://ivaniscoding.wordpress.com/2018/08/22/divide-and-conquer-1-carnival/
+
 https://github.com/updown2/OI-Practice/blob/master/CEOI/2014/Carnival.cpp
 https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CEOI/CEOI%2014-carnival.cpp
