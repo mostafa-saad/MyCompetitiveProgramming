@@ -1,3 +1,11 @@
+Hint:
+	Transform Manhattan distance into Chebysehv distance (x, y) -> (x + y, x - y) and distance is now max(abs(x1 - x2), abs(y1 - y2))
+
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/TOKI/18-Group.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/TOKI/GroupChat2018.cpp
 https://github.com/Yehezkiel01/CompetitiveProgramming/blob/master/TOKIOpen/TOKIOpen-18-GroupChat.cpp
+
+
+To practice the reverse of this trick (Chebysehv distance into Manhattan distance)
+	Solve: http://codeforces.com/contest/124/problem/D
+		https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Codeforces/CF124-D2-D.txt

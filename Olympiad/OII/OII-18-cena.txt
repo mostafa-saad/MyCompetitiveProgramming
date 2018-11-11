@@ -1,0 +1,5 @@
+DP
+	https://github.com/ShabdanBatyrkulov/codee/blob/master/OII%2018-cena.cpp
+	
+Math
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Cena/main.cpp

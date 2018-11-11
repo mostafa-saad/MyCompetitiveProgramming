@@ -1,0 +1,5 @@
+dp_convex_hull
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/POI/18-Lightning_Conductor.cpp
+	
+segment tree
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Conductor/main.cpp

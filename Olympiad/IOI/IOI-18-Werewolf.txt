@@ -1,2 +1,3 @@
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/18-Werewolf.cpp
 https://github.com/swapnil119/CompetitiveProgramming/blob/master/CompetitiveProgramming/IOI/IOI18-Werewolf.cpp
+https://github.com/radoslav11/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI%2018-werewolf.cpp

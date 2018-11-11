@@ -2,6 +2,7 @@ This problem can be solved by a nice technique to learn: Paralel Binary Search  
 	https://codeforces.com/blog/entry/45578 (Study this article and comments)
 	
 	Sol: 
+		https://github.com/3agwa/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20METEORS.cpp
 		https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/SPOJ/METEORS.cpp
 		https://github.com/sampritipanda/IOI_Repository/blob/master/SPOJ/METEORS.cpp
 	

@@ -1,2 +1,6 @@
 https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF101492-gym-C.cpp
+
+
+
+Maybe next code is not really for this problem (naming mistake!?)
 https://github.com/dasannagariraja/CompetitiveProgramming/blob/master/CodeForces/CF101492-GYM-C.cpp

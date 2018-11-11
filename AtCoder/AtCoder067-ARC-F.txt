@@ -1,0 +1,5 @@
+Can be solved by datastructures such as Segment Tree
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/AtCoder/067-ARC-F.java
+	
+DP D&C
+	https://github.com/racsosabe/CompetitiveProgramming/blob/master/AtCoder/AtCoder067-ARC-F.cpp
