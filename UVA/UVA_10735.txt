@@ -1,0 +1,18 @@
+Src: http://www.algorithmist.com/index.php/UVa_10735
+	Given a graph G, which contains both directed edges and undirected edges, find a closed path in it, in which each edge is included exactly once.
+
+	Recall, when Euler tour exists in a directed graph: the underlying undirected graph is connected, and the in-degree of each vertex is equal to the out-degree.
+
+	In this problem, some of the graph's edges may be undirected. If we can orient them in such a way, that the in-degree of each vertex will be equal to its out-degree, then the problem will be reduced to finding a tour in a directed graph. Such orientation can be found by solving the following bipartite matching problem.
+
+	Construct a bipartite graph H. In one partition put all edges (both directed and undirected) of G, and the other partition contains G's vertices. For every edge we have to know, which of its two endpoints is the head. So, connect every object (edge of G) in the first partition with its G's endpoints in the second partition.
+
+	We'll be finding a matching in this graph. If an undirected edge e=(u,v) of G will be matched with v, it means, that in the final directed graph, the edge e will go from vertex u to vertex v.
+
+	Each matched H's edge of (e,v) will contribute to the in-degree of vertex v in the directed graph, and unmatched edge (e,u) contributes to the out-degree of u.
+
+	Since we want to make the in-degree and out-degree of each vertex equal, each vertex must have an equal number of matched and unmatched edges in H. Additionally, each directed edge has to be matched with its respective head from G.
+
+	After finding a matching in H, satisfying the outlined constraints, we can assign direction to each undirected G's edge and find Euler tour is the resulting directed graph with any standard algorithm. If a matching doesn't exist, there will be no Euler tour in the original graph.
+
+
