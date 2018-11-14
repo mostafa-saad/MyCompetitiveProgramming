@@ -1,0 +1,154 @@
+http://codeforces.com/blog/entry/63164
+
+Src: Translated from https://hk.saowen.com/a/02805d93f68d41d0e25db037fa6cb36eeb972fb4795d1b030e91e4c81209d8f7
+	Skillfully using the minimum point to cover the $=$ maximum match. This conclusion is the premise of doing this.
+
+	Then we can first get a set of maximum matches
+
+	It’s definitely not right to judge the sample.
+
+	 
+
+	Let us first substitute a simple conclusion.
+
+	If a point is $N$ then the point adjacent to it must be $A$ or the side between the two points cannot be overwritten.
+
+	 
+
+	So how do we ask for $N$? 
+
+	We know that the edges that match the most are no common points.
+
+	Then at least cover the number of points equal to the maximum number of matching edges (one point is selected for each matching edge) to cover all edges.
+
+	And because of the existence of the conclusion that "minimum point coverage $=$maximum match", we can only select the point on the largest matching edge.
+
+	So all points that are not on the largest matching edge are N points
+
+
+	This way you can find a part of the N point and the A point.
+
+	However, there is another case at point N. That is, for an A point and its matching point, it must be N points.
+
+	This is also the conclusion of "minimum point coverage $=$maximum match"
+
+	Because of this conclusion, each matching edge can only select one end of the point and put it into the minimum point coverage set. Therefore, one end is $A$ and the other end must be $N$.
+
+	 
+
+	Through these conclusions, you can find all the $N$ and $A$ and the rest is $E$.
+
+	In addition, the time limit of this question is tight, you can choose to quickly read in or use the bipartite graph matching algorithm faster than the Hungarian algorithm.
+
+	  1 #include <cstdio>
+	   2 #include <cstring>
+	   3 #include <cmath>
+	   4 #include <algorithm>
+	   5  using  namespace std;
+	   6  const  int N = 1010 , E = 1e6 + 10 ;
+	   7  int firste[N << 1 ], nexte[E << 1 ], v[E << 1 ], ma[N << 1 ];
+	   8  bool used[N << 1 ], on[N << 1 ];
+	   9  int color[N < < 1 ];
+	10  intn, m, k, e;
+	 11  int readint()
+	 12  {
+	 13      int re = 0 ;
+	 14      char c = getchar();
+	 15      while (c < ' 0 ' || c > ' 9 ' )
+	 16          c = getchar( 17      ;
+	 while while (c >= ' 0 ' && c <= ' 9 ' )
+	 18      {
+	 19          re = (re << 3 ) + (re << 1 ) + c - '0 ' ;
+	 20          c = getchar();
+	 21      }
+	 22      return re;
+	 23  }
+	 24  void build( int x, int y)
+	 25  {
+	 26      nexte[++e] = firste[x];
+	 27      firste[x] = e ;
+	 28      v[e] = y;
+	 29  }
+	 30  bool dfs( int u)
+	 31  {
+	 32      for ( int p = firste[u]; p; p = nexte[p])
+	 33         If (! used[v[p]])
+	 34          {
+	 35              used[v[p]] = 1 ;
+	 36              if (!ma[v[p]] || dfs(ma[v[p]]))
+	 37              {
+	 38                  ma[v[p]] = u;
+	 39                  return  1 ;
+	 40              }
+	 41          }
+	 42      return  0 ;
+	 43  }
+	 44  void hungary()
+	 45  {
+	 46      for ( int i = 1 ; i <= n; ++ i)
+	 47     {
+	 48          memset(used, 0 , sizeof used);
+	 49          dfs(i);
+	 50      }
+	 51  }
+	 52  void dfs2( int u)
+	 53  {
+	 54      for ( int p = firste[u]; p; p = nexte[p] )
+	 55          if (! color[v[p]])
+	 56          {
+	 57              color[v[p]] = 2 ;
+	 58              if (! color[ma[v[p]]])
+	 59              {
+	 60                 Color[ma[v[p]]] = 1 ;
+	 61                  dfs2(ma[v[p]]);
+	 62              }
+	 63          }
+	 64  }
+	 65  void print()
+	 66  {
+	 67      for ( int i = 1 ; i <= n ; ++ i)
+	 68          if (color[i] == 2 )
+	 69              putchar( ' A ' );
+	 70          else  if (color[i])
+	 71              putchar( ' N ' );
+	72          else 
+	73              putchar( ' E ' );
+	 74      puts( "" );
+	 75      for ( int i = n + 1 ; i <= n + m; ++ i)
+	 76          if (color[i] == 2 )
+	 77              Putchar( ' A ' );
+	 78          else  if (color[i])
+	 79              putchar( ' N ' );
+	 80          else 
+	81              putchar( ' E ');
+	 82      the puts ( "" );
+	 83  }
+	 84  int main ()
+	 85  {
+	 86      n-= readInt ();
+	 87      m = readInt ();
+	 88      K = readInt ();
+	 89      int X, Y;
+	 90      the while (- K- - )
+	 91      {
+	 92          x = readint();
+	 93          y = readint();
+	 94          build(x, n + y);
+	 95          build(n + y, x);
+	 96      }
+	 97     Hungary();
+	 98      for ( int i = 1 ; i <= m; ++ i)
+	 99          if (ma[n + i])
+	 100          {
+	 101              ma[ma[n + i]] = n + i;
+	 102              on [n + i] = on[ma[n + i]] = 1 ;
+	 103          }
+	 104      for ( int u = 1 ; u <= n + m; ++ u)
+	 105          if (!on[u] && ! color [u])
+	 106          {
+	 107              color[u] = 1 ;
+	 108             Dfs2(u);
+	 109          }
+	 110      print();
+	 111      return  0 ;
+	 112 }
