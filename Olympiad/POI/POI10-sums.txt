@@ -6,6 +6,7 @@ See Solution By Mohamed Nasser
 		https://github.com/MedoN11/CompetitiveProgramming/blob/master/POI/10SUMS.cpp
 	
 		Above sol gets only 90 points
+			Note from a trainee: I got 100pts by dropping the use of long long and optimizing dijkstra so that I don't go into states that are more than 10^9 away
 		
 	100 points sol
 		https://github.com/jebouin/CompetitiveProgramming/blob/master/Olympiad/POI/POI10%20sums.cpp	 [with notes]
