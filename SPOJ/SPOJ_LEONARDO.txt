@@ -1,0 +1,2 @@
+https://www.quora.com/What-is-the-algorithmic-approach-for-the-spoj-problem-LEONARDO
+https://github.com/Firastic/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20LEONARDO.cpp

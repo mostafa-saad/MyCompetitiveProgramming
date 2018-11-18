@@ -10,6 +10,7 @@ TIMUS_1223
 	DP Solution
 		https://github.com/Otrebus/timus/blob/master/1223.cpp
 		https://github.com/achrafmam2/CompetitiveProgramming/blob/master/TIMUS/1223.cc
+		https://github.com/Omaar22/CompetitiveProgramming/blob/master/TIMUS/TIMUS%201223.cpp
 		
 	Binary Search Solution
 		https://github.com/arvindr9/CompetitiveProgramming/blob/master/Timus/TIMUS%201223.cpp

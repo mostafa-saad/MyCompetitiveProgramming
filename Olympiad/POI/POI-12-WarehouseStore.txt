@@ -1,3 +1,4 @@
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/POI/19-Warehouse_Store.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/POI/WarehouseStore19.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Warehouse%20Store/main.cpp
+https://github.com/zoooma13/Competitive-Programming/blob/master/WarehouseStore.cpp

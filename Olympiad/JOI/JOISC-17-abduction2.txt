@@ -1,0 +1,12 @@
+https://oj.uz/submission/63741
+https://oj.uz/submission/73005
+
+
+Basic Hints:
+	https://codeforces.com/blog/entry/51010
+	
+	Seems somewhere Japenese Editorial. Let me know if know the link
+	
+Contest at AtCoder (To see more AC codes)
+	https://joisc2017.contest.atcoder.jp/
+	

@@ -4,5 +4,9 @@ binary indexed tree, dfs
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/13OC-Synchronization(1).cpp
 	
 centroid-decomposition, segment tree
-	I didn't expect centroid decomposition to be in this problem. Although this problem is interesting in the use of centroid decomposition, the use of persistent segment trees for dp, and the use of mergeable segment trees for dp, it is very hard to implement. I still found it fun :) However, I found several other codes that are much shorter and don't run close to the TL. My memory usage is also not the best.
+	I didn't expect centroid decomposition to be in this problem. Although this problem is interesting in the use of centroid decomposition, 
+	the use of persistent segment trees for dp, and the use of mergeable segment trees for dp, it is very hard to implement.
+	I still found it fun :) However, I found several other codes that are much shorter and don't run close to the TL. My memory usage is also not the best.
 	
+Link-cut
+	https://github.com/radoslav11/CompetitiveProgramming/blob/master/Olympiad/JOI/JOIOC%2013-synchronization.cpp

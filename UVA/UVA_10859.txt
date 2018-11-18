@@ -1,6 +1,8 @@
 Can be solved in 2 ways:
 
-1) Dp solution for a vertex cover problem in a tree. See https://github.com/yelghareeb/problem_solving/blob/master/UVA/UVA_10859.cpp
+1) Dp solution for a vertex cover problem in a tree. 
+	https://github.com/yelghareeb/problem_solving/blob/master/UVA/UVA_10859.cpp
+	https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/UVA/10859.cpp
 
 
 2) A nice trick: For: minimizing a pair(a,b) is like minimizing a*x + b where x is the max difference possible between them. Using this trick, you can just do some DFS calls.
