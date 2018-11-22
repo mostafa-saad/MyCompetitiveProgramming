@@ -1,0 +1,4 @@
+https://github.com/OmarHashim/Competitive-Programming/blob/master/CodeForces/CF101177-GYM-D.cpp
+https://github.com/AliOsm/CompetitiveProgramming/blob/master/CodeForces%20Gyms/2016-2017%20ACM-ICPC%2C%20South%20Pacific%20Regional%20Contest%20(SPPC%2016)/D.%20Dendroctonus.cpp
+
+

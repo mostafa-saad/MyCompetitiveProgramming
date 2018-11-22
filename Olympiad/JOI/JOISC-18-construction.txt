@@ -1,0 +1,11 @@
+1- HLD
+	https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/JOI/JOISC18-construction.cpp
+	
+	https://oj.uz/submission/44000
+		Detailed explantation here by zscoder: https://codeforces.com/blog/entry/58433
+		
+		
+
+2- link-cut tree
+
+2- binary lifting and segment tree

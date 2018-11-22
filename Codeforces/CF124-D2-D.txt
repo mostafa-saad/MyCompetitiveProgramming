@@ -1,9 +1,10 @@
-This is the popular Manhattan 2D Rotation (chebyshev distance to mahnattan). There is are ~10 problem that uses this trick, so good to understand it.
+The solution to this problem is based on chebyshev distance to mahnattan conversion.
 	Distance types: https://lyfat.wordpress.com/2012/05/22/euclidean-vs-chebyshev-vs-manhattan-distance/
 
-Check editorials for explantation. 
+This is hilghy releated to the popular Manhattan 2D Rotation (chebyshev distance to mahnattan).
+	Check editorials for explantation. 
 
-Topcoder has 2 problems with the trick. Regardless the problems, 
-	the editorials have good explantation, visualization and some extra propoerties. Don't solve the problems.
-		SRM577-D1-500	http://apps.topcoder.com/wiki/display/tc/SRM+577#EllysChessboard
-		SRM573-D1-1000	http://apps.topcoder.com/wiki/display/tc/SRM+573#WolfPack
+	Topcoder has 2 problems with the trick. Regardless the problems, 
+		the editorials have good explantation, visualization and some extra propoerties. Don't solve the problems.
+			SRM577-D1-500	http://apps.topcoder.com/wiki/display/tc/SRM+577#EllysChessboard
+			SRM573-D1-1000	http://apps.topcoder.com/wiki/display/tc/SRM+573#WolfPack

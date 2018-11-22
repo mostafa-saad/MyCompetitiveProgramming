@@ -1,0 +1,22 @@
+JOISC 17 General Materials
+--------------------------
+Basic Hints:			https://codeforces.com/blog/entry/51010
+Japenese Editorial: 	https://www.ioi-jp.org/camp/2017/2017-sp-tasks/index.html
+	
+Contest at AtCoder (To see more AC codes)
+	https://joisc2017.contest.atcoder.jp/
+	
+	
+	
+--------------------------	
+	
+	
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/JOI/PortFacility2017.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17-Port_Facility.cpp
+
+
+
+Can be done using only DSU too (no segment tree)
+	https://oj.uz/submission/77895
+
+

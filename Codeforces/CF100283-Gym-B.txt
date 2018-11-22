@@ -1,0 +1,2 @@
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/Codeforces/CF100283-Gym-B.cpp
+https://raw.githubusercontent.com/eveningqwq/oo/master/CodeForces/CF-100283-B.cpp

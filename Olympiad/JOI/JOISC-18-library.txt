@@ -1,0 +1,8 @@
+I am not aware of an OJ (OJ makes it private), See if easy to use the uploaded IO: https://www.ioi-jp.org/camp/2018/2018-sp-tasks/index.html
+
+
+Sol
+	See Question: Can someone please tell me how to solve day 4 interactive task Library? I
+		https://codeforces.com/blog/entry/58433
+		
+	https://ivaniscoding.wordpress.com/2018/08/23/divide-and-conquer-3-library/

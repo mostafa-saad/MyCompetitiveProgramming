@@ -1,0 +1,2 @@
+https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/11997%20-%20K%20Smallest%20Sums.cpp
+https://github.com/thackerhelik/UVA/blob/master/11997.cpp

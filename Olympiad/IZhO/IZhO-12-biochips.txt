@@ -1,0 +1,2 @@
+https://github.com/zoooma13/Competitive-Programming/blob/master/biochips.cpp
+https://github.com/tsouza0/CompetitiveProgramming/blob/master/Olympiads/IZHO/12/biochips.cpp

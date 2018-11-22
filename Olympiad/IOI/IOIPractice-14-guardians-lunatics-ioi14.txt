@@ -2,7 +2,9 @@ Study the different approaches at editorial
 	https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14/editorial
 	
 O(LG) Knuth optimization
+	http://codeforces.com/blog/entry/8219
 	https://github.com/gs15120/CompetitveProgrammingDirectories/blob/master/Hackerrank/HACKER%20guardians-lunatics
 
-dp_divide and conquer optimization
+dp_divide and conquer optimization   O(L * G * log L)
+	https://github.com/radoslav11/CompetitiveProgramming/blob/master/HackerRank/guardians-lunatics-ioi14.cpp	
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/HackerRank/guardians-lunatics-ioi14.cpp
