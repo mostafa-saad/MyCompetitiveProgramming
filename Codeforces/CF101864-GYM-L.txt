@@ -1,0 +1,2 @@
+https://ideone.com/6W9fnO
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CodeforcesGym/CF101864-GYM-L.cpp

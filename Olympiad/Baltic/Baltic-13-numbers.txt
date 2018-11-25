@@ -1,0 +1,2 @@
+https://github.com/win11905/submission/blob/master/BOI/13/numbers.cpp
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/Baltic/13-numbers.cpp

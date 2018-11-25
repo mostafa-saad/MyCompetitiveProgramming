@@ -1,4 +1,5 @@
 https://github.com/Omaar22/CompetitiveProgramming/blob/master/HackerRank/HACKR%20meeting-point.cpp
+https://github.com/miguelAlessandro/CompetitiveProgramming/blob/master/HACKR/meeting_point.cpp
 https://github.com/KhaledSami/hackerrank/blob/master/meeting_point.cpp
 https://github.com/teja349/Competitive-Programming/blob/master/Hackerrank/meeting-point.cpp
 https://github.com/shanto86/Training/blob/master/Hackerrank/HACKR%20meeting-point.cpp

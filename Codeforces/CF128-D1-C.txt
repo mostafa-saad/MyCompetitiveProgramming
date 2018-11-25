@@ -1,0 +1,8 @@
+Combinatorics
+	https://codeforces.com/blog/entry/3193   (search for Problem C)
+	https://codeforces.com/blog/entry/55932
+	https://codeforces.com/blog/entry/3219
+	
+DP
+	https://github.com/aryanc403/CompetitiveProgramming/blob/master/Codeforces/CF128-D1-C.cpp
+	

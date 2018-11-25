@@ -1,0 +1,2 @@
+https://github.com/Yehezkiel01/CompetitiveProgramming/blob/master/APIO/APIO-08-DNA.cpp
+https://github.com/ShabdanBatyrkulov/codee/blob/master/APIO%2008-DNA.cpp

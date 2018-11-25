@@ -1,0 +1,2 @@
+https://github.com/zoooma13/Competitive-Programming/blob/master/hangman2.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/RMI/RMI%2017-D1-Hangman2.cpp

@@ -1,0 +1,2 @@
+https://github.com/aviroop123/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20BAABO.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/SPOJ/BAABO.cpp
