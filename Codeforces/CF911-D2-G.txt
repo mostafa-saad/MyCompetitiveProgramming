@@ -1,0 +1,9 @@
+Segment tree
+	https://github.com/racsosabe/CompetitiveProgramming/blob/master/CodeForces/CF911-D2-G.cpp
+	
+	
+Sqrt decomposition
+	https://github.com/adarshkr532/CompetitiveProgramming/blob/master/Codeforces/CF911-D2-G.cpp
+	
+	
+A brute force may pass too

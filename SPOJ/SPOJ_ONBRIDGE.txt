@@ -1,0 +1,6 @@
+Finding Bridges Online
+	https://cp-algorithms.com/graph/bridge-searching-online.html
+	
+	https://github.com/enrevol/cpp/blob/master/spoj-vn/ONBRIDGE.cpp
+	https://github.com/aviroop123/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20ONBRIDGE.cpp
+	

@@ -1,0 +1,5 @@
+dp, dp_probability, dp_expectation
+	https://github.com/sggutier/CompetitiveProgramming/blob/master/HackerRank/connect-the-country.cpp
+
+graph, randomization, probability
+	https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/hackerrank/connect-the-country.cpp

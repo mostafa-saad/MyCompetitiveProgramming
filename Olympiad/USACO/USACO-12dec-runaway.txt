@@ -1,0 +1,2 @@
+https://github.com/ShabdanBatyrkulov/codee/blob/master/USACO%2012dec-runaway.cpp
+https://github.com/updown2/OI-Practice/blob/master/USACO/2012-2013/December/Gold/Running%20Away.cpp

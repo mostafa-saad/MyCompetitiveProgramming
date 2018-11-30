@@ -1,0 +1,2 @@
+https://codeforces.com/blog/entry/8149
+https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/SPOJ/SPOJ-HOLI.cpp

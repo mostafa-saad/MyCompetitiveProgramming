@@ -1,0 +1,17 @@
+BOI 2006
+
+Task Name: Jump
+Task Title: Jump the Board!
+
+Spoiler:
+This task is a pretty classical one.  You should go for it with Dynamic Programming. 
+However, the number limitation is such that you need to implement your own bignums to solve all test cases.  
+
+Test cases such that 
+- about one third of the total score can be achieved with a recursive solution.
+- about another third can be achieved with a DP solution using 32-bit integers
+- the last third can only be achieved with a DP solution and a bignum implementation  
+  (that means, this third should not be achieved with a 64-bit integer like it might be offered by the 
+  compiler or the STL available).
+
+

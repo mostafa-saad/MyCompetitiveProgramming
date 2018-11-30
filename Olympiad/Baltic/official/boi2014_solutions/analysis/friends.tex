@@ -1,0 +1,25 @@
+
+Quadratic solution (35 points):
+
+We try removing all of possible N letters, thus simulating all possible cases of string T. 
+For each letter, we construct a new string T', which contains the final string with one letter deleted. 
+We check if T' is of the form S'S', and add S' as one of posible answers.
+Depending on how many different answers we found, we output the result. 
+
+Complexity: For each of N letters we match strings of length (N-1)/2, thus complexity
+is O(N^2).
+
+Linear solution (100 points):
+
+The key observation is to notice that the initial string S, could only be in two of the positions:
+either U[1..(N-1)/2], if the letter was inserted after a first copy of inital string S,
+or U[(N-1)/2 + 1 .. N] if the letter was inserted before a second copy of initial string S. 
+
+We have to check both cases, to see if initial string S is valid. We match it symbol-by-symbol with
+remaining substring of U, to see if they only differ by one symbol. 
+
+Yet again, depending on how many different answers we found, we output the result.
+
+Complexity: We match two strings of length (N-1)/2 two times, thus complexity is O(N).
+
+

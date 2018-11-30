@@ -1,0 +1,62 @@
+Solution 1 (9 points):
+
+We try all possible N values (starting from smallest - 1).
+With each N, we check if it is the answer using brute-force - checking if all sequence numbers contains required digits.
+
+Time complexity: O(N*K).
+
+N - correct answer.
+
+Since K <= 1000 and N <= 1000 in the first subtask, this solution is enough for it. 
+
+
+
+Solution 2 (25 points):
+
+We are assuming that all elements of the given sequence are equal (subtask 3).
+Lets donate this digit as d.
+
+If 1 <= d <= 8, than our answer N = d*10^x = d0..0.
+
+If d = 9, than N = 8..89 (some number of digits '8' and one digit '9' at the end).
+
+If d = 0, than N = 10^x = 10..0.
+
+The length of N depends on K.
+For example, if K = 5 and our sequence is '3 3 3 3 3', than d = 3 and N = d0..0 = 30..0 = 30.
+If K = 11 and d = 3, than N = d0..0 = 30..0 = 300.
+
+Time complexity: O(1).
+
+
+
+Solution 3 (100 points):
+
+We'll solve our task by solving a more complex task first: for each i-th sequence element we'll declare sequence A_i.
+A_i is the sequence of digits which i-th sequence element has to have.
+For our initial task, A_i = {d_i}, where d_i - ...
+
+Lets donate N = (X)y, where y = N mod 10 is the last digit and X = N div 10.
+Now we have to try all possible y values (0, 1, ..., 9).
+After we have locked y value with one of possible values, our sequence looks like this: (X)y, (X)y+1, ..., (X)8, (X)9, (X+1)0, (X+1)1 ..., (X+1)8, (X+1)9, (X+2)0, ...
+After removing last digit, we get sequence X, ..., X, X+1, ..., X+1, X+2, ...
+
+What digits does X has to have?
+(X)y has A_1, so X must have A_1 \ {y}. (X)(y+1) has A_2, so X must have A_2 \ {y+1} and so on.
+
+By merging these requirements, we can get a new sequence of sets B_1, B_2, ...
+B_1 declares required digits for X, B_2 - for (X+1) and so on.
+We repeat the same steps with our new sequence.
+What happens when we repeat these steps?
+We started with sequence length K, so after first step our new sequence length will be not bigger than [K/10]+1.
+So after log K steps our sequence will be of length 1 or 2 - at this step we can produce the answer.
+
+Time complexity: O(K*log K)
+
+
+
+Solution 4 (42 points):
+
+If the previous solution is programmed inefficiently, it is possible to acquire an O(K^2) solution.
+
+Time complexity: O(K^2).

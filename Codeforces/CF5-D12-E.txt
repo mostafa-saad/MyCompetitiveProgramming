@@ -1,0 +1,5 @@
+BIt, Counting
+	https://github.com/miguelAlessandro/CompetitiveProgramming/blob/master/codeforces/CF5-D12-E
+	
+DP, Compression
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF5-D2-E.cpp

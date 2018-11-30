@@ -1,0 +1,96 @@
+Solution
+
+With the task calling for any convex polygon as the output, there can be
+many different ways to approach this task.
+
+The one taken by the example solution is to try to lay out the vertices
+on a circle. In this case, there are three possibilities that the program
+must handle:
+- if the longest edge is at least as long as the others combined, then
+  there's no solution;
+- if the longest edge of the polygon is "sufficiently long", the center
+  of the circle will be outside of the polygon; in this case, we will
+  say the polygon is "thin";
+- otherwise, we will say the polygon is "round".
+
+As we don't have a way to compute the correct diameter of the circle at
+once from the edge lengths, we start from a known minimum (for the polygon
+to fit in the circle, the diameter must not be less than the length of the
+longest edge), and keep doubling the radius until we get a circle too big.
+After that we can find the correct size of the circle using binary search
+between the last too small and the first too big.
+
+Let's first consider the case when the polygon is "round": if all edges
+have equal lengths (say, A), then we start from the diameter A, and end
+up with the diameter of about N*A/pi. Therefore, there may be no more
+than O(log(N)) doublings needed, with O(N) work to be done for each
+doubling.
+
+In the "thin" case, the diameter of the circle grows as the polygon gets
+thinner. Therefore, the worst case occurs when the difference between the
+length of the longest edge and the total of others is minimal, that is,
+when we have the edge lengths 10000, 5000, and 5001. It may be computed
+even with just pencil and paper that in this case the final diameter of
+the circle is about 35 times the initial, which means only about log(35)
+doublings, which is even less than for the worst "round" case.
+
+Thus, in the worst case, the first too big diameter is about 2*N*A/pi,
+and we have to perform the binary search in a range of size N*A/pi. If
+we estimate the required precision P of the diameter to be about the
+same as the required precision of the edge lengths, this means we have
+to perform O(log(N*A/P)) steps in the search, with O(N) work to be done
+for each step.
+
+Altogether we have to perform about N*log(N*A/P) operations, which is
+about 30,000 under the limits given for N, A, and P in the task text.
+Even considering the operations are rather expensive (with each one
+containing several steps of floating-point computations, function
+calls, etc), the algorithm is still quite efficient.
+
+Tests
+
+Each test case is worth 10 points.
+The largest cases run in about 0.1 seconds on a 2 GHz Celeron.
+
+Case 01:
+   N = 3, a[i] <= 10.
+   Minimal case: an almost isosceles triangle.
+
+Case 02:
+   N = 6, a[i] <= 10.
+   Small easy case: a regular hexagon.
+
+Case 03:
+   N = 30, a[i] <= 100.
+   Medium-sized random test case.
+
+Case 04:
+   N = 1000, a[i] <= 10000.
+   Large random test case.
+
+Case 05:
+   N = 1000, a[i] <= 10000.
+   Maximal "round" test case.
+
+Case 06:
+   N = 4, a[i] <= 10.
+   A borderline between "round" and "thin": half of a regular hexagon.
+
+Case 07:
+   N = 5, a[i] <= 10.
+   Small "thin" test case.
+
+Case 08:
+   N = 4, a[i] <= 10000.
+   Extreme "thin" test case.
+
+Case 09:
+   N = 1000, a[i] <= 10000;
+   Maximal "thin" test case.
+
+Case 10:
+   N = 1000, a[i] <= 10000.
+   Large negative ("NO SOLUTION") test case.
+
+Case x1:
+   Example from the task description, not graded.

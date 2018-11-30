@@ -1,0 +1,27 @@
+https://github.com/ajfabian/Competitive-Programming/blob/master/SPOJ/SPOJ%20MSTS/a.cpp
+
+Misof (https://apps.topcoder.com/forums/?module=Thread&threadID=626113)
+	I think it can be done as follows: Split the edges into sets according to their cost. Then, for each cost starting with the smallest one, consider those edges only. 
+	They form several components. For each such component, compute the number of spanning trees using the Matrix Tree Theorem 
+	(this is the number of ways to pick some of these edges into the MST when doing Kruskal's algorithm), multiply the result by this value, 
+	and then merge the component into a single vertex.
+
+	Initialize union-find table so that each vertex is in its own component, sort edges according to length.
+
+	When processing a set of edges with the same length:
+	- use the union-find data structure to get the current vertex for each endpoint of these edges
+	- build a graph that contains these edges only
+	- use BFS to find components
+	- for each component, compute its number of spanning trees (*1)
+	- for each component, apply union on all its vertices
+
+	Note that 31011 = 3 * 10337 is not prime. Thus we need to compute two determinants -- one modulo 3, and one modulo 10337. To compute the determinants I used Gaussian elimination.
+
+	The value (D mod 3*10337) is uniquely determined by A=(D mod 3) and B=(D mod 10337).
+	As 31011 is small, you can simply loop over all values from 0 to 31010 and take the one that matches both moduli.
+
+	(Or you can just check the values B, B+10337 and B+2*10337, exactly one of them will give the correct remainder modulo 3.)
+
+		
+
+https://blog.csdn.net/liguan1/article/details/9532315

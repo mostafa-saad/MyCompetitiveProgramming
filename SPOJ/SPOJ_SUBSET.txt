@@ -1,0 +1,2 @@
+https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/spoj/SUBSET.cpp
+https://discuss.codechef.com/questions/51792/spoj-subset-subset-generating

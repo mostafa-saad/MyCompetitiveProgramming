@@ -1,0 +1,3 @@
+http://blog.brucemerry.org.za/2018/01/coci-20172018-r5-analysis.html
+
+https://github.com/zoooma13/Competitive-Programming/blob/master/pictionary.cpp

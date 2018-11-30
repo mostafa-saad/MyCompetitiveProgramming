@@ -1,0 +1,50 @@
+BOI 2006
+SPOILER FOR TASK PROPOSAL "COUNTRIES"
+
+
+The story is swashbucklin' exciting, but once the reader discovers
+from it what should be computed, the algorithm is straightforward.
+
+The solution sketched below has O(N^2) time complexity. Note that
+already computing the distances between the input cities takes this
+long.
+
+For each city i, compute the influence exerted by each other city to
+its location (x_i,y_j). Select from them the city j with a maximal
+influence, along with a flag telling whether or not there were several
+equally influential choices. Then we can mark the city i as follows:
+
+(i) If the influence of city j is no more than the number s_i of
+soliders in city i, then city i is marked as the capital of a kindgom.
+
+(ii) Otherwise if there were several choices for j, then city i is
+marked as the capital of a democracy.
+
+(iii) Otherwise city i is marked as surrendering to city j.
+
+Based on these marks, the output for each city i=1...N can be printed
+as follows:
+
+(i) If city i is marked as a capital of a kingdom, print 'K'
+
+(ii If city i is marked as a capital of a democracy, print 'D'
+
+(iii) Chase the chain of marks i surrenders to j, j surrenders to k, k
+surrenders to l,... until you reach the capital at the end of the
+chain; then print (the number of) the capital reached. 
+
+Such chains are free of loops: All distances are at least 1 and
+threatening requires strictly greater influence than the number of
+soldiers, so a loop would mean that some city has strictly more
+soldiers than it has.
+
+The total time spent on all chases can be brought down to O(N) by
+storing the intermediate results for later use, but this is not
+required, since time O(N^2) has already been spent anyway.
+
+Regarding programming, the influences should be computed as fractions
+instead of floating-point numbers in order to avoid possible rounding
+errors. The given maximum values avoid 32-bit integer wraparound
+errors in these fractional comparisons.
+
+

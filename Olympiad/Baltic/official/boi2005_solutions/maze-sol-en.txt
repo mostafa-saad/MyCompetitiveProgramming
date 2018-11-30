@@ -1,0 +1,17 @@
+MAZE Solution
+
+Since W and H are fairly small and each vertex has at most six neighbors, 
+we can construct a graph which would consist of “black“ and ”white“ vertices. 
+Each vertex in the maze will be represented by two vertices (black and white) 
+in the graph. If a vertice is reached after passing a white circle, then it is 
+white, if after passing a black circle – it is black. 
+
+While reading the input data, we connect ”black“ vertices with adjacent 
+”white“ ones if there exists an edge with white circle connecting them, 
+and vice versa. No two vertices of the same “color” are connected directly 
+which implies that moving in this graph satisfies the rule of alternating 
+circles. We then perform breadth-first search starting from entry vertices 
+(both “black” and “white”). The answer is the smaller value of distances 
+of “black” and “white” exit vertices.
+
+The task is easy if one finds a clever way to represent the graph. 

@@ -1,0 +1,90 @@
+Solution
+
+For each bus line, save the earliest departure time (start time), the
+latest arrival time (finish time), and the maximum waiting time (the
+maximum time we have to wait in bus stops during the time interval
+from start to finish time, if we take the current bus line).
+
+For each town we maintain a dynamically sized array (such as C++
+vector) of states. The array contains a sorted list of times when we
+can arrive at the town paired with total waiting time till that point.
+If we need to be in a certain town at time t, we can use binary search
+to find the latest time u in the list not later than t, and add the
+additional waiting time t-u to the waiting time at time u. Whenever we
+add a state to the list (states are always added in increasing order
+by time) we check whether we can get a smaller waiting time by
+starting from the latest state in the list and waiting till current
+time. If we can, we do not add the state to the list.
+
+Instead of using dynamically sized arrays, we may calculate the sizes
+of the arrays and allocate memory for them at the beginning of the
+program. State array for town i may not contain more elements than the
+number of bus lines that arrive in town i, plus one for town 1. So the
+total size of the arrays is O(M).
+
+We sort the bus lines in nondecreasing order by finish time. If some
+bus finishes at a certain time, the next bus we take cannot start
+earlier than that time, so we may consider the bus lines in the sorted
+order. For each bus line, find using the state array of the source
+town the waiting time till the start time of the bus line and add the
+finish time to the state array of the destination town. If the finish
+time is later than T, we may skip the bus line.
+
+After we have considered all bus lines, we check if the state array
+for the town P contains any elements. If it does, we can find the
+waiting time till time T using the latest state in the array.
+Otherwise it is not possible to guarantee arrival in town P by time T.
+
+Time complexity: O(M log M)
+Memory complexity: O(M+N)
+
+Tests
+
+Each test case is worth 10 points.
+The largest cases run in 0.9 seconds on a 700 MHz Pentium III.
+
+Case 01:
+   N=3, M=7
+   Similar to example 1.
+
+Case 02:
+   N=3, M=11
+   Must wait in town 1 all the time, cannot take any buses.
+
+Case 03:
+   N=5, M=13
+   Tests if equal times are treated correctly in the state array and the binary search.
+
+Case 04:
+   N=50000, M=100000
+   50002 bus lines arrive in the same town. Should break an O(N*M) memory solution.
+
+Case 05:
+   N=2, M=100
+   Random test case.
+
+Case 06:
+   N=2, M=1000
+   Random test case.
+
+Case 07:
+   N=2, M=10000
+   Random test case.
+
+Case 08:
+   N=2, M=100000
+   Random test case.
+
+Case 09:
+   N=1, M=100000, T=4000
+   Random test case, small T.
+
+Case 10:
+   N=50000, M=100000
+   Random test case, negative answer.
+
+Case x1:
+   Example 1 from the task description, not graded.
+
+Case x2:
+   Example 2 from the task description, not graded.

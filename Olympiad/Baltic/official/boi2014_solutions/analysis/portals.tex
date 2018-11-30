@@ -1,0 +1,21 @@
+First, we notice that we can fire portal to which we will enter just before entering it - standing next to any wall, we can fire a portal and walk into it. So if we want to know the how long does it take to travel to portal we just fired, we just have to compute distance to nearest wall block. To do that efficiently, we can do breadth first search from all wall blocks to each open square. But we can avoid that by noticing that we can fire portal from which we want to exit after walking towards or from it until nearest wall is directly in one of the four directions (up, left, down and right). Hence we can assume that it is only worth firing two portals from the same square, then going to one of them end exit to another one.
+So we can compute minimum time to reach the cake by performing Dijkstra algorithm, in which we can go from each open square to adjacent open squares with distance 1, and to four open squares next to which we can fire portals, with distance minimum of distances to walk to walls behind them. To compute their locations and distances to them efficiently, we can go through the map before performing Dijkstra, looking to already computed location of required square from adjacent square in corresponding direction.
+Complexity - O(RC) or O(RC log(RC)).
+
+Partial solutions
+
+Subtask 1 (11 points):
+Breadth first search with storing both portals positions.
+Complexity - O((RC)^3).
+
+Subtask 3 (20 points):
+Assuming that there is at least one wall block adjacent to each open square, after firing portal, we can fire portal to a wall adjacent to us and enter it. So solution in this case is breadth first search, in which from each open square we can go to adjacent open squares as well as four open squares next to which we can fire portals.
+Complexity - O(RC) or O(RC(R+C)) (depends whether we have precomputed where to fire portals).
+
+Subtasks 1 and 2 (31 points):
+If we notice only that we can fire one portal just before entering it, we can do breadth first search, storing position of one portal.
+Complexity - O((RC)^2).
+
+Subtasks 1, 2, 3 and 4 (70 points):
+Same as full solution, just without precomputing where to fire portals.
+Complexity - O(RC(R+C)).

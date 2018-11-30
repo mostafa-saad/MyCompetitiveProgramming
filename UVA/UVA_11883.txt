@@ -1,13 +1,20 @@
-BFS, Math
+BFS
 	https://github.com/jebouin/CompetitiveProgramming/blob/master/UVA/UVA%2011883.cpp
 	
-ternary search
+	
+Dijkstra, ternary search
 	https://github.com/yazanKabbany/CompetitiveProgramming/blob/master/UVA/UVA%2011883.cpp
-
-
-
-Floyd
+	
 	Mohamed Anany: get the shortest path from the source to all nodes and the same for the destination you can do that using floyd or dijkstra
-	 then grab each edge, now it's easy enough to see that the cost is the minimal of 
-	 dist[1][u] + dist[v][n] + (v[i]/f(x)) where f(x) = a[i] ^ x over all edges, now the thing that was just the result intuition 
-	 that f(x) is actually a Concave function so we can easily ternary search on the x.
+		then grab each edge, now it's easy enough to see that the cost is the minimal of 
+		dist[1][u] + dist[v][n] + (v[i]/f(x)) where f(x) = a[i] ^ x over all edges, now the thing that was just the result intuition 
+		that f(x) is actually a Concave function so we can easily ternary search on the x.
+
+Dijkstra, math
+	https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/UVA/11883.cpp
+
+
+
+
+
+	

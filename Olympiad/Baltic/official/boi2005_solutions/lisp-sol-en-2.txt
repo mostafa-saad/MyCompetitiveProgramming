@@ -1,0 +1,63 @@
+BOI 2005: SPOILER FOR "MAGIC PARENTHESIS"
+
+
+We get a linear-time algorithm via the following result:
+
+
+THEOREM: If a string can be balanced by choosing suitable values for
+its magic parentheses ']', then it can be balanced in a way which
+chooses 1 for all but the last (rightmost) magic parenthesis ']'.
+
+PROOF: Consider the nondeterministic pushdown automaton accepting the
+correctly parenthesized strings without magic parentheses. Incorporate
+magic parentheses into it by guessing nondeterministically the correct
+number of opening parentheses '('to pop whenever a magic parenthesis
+is read.
+
+Consider any accepting computation A of this automaton. Consider any
+stage P where a magic parenthesis is read, more than one pops are
+guessed for it, and the input still contains another magic
+parenthesis. Let Q be the subsequent stage where this next magic
+parenthesis is read. Modify this computation to guess one less pop at
+stage P and one more pop at stage Q. This modified computation B is
+accepting as well: (i) Before stage P B proceeds exactly as A. (ii)
+Between stages P and Q (inclusive) B proceeds as A except that the
+stack has one more opening parenthesis, and this extra parenthesis
+cannot cause B to reject due to the structure of this automaton. (iii)
+After stage Q B again proceeds exactly as A.
+
+The result follows  by iterating the argument above until no suc stage
+P exists. QED
+
+
+The automaton used in the proof yields the following algorithm:
+
+sd = stack depth, or the number of opening parentheses in the stack
+
+ml = the number of closing parentheses guessed for the last magic
+parenthesis read
+
+mc = the number of magic parentheses read
+
+
+sd:=0;
+ml:=0;
+mc:=0;
+accepting:=TRUE;
+WHILE accepting AND the next input character C is not the terminator DO
+      CASE C OF
+	   '(': sd:=sd+1;
+	   ')': IF sd>0 THEN sd:=sd-1
+		ELSE IF ml>1 THEN ml:=ml-1
+		ELSE accepting:=FALSE
+           ']': IF mc=0 THEN
+		   IF sd>0 THEN mc:=1;ml:=sd;sd:=0
+		   ELSE accepting:=FALSE
+                ELSE IF ml>1 OR sd>0 THEN mc:=mc+1;ml:=ml-1+sd;sd:=0
+		ELSE accepting:=FALSE
+IF accepting THEN
+   PRINT 1;
+   FOR m:=1 TO mc-1 DO
+       PRINT 1;
+   PRINT ml
+ELSE PRINT 0.

@@ -1,0 +1,3 @@
+https://www.ioi2011.or.th/hsc/tasks/solutions/garden.pdf
+https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202011/Tropical%20Garden.cpp
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/IOI/11-Garden.cpp

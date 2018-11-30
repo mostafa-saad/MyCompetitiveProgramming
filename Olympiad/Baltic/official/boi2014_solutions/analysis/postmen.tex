@@ -1,0 +1,32 @@
+
+We are given a graph G, and we want to split it in cycles, such that:
+ -In each cycle, each vertex is visited only once (except for the first vertex of the cycle).
+ -Each edge of the graph is in exactly one cycle. 
+
+They key observation to solve the problem is that a graph can be split in such cycles if and only if
+the degrees of all vertices are even. Knowing this we can find any cycle in graph, remove it from the graph
+(operation does not change the parity of degrees of vertices), save the cycle as an answer, and continue
+looking for cycles, while there are still edges left. 
+
+This can be implemented in O(N + M) time with a modified Depth-first traversal algorithm:
+
+We spread from initial vertex, until we find a visited vertex, which means, we found a cycle. We
+traverse back, removing edges of the cycle and then we continue to look for cycles. 
+
+The only question we have left to answer is the following: how do we store edges?
+
+Solution 1 (38 points):
+We store a boolean adjecency matrix.
+Time and memory complexity: O(N^2).
+
+Solution 2 (55 points):
+We store adjecency lists and a set of pairs of integers, where we store removed edges. 
+Time complexity O(M log M), Memory complexity O(N + M)
+
+Solution 3 (100 points):
+We store a list of edges e[0], e[1], ..., e[M], and adjecency lists for each vertex, 
+linking to original list of edges. Now we can mark edges as removed in original list
+of edges, thus checking if edge is removed in O(1)
+
+Overall time and memory complexity: O(N + M).
+

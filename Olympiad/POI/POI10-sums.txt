@@ -10,5 +10,6 @@ See Solution By Mohamed Nasser
 		
 	100 points sol
 		https://github.com/jebouin/CompetitiveProgramming/blob/master/Olympiad/POI/POI10%20sums.cpp	 [with notes]
+		https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/POI/POI10-sums.cpp  [with notes]
 		https://github.com/OmarHashim/Competitive-Programming/blob/master/Other/POI/10sums.cpp
 		

@@ -1,0 +1,31 @@
+ANCIENT
+
+Uþdavinys sprendþiamas generuojant visus variantus bei taikant dinaminá programavimà,
+kad neperskaièiuoti visko ið naujo.
+
+Sudaroma dinaminë lentelë lent[i1, r, i2, i3, i4, i5];
+Ji reiðkia, variantø skaièiø, keliais galima uþbaigti uþpildyti frazæ, jei:
+- jau uþpildyta iki i1-osios raidës imtinai;
+- i1-oji raidë yra r;
+
+Skaièiuojant nuo i1-osios raidës atgal (mums neádomu kas darosi þodþio pradþioje
+tik tai kas ties pabaiga, t.y. ties ta vieta, nuo kur reikës pildyto toliau) yra
+
+    - i2 vienodø ið eilës einanèiø priebalsiø
+    - i3 ið eilës einanèiø priebalsiø
+    - i4 vienodø ið eilës einanèiø balsiø
+    - i5 ið eilës einanèiø balsiø
+  
+Pavyzdþiui, pradinë frazë **y*af**
+Rekursiniu bûdu jà uþpildëme iki aayb, t.y. 
+  i1=4, 
+  r='b', 
+  i2=1 (baigiasi viena vienoda priebalse 'b')
+  i3=2 (baigiasi dviem priebalsëm 'yb');
+  i4=0 (balsiø gale nëra);
+  i5=0;
+  
+Vietoj visø * bandome ástatyti visas ámanomas raides nuo 'a' iki 'z'. Ástatæ kiekvienà 
+raidæ patikriname ar tai galima padaryti (t.y. ar nevirðijamos nustatytos normos).   
+Ir pildome lentelæ. Jei reikðmæ galime pasiþiûrëti ið lentelës, imame jà ið ten. 
+O jei ne - ji apskaièiuojama rekursiðkai ir iðsaugoma lentelëje.
