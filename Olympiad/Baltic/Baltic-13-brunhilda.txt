@@ -1,0 +1,5 @@
+https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/BalticOI/Baltic-13-brunhilda.cpp
+
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2013_solutions/brunhilda-sol.pdf
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2013_solutions/numbers-sol.cpp

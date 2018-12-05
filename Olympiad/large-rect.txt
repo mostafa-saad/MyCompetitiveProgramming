@@ -1,0 +1,31 @@
+This is the largest empty rectangle problem: Given binary matrix, find the max sub-rect with all zeros
+	If N = 100, we can use the general maximum sub-rectangle algorithm DP O(N^3) 
+	The special case here, the data is just binary, so how we could solve it?
+	
+	Notice:
+		Sometimes input is 2D array with pos (x, y) to mark a cell 
+		Sometimes input is 2D plane of points (x, y)
+
+Rectangle:	
+	UVA 10043
+		https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/10043.cpp
+		https://blog.csdn.net/u011345136/article/details/38457259
+		http://sound-system-79.blogspot.com/2013/10/uva-10043-chainsaw-massacre.html
+		
+	SPOJ JOCHEF		[all web sols gets WA - something wrong with it?]
+		https://github.com/vfonic/SPOJ/blob/master/jochef.cpp
+		https://github.com/arikj/spoj/blob/master/jochef.cpp
+
+
+N = 10000 - UVa 1312 - largest empty square problem
+	Sweep line like
+		http://www.cnblogs.com/konjak/p/6064907.html
+		http://morris821028.github.io/2015/03/03/uva-1312/		[The algorithm mainly sorts the points on all planes, exhausts the bottom point, and scans the beam in the vertical direction. Do it once for both axes.]
+		https://blog.csdn.net/zyq522376829/article/details/46659785
+		https://wcr1996.com/2016/02/21/uva-1312-cricket-field/
+		https://blog.sengxian.com/solutions/uva-1312	
+		http://www.voidcn.com/article/p-vpzpqrlh-zo.html
+		
+		
+		
+Topcoder ChipArea: SRM357-D1-1000

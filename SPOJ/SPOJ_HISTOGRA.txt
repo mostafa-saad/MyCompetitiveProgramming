@@ -1,3 +1,6 @@
+https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+	Very close problem: https://www.quora.com/What-is-the-algorithmic-approach-to-solve-SPOJ-com-Problem-CTGAME
+
 1) Stack Data structure O(N)
 	https://github.com/guluuu3/spoj/blob/master/histogram.cpp
 	https://github.com/hbdhj/spoj-cpp/blob/master/1805_HISTOGRA.cpp

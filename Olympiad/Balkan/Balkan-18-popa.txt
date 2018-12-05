@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/18/popa_solution.pdf
+	
+	
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Popa/main.cpp

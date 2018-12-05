@@ -1,4 +1,7 @@
 segment tree, lazy propagation, [handle dimensions independently]
+	https://github.com/tanmoy13/CompetitveProgramming/blob/master/Online-Judge-Solutions/SPOJ/IOPC1207%20-%20GM%20plants.cpp
+	
+	
 	Mohamed Anany: the idea is that instead of making a 3rd segment tree we need to only make a segment tree for each dimension where 
 	it makes us able to count the X-dimensions that have red cubes and the same for the Y and the Z, after that the answer would be for
 	 each query clearly be = (redx * redy * redz)->dimensions colored red 3 times + 

@@ -1,5 +1,6 @@
 Sols		https://boi.cses.fi/tasks.php		
 contests	https://cses.fi/boi/list/
+Resuts		https://boi.cses.fi/results.php
 
 Older contests OJ:	https://www.acmicpc.net/category/6
 

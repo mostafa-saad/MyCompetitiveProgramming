@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/18/elections_solution.pdf
+	
+	
+https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan18-election.cpp
