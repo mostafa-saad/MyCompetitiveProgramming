@@ -1,0 +1,8 @@
+Official
+	https://www.oi.edu.pl/old/ioi/downloads/ioi2005-tasks-and-solutions-a5.pdf
+	
+	https://github.com/koosaga/olympiad/blob/master/IOI/ioi05_birthday.cpp
+	
+	
+Binary search O(nlogn), but very optimized to pass
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Birthday/main.cpp

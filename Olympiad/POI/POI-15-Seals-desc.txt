@@ -1,0 +1,44 @@
+Problem Link: https://szkopul.edu.pl/problemset/problem/VbW8KlWy9WK3aYvK55X96X7P/site/
+
+
+If found the problem hard to understand: 
+	Watch: https://www.youtube.com/watch?v=GFJy1HUiV_k
+
+	Or read: By Mohamed Ahmed
+		we have two grids and we need to make any number of copies from second grid
+		to fill the first grid without fill an cell with x for more than one time
+		and without rotating the grid and without fill cell which is outside first
+		cell.
+
+		explanation of sample test cases : 
+		first test case :
+		3 4 4 2
+		xx..   starting of first grid
+		.xx.
+		xx..   ending of first grid
+		x.     starting of second grid
+		.x
+		x. 
+		..     ending of second grid
+		so we can make two copies from second grid to fill first grid.
+		first copy : 
+		1x..
+		.1x.
+		1x.
+		second copy : 
+		12..
+		.12.
+		12..
+		so we fill all x cells in first grid using copies of second grid without
+		violating the rules above so answer is TAK (Yes).
+		second test case : 
+		2 2 2 2
+		xx      starting of first grid
+		xx      ending of first grid
+		.x      starting of second grid
+		x.      ending of second gird
+		so first copy :
+		x1
+		1x
+		we can't make second copy without rotating second grid or fill point outside
+		first grid so answer is NIE (NO).
