@@ -1,0 +1,28 @@
+https://www.udebug.com/LA/7616/hints
+	By Morass
+		Firstly, lets introduce an algorithm for finding cliques, which works pretty good agains inputs that are random (and not crafted) - which is easy. And the we will show its "fitness" for this problem.
+
+		The algorithm is simple: Let us have recursion, with parmeters 3 parameters:
+
+		a) Set of nodes which we can use
+		b) Depth of recursion
+
+		In each "body", let us try following. Iterate over each element of "set of nodes" and for each of them call recursion with "SetOfNodes [INTERSECTION] AdjancedNodesOfElement" and "depth+1". Note that we only add elements "greater" than ID of actual node (by this we avoid cycles + searching for permutations of same clique). By this process we find EVERY possible clique, while "depth" is telling us the size of clique (it is usually necessary for something ;-) ). As you can see, this algorithm will TOUCH every clique and won't have a big overhead.
+
+		Also for this problem similar approach might be fine. As you can see, it will not generate cliques greater than 10 (since at this moment you stop) and alse the worst case are some cliques of size 20 (from statement), so the complexitxy will be A(C(20,10)*5*OVERHEAD) where overhead might be around O(N) or O(N^2) or A(20^2). This might not be enough.. .but as you can see it is "near" so we can simply find a few optimalisations to beat it down.
+
+		Optimalisation A: Use bitset for storage of graf. This way the INTERSECTION will be (well lets say) O(1) (+/-) which is a great help. Yet the iteration over possible "nodes" will cost O(N) [instead of O(20)]
+
+		Optimalisation B: Use some "customisation" of bitset. If you use your own (lets say two long-longs) instead, you can make the iteration in O(20) again by some bit-hacks: __builtin_ffsll, etc...
+
+		Optimalisation C: Finally, obviously you can ommit the last step, goint only to "S-1" instead of "S", since in this "depth" you can simply return the "size of set".
+
+		That shall be enough. Complexity could go to A(C(20,9)*20*5) [the 5 is for maximal number of such 20-cliques in graph] (well maybe it is 21 clique, but then it is: 21,21,21,21,16)
+
+	https://github.com/adarshkr532/CompetitiveProgramming/blob/master/LiveArchive/7616.cpp
+	
+==================================
+
+  because the degree of node at most 20 so we will back track from each node and 
+  get all possible graph with size = S and keep in mind the repetition of graphs  
+	https://github.com/ahmedsamir221/CompetitiveProgramming/blob/master/LiveArchive/7616.cpp

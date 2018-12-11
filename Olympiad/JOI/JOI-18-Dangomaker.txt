@@ -1,3 +1,4 @@
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/JOI/DangoMaker2018.cpp
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18-Dango_Maker.cpp
 https://github.com/tsouza0/CompetitiveProgramming/blob/master/Olympiads/JOI/dangomaker.cpp
+https://github.com/sjhuang26/competitive-programming/blob/master/japan/JOI18_dango_maker.cpp

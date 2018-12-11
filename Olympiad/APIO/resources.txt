@@ -1,0 +1,9 @@
+http://apio-olympiad.org/year/
+	E.g. http://apio-olympiad.org/2016/
+	
+Different judges has some of the data
+	E.g. APIO 11-Path	
+			https://dunjudge.me/analysis/problems/1232/
+			https://www.acmicpc.net/category/detail/221
+			https://tioj.ck.tp.edu.tw/problems/1749
+			

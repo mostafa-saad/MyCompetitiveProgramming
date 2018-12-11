@@ -20,3 +20,4 @@ Equation
 
 Binary Search
 	https://github.com/morris821028/UVa/blob/master/volume108/10830%20-%20A%20New%20Function.cpp
+	https://github.com/Coder-Boy1/UVA/blob/master/10830

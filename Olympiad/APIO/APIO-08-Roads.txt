@@ -1,3 +1,6 @@
+Official
+	http://apio-olympiad.org/2008/solutions.pdf
+	
 MST, Greedy as official sol
 	https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/APIO/08-Roads.cpp
 	

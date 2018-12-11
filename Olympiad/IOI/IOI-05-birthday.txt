@@ -2,6 +2,7 @@ Official
 	https://www.oi.edu.pl/old/ioi/downloads/ioi2005-tasks-and-solutions-a5.pdf
 	
 	https://github.com/koosaga/olympiad/blob/master/IOI/ioi05_birthday.cpp
+	https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202005/Birthday.cpp
 	
 	
 Binary search O(nlogn), but very optimized to pass
