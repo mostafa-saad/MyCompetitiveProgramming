@@ -1,10 +1,13 @@
 By hogloid (https://codeforces.com/blog/entry/7607)
-	first, make table like this: dst[y][x][dir]:=(grid of final destination of move whose direction is dir from the grid of (y,x))
+====
+first, make table like this: dst[y][x][dir]:=(grid of final destination of move whose direction is dir from the grid of (y,x))
 
-	second, use breadth-first search and get costs like this: cost[id][y][x]:=(the number of moving cost of robot(_id_) to the grid (y,x))
+second, use breadth-first search and get costs like this: cost[id][y][x]:=(the number of moving cost of robot(_id_) to the grid (y,x))
 
-	third, build dp[low][up][y][x]:= the number of moving cost of robot id in the range of [low,up) to the grid of (y,x)
+third, build dp[low][up][y][x]:= the number of moving cost of robot id in the range of [low,up) to the grid of (y,x)
 
-	building this dp requires Dijsktra ,but using dijkstra is too slow,so I managed to use breadth-first search.
+building this dp requires Dijsktra ,but using dijkstra is too slow,so I managed to use breadth-first search.
 
-	also memory limit exceeded happened to me,so I cut half memory of dp by implementation. O(w*h + w*h*n + w*h*n^3 + w*h*n^2)
+also memory limit exceeded happened to me,so I cut half memory of dp by implementation. O(w*h + w*h*n + w*h*n^3 + w*h*n^2)
+
+====================
