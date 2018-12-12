@@ -10,4 +10,6 @@ building this dp requires Dijsktra ,but using dijkstra is too slow,so I managed 
 
 also memory limit exceeded happened to me,so I cut half memory of dp by implementation. O(w*h + w*h*n + w*h*n^3 + w*h*n^2)
 
+There are more clarifications by hogloid in the post
+
 ====================
