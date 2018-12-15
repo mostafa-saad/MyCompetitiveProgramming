@@ -1,5 +1,7 @@
 By hogloid (https://codeforces.com/blog/entry/7607)
 ====
+https://ideone.com/96vMcn
+
 first, make table like this: dst[y][x][dir]:=(grid of final destination of move whose direction is dir from the grid of (y,x))
 
 second, use breadth-first search and get costs like this: cost[id][y][x]:=(the number of moving cost of robot(_id_) to the grid (y,x))

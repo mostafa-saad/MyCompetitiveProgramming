@@ -1,2 +1,5 @@
+Official
+	HYPERLINK("https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2017/wiring.pdf","Editorial")
+	
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/17-Wiring.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/Wiring2017.cpp
