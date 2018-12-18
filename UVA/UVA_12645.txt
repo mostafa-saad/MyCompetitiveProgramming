@@ -1,0 +1,5 @@
+topological sort
+	https://github.com/aboodJAD/CompetitiveProgramming/blob/master/UVA/UVA%2012645.cpp
+	
+scc
+	https://github.com/aboodJAD/CompetitiveProgramming/blob/master/UVA/UVA%2012645.cpp

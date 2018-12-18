@@ -1,3 +1,8 @@
-https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202012/Crayfish%20scrivener.cpp
+binary lifting
+	https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202012/Crayfish%20scrivener.cpp
 
-https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-12-editorials.txt
+Trie
+	http://www.ioi2012.org/hints-for-tasks-of-day-1/index.html
+	http://blog.brucemerry.org.za/2012/09/
+	
+
