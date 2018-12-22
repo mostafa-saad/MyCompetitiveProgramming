@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2012_solutions/melody-sol.pdf
+
+
+https://github.com/zoooma13/Competitive-Programming/blob/master/melody.cpp
