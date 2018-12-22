@@ -7,3 +7,8 @@ Different judges has some of the data
 			https://www.acmicpc.net/category/detail/221
 			https://tioj.ck.tp.edu.tw/problems/1749
 			
+
+
+
+
+APIO '10 P1 - Commando	https://dmoj.ca/problem/apio10p1

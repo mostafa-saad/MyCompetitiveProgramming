@@ -1,0 +1,14 @@
+treap
+	https://github.com/radoslav11/CompetitiveProgramming/blob/master/Olympiad/BOI/BOI%2011-grow.cpp
+	https://oj.uz/submission/86959
+	https://oj.uz/submission/82958
+
+
+Segment tree
+	https://oj.uz/submission/77274
+	https://oj.uz/submission/59157
+
+
+
+bit
+	https://oj.uz/submission/65187
