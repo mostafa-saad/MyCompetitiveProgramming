@@ -1,0 +1,8 @@
+The popular largest empty rectangle problem.
+
+sweep line
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/10043.cpp
+
+
+dsu, greedy, bf
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/10043.cpp

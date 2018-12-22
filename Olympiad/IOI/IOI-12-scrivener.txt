@@ -5,4 +5,5 @@ Trie
 	http://www.ioi2012.org/hints-for-tasks-of-day-1/index.html
 	http://blog.brucemerry.org.za/2012/09/
 	
-
+persistent segment tree that has low memory (check it)
+	https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/IOI/12-Scrivener.cpp

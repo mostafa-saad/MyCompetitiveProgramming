@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2006/ioi06_points_sol.pdf
+
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/06-Points.cpp
