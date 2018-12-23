@@ -3,3 +3,7 @@ Official
 
 
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/06-Points.cpp
+https://github.com/radoslav11/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI%2006-points.cpp
+
+
+CF1045-D12-E Same with smaller constraints  (https://codeforces.com/contest/1045/problem/E)

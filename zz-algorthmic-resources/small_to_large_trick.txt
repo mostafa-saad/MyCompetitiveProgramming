@@ -3,3 +3,7 @@ it's optimization trick. If we want to calculate some operations between two set
 E.g. CF1023-D12-F (http://codeforces.com/contest/1023/problem/F)
 	https://github.com/antimirage/Problems-solutions/blob/master/Mobile%20Phone%20Network.cpp
 		See condition: if ( st[to.fr].size() > st[v].size() ) 	st[v].swap(st[to.fr]);
+
+
+
+https://codeforces.com/blog/entry/44351
