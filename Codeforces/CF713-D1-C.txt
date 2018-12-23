@@ -1,0 +1,14 @@
+Priority Queue Solution (slope trick)
+	https://codeforces.com/blog/entry/47094
+	See initial reply: https://codeforces.com/blog/entry/47094?#comment-314944
+	Better and nice code https://codeforces.com/blog/entry/47094?#comment-315161
+		https://codeforces.com/contest/713/submission/20623607	O(nlgn)
+		
+		
+
+DP
+	Read Editorials
+		https://codeforces.com/blog/entry/47094?#comment-314896
+	
+	
+	

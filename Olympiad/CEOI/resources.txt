@@ -1,0 +1,6 @@
+All CEOI problems OJ
+	https://cses.fi/ceoi/list/
+
+CEOI Archive 
+	http://ceoi.inf.elte.hu/tasks-archive/
+

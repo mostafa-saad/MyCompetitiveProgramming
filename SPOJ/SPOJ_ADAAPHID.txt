@@ -1,0 +1,6 @@
+Treap
+	https://github.com/KyRillosBoshRa/CompetitiveProgramming/blob/master/Solutions/SPOJ/ADAAPHID.cpp
+	
+Segment tree
+	https://github.com/IvanIsCoding/OlympiadSolutions/blob/master/SPOJ/ADAAPHID.cpp
+	

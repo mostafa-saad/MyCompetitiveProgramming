@@ -1,0 +1,12 @@
+square root decomposition solution is somewhat standard
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CodeForces/0453E.cpp
+	
+Segment tree, nice: [is this beats style]?
+	Segment tree beats resources: https://github.com/mostafa-saad/MyCompetitiveProgramming/zz-algorthmic-resources/segment_tree_beats.txt
+	
+	https://codeforces.com/contest/453/submission/34469473
+	https://codeforces.com/contest/453/submission/35861454
+	https://codeforces.com/contest/453/submission/31727012
+	https://codeforces.com/contest/453/submission/7326947
+	
+Read Editorials

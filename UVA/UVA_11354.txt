@@ -1,5 +1,17 @@
-http://codeforces.com/blog/entry/7566
+Some approaches
+	http://codeforces.com/blog/entry/7566
 
-https://ideone.com/xMKDMW
+LCA
+	https://github.com/OmarHashim/Competitive-Programming/blob/master/UVA/11354.cpp
+	
+	
+binary search, parallel
+	https://github.com/magdy-hasan/competitive-programming/blob/ad0f554a936ecfff18344456fca8b55aa92223db/uva-/uva%2011354%20-%20Bond.cpp
 
-https://github.com/OmarHashim/Competitive-Programming/blob/master/UVA/11354.cpp
+
+RMQ, LCA
+	https://github.com/magdy-hasan/competitive-programming/blob/ad0f554a936ecfff18344456fca8b55aa92223db/uva-/uva%2011354%20-%20Bond%20LCA.cpp
+
+
+Others
+	https://ideone.com/xMKDMW

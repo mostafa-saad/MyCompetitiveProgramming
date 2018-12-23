@@ -1,0 +1,9 @@
+Bitset solution (very nice)
+	https://github.com/pranavjangir/CompetitiveProgramming/blob/master/CodeForces/CF914-D12-F.cpp
+	
+	
+Brute Force
+	See comments on the editorial
+	
+Suffix Array
+	a bit long

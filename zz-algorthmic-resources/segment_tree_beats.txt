@@ -1,0 +1,15 @@
+A simple introduction to "Segment tree beats"
+	https://codeforces.com/blog/entry/57319
+		Seems people have hard time understand the article
+
+
+This guy claims to write a simpler than above blog [https://codeforces.com/blog/entry/58564]
+	Segment Tree Beats - An introduction
+		http://codingwithrajarshi.blogspot.com/2018/03/segment-tree-beats-introduction.html
+		http://codingwithrajarshi.blogspot.com/2018/03/segment-tree-beats-complexity.html
+		http://codingwithrajarshi.blogspot.com/2018/03/segment-tree-beats-complexity-continued.html
+
+
+Video https://codeforces.com/blog/entry/58579
+	https://www.youtube.com/watch?v=UJyBHCXa-1g&feature=youtu.be
+	
