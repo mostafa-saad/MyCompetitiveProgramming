@@ -1,0 +1,8 @@
+https://www.cemc.uwaterloo.ca/contests/past_contests.html
+
+Few analysis
+	https://amorim.ca/display/CS/Canadian+Computing+Competition+Solutions
+	
+	
+Githubs
+	https://github.com/jimgao1/competitive-programming/tree/master/CCO

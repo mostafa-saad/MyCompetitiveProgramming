@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2017/contest7_solutions
+	
+https://github.com/AhmedElsisy/CompetitiveProgramming/blob/master/COCI%2017-uzastopni.cpp

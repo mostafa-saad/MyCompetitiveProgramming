@@ -1,4 +1,8 @@
-https://github.com/zoooma13/Competitive-Programming/blob/master/vudu.cpp
-https://github.com/nikolapesic2802/Programming-Practice/blob/master/Vudu/main.cpp
+Segment tree
+	https://oj.uz/submission/90852
+	
+BIT
+	https://github.com/zoooma13/Competitive-Programming/blob/master/vudu.cpp
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Vudu/main.cpp
 
 

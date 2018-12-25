@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2018/contest1_solutions
+	
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/COCI/17-Deda.cpp

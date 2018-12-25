@@ -1,4 +1,9 @@
-https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/APIO/16-Fireworks.cpp
-https://ideone.com/i9hu9n
+This problem involves the slope trick (https://codeforces.com/blog/entry/47821)
 
-DP Slope Trick	https://codeforces.com/blog/entry/47821
+Offical codes
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/official/2016/fireworks
+
+
+Trainees
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/APIO/16-Fireworks.cpp
+	https://ideone.com/i9hu9n

@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2015/contest2_solutions
+	
+Datastructures
+	https://github.com/updown2/OI-Practice/blob/master/COCI/2014%20Bob.cpp

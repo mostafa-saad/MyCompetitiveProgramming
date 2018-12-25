@@ -1,1 +1,9 @@
-http://ceoi.inf.elte.hu/tasks-archive/
+All CEOI problems OJ
+	https://cses.fi/ceoi/list/
+
+CEOI Archive 
+	http://ceoi.inf.elte.hu/tasks-archive/
+
+
+https://szkopul.edu.pl/p/default/problemset_eng/ceoi
+	2004, 2010, 2011, 2012, 2018

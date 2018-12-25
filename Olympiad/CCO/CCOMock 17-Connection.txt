@@ -1,0 +1,2 @@
+https://github.com/tsouza0/CompetitiveProgramming/blob/master/DMOJ/mcco17p3.cpp
+https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/CCOMock17-Connection.cpp

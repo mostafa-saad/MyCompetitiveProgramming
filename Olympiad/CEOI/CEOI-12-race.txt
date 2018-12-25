@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/official/2012/3_solrace.pdf
+	
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/12-Race.cpp
+https://github.com/updown2/OI-Practice/blob/master/CEOI/2012_Sailing%20Race.cpp
