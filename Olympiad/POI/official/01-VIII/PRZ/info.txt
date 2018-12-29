@@ -1,0 +1,1 @@
+Aby wygenerowac test o numerze 8 nalezy uruchomic program przgen.exe

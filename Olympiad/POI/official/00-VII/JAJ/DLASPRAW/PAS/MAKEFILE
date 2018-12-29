@@ -1,0 +1,4 @@
+TPC=tpc
+all: arbiter
+arbiter: 
+	$(TPC) -b arbiter.pas

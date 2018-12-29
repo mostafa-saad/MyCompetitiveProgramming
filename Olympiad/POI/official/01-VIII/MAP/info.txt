@@ -1,0 +1,1 @@
+Aby wygenerowac testy o numerach od 1-13 nalezy uruchomic program mapgen.bat

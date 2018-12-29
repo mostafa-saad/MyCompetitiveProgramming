@@ -1,0 +1,1 @@
+Aby wygenerowac testy o numerach od 3-11 nalezy uruchomic program mrogen.exe

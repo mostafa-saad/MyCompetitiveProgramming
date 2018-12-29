@@ -1,0 +1,22 @@
+W tym katalogu zostały zamieszczone m.in. pliki niezbędne do
+skompilowania rozwiązania zadania POS na Twoim komputerze.
+
+Zawartość katalogu:
+     - poslib.h - plik nagłówkowy, który należy dołączyć za pomocą dyrektywy
+                  #include do programów w C/C++
+     - poslib.c - przykładowa biblioteka komunikująca się z Twoim programem
+                  napisanym w C/C++ 
+     - poslib.pas - przykładowa biblioteka komunikująca się z Twoim programem
+                  napisanym w języku Pascal.
+     - posp.pas, pos.cpp - przykładowe programy pokazujące
+                  sposób komunikacji z biblioteką
+
+Uwaga! Załączone biblioteki nie zostaną wykorzystane do sprawdzania na
+ostatecznych testach w systemie SIO, a jedynie na testach ocen tamże.
+
+Sposób kompilacji jest podany w treści zadania.
+
+W celu skorzystania ze skryptu ocen należy umieścić w katalogu
+/home/zawodnik/rozw/ skompilowany program o nazwie "pos.e". Pliki out
+zamieszczone wraz ze skryptem ocen są wynikiem działania przykładowego programu
+(pos.cpp).

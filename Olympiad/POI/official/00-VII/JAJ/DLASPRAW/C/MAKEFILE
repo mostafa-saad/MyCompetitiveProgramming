@@ -1,0 +1,12 @@
+BCC=bcc
+all: arbiter
+
+jajmod.obj: jajmod.c
+	$(BCC) -c jajmod.c
+jaj.obj: jaj.c
+	$(BCC) -c jaj.c
+arbiter.obj: arbiter.c
+	$(BCC) -c arbiter.c
+
+arbiter: arbiter.obj jaj.obj jajmod.obj
+	$(BCC) -oarbiter arbiter.obj jaj.obj jajmod.obj
