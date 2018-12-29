@@ -1,0 +1,133 @@
+# Solution for subtask 4 of Odometer.
+
+# Author: Matteo Boscariol
+
+
+# Move the pebbles to the first column, and then in (0,0)
+# Assumption: grid size *even* and >= 2
+
+right
+move
+
+scan_row_right:
+    pebble turn_and_move_to_column
+    move
+
+scan_row_right_l1:
+    pebble turn_and_move_to_column
+    border try_next_row_left
+    move
+    pebble turn_and_move_to_column
+    move
+    pebble turn_and_move_to_column
+    move
+    pebble turn_and_move_to_column
+    move
+    pebble turn_and_move_to_column
+    move
+    pebble turn_and_move_to_column
+    move
+    pebble turn_and_move_to_column
+    move
+    jump scan_row_right_l1
+
+try_next_row_left:
+    right
+    border rows_finished
+    move
+    right
+
+scan_row_left:
+    # Pebbles in column 0 remain there.
+    border try_next_row_right
+    pebble move_to_column
+    move
+    pebble move_to_column
+    move
+    pebble move_to_column
+    move
+    pebble move_to_column
+    move
+    pebble move_to_column
+    move
+    pebble move_to_column
+    move
+    pebble move_to_column
+    move
+    jump scan_row_left
+
+try_next_row_right:
+    left
+    border rows_finished
+    move
+    left
+    # Pebbles in column 0 remain there.
+    move
+    jump scan_row_right
+
+turn_and_move_to_column:
+    right
+    right
+
+move_to_column:
+    get
+
+move_to_column_l1:
+    border deposit_on_column
+    move
+    jump move_to_column_l1
+
+deposit_on_column:
+    put
+    right
+    right
+    move
+    # "Fallback": start again from left to right.
+    jump scan_row_right
+
+rows_finished:
+    # Go back to column 0.
+    right
+
+rows_finished_l1:
+    border in_column_0
+    move
+    jump rows_finished_l1
+
+in_column_0:
+    right
+
+scan_column_up:
+    # Since we find a border, we are in (0,0)
+    border end
+    pebble move_to_corner
+    move
+    jump scan_column_up
+
+
+scan_column_down:
+    pebble turn_and_move_to_corner
+    border end
+    move
+    jump scan_column_down
+
+turn_and_move_to_corner:
+    right
+    right
+
+move_to_corner:
+    get
+
+move_to_corner_l1:
+    border deposit_on_corner
+    move
+    jump move_to_corner_l1
+
+deposit_on_corner:
+    put
+    right
+    right
+    move
+    jump scan_column_down
+
+end:

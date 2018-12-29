@@ -1,0 +1,51 @@
+
+<!-- saved from url=(0059)https://ioi2010.org/competitiontask/day2/traffic/index.html -->
+<html class="gr__ioi2010_org"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>IOI 2010 Task Information: Traffic Congestion</title>
+</head>
+<body data-gr-c-s-loaded="true">
+<img align="left" src="./TrafficCongestion_files/ioi2010.jpg" height="100">
+<h1>Task Information for Traffic Congestion</h1>
+<p>
+</p><blockquote>
+<b>Task Author</b>: Jorge Bernadas (VEN)
+</blockquote>
+<br clear="all">
+
+<p>
+This was (by intention) a fairly standard task.
+Though, it should be mentioned that graph problems always are a bit
+trickier than one might at first think because of the need to handle
+specific graph encodings.
+</p><p>
+The information provided below will be expanded in the future,
+but for now should help in understanding what each subtask
+was expecting in the form of algorithms.
+</p><p>
+</p><ul>
+<li>Subtask 1: Quadratic works.
+  Because of the highly regular (linear) structure of the network graph,
+  it is easy to try each city as location for the arena, calculate
+  the worst congestions and pick out the location where this worst
+  congestion is minimal.
+<p>
+</p></li><li>Subtask 2: Requires linear algorithm,
+  but because there are only two leaves and the graph representation
+  is highly regular, it is easy to see that one sweep over the
+  cities along the roads suffices to determine the optimum location.
+<p>
+</p></li><li>Subtask 3: Quadratic works,
+  but now the general graph must be handled.
+  Again, as in Subtask 1, every city can be tried as arena location,
+  the worst congestion can then be calculated, and best location can
+  be found.
+<p>
+</p></li><li>Subtask 4: This is the full problem.
+  A linear traversal of the graph, accumulating congestion information
+  appropriately, enables one to determine the optimal location of the arena
+  in linear time.
+</li></ul>
+
+
+
+</body></html>

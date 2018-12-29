@@ -1,5 +1,7 @@
+Time limit, TLEs :(
+
 RMQ, Binary Search, Math
 	https://github.com/Ownography/CP/blob/master/LiveArchive%206582
 	
-Math, Stl
+Math, Stl (very good solution to read)
 	http://d.hatena.ne.jp/tei3344/20151124/1448369038

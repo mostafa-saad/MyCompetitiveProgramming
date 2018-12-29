@@ -1,0 +1,6 @@
+Kompilacja:
+qmake && make
+
+Wymagania:
+
+Qt4

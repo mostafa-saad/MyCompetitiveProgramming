@@ -1,0 +1,49 @@
+# Solution for subtask 3 of Odometer.
+
+# Author: Stefano Maggiolo
+
+right
+
+START:
+  pebble FOUND
+  move
+  jump START
+
+FOUND:
+  move
+  move
+  pebble END
+  put
+
+CYCLE:
+  move
+  move
+  pebble RIGHT
+  jump CYCLE
+
+RIGHT:
+  right
+  right
+  move
+  move
+  pebble ENDEND
+  put
+
+CYCLE2:
+  move
+  move
+  pebble FOUND2
+  jump CYCLE2
+
+FOUND2:
+  right
+  right
+  jump FOUND
+
+END:
+  right
+  right
+  move
+
+ENDEND:
+

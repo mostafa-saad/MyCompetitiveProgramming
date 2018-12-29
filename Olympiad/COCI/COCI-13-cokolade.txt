@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2014/contest4_solutions
+	
+https://github.com/sjhuang26/competitive-programming/blob/master/coci/COCI%2013-cokolade.cpp

@@ -1,0 +1,278 @@
+/*************************************************************************
+ *                                                                       *
+ *                    XXI Olimpiada Informatyczna                        *
+ *                                                                       *
+ *   Zadanie:              Waz                                           *
+ *   Autor:                Jakub Radoszewski                             *
+ *   Opis:                 Rozwiazanie wolne                             *
+ *                                                                       *
+ *************************************************************************/
+
+#include<cstdio>
+#include<cmath>
+#include<cstdlib>
+#include<algorithm>
+#include<utility>
+#include<sstream>
+#include<cstring>
+#include<vector>
+#include<map>
+#include<numeric>
+#include<cassert>
+using namespace std;
+
+#define FOR(I,A,B) for(int I=(A);I<=(B);I++)
+#define FORD(I,A,B) for(int I=(A);I>=(B);I--)
+#define REP(I,N) for(int I=0;I<(N);I++)
+#define ALL(X) (X).begin(),(X).end()
+#define PB push_back
+#define MP make_pair
+#define FI first
+#define SE second
+#define SIZE(x) ((int)(x).size())
+
+typedef pair<int,int> PII;
+const PII pusty = MP(-1,-1);
+
+const int M=1010;
+int t[M][3],n;
+
+struct stan
+{
+    int t[3]; // liczby w polach, jesli t[0]==-1, to stan zly
+    int deg[3]; // zapotrzebowanie na krawedzie, zawsze 0..2 (0=brak, 1=+1, 2=-1)
+};
+
+bool operator<(const stan &a,const stan &b)
+{
+    REP(i,3) if (a.t[i]!=b.t[i]) return a.t[i]<b.t[i];
+    REP(i,3) if (a.deg[i]!=b.deg[i]) return a.deg[i]<b.deg[i];
+    return false;
+}
+
+inline stan daj_stan(int a,int b,int c)
+{
+    stan s;
+    // t
+    if (a==b || a==c || b==c) {
+        s.t[0]=-1;
+        return s;
+    }
+    s.t[0]=a;
+    s.t[1]=b;
+    s.t[2]=c;
+
+    // degi
+    int zapotrz[3];
+    memset(zapotrz,0,sizeof(zapotrz));
+    REP(j,3) if (s.t[j]==1 || s.t[j]==3*n) zapotrz[j]=1;
+    else zapotrz[j]=2;
+    REP(j,2) if (abs(s.t[j]-s.t[j+1])==1) {
+        --zapotrz[j];
+        --zapotrz[j+1];
+    }
+    REP(j,3)
+    {
+        if (!zapotrz[j]) s.deg[j]=0;
+        else
+        {
+            if (s.t[j]==1) s.deg[j]=1;
+            else if (s.t[j]==3*n) s.deg[j]=2;
+            else if ((j>0 && s.t[j-1]+1==s.t[j]) || (j<2 && s.t[j+1]+1==s.t[j])) s.deg[j]=1;
+            else s.deg[j]=2;
+        }
+    }
+    return s;
+}
+
+map<stan,int> Mapa[M];
+vector<stan> S[M];
+vector<int> parent[M];
+
+inline int mapuj_stan(int i,stan &s)
+{
+    if (Mapa[i].find(s)!=Mapa[i].end()) return -1;
+    Mapa[i][s]=SIZE(S[i]);
+    S[i].PB(s);
+    return SIZE(S[i])-1;
+}
+
+void odtworz(int i,int sn)
+{
+    const stan &s=S[i][sn];
+    REP(j,3) t[i][j]=s.t[j];
+    if (!i)
+    {
+        // Wypisujem wynik
+        REP(j,3) REP(ii,n)
+        {
+            printf("%d",t[ii][j]);
+            if (ii<n-1) putchar(' ');
+            else puts("");
+        }
+        exit(0);
+    }
+    odtworz(i-1,parent[i][sn]);
+}
+
+inline void sprawdz(int sn)
+{
+    const stan &s=S[n-1][sn];
+    REP(j,3) if (s.deg[j]) return;
+    // Mamy rozwiazanie!!!
+    odtworz(n-1,sn);
+}
+
+struct trojka
+{
+    int a,b,c;
+};
+
+inline trojka MT(int a,int b,int c)
+{
+    trojka tt;
+    tt.a=a;
+    tt.b=b;
+    tt.c=c;
+    return tt;
+}
+
+inline bool pokryty(int a,PII interval)
+{
+    return interval.FI<=a && a<=interval.SE;
+}
+
+void doit(int i,int sn)
+{
+    if (sn==-1) return; // wiele wizyt u tego samego wujka
+    if (i==n-1) {
+        sprawdz(sn);
+        return;
+    }
+    const stan &s=S[i][sn];
+    if (!accumulate(s.deg,s.deg+3,0)) return;
+    //printf("%d: %d %d %d\n",i,s.t[0],s.t[1],s.t[2]);
+
+    // probujemy ustalic wartosci z sasiedztwa
+    int lo[3],hi[3];
+    REP(j,3) {
+        lo[j]=1;
+        hi[j]=3*n;
+    }
+    REP(j,3)
+    {
+        if (s.deg[j]==1) lo[j]=hi[j]=s.t[j]+1;
+        else if (s.deg[j]==2) lo[j]=hi[j]=s.t[j]-1;
+    }
+    REP(j,3) if (t[i+1][j])
+    {
+        if (!pokryty(t[i+1][j],MP(lo[j],hi[j]))) return; // bardzo zle
+        lo[j]=hi[j]=t[i+1][j];
+    }
+
+    // glowna petla ustalajaca wartosci
+    stan s1;
+    vector<trojka> kand;
+    if (lo[1]==1 && hi[1]==3*n && ((lo[0]==1 && hi[0]==3*n) || (lo[2]==1 && hi[2]==3*n)))
+    {
+        FOR(a,lo[0],hi[0]) if (a!=s.t[0]) FOR(b,max(a-1,1),min(a+1,3*n)) if (b!=a && b!=s.t[1]) FOR(c,lo[2],hi[2]) if (c!=s.t[2]) kand.PB(MT(a,b,c));
+        FOR(c,lo[2],hi[2]) if (c!=s.t[2]) FOR(b,max(c-1,1),min(c+1,3*n)) if (b!=c && b!=s.t[1]) FOR(a,lo[0],hi[0]) if (a!=s.t[0]) kand.PB(MT(a,b,c));
+    }
+    if (kand.empty())
+    {
+        FOR(a,lo[0],hi[0]) if (a!=s.t[0]) FOR(b,lo[1],hi[1]) if (b!=s.t[1]) FOR(c,lo[2],hi[2]) if (c!=s.t[2]) kand.PB(MT(a,b,c));
+    }
+
+    REP(ii,SIZE(kand))
+    {
+        int a=kand[ii].a,b=kand[ii].b,c=kand[ii].c;
+        s1.t[0]=a;
+        s1.t[1]=b;
+        s1.t[2]=c;
+
+        // degi
+        int lsas[3],hsas[3];
+        memset(lsas,0,sizeof(lsas));
+        memset(hsas,0,sizeof(hsas));
+        REP(j,3)
+        {
+            if (s1.t[j]==1) ++lsas[j];
+            if (s1.t[j]==3*n) ++hsas[j];
+            if (j>0 && s1.t[j-1]+1==s1.t[j]) ++lsas[j];
+            if (j<2 && s1.t[j+1]+1==s1.t[j]) ++lsas[j];
+            if (s.t[j]+1==s1.t[j]) ++lsas[j];
+            if (j>0 && s1.t[j-1]-1==s1.t[j]) ++hsas[j];
+            if (j<2 && s1.t[j+1]-1==s1.t[j]) ++hsas[j];
+            if (s.t[j]-1==s1.t[j]) ++hsas[j];
+        }
+
+        bool zle=false;
+        REP(j,3)
+        {
+            if (lsas[j]>1 || hsas[j]>1) {
+                zle=true;
+                break;
+            }
+            if (!lsas[j])
+            {
+                if (!hsas[j]) {
+                    zle=true;
+                    break;
+                }
+                else s1.deg[j]=2;
+            } else
+            {
+                if (!hsas[j]) s1.deg[j]=1;
+                else s1.deg[j]=0;
+            }
+        }
+        if (zle) continue;
+
+        int sn1=mapuj_stan(i+1,s1);
+        if (sn1!=-1)
+        {
+            parent[i+1].PB(sn);
+            doit(i+1,sn1);
+        }
+    }
+}
+
+// Wstawia, jesli dobre
+inline void wstaw0(vector<trojka> &kand,int a,int b,int c)
+{
+    if (t[0][0] && t[0][0]!=a) return;
+    if (t[0][1] && t[0][1]!=b) return;
+    if (t[0][2] && t[0][2]!=c) return;
+    kand.PB(MT(a,b,c));
+}
+
+int main()
+{
+    scanf("%d",&n);
+    REP(i,3) REP(j,n) scanf("%d",t[j]+i);
+
+    vector<trojka> kand0;
+    FOR(a,3,3*n-1) {
+        wstaw0(kand0,1,a,a+1);
+        wstaw0(kand0,a+1,a,1);
+        wstaw0(kand0,1,a+1,a);
+        wstaw0(kand0,a,a+1,1);
+    }
+    FOR(a,1,3*n-3) {
+        wstaw0(kand0,3*n,a,a+1);
+        wstaw0(kand0,a+1,a,3*n);
+        wstaw0(kand0,3*n,a+1,a);
+        wstaw0(kand0,a,a+1,3*n);
+    }
+    FOR(a,1,3*n-2) {
+        wstaw0(kand0,a,a+1,a+2);
+        wstaw0(kand0,a+2,a+1,a);
+    }
+    REP(ii,SIZE(kand0))
+    {
+        const trojka &tt=kand0[ii];
+        stan s=daj_stan(tt.a,tt.b,tt.c);
+        if (s.t[0]!=-1) doit(0,mapuj_stan(0,s));
+    }
+    return 0;
+}

@@ -1,0 +1,80 @@
+
+<!-- saved from url=(0058)https://ioi2010.org/competitiontask/day2/saveit/index.html -->
+<html class="gr__ioi2010_org"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>IOI 2010 Task Information: Saveit</title>
+</head>
+<body data-gr-c-s-loaded="true">
+<img align="left" src="./Saveit_files/ioi2010.jpg" height="100">
+<h1>Task Information for Saveit</h1>
+<p>
+</p><blockquote>
+<b>Task Author</b>: Mihai Patrascu (ROM)
+</blockquote>
+<br clear="all">
+
+This task also is innovative for the IOI.
+In general, for most IOI tasks efficiency matters.
+However, in this case it is not execution time or memory usage
+but rather <em>communication efficiency</em>:
+how to represent some complex data in as few bits as possible,
+without losing information.
+<p>
+This difference in focus makes the tasks possibly somewhat harder to understand.
+Furthermore, it is technically more complicated,
+because the contestant has to program two independent procedures
+that are inverses to each other.
+The communication format is not prescribed;
+all that matters is that the decoder programmed by the contestant
+can decode the data from the encoder that is also programmed by
+the contestant.
+The grading server then connects these two procedures to verify
+that the decoder can indeed "understand" what the encouder produced.
+</p><p>
+Two things are important.
+First, find a way to encode adjacency information about Xedef's
+package transportation network.
+Second, to transmit that information with communication efficiency.
+</p><p>
+Briefly stated,
+the subtasks could be tackled as follows:
+</p><ul>
+<li>Subtask 1:
+  You can send the entire adjacency matrix "as is";
+  this information is naturally expressed in terms of bits,
+  other encodings are imaginable as well.
+  All that the encoder and decoder need to agree upon is
+  the order of the bits.
+  Since there are 1000 cities,
+  this requires no more than 1000*1000=1&#8201;000&#8201;000 bits.
+  Other approaches using more bits also work in this subtask.
+<p>
+</p></li><li>Subtask 2:
+  You can send the entire table with all hop counts directly.
+  Since there are no more than 1000 cities,
+  the maximum hop count is less than 1000,
+  and thus can be encoded in 10 bits.
+  The size of the table is at most 1000*36=36&#8201;.
+  Hence, not more than 360&#8201;000 bits are needed.
+<p>
+</p></li><li>Subtask 3:
+  One needs a new idea to improve the communication efficiency further.
+  The crux is to come up with the idea of considering a spanning tree;
+  any spanning tree will do.
+  The distance from v1 to v2 is one of 
+  <ol>
+  <li>distance from parent(v1) to v2
+  </li><li>1 + distance of parent(v1) to v2
+  </li><li>-1 + distance of parent(v1) to v2
+  </li></ol>
+  Then all one has to do is encode these possibilities with 2 bits each.
+<p>
+</p></li><li>Subtask 4:
+  Using two bits to record a one-of-three choice is excessive.
+  It is possible to
+  map 3 ternary decisions (27 choices) to 5 bits (32 possibilities).
+  This improves the communication further.
+</li></ul>
+
+
+
+</body></html>

@@ -1,0 +1,653 @@
+/*
+Theme Name: IOI 2012 Italy
+Theme URI: http://www.al3k.it/site/themes/IOI/
+Description: Wordpress Theme for IOI 2012 Italy
+Version: 1.1
+Author: "Luca for Provincia di Brescia"
+Author URI: http://www.al3k.it
+License: GPL
+Tags: none
+*/
+
+/*
+    Copyright 2011-2012 AL3K
+
+*/
+
+
+/************************* IMPORT CSS GRID ***************************/
+@import url(library/styles/screen.css);
+@import "../../../http/fonts.googleapis.com/MS_241.css";
+@import "../../../http/fonts.googleapis.com/MS_239.css";
+@import "../../../http/fonts.googleapis.com/MS_253.css";
+@import "../../../http/fonts.googleapis.com/MS_240.css";
+@import "../../../http/fonts.googleapis.com/MS_238.css";
+/************************* GLOBAL STYLES ***************************/
+
+html { 
+	padding: 0;  
+	margin: auto;
+} 
+
+body { 
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	font-size-adjust: none;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	background: url("images/bg_body.png")repeat-x scroll #ffffff ;       
+	background-color: #ffffff; 
+	padding: 0;
+	margin: 0;      
+} 
+
+th, td, tr, caption {
+	 padding:0;
+	 margin: auto;
+}
+
+tbody {
+	 margin-left: auto;
+	 margin-right: auto;	 
+} 
+
+table {
+	margin-bottom: 0;
+	empty-cells: show;	 
+}   
+
+#main {
+	margin: 0;
+	padding: 0; 
+	text-align: left; 
+	min-height: 600px;           
+}
+
+/************************* Impagination ***************************/
+.l-side {
+	background-image:url('images/bg_lside.png');
+	background-repeat:repeat-x;		
+	vertical-align: top;
+	width: 50%; 	
+	empty-cells: show;	
+	margin-left: auto;	
+}
+
+.r-side { 
+	background-image:url('images/bg_rside.png');
+   background-repeat:repeat-x;	
+	vertical-align: top;
+	width: 50%; 	
+	empty-cells: show;	
+	margin-left: auto;	
+	empty-cells: show;	
+}
+   
+.wrapper {
+	vertical-align: top;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {  
+	display: block;
+	width: 960px;    
+	height: 190px;
+	background: url("images/top_header.png")  no-repeat center  transparent ;    
+}  
+
+.logo {   
+	text-align: left;
+	display: inline-block;
+	left: 0;
+	width: 960px;    
+	height: 210px;
+}    
+
+.sidebar {
+	margin-top: 0px;
+	display: inline-block;   
+	float: left;
+	margin-left: 79px;
+	width: 210px; 
+	background: url("images/bg_menu.png")  repeat-x scroll  #dceaf1 ;    
+	min-height: 600px;        
+}   
+
+.widget_nav_menu {
+	min-height: 620px;   
+//	height: 100%; 
+}	
+
+/************************* Content ***************************/
+.content {
+	display: inline-block;   
+	float: left;
+	padding: 15px; 
+	margin-left: 30px;
+	width: 600px;
+} 
+
+.cont_col {
+	display: block;   
+} 
+
+.post_col {
+	display: inline-block;   
+	float: left;
+	padding: 0px; 
+	margin: 0px;
+   width: 350px;
+} 
+
+.news_col {
+	display: inline-block;   
+	float: left;
+	padding: 0px; 
+	margin: 0px;
+   width: 600px;
+}
+.slide_col {
+	display: inline-block;   
+	float: right;
+	padding: 0px; 
+	margin: 0px;
+   width: 240px;
+   overflow: hidden;
+} 
+
+.slide_col .textwidget {
+   /* background-color: #ECECED;*/
+    display: inline-block;
+    margin-left: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+    padding-top: 0px;
+} 
+.slide_col .textwidget a {
+    display: none;
+}     
+/************************* Home Page ***************************/
+.welcome { 
+	margin-left: 10px;
+	margin-top: 20px;    
+	margin-bottom: 20px;      
+	height: 40px;
+	background: url("images/welcome.png")no-repeat left transparent ;  
+}
+
+.pic-slide { 
+	margin: 5px;
+	margin-left: 50px;    
+	padding: 20px; 
+	background-color: #ececed; 
+	float:right;
+	    
+}
+
+.picture { 
+	margin: 5px;
+	margin-left: 50px;    
+	padding: 20px; 
+	background-color: #ececed;     
+}
+
+.news-item { 
+	margin-left: 50px;
+	margin-top: 20px;    
+	margin-bottom: 20px;      
+}    
+
+.news-item img{ 
+	display: inline-block;  
+	float: roght; 
+	margin: 10px;    
+	vertical-align: top;     
+}  
+
+.news { 
+   display: block;
+	margin-top: 20px;    
+	margin-bottom: 20px;      
+//	background: url("images/news.png")no-repeat left transparent ;  
+}
+
+.news-info { 
+	display: inline-block;   
+	width: 220px;    
+	vertical-align: top;      
+} 
+
+/************************* MenÃ¹ ***************************/
+.menu {
+	 list-style: none outside none;
+	 margin-top: 20px;
+	 margin-left: 20px;		 
+}     
+
+.menu li {
+	 margin-top: 5px;	
+	 font: 120% Arial,Helvetica,sans-serif;  
+	 list-style-image: url('images/munsel.png');		   
+}
+
+.menu li.sub-menu {
+	 display: none;	   
+}
+
+.menu li li {
+	 margin-top: 5px;	
+	 font: 90% Arial,Helvetica,sans-serif;  
+	 list-style-image: url('images/r-arrow.png');	   
+}
+
+.menu li.current-menu-item{
+	background-color: #62b9e6; 	
+	font: 120% Arial,Helvetica,sans-serif;  
+	list-style-image: url('images/msel.png');
+	list-style-position: inside;
+	margin-left: -38px;
+	margin-right: -18px;
+	padding-left: 20px;	   
+}       
+
+.menu li li.current-menu-item {
+	background-color: #62b9e6; 
+	margin-top: 5px;	
+	font: 90% Arial,Helvetica,sans-serif;  
+	list-style-image: url('images/r-arrow.png');	
+}  
+
+.menu a {
+	color: #000000;
+	text-decoration: none;
+	display: inline 
+	margin: 0 ;
+	padding: 0 ;    
+}	
+
+.f-menu {
+	display: inline-block; 
+	margin: 0 ;
+	padding: 2px ;    
+}	
+
+
+/************************* Posts ***************************/
+.post, .page {
+	border-bottom: 1px dotted #666666;   
+}
+
+.post a, .entry a{
+	color: #444444;
+	text-decoration: underline;  
+}
+
+.post-title {
+	font-family: Paladino, Helvetica,Arial,sans-serif;  
+	font-size: 100%;
+	margin: 0 ;
+	padding: 0 ;   
+}
+
+.post-title-single H2 {
+	display: inline;
+	vertical-align: baseline;	
+	margin-left: 4px;
+	padding: 0;
+	margin-bottom: 0;
+   font-size: 20px;
+	font-weight: normal;    
+	color: #0D3283;	
+}
+
+.post-title-page H2 {
+	display: inline;
+	vertical-align: baseline;	
+	margin-left: 0px;
+	padding: 0;
+	margin-bottom: 0;
+   font-size: 18px;
+	font-weight: normal;    
+	color: #000000;	
+}
+
+.post-title-single h2 a {
+	//font: 70% Paladino, Helvetica, Arial,,sans-serif;  
+   font-size: 110%;
+	font-weight: normal;    
+	color: #0D3283;
+	text-decoration: none;
+	display: inline-block 
+	margin: 0 0 0.25em 0 ;
+	padding: 0 ;            
+}
+
+.post-title H2 {
+	display: inline;
+	vertical-align: baseline;	
+	margin-left: 4px;
+	padding: 0;
+	margin-bottom: 0;
+   font-size: 16px;
+	font-weight: normal;    
+	color: #000000;	
+}
+
+.post-title h2 a {
+	//font: 70% Paladino, Helvetica, Arial,,sans-serif;  
+   font-size: 100%;
+	font-weight: normal;    
+	color: #000000;
+	text-decoration: underline;
+	display: inline-block 
+	margin: 0 0 0.25em 0 ;
+	padding: 0 ;            
+}
+
+.post-date {
+	display: inline;
+	vertical-align: baseline;
+	color: #000000;
+	text-decoration: none;
+	margin: 0 ;
+	padding: 0px ; 
+	padding-left: 0px;
+	font-weight: normal;
+   font-size: 1.0em; 
+   margin-right: 6px;  
+}
+
+.content h3 {
+   font-size: 1.3em;;
+	font-weight: normal;    
+	color: #000000;
+	text-decoration: none;
+	display: inline-block 
+	margin: 1.2em 0 0.25em 0;
+	padding: 0 ;            
+}
+
+.content h4 {
+   font-size: 1.1em;;
+	font-weight: bold;    
+	color: #000000;
+	text-decoration: none;
+	display: inline-block 
+	margin: 0 0 0.25em 0 ;
+	padding: 0 ;            
+}
+.aligncenter {
+   margin-top: 5px;
+	text-align: center;      
+} 
+.alignleft {
+   margin-top: 5px;
+	text-align: left;      
+} 
+.alignright {
+   margin-top: 5px;
+	text-align: right;      
+} 
+/************************* Footer ***************************/ 
+#footer {
+	background-color: #0d3283;
+	color: #ffffff;
+	height: 25px;
+	padding: 0; 
+	text-align: center;      
+} 
+
+.textwidget {
+	display: inline-block;
+	vertical-align: middle; 
+	padding-left: 7px;
+	padding-right: 7px;	     
+}   
+
+#footer img {
+	display: inline;
+	vertical-align: middle; 
+   width: 18px;
+   margin-left: 2px;	       
+   margin-right: 2px;   
+} 
+
+#footer a {
+	color: #ffffff;
+	text-decoration: underline;      
+} 
+
+/************************* Dialog ***************************/ 
+.ioi-dialog {
+	position: absolute; 
+	top: 50px; 
+	margin-top: 50px;
+	margin-left: 300px;	
+	height: 220px;
+}	
+
+
+
+.b-login {
+	width: 250px; 
+	margin-right: auto;
+	margin-left: 30px;	
+	padding: 20px;
+	border: 1px solid #E5E5E5;
+	background: white;
+	-moz-box-shadow: rgba(200,200,200,0.7) 0 4px 10px -1px;
+	-webkit-box-shadow: rgba(200,200,200,0.7) 0 4px 10px -1px;
+	box-shadow: rgba(200,200,200,0.7) 0 4px 10px -1px;	
+	border-radius: 4px;
+}
+.b-login .password_label, .b-login .password_input,  #LoginWithAjax_Links, #LoginWithAjax_SubmitButton {
+	background: white; !important
+}
+/************************* Other ***************************/ 
+.entry img.alignleft {
+    float: left;
+    margin-right: 5px;
+}
+.entry img.alignright {
+    float: right;
+    margin-left: 5px;
+}
+.entry li li {
+   list-style-type: circle;
+}
+acronym {
+   cursor: help;
+}
+caption {
+   display: none;
+}
+.content .entry h3 {
+   margin-top:1.2em;
+}
+
+.filter-table {
+  padding: 3 px;
+  display: block;
+  width: 1000px;
+//  height: 400px;
+  overflow: scroll;
+}
+
+.filter-table table {
+  min-width: 1200px;
+}
+
+.filter-table table tr th, .filter-table table tr td {
+   padding-left: 2px;
+   padding-right: 2px;
+   vertical-align: middle;
+   border-left: 1px solid #cccccc;
+}
+
+.filter-table table tr th {
+   border-left: 1px solid #ffffff;
+}
+
+.ui-datepicker-trigger {
+   width: 20px;
+	vertical-align: middle;   
+}
+
+.ui-datepicker-year, .ui-datepicker-month {
+   background-color: #5C9CCC;
+   border-radius: 3px;
+	-webkit-appearance: menulist;
+	box-sizing: border-box;
+	-webkit-box-align: center;
+	border: 1px solid #E78F08;
+	white-space: pre;
+	-webkit-rtl-ordering: logical;
+	color: black;
+	cursor: default;
+}
+
+.cf-ol .formTime {
+	border-right: 3px solid #EBC2C2;
+	width: 80px;  !important
+	padding: 3px 5px;	
+	font: 12px Arial;
+	margin: 0;
+	border: 1px solid #CCC;
+	color: #666;
+	padding: 4px 5px;
+	width: 230px;
+	vertical-align: top;	
+	text-align: right;	
+}
+
+.cf-ol .formTime:hover {
+	border: 1px solid #999;
+	color: black;
+	width: 80px;
+}
+
+
+#payment {
+  width: 300px; !important
+  height: 300px; !important
+}
+
+.form-payment {
+  /*  height: 300px; */
+    margin: 10px auto 0;
+   /* overflow: scroll;
+    width: 470px;*/
+    top: -50px;
+}
+
+.form-payment label span {
+    display: block;
+    width: 140px;
+}
+
+.form-payment  input, .form-payment textarea, .form-payment select {
+    border: 1px solid #CCCCCC;
+    color: #666666;
+    font: 12px Arial;
+    margin: 0;
+    padding: 4px 5px;
+    vertical-align: top;
+    width: 230px;
+}
+
+.form-payment select.fldrequired, .form-payment select.fldrequired:hover {
+    border-right: 3px solid #EBC2C2;
+    width: 242px;
+}
+
+.form-payment select, .form-payment select:hover {
+    padding: 3px 5px;
+}
+
+.form-payment label {
+    background: none repeat scroll 0 50% #E0E0E0;
+    color: #000000;
+    display: inline-block;
+    font: 12px Arial;
+    margin: 0 10px 0 0;
+    padding: 5px;
+    vertical-align: top;
+    width: 140px;
+}
+
+.form-payment input.backbutton, .form-payment input.resetbutton, .form-payment input.sendbutton {
+    background: url("imimages/grey_block_submit.jpg no-repeat scroll 0 0 transparent;
+    border: medium none !important;
+    color: #FFFFFF;
+    cursor: pointer;
+    font: 14px/31px Arial;
+    height: 31px;
+    margin: 0 7px 10px 0;
+    padding: 0 0 5px;
+    width: 72px;
+}
+
+.form-payment input, .form-payment textarea, .form-payment select {
+    border: 1px solid #CCCCCC;
+    vertical-align: top;
+}
+
+.ioi-payment {
+	/*position: absolute; */
+	top: 10px;  
+	margin-top: 10px;
+	margin-left: 300px;	
+}	
+
+.privbox {
+    width: 15px; !important
+}	
+div.program {
+   margin-top: 0.75em;
+   font-size: 1.1em;
+}
+div.program p {
+   font-style:italic;
+}
+div.program table.programma td {
+border: 1px dotted #A5A6B8;
+}
+div.program table.programma {
+border: 1px dotted #A5A6B8;
+  border-collapse: collapse;
+  text-align: center;
+}
+div.program table.programma td, div.program table.programma th {
+  text-align: center;
+}
+div.program table.programma caption {
+  display: block;
+}
+div.program table.programma th {
+  background-color: #0D3283;
+  color: #fff;
+}
+div.program table.programma td.altern {
+background-color: #E8E8EF;
+}
+.altern {
+background-color: #E8E8EF;
+}
+
+div.program table.programma2 td {
+border-bottom: 1px dotted #A5A6B8;
+padding: 4px 10px;
+font-size: 0.9em;
+}
+
+div.program table.programma2 caption {
+  display: none;
+}
+
+#main .entry {
+  margin-top: 1em;
+}

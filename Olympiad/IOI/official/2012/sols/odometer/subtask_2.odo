@@ -1,0 +1,93 @@
+# Solution for subtask 2 of Odometer.
+
+# Author: Matteo Boscariol
+
+right
+compare:
+    # if x=0, x is the minimum (x<=y)
+    pebble cont_x
+    jump x_is_min
+
+cont_x:
+    move
+    # if y=0, y is the minimum
+    pebble cont_y
+    jump y_is_min
+
+cont_y:
+    move
+    # none is 0, increment by 1 the counter and decrease the other two
+    put
+    right
+    right
+    move
+    get
+    move
+    get
+    right
+    right
+    jump compare
+
+# -------------------------------------------------------
+
+x_is_min:
+    move
+    move
+    right
+    right
+
+# reset the cells
+check_x_reset:
+    pebble inc_x
+    jump x_end
+
+inc_x:
+    get
+    move
+    put
+    move
+    put
+    right
+    right
+    move
+    move
+    right
+    right
+    jump check_x_reset
+
+x_end:
+    move
+    move
+    jump end
+
+
+y_is_min:
+    move
+    right
+    right
+
+# reset the cells
+check_y_reset:
+    pebble inc_y
+    jump y_end
+
+inc_y:
+    get
+    move
+    put
+    move
+    put
+    right
+    right
+    move
+    move
+    right
+    right
+    jump check_y_reset
+
+y_end:
+    move
+    jump end
+
+end:
+

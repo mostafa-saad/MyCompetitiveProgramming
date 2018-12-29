@@ -1,0 +1,54 @@
+
+<!-- saved from url=(0060)https://ioi2010.org/competitiontask/day1/language/index.html -->
+<html class="gr__ioi2010_org"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>IOI 2010 Task Information: Language</title>
+</head>
+<body data-gr-c-s-loaded="true">
+<img align="left" src="./Language_files/ioi2010.jpg" height="100">
+<h1>Task Information for Language</h1>
+<p>
+</p><blockquote>
+<b>Task Author</b>: Gordon Cormack (CAN)
+</blockquote>
+<br clear="all">
+
+The nature of this problem is innovative within the IOI.
+Its purpose is to bring the field of <em>information retrieval</em>
+under the attention.
+This problem is discussed in detail in the book
+<cite>Information Retrieval: Implementing and Evaluating Search Engines</cite>
+by S. Büttcher, C.L.A. Clarke, and G.V. Cormack
+(MIT Press, to appear soon).
+Especially see Chapter 10 on Categorization and Filtering.
+<p>
+
+One important observation is that excerpts from the same language version
+of Wikipedia will share some characteristics in a statistical sense.
+Because many random excerpts are offered,
+the variability between excerpts from the same language
+play a negligible role.
+It has been confirmed that the statistical resemblance between
+the provided test input and the official grader input is highly
+predictable.
+
+</p><p>
+Note that because of the random re-coding of the language codes and
+symbol codes,
+there is no opportunity to hard code any specific (personal) language
+knowledge into a solution.
+
+</p><p>
+There are many approaches possible.
+<em>Rocchio's method</em>, which was informally described in
+the task description,
+suffices to solve Subtask 1.
+
+</p><p>
+For Subtask 2,
+one needs to do more than simply look at symbol frequencies.
+Collecting statistics on <em>bigrams</em> (pairs of neighboring symbols),
+<em>trigrams</em> (three consecutive symbols) will yield higher accuracies.
+
+
+
+</p></body></html>

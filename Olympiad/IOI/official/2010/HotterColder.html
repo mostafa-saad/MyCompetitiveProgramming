@@ -1,0 +1,302 @@
+
+<!-- saved from url=(0064)https://ioi2010.org/competitiontask/day1/hottercolder/index.html -->
+<html class="gr__ioi2010_org"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>IOI 2010 Task Information: Hotter Colder</title>
+</head>
+<body data-gr-c-s-loaded="true">
+<img align="left" src="./HotterColder_files/ioi2010.jpg" height="100">
+<h1>Task Information for Hotter Colder</h1>
+<p>
+</p><blockquote>
+<b>Task Author</b>: Gordon Cormack (CAN)
+</blockquote>
+<br clear="all">
+
+<p>
+This problem is an interesting variant of the well-known guessing
+game <i>Higher-Lower</i>, also featured in the demonstration task <i>Guess</i>.
+</p><p>
+Higher-Lower is efficiently solved by the, also well-known,
+<em>Binary Search</em> algorithm.
+Binary Search maintains
+an interval of still possible numbers (candidates).
+Initially, this interval includes all numbers in the range.
+By comparing to the middle candidate,
+the interval can be halved by a single guess.
+Thus, the secret number can be determined
+in a logarithmic (to base 2) number of guesses.
+Or, to put it differently,
+if the range of allowed numbers is doubled,
+than the secret number can be determined with one additional guess.
+
+</p><h3>Subtask 1</h3>
+<p>
+Doing a <em>Linear Search</em>,
+that is, successively calling <b>Guess(i)</b> for i from 1 to N,
+yields a solution requiring N calls to <b>Guess</b>, in the worst case.
+This solves Subtask 1.
+See <a href="https://ioi2010.org/competitiontask/day1/hottercolder/index.html#Linear_Search">below</a> for a Pascal program.
+
+</p><h3>Analysis</h3>
+<p>
+To get a better understanding of the Hotter-Colder problem,
+it helps to formalize the rules of this game.
+</p><p>
+Let J be Jill's number, and let P be the most recent guess,
+that is, <b>Guess(P)</b> was called last.
+In that situation, <b>Guess(G)</b> will return
+</p><pre>    HOTTER if abs(G - J) &lt; abs(P - J)
+    COLDER if abs(G - J) &gt; abs(P - J)
+    SAME   if abs(G - J) = abs(P - J)
+</pre>
+Or in a single formula:
+<code>sign(abs(P&nbsp;-&nbsp;J)&nbsp;-&nbsp;abs(G&nbsp;-&nbsp;J))</code>.
+Letting <code>M = (P + G)/2</code>,
+this can be rephrased as
+<pre>  if P &lt;= G then
+    HOTTER if J &gt; M
+    COLDER if J &lt; M
+    SAME   if J = M
+  else
+    HOTTER if J &lt; M
+    COLDER if J &gt; M
+    SAME   if J = M
+</pre>
+Or in a single formula:
+<code>sign(G - P) * sign(J - M)</code>.
+<p>
+Thus, we see that each <b>Guess(G)</b>
+effectively provides a high-low comparison to the midpoint M.
+In fact, <code>sign(G - P) * Guess(G) = sign(J - M)</code>
+offers a genuine high-low comparison.
+</p><p>
+Unfortunately,
+due to the range restriction on G,
+we cannot make the midpoint M go wherever we want.
+So, a straightforward Binary Search is not going to work.
+</p><p>
+
+</p><h3>Subtask 2</h3>
+<p>
+Ignoring the results of all odd calls to <b>Guess</b>,
+we can extract one bit of information out of every successive pair
+of odd-numbered and next even-numbered call to <b>Guess</b>.
+This yields a solution that calls <b>Guess</b> at most W times,
+where W is the largest integer such that 2<sup>W/2</sup>&#8804;N.
+That is, it makes at most log<sub>2</sub>&nbsp;N<sup>2</sup> (rounded up) calls to <b>Guess</b>.
+For N=500 (almost 2<sup>9</sup>), this boils down to making at most 18 calls.
+
+</p><h3>Subtask 3</h3>
+<p>
+By exploiting the fact that we actually do a high/low/equal comparison
+instead of a pure high/low (binary) comparison,
+we can gain almost one extra bit of information (taken over all guesses).
+Explanation: a complete binary tree with 2<sup>k</sup> leaves
+has 2<sup>k</sup>-1 internal nodes.
+So, the same number of high/low/equal guesses can reach twice
+the number of nodes minus one (compared to using just binary high/low guesses).
+</p><p>
+A Pascal program is given <a href="https://ioi2010.org/competitiontask/day1/hottercolder/index.html#Binary_Search">below</a>.
+
+</p><h3>Subtask 4</h3>
+<p>
+The preceding approaches obviously throw away (ignore) valuable information.
+However, using this information requires careful tuning of the guesses.
+It helps to do some small cases by hand.
+</p><ul>
+<li>N=3 can obviously be done in 2 guesses, by straddling the middle,
+for example, <b>Guess(1)</b> followed by <b>Guess(3)</b> does a high/low/equal
+comparison to 2.
+<p>
+</p></li><li>N=5 can be done in 3, but this already needs some care,
+  because it does not work to set this up so that the first
+  two guesses compare to the middle number 3.
+  When, after <b>Guess(1)</b> <b>Guess(5)</b>, or
+  <b>Guess(2)</b> <b>Guess(4)</b>,
+  the result of the second guess is <em>colder</em>,
+  you won't be able to solve the remaining problem in a single guess.
+  <p>
+  You need to start with <b>Guess(1)</b> <b>Guess(3)</b>
+  (or symmetrically <b>Guess(5)</b> <b>Guess(3)</b>).
+  If the result of the second guess is <em>same</em>,
+  Jill's number is 2;
+  if the result is <em>colder</em>,
+  only candidate 1 remains and this must be Jill's number.
+  If the result is <em>hotter</em>, candidates 3, 4, and 5 remain.
+  Since 3 was the most recent guess,
+  doing <b>Guess(5)</b> will compare to 4,
+  and we are done.
+</p></li></ul>
+
+<p>
+In general,
+it turns out to be possible to determine Jill's number in no more
+than log<sub>2</sub> 3*N = log<sub>2</sub> 3 + log<sub>2</sub> N
+calls of <b>Guess</b>.
+</p><p>
+We explain one such algorithm.
+Because of the nature of the guess (being a comparison),
+at any moment you have an <em>interval</em> of remaining candidate numbers.
+You can distinghuish two cases for the location of this interval
+with respect to the initial interval:
+</p><ol>
+<li>either this interval of candidates contains 1 or N
+  (is "against a wall");
+<p>
+</p></li><li>or it contains neither 1 nor N
+  (is "in the middle").
+</li></ol>
+Furthermore, you know what the previous guess was, say P.
+
+<p>
+If the interval of candidates is "in the middle",
+then you are home free (provided you are a bit careful),
+because now each guess can be made to reduce the interval sufficiently.
+In K more guesses,
+you can find Jill's number among 2<sup>K+1</sup>-1 candidates.
+[<em>Details suppressed (for the time being)</em>]
+
+</p><p>
+If the interval of candidates is "against a wall",
+then you can always arrange it so that the interval is 1 through P
+(or symmetrically on the other side).
+With two extra steps you can grow a solution that solves for P in K more guesses
+to one that solves for P+2<sup>K+2</sup> in K+2 more guesses.
+</p><p>
+The base cases are P=3, K=1 and P=7, K=2.
+</p><p>
+The construction works like this.
+Consider the interval
+</p><blockquote>
+<pre>aaaabbbbbbdddddddddd
+</pre>
+</blockquote>
+where
+<ul>
+<li><tt>aaaa</tt> is the interval 1 through P
+  (and we assume that if the most recent guess was at P,
+  then an additional K guesses can determine Jill's number in this interval);
+</li><li><tt>bbbbbb</tt> is of length 2<sup>K+1</sup>-2;
+</li><li><tt>dddddddddd</tt> is of length 2<sup>K+1</sup>+2;
+</li><li>the most recent guess was R = P+2<sup>K+2</sup>.
+</li></ul>
+<p>
+Your next guess is G = P-2:
+</p><blockquote>
+<pre>aaaabbbbbbdddddddddd
+1G P      M        R
+</pre>
+</blockquote>
+This guess compares to
+M = (G+R)/2 = (P-2 + P+2<sup>K+2</sup>)/2 = P + 2<sup>K+1</sup>-2 + 1,
+that is, the first element of the <tt>d</tt>-labeled subinterval.
+Do a case distinction on the result of this guess:
+<ul>
+<li><em>Same</em>: Jill's number is M; done.
+</li><li><em>Colder</em>: the interval is reduced to M+1 through R;
+  continue with a "middle game" on <tt>ddddddddd</tt>
+  of length 2<sup>K+1</sup>+1;
+</li><li><em>Hotter</em>: the interval is reduced to 1 through M-1:
+  <blockquote>
+<pre>aaaabbbbbb
+1G P      M
+</pre>
+  </blockquote>
+  Next, guess P, which boils down to comparing to (G+P)/2 = P-1.
+  Do a case distinction on the result:
+  <ul>
+  <li><em>Colder</em>: "wall game" on interval 1 through P (<tt>aaaa</tt>),
+<!--sacrificing the fact that we know the interval is actually 1 through P-2-->
+    which we assumed can be solved in K more guesses;
+  </li><li><em>Hotter</em>: "middle game" on abbbbbb
+    of length 2<sup>K+1</sup>-1.
+  </li></ul>
+</li></ul>
+<p>
+A C program solving Subtask 4 can be found
+<a href="https://ioi2010.org/competitiontask/day1/hottercolder/hottercolder.c">here</a>.
+
+</p><h3 id="Linear_Search">Pascal program for Linear Search solving Subtask 1</h3>
+<pre>const
+  Colder = -1;
+  Same = 0;
+  Hotter = +1;
+
+type
+  TResult = Colder .. Hotter;
+
+function HC(N: Longint): Longint;
+  { returns secret number of Jill }
+
+  var
+    r: TResult;  { result of Guess }
+    G: Longint; { argument for Guess }
+  
+  begin
+    if N = 1 then begin
+      HC := N
+    ; Exit
+    end { if }
+    { N &gt;= 2 }
+  ; G := 1
+  ; r := Guess(G) { ignored }
+
+  ; repeat
+      { numbers &gt;= G are remaining candidates; G &lt; N }
+      G := G + 1
+    ; r := Guess(G) { compares to G - 0.5; r &lt;&gt; Same }
+    until (r = Colder) or (G = N)
+
+  ; case r of
+      Colder: HC := G - 1;
+      Hotter: HC := G;
+    end { case r }
+  end;
+</pre>
+
+<h3 id="Binary_Search">Pascal program for wasteful Binary Search
+solving Subtask 3</h3>
+<pre>const
+  Colder = -1;
+  Same = 0;
+  Hotter = +1;
+
+type
+  TResult = Colder .. Hotter;
+
+function HC(N: Longint): Longint;
+  { returns secret number of Jill }
+
+  var
+    r: TResult;  { result of Guess }
+    a, b: Longint; { [a .. b] is interval of remaining candidates }
+  
+  begin
+    if N = 1 then begin
+      HC := N
+    ; Exit
+    end { if }
+    { N &gt;= 2 }
+    
+  ; a := 1
+  ; b := N
+
+    { invariant: 1 &lt;= a &lt;= b &lt;= N }
+  ; while a &lt;&gt; b do begin
+      r := Guess(a) { ignored }
+    ; r := Guess(b) { compares to (a+b)/2 }
+    ; case r of
+        Colder: b := (a + b - 1) div 2; { largest integer &lt; (a+b)/2 }
+        Same: begin a := (a + b) div 2 ; b := a end;
+        Hotter: a := (a + b + 1) div 2; { smallest integer &gt; (a+b)/2 }
+      end { case r }
+    end { while }
+    { a = b }
+
+  ; HC := a
+  end;
+</pre>
+
+
+
+</body></html>

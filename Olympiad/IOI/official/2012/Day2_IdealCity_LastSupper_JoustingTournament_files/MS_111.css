@@ -1,0 +1,94 @@
+/* Shutter */
+#shDisplay div#shTitle {
+	font: normal 12px/17px 'Lucida Grande', Verdana, sans-serif; /* caption font */
+	color: #ffffff; /* caption colour */
+	text-align: center;
+	margin: 0 auto;
+}
+
+#shDisplay div#shCount {
+	color: #999999;
+	font: normal 10px/12px 'Lucida Grande', Verdana, sans-serif;
+}
+
+#shDisplay div#shTitle a {
+	text-decoration: none;
+	font: bold 16pt 'Courier New', Courier, fixed;
+	letter-spacing: -2px;
+	margin: 0 10px;
+	width: 26px;
+	color: #999999;
+}
+
+#shDisplay div#shTitle a:hover {
+	color: #ffffff;
+	border: none;
+}
+
+#shDisplay div#shNext{
+	float:right;
+}
+
+#shDisplay div#shPrev {
+	float:left;
+}
+
+body {
+	height: 100%;
+}
+
+#shShutter *, #shDisplay * {
+	padding: 0;
+	margin: 0;
+}
+
+div#shShutter, div#shDisplay {
+	top: 0;
+	left: 0;
+	width: 100%;
+	position: absolute;
+}
+
+div#shShutter {
+	height: 100%;
+	z-index: 10000;
+	background-color: #000000;
+	opacity: 0.8;
+	filter:alpha(opacity=80);
+}
+
+div#shDisplay {
+	display: block;
+	background-color: transparent;
+	z-index: 10002;
+}
+
+div#shDisplay img#shTopImg {
+	margin: 0 auto;
+	border: 1px solid #555;
+	background: transparent;
+	display: block;
+	max-width: none;
+	max-height: none;
+	float: none;
+	padding:2px;
+	cursor: pointer;
+}
+
+div#shDisplay div#shWrap {
+	visibility: hidden;
+}
+
+div#shWaitBar {
+	font: bold 32px 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	height: 36px;
+	width: 100%;
+	left: 0;
+	cursor: default;
+	opacity: 0.999;
+	filter: alpha(opacity=100);
+	z-index: 10001;
+	margin-top: 160px;
+	color: #ae0a0a;
+    text-align: center;
+}

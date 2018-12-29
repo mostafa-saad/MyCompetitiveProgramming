@@ -1,0 +1,24 @@
+# Solution for subtask 1 of Odometer.
+
+# Author: Giovanni Paolini
+
+right
+
+jump A
+
+B:
+	get
+	move
+	pebble C
+	halt
+
+C:
+	get
+	left
+	left
+	move
+	right
+	right
+
+A:
+	pebble B

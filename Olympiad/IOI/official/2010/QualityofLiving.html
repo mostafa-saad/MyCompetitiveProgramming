@@ -1,0 +1,208 @@
+
+<!-- saved from url=(0059)https://ioi2010.org/competitiontask/day1/quality/index.html -->
+<html class="gr__ioi2010_org"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>IOI 2010 Task Information: Quality of Living</title>
+</head>
+<body data-gr-c-s-loaded="true">
+<img align="left" src="./QualityofLiving_files/ioi2010.jpg" height="100">
+<h1>Task Information for Quality of Living</h1>
+<p>
+</p><blockquote>
+<b>Task Author</b>: Christopher Chen (AUS)
+</blockquote>
+<br clear="all">
+
+<p>
+This problem looks like many other grid tasks.
+Such problems have also appeared on some previous IOIs.
+Heavy <em>range-search</em> algorithms might seem to be useful,
+but actually a much simpler 100% solution exists.
+</p><p>
+Let N = R*C measure the <em>size of a problem instance</em>.
+
+</p><h3>Subtask 1</h3>
+<p>
+Subtask 1 can be solved by the most obvious <em>brute force</em> algorithm
+that considers each rectangle (there are (R-H+1)*(C-W+1) of these),
+quadratically sorts its contents ((H*W)<sup>2</sup> steps), and
+directly picks out the median rank, and optimizes this.
+The worst case situation is obtained by H=R/2 and W=C/2.
+Therefore, this algorithm's time complexity is O(N<sup>3</sup>).
+
+</p><h3>Subtask 2</h3>
+<p>
+Using any O(N log N) sort algorithm (these are well-known),
+the brute force algorithm can be improved to O(N<sup>2</sup> log N).
+This solves subtask 2.
+</p><p>
+Also, an O(N) sort (<em>bucket sort</em>) is possible, to obtain
+a simple O(N<sup>2</sup>) algorithm,
+but this does not suffice to solve Subtask 3.
+See below for a Pascal implementation.
+</p><p>
+There are some obvious opportunities for improvement,
+such as exploiting the large overlap between certain rectangles
+when filling/emptying the array to be sorted.
+But these improvements do not affect the time complexity.
+
+</p><h3>Subtask 3</h3>
+<p>
+O(N<sup>1.5</sup> log N) algorithms are also possible and
+they solve Subtask 3.
+Here is one: say the vertical offset 
+of the final rectangle is known [O(N<sup>0.5</sup>) possibilities].
+Then scan across the row, 
+using some efficient data structure to keep track of the median
+(think of incremental/sliding window, such as a range tree plus binary search,
+or a pair of heaps for values less/greater than the median).
+[Each value is added/subtracted from the data structure exactly once, 
+for an O(N log N) scan length.]
+</p><p>
+This is rather involved to code;
+see Subtask 5 for a simpler and better solution.
+
+</p><h3>Subtask 4</h3>
+<p>
+This subtask accommodates possible
+O(N log N log N) algorithms,
+although we have not encountered them.
+
+</p><h3>Subtask 5</h3>
+<p>
+Here is a O(N log N) solution.
+Observe that the program's output can be <em>verified</em>
+by some algorithm which answers the question "Does any rectangle 
+have median &#8804; X?" 
+This query can be answered in O(n<sup>2</sup>) time.
+A rectangle has median &#8804; X if and 
+only if it contains more values &#8804; X than otherwise. Assign all cells in the 
+grid a 'value' according to a 'threshold' function: -1 if greater than X, 0 if 
+equal to X, 1 if less than X.  Using the well-known cumulative data structure 
+for queries on rectangular sums, try all possible rectangle locations and 
+return "yes" if the 'values' inside any sum to &#8805; 0. 
+We simply <em>binary search</em> values of X
+to find the minimum value for which the answer is "yes".
+
+</p><p>
+N.B. An O(N log N) algorithm suffices for 100% score.
+
+</p><h3>Linear Solution</h3>
+<p>
+Mihai Patrascu (ROM) found an O(N) solution
+with the following reasoning.
+</p><dl compact="">
+<dt>
+<b>Claim 1</b>:
+</dt><dd>Given a value X, one can identify in O(HW) time
+which rectangles have a median better than X.
+</dd><dt>
+<b>Proof</b>:
+</dt><dd>In linear time, build a <em>partial-sums array</em>:
+A[i][j] = #{elements in Q[0..i][0..j] better than X }.
+The number of elements better than X in any rectangle can now be found by
+combining 4 values of A.
+The median of an H by W rectangle is better than X
+if and only if the number of elements better than X is less than HW/2.
+QED
+</dd></dl>
+
+<dl compact="">
+<dt>
+<b>Claim 2</b>:
+</dt><dd>One can find the best median of K designated rectangles,
+in running time O(K<sup>2</sup> log(HW) + HW).
+</dd><dt>
+<b>Proof</b>:
+</dt><dd>Compress everything to a KxK grid and binary search for the
+best median. In each step of the binary search, I need to go over the
+entire KxK grid, and a number of elements that is originally HW,
+but decreasing geometrically each time.
+QED
+</dd></dl>
+
+<dl compact="">
+<dt>
+<b>Claim 3</b>:
+</dt><dd>One can find the best median of all rectangles in O(HW) time.
+</dd><dt>
+<b>Proof</b>:
+</dt><dd>By the above, one can set K = sqrt(HW) / log(HW) and still get
+linear time. Sample K rectangles; apply Claim 2. Apply Claim 1 to
+filter everybody with worse medians. One is left with HW/K rectangles.
+Do the same again, one is left with HW/K<sup>2</sup> &#8804; log(HW) rectangles.
+Now just apply Claim 2.
+QED
+</dd></dl>
+
+<h3>O(N<sup>2</sup>) Solution for Subtask 2 in Pascal using bucket sort</h3>
+<pre>const
+  MaxDimension = 3000;
+  MaxRank = sqr(MaxDimension);
+  
+type
+  TCoordinate = 0 .. MaxDimension - 1;
+  TRank = 1 .. MaxRank;
+  Qtype = array [ TCoordinate, TCoordinate ] of TRank;
+
+  TRankSet = array [ TRank ] of Boolean;
+
+var
+  sorttemp: TRankSet; { for bucket sorting and median finding,
+    kept global for speed }
+  
+function rectangle(R, C, H, W: Longint; var Q: Qtype): TRank;
+  { returns best median of all HxW rectangles in RxC city Q }
+
+  function median(a, b: TCoordinate): TRank;
+    { returns median rank in rectangle with top-left corner at [a, b] }
+    var
+      i, j: TCoordinate; { traverses Q }
+      r: Longint; { traverses [ 0 ] + sorttemp }
+      c: Longint; { counts elements in sorttemp &lt;= r }
+    begin
+      { insert elements from rectangle into the buckets }
+      for i := a to a + H - 1 do begin
+        for j := b to b + W - 1 do begin
+          sorttemp[ Q[i, j] ] := True
+        end { for j }
+      end { for i }
+      
+      { determine the median by counting off half the elements }
+    ; r := 0 { r in [ 0 ] + sorttemp }
+    ; for c := 1 to (H * W) div 2 + 1 do begin
+        repeat r := r + 1 until sorttemp[r]
+      end { for c }
+    ; median := r
+
+      { restore invariant for sorttemp, by removing the elements }
+    ; for i := a to a + H - 1 do begin
+        for j := b to b + W - 1 do begin
+          sorttemp[ Q[i, j] ] := False
+        end { for j }
+      end { for i }
+    end; { median }
+
+  var
+    i: TRank; { traverses sortemp for initialization }
+    result: TRank; { best rank seen so far }
+    a, b: TCoordinate; { traverses all rectangles }
+    m: TRank; { median of rectangle with top-left corner at [a, b] }
+    
+  begin
+    for i := 1 to R * C do sorttemp[i] := False
+  ; result := MaxRank;
+    
+  ; for a := 0 to R - H do begin
+      for b := 0 to C - W do begin
+        m := median(a, b)
+      ; if m &lt; result then result := m
+      end { for b }
+    end { for a }
+    
+  ; rectangle := result;
+  end; { rectangle }
+</pre>
+
+
+
+</body></html>

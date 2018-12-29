@@ -1,0 +1,6 @@
+This problem is similar to IOI 18 meetings, but just use base structure
+
+https://codeforces.com/blog/entry/60982/#comment-454544
+	https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/Codechef-SAFPAR.cpp
+	
+	

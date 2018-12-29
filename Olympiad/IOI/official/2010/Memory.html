@@ -1,0 +1,141 @@
+
+<!-- saved from url=(0058)https://ioi2010.org/competitiontask/day2/memory/index.html -->
+<html class="gr__ioi2010_org"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>IOI 2010 Task Information: Memory</title>
+</head>
+<body data-gr-c-s-loaded="true">
+<img align="left" src="./Memory_files/ioi2010.jpg" height="100">
+<h1>Task Information for Cluedo</h1>
+<p>
+</p><blockquote>
+<b>Task Author</b>: Gordon Cormack (CAN)
+</blockquote>
+<br clear="all">
+
+<p>
+This was intended to be another very easy task,
+though slightly more difficult than the one on Day 1
+when aiming for a full score.
+</p><p>
+Turning each possible pair of cards face up in some sequence
+is guaranteed to obtain all 25 candies.
+There are 50-choose-2 = 50 * 49 / 2 = 1225 such pairs.
+Hence, doing 2450 card turns (that is, calls to <b>faceup</b>) suffices.
+This can be programmed with two nested <code>for</code>-loops,
+and it solves Subtask 1
+</p><p>
+But it does not solve Subtask 2, where no more than 100 card turns are allowed.
+Note that the try-all-pairs solution does not look at what is on
+the cards that are turned face up.
+That is, it does not make use of the values returned by <b>faceup</b>.
+By using these returned values, you can gather information
+that can be used later to reduce the number of cards turned up.
+</p><p>
+In particular,
+taking this to an extreme,
+you can first turn all cards, in pairs,
+to discover and record where all the letters are,
+without caring about turning up equal pairs.
+In this first round,
+you might already obtain some candies by accident,
+but that is irrelevant.
+In the next round,
+you know where equal pairs are and you can flip them, in sequence,
+to obtain all remaining candies.
+</p><p>
+The first round requires 50 turns (calls to <b>faceup</b>),
+and the second round another 50 turns.
+Thus, altogether 100 times a card is turned,
+and thereby Subtask 2 is solved.
+</p><p>
+In the second round,
+you could skip equal pairs that were already identified
+in the first round.
+However, that will not improve the worst-case
+performance and it will complicate the coding.
+
+</p><p>
+Here is a Pascal solution that can readily be generalized
+(the constant and type definitions could be eliminated,
+but they document the relevant concepts nicely):
+</p><pre>type
+  TCard = 'A' .. 'Y'; { which letters appear on the cards }
+  
+const
+  NLetters = Ord(High(TCard)) - Ord(Low(TCard)) + 1; { number of letters }
+  NCardsPerLetter = 2; { number of cards per letter }
+  NCards = NCardsPerLetter * NLetters; { number of cards }
+  Unknown = 0; { when card index is unknown }
+
+type
+  TIndex = 1 .. NCards; { index of card }
+  
+procedure play;
+
+  var
+    index: array [ TCard, 1 .. NCardsPerLetter ] of Unknown .. NCards;
+      { index[lt, k] = index of k-th card with letter lt }
+    lt: TCard; { traverses index }
+    k: 1 .. NCardsPerLetter; { traverses index }
+    i: TIndex; { traverses cards }
+    r: TCard; { result of faceup }
+
+  begin
+
+    { initialize index to Unknown }
+    for lt := Low(TCard) to High(TCard) do begin
+      for k := 1 to NCardsPerLetter do begin
+        index[lt, k] := Unknown
+      end { for k }
+    end { for lt }
+  ;
+    { first round: don't care about candy; discover where all letter are }
+    for i := 1 to NCards do begin
+      r := faceup(i)
+    ; k := 1
+    ; while index[r, k] &lt;&gt; Unknown do k := k + 1
+    ; index[r, k] := i
+    end { for i }
+  ;
+    { second round: now collect all (remaining) candies }
+    for lt := Low(TCard) to High(TCard) do begin
+      for k := 1 to NCardsPerLetter do begin
+        r := faceup( index[lt, k] ) { ignore result }
+      end { for k }
+    end { for lt }
+
+  end;
+</pre>
+
+In C, without constant and type defintions, it could be coded as follows:
+<pre>void play() {
+  // letters 'A' to 'Y' are converted to integers 0 to 24
+  int index[50][2]; // locations of cards; 0 = unknown
+  int lt, k; // traverses index
+  int i; // traverses cards
+  char r; // result of faceup
+
+  // initialize index
+  for (lt = 0; lt &lt; 25; ++lt) {
+    for (k = 0; k &lt; 2; ++k) {
+      index[lt][k] = 0;
+    }
+  }
+  // first round
+  for (i = 1; i &lt;= 50; ++i) {
+    r = faceup(i);
+    lt = (int)(r) - (int)('A'); // int corresponding to char r
+    k = (index[lt][0]) ? 1 : 0;
+    index[lt][k] = i;
+  }
+  // second round
+  for (lt = 0; lt &lt; 25; ++lt) {
+    faceup( index[lt][0] ); // result ignored
+    faceup( index[lt][1] ); // result ignored
+  }
+}
+</pre>
+
+
+
+</body></html>

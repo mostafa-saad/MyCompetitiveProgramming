@@ -1,0 +1,84 @@
+
+<!-- saved from url=(0058)https://ioi2010.org/competitiontask/day1/cluedo/index.html -->
+<html class="gr__ioi2010_org"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>IOI 2010 Task Information: Cluedo</title>
+</head>
+<body data-gr-c-s-loaded="true">
+<img align="left" src="./Cluedo_files/ioi2010.jpg" height="100">
+<h1>Task Information for Cluedo</h1>
+<blockquote>
+<b>Task Author</b>: Gordon Cormack (CAN)
+</blockquote>
+<br clear="all">
+
+<p>
+This was intended to be a very easy task.
+The number of features to be determined (murderer, location, weapon),
+and the number of options for each feature were intentionally fixed,
+and not parameterized.
+
+</p><p>
+Given that there are 6 candidate murderers, 10 candidate locations,
+and 6 candidate weapons,
+there is a total of 6*10*6=360 theories.
+</p><p>
+Subtask 1 could be solved by trying each possible theory
+(three nested <code>for</code> loops).
+</p><p>
+Because the response to a refuted theory will identify one feature
+for which a wrong option was guessed,
+the search can be expedited.
+All theories having that wrong option for that particular feature
+are now ruled out.
+</p><p>
+Subtask 2 can be solved by a single loop,
+incrementing whichever feature was wrong (a monotonic search).
+The total number of options equals 6+10+6=22, and
+the last option not ruled out must be correct
+(it was given that there is exactly one correct theory).
+Therefore, at most 22-3=19 refuted calls to <b>Theory</b> are needed.
+One confirming call to <b>Theory</b> was required,
+so a total of 20 calls suffices.
+</p><p>
+Here is a Pascal solution that can readily be generalized
+(the constant, type, and auxiliary function definitions could be eliminated,
+but they document the relevant concepts nicely):
+</p><pre>const
+  NFeatures = 3; { number of features }
+  Confirmed = 0; { result when theory is confirmed }
+
+type
+  TFeature = 1 .. NFeatures;
+  TOption = 1 .. MaxInt; { value for a feature }
+  TTheory = array [ TFeature ] of TOption;
+  TResult = Confirmed .. NFeatures;
+
+function TestTheory(T: TTheory): TResult;
+  begin TestTheory := Theory(T[1], T[2], T[3]) end;
+
+procedure Solve;
+  var
+    T: TTheory = (6, 10, 6); { candidate theory }
+    i: TResult; { result of TestTheory(T) }
+  begin
+    repeat
+      i := TestTheory(T)
+    ; if i &lt;&gt; Confirmed then { T refuted } T[i] := T[i] - 1
+    until i = Confirmed
+    { T confirmed }
+  end;
+</pre>
+
+In C, without constant and type definitions, it could look like this:
+<pre>void Solve() {
+   int T[] = {0, 6, 10, 6}; // candidate theory, ignore T[0]
+   int i; // result of Theory
+   do {
+     i = Theory(T[1], T[2], T[3]);
+     if (i != 0) --T[i];
+   } while (i != 0);
+}
+</pre>
+
+
+</body></html>

@@ -2,3 +2,4 @@ https://github.com/nikolapesic2802/Programming-Practice/blob/master/Karte/main.c
 http://blog.brucemerry.org.za/2018/01/coci-20172018-r5-analysis.html
 https://github.com/tsouza0/CompetitiveProgramming/blob/master/Olympiads/COCI/karte.cpp
 https://github.com/updown2/OI-Practice/blob/master/COCI/2018_Karte.cpp
+https://github.com/sjhuang26/competitive-programming/blob/master/coci/COCI18_KARTE.cpp
