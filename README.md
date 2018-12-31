@@ -14,6 +14,7 @@
 * Many problems have high quality, but no editorials for them (or even no online solutions). I try to make it easier for my trainees.
   * Training on high quality/interesting problems is much more fun and saves trainees time from solving repetitive ideas.
 * Official contest sites typically disappear after some time, as a result, the official solutions/editorials are not accessible. I am trying to organize them in a single place.
+  * Much progress done for IOI/OI. No progress for ICPC Regionals.
 
 
 ## Future Release
