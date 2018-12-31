@@ -1,0 +1,4 @@
+
+
+https://github.com/updown2/OI-Practice/blob/master/POI/25/Plan%20Metra%20(Subway%20Design).cpp
+https://github.com/tsouza0/CompetitiveProgramming/blob/master/Olympiads/POI/planmetra.cpp

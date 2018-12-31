@@ -2,3 +2,5 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2012_solutions
 	
 https://github.com/zoooma13/Competitive-Programming/blob/master/fire.cpp
+https://github.com/updown2/OI-Practice/blob/master/BOI%20(Baltic)/2012%20Fireworks%20in%20RightAngleles.cpp
+

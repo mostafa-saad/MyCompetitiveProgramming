@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2011_solutions
+	
+https://github.com/sjhuang26/competitive-programming/blob/master/baltic/Baltic%2011-Lamp.cpp
