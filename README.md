@@ -19,7 +19,7 @@
 ## Future Release
 * In the future, I might release 2 Google Docs sheets of problems, one for ICPC/OJs and the other for IOI/OI problems.
 * Indexing many of (interesting to solve) problems.
-  * I always ask my traines to inform me how interesting the problem is. I use this input as signal.
+  * I always ask my trainees to inform me how interesting the problem is. I use this input as a signal.
 * For each problem: Link, Category, Level, How interesting, Mini-Editorial/Solution.
 
 ## Request
