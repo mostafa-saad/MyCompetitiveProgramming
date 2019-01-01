@@ -1,0 +1,8 @@
+Notes
+	https://codeforces.com/blog/entry/44657?#comment-293060
+	
+Official Codes
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/official/2016/gap		[very short relative to others]
+	
+https://github.com/updown2/OI-Practice/blob/master/APOI/2006%20Gap.cpp
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/APIO/Gap2016.cpp

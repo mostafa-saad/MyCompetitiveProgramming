@@ -1,0 +1,53 @@
+DP
+	Digital DP			http://codeforces.com/blog/entry/53960
+	DP Optimizations    https://codeforces.com/blog/entry/8219            
+						http://h0rnet.hatenablog.com/entry/2016/02/06/155748
+						http://codeforces.com/blog/entry/47247
+	DP sos              http://codeforces.com/blog/entry/45223
+	DP Siblings         http://codeforces.com/blog/entry/18523
+
+
+	
+Math
+	Möbius inversion    http://codeforces.com/blog/entry/53925
+	Linear sieve        http://codeforces.com/blog/entry/54090
+	Sprague-Grundy      http://codeforces.com/blog/entry/63054
+						https://codeforces.com/blog/entry/63067
+	Geometry Trick   	http://codeforces.com/blog/entry/61710
+	Sums and Expected Value		http://codeforces.com/blog/entry/62690
+								http://codeforces.com/blog/entry/62792
+								
+	
+	
+
+DataStructures
+	Blowing up unordered_map		http://codeforces.com/blog/entry/62393
+	Implicit cartesian tree in GNU C++ STL
+	
+	Non-recursive Implementation of Range Queries and Modifications over Array             
+		https://codeforces.com/blog/entry/1256
+		
+	Sack (dsu on tree)     			https://codeforces.com/blog/entry/44351
+	Merge Sort Trees        		https://www.commonlounge.com/discussion/fe6ac441785c44d6a959eab662f15adc
+	Wavelet Trees					https://users.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
+	2D Range Update and Query      	https://codeforces.com/blog/entry/46390
+	Why use Splay Trees?        	https://codeforces.com/blog/entry/63521
+	
+	Segment Tree
+		Ji driver segment tree   			http://codeforces.com/blog/entry/56994
+		Segment tree beats					http://codeforces.com/blog/entry/57319
+		Efficient and easy segment trees    http://codeforces.com/blog/entry/18051
+		Everything About Segment Trees      http://codeforces.com/blog/entry/15890
+	
+Misc
+	Slope Trick        		https://codeforces.com/blog/entry/47821
+	Gosper's hack			https://softwareengineering.stackexchange.com/questions/67065/whats-your-favorite-bit-wise-technique
+	Interactive Problems	https://codeforces.com/blog/entry/45307
+	Exchange arguments (sorting with dp)         https://codeforces.com/blog/entry/63533
+	Euler Tour Magic		http://codeforces.com/blog/entry/63020
+		
+	Blogewoosh tricks		http://codeforces.com/blog/entry/62602 (#6)
+	General Tricks			https://codeforces.com/blog/entry/48417
+	
+	C++ Tricks				https://codeforces.com/blog/entry/15643
+	C++11 for programming contests	https://codeforces.com/blog/entry/10124
