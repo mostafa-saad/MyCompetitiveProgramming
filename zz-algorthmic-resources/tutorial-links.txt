@@ -3,7 +3,7 @@ DP
 	DP Optimizations    https://codeforces.com/blog/entry/8219            
 						http://h0rnet.hatenablog.com/entry/2016/02/06/155748
 						http://codeforces.com/blog/entry/47247
-	DP sos              http://codeforces.com/blog/entry/45223
+	DP SOS              http://codeforces.com/blog/entry/45223
 	DP Siblings         http://codeforces.com/blog/entry/18523
 
 
