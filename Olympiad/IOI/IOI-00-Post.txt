@@ -1,0 +1,8 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2000
+	
+Online Sols
+	https://blog.csdn.net/u010885899/article/details/47283677
+	
+trainees
+	https://github.com/AhmedElsisy/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI%2000-Post.cpp

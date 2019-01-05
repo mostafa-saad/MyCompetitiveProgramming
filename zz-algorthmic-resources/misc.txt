@@ -1,0 +1,8 @@
+One of trainees
+	I had a lot of submits because of RTE - out of bounds. After adding fsanitize=address to the compilation flags I easily found the bug. So lesson learned - always compile with -fsanitize=address. 
+
+
+All Andrew Stankevich Contests at Gym		http://codeforces.com/blog/entry/7770
+
+
+Math Mash			https://www.mathmash.org/contests.php

@@ -1,0 +1,30 @@
+/* These control the fixed-width text elements of the page */
+textarea, pre, code { font-size:0.9em; }
+pre, code { font-family:'Lucida Console','Andale Mono','Courier New',Courier,monospace; }
+pre { line-height:1.2em; }
+pre code, code code, pre pre { font-size:100%; }
+
+/* These primarily adjust the size and spacing of heading elements,
+** most browsers have atrocious defaults for these. */
+h1, h2, h3, h4, h5, h6 {color:#bb156d;
+ margin-top: 0px;
+ margin-bottom:0.6em;
+ border-bottom: 1px solid #dddddd;
+ clear: both;
+}
+
+h1, h2, h3, h6 {
+  color:#bb156d; 
+  font-weight:normal; }
+
+h4, h5 {
+  color:#bb156d; 
+  font-weight:bold; 
+ }
+h1 code, h2 code, h3 code, h4 code { font-size:1em; }
+h1 { font-size:1.8em; }
+h2 { font-size:1.44em; }
+h3 { font-size:1.22em; }
+h4 { font-size:1.07em; }
+h5 { font-size:1.0em; }
+h6 { font-size:1.0em; }

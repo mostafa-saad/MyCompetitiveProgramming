@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/official/2011
+	
+https://github.com/updown2/OI-Practice/blob/master/CEOI/2011%5BP%5D%20Similarity.cpp

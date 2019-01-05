@@ -28,3 +28,8 @@ Notes from Tran Loc
 - At the first glance, I had this observation too, that is, for any set of 4 different number, we will have 4! different sums. 
 	This observation IS WRONG, here is one case: for the set {87, 97, 78, 59}, 
 	we have 1 * 87 + 2 * 78 + 3 * 97 + 4 * 59 = 770 and 1 * 87 + 2 * 97 + 3 * 59 + 4 * 78 = 770.
+
+
+
+
+https://github.com/magdy-hasan/competitive-programming/blob/57a9f42403b96d6792c61b2ca9c94eb933c1c35a/uva-/uva%201381%20-%20Balancing%20the%20Scale.cpp

@@ -1,2 +1,4 @@
 Graph Editor				https://csacademy.com/app/graph_editor/
 Codeforces Visualizaer		https://cfviz.netlify.com
+Codeforces Data Scraping Websites		https://codeforces.com/blog/entry/63040
+https://www.stopstalk.com/

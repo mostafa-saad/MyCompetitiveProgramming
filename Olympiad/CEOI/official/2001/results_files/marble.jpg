@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Page not found | CEOI</title>
+
+
+	<link rel="pingback" href="http://ceoi.inf.elte.hu/xmlrpc.php" />
+		<link rel="stylesheet" href="http://ceoi.inf.elte.hu/wp-content/themes/green-one/style.css" type="text/css" />
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CEOI &raquo; Feed" href="http://ceoi.inf.elte.hu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CEOI &raquo; Comments Feed" href="http://ceoi.inf.elte.hu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ceoi.inf.elte.hu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='http://ceoi.inf.elte.hu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ceoi.inf.elte.hu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ceoi.inf.elte.hu/wp-includes/wlwmanifest.xml" /> 
+<script type="text/javascript" src="http://ceoi.inf.elte.hu/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1546401646"></script>
+<!-- begin SI CAPTCHA Anti-Spam - login/register form style -->
+<style type="text/css">
+.si_captcha_small { width:175px; height:45px; padding-top:10px; padding-bottom:10px; }
+.si_captcha_large { width:250px; height:60px; padding-top:10px; padding-bottom:10px; }
+img#si_image_com { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_reg { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_log { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_side_login { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_checkout { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_jetpack { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_bbpress_topic { border-style:none; margin:0; padding-right:5px; float:left; }
+.si_captcha_refresh { border-style:none; margin:0; vertical-align:bottom; }
+div#si_captcha_input { display:block; padding-top:15px; padding-bottom:5px; }
+label#si_captcha_code_label { margin:0; }
+input#si_captcha_code_input { width:65px; }
+p#si_captcha_code_p { clear: left; padding-top:10px; }
+.si-captcha-jetpack-error { color:#DC3232; }
+</style>
+<!-- end SI CAPTCHA Anti-Spam - login/register form style -->
+
+</head>
+<body class="error404">
+<div class="root">
+	<div class="header">
+		<form method="get" class="searchform" action="http://ceoi.inf.elte.hu">
+<fieldset>
+	<input type="text" value="" name="s" /><button type="submit" name="searchsubmit" value="Search"></button>
+</fieldset>
+</form>		<p class="logo"><a href="http://ceoi.inf.elte.hu/">CEOI</a></p>
+		<p class="tagline">Central-European Olympiad in Informatics</p>
+	</div>
+	<div class="nav">
+		<div>
+			<ul class="menu"><li class="page_item page-item-25"><a href="http://ceoi.inf.elte.hu/ceoi-what-is-it/">CEOI &#8211; What is it?</a></li>
+<li class="page_item page-item-44"><a href="http://ceoi.inf.elte.hu/history/">Previous years</a></li>
+<li class="page_item page-item-71"><a href="http://ceoi.inf.elte.hu/tasks-archive/">Tasks archive</a></li>
+<li class="page_item page-item-78"><a href="http://ceoi.inf.elte.hu/regulations/">Regulations</a></li>
+</ul>			<div class="clear"><!-- --></div>
+		</div>
+	</div>
+
+
+	<div class="content">	<div class="main">
+		<h1>Error 404 - Not Found</h1>
+		<p>Apologies, but the page you requested could not be found.</p>
+		<form method="get" class="searchform" action="http://ceoi.inf.elte.hu">
+<fieldset>
+	<input type="text" value="" name="s" /><button type="submit" name="searchsubmit" value="Search"></button>
+</fieldset>
+</form>	</div>
+<div class="sidebar">
+
+			<div class="widget"><h3>Pages</h3>		<ul>
+			<li class="page_item page-item-25"><a href="http://ceoi.inf.elte.hu/ceoi-what-is-it/">CEOI &#8211; What is it?</a></li>
+<li class="page_item page-item-44"><a href="http://ceoi.inf.elte.hu/history/">Previous years</a></li>
+<li class="page_item page-item-71"><a href="http://ceoi.inf.elte.hu/tasks-archive/">Tasks archive</a></li>
+<li class="page_item page-item-78"><a href="http://ceoi.inf.elte.hu/regulations/">Regulations</a></li>
+		</ul>
+		</div><div class="widget"><h3>Previous years</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://ceoi.inf.elte.hu/95/">CEOI 1995</a></li>
+<li><a href="http://turing.fmph.uniba.sk/www/ceoi/">CEOI 1996</a></li>
+<li><a href="http://www.oi.edu.pl/ceoi97/">CEOI 1997</a></li>
+<li><a href="http://pubwww.srce.hr/hsin/ceoi98/">CEOI 1998</a></li>
+<li><a href="http://www.fi.muni.cz/ceoi1999/">CEOI 1999</a></li>
+<li><a href="http://ceoi.ubbcluj.ro/">CEOI 2000</a></li>
+<li><a href="http://ceoi.inf.elte.hu/ceoi2001/">CEOI 2001</a></li>
+<li><a href="http://web.ics.upjs.sk/ceoi/">CEOI 2002</a></li>
+<li><a href="http://www.ceoi2003.de/">CEOI 2003</a></li>
+<li><a href="http://www.oi.edu.pl/ceoi2004/">CEOI 2004</a></li>
+<li><a href="http://ceoi.inf.elte.hu/ceoi2005/">CEOI 2005</a></li>
+<li><a href="http://www.hsin.hr/ceoi2006/">CEOI 2006</a></li>
+<li><a href="http://www.fi.muni.cz/ceoi/">CEOI 2007</a></li>
+<li><a href="http://www.ceoi2008.de">CEOI 2008</a></li>
+<li><a href="http://www.ceoi2009.ro">CEOI 2009</a></li>
+<li><a href="http://ceoi2010.ics.upjs.sk/">CEOI 2010</a></li>
+<li><a href="http://ceoi2011.mimuw.edu.pl/">CEOI 2011</a></li>
+<li><a href="http://ceoi2012.elte.hu">CEOI 2012</a></li>
+<li><a href="http://ceoi2013.hsin.hr/" target="_blank">CEOI 2013</a></li>
+<li><a href="http://ceoi2014.informatik-olympiade.de/" target="_blank">CEOI 2014</a></li>
+<li><a href="http://ceoi2015.fi.muni.cz/" target="_blank">CEOI 2015</a></li>
+<li><a href="http://www.ceoi2016.ro/">CEOI 2016</a></li>
+<li><a href="http://ceoi2017.acm.si" target="_blank">CEOI 2017</a></li>
+<li><a href="https://ceoi2018.pl" target="_blank">CEOI 2018</a></li>
+<li><a href="http://www.ioinformatics.org/index.shtml">International Olympiad in Informatics</a></li>
+
+	</ul>
+</div>
+
+</div>	</div>
+	<div class="banner">
+		<p><strong>CEOI</strong> | Central-European Olympiad in Informatics</p>
+	</div>
+
+	<div class="footer">
+		<ul class="menu"><li class="page_item page-item-25"><a href="http://ceoi.inf.elte.hu/ceoi-what-is-it/">CEOI &#8211; What is it?</a></li>
+<li class="page_item page-item-44"><a href="http://ceoi.inf.elte.hu/history/">Previous years</a></li>
+<li class="page_item page-item-71"><a href="http://ceoi.inf.elte.hu/tasks-archive/">Tasks archive</a></li>
+<li class="page_item page-item-78"><a href="http://ceoi.inf.elte.hu/regulations/">Regulations</a></li>
+</ul>		<p><span>Engine: <a href="http://wordpress.org/">WordPress</a> Design: <a href="http://kwatery-prywatne.pl/">Kwatery Prywatne</a></span></p>
+		<script type='text/javascript' src='http://ceoi.inf.elte.hu/wp-includes/js/wp-embed.min.js?ver=4.8.8'></script>
+	</div>
+
+</div>
+</body>
+</html>

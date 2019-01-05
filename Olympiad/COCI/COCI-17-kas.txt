@@ -1,0 +1,6 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2017/contest4_solutions
+
+	
+https://ideone.com/NRuFF7
+https://github.com/updown2/OI-Practice/blob/master/COCI/2017%20Kas.cpp

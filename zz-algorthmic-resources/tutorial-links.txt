@@ -1,10 +1,15 @@
 DP
 	Digital DP			http://codeforces.com/blog/entry/53960
 	DP Optimizations    https://codeforces.com/blog/entry/8219            
+						https://codeforces.com/blog/entry/63823
+						https://www.youtube.com/watch?v=OrH2ah4ylv4
 						http://h0rnet.hatenablog.com/entry/2016/02/06/155748
 						http://codeforces.com/blog/entry/47247
 	DP SOS              http://codeforces.com/blog/entry/45223
 	DP Siblings         http://codeforces.com/blog/entry/18523
+	
+	General				https://apps.topcoder.com/forums/?module=Thread&threadID=697369&start=0
+						http://codeforces.com/blog/entry/47764
 
 
 	
@@ -38,6 +43,9 @@ DataStructures
 		Segment tree beats					http://codeforces.com/blog/entry/57319
 		Efficient and easy segment trees    http://codeforces.com/blog/entry/18051
 		Everything About Segment Trees      http://codeforces.com/blog/entry/15890
+		
+		More								http://codeforces.com/blog/entry/22616
+											http://codeforces.com/blog/entry/59081
 	
 Misc
 	Slope Trick        		https://codeforces.com/blog/entry/47821
@@ -46,8 +54,10 @@ Misc
 	Exchange arguments (sorting with dp)         https://codeforces.com/blog/entry/63533
 	Euler Tour Magic		http://codeforces.com/blog/entry/63020
 		
-	Blogewoosh tricks		http://codeforces.com/blog/entry/62602 (#6)
+	Blogewoosh tricks		http://codeforces.com/blog/entry/62602 (#6)		- Find more on his blog page
 	General Tricks			https://codeforces.com/blog/entry/48417
 	
 	C++ Tricks				https://codeforces.com/blog/entry/15643
 	C++11 for programming contests	https://codeforces.com/blog/entry/10124
+	Competitive C++ Manifesto: A Style Guide		https://codeforces.com/blog/entry/64218
+	

@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2017/contest1_solutions
+	
+https://github.com/updown2/OI-Practice/blob/master/COCI/2016%20Mag.cpp
