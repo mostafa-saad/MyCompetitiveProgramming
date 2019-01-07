@@ -1,4 +1,10 @@
-Official
+Official (2 approaches)
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official/2018.pdf
 	
-https://github.com/nikolapesic2802/Programming-Practice/blob/master/City%20Mapping/citymapping.cpp
+	
+Randomization
+	https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/SGPNOI18-citymapping.cpp
+	
+
+Another
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/City%20Mapping/citymapping.cpp
