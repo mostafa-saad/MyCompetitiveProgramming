@@ -1,16 +1,30 @@
+POI Editorials are in Polish. File typically > 1 Mega, so can't translate directly using Google Translate
+	I divided the polish editorial to several files (p1, p2, ..)
+	Problem names according to translation are listed in each file, in order
+		Sometimes, the Doc Translate is not accurate than box translate!
+		If this is the case, you will find (problem name - code)
+		So items format below is <Translated name> [Actual name - Actual code]
+		
+	Once realized which file will have the editorial
+		Go to Doc translator: https://translate.google.ca/#view=home&op=translate&sl=pl&tl=en
+		Upload the pdf
+		Search using the translated name.
+
+===================================
+
 p1
 	Hydrorozgrywka
-	chaplet
+	chaplet (Necklace - kor)
 	transmitters
-	It is difficult
+	It is difficult (Nim)
 	water park
 	Christmas chain
-	Variable directions
-	stammering
+	Variable directions (Streets - dro)
+	stammering (Stutter - zaj)
 
 p2
 	Arkanoid
-	Not Nim		(translated wrongly as Not Him)
+	Not Him		(Not Nim - wca)
 	Equivalent programs
 	Messenger
 	Hardworking Johnny
@@ -18,7 +32,8 @@ p2
 
 p3
 	Club members
-	Original trips
+	Original trips	(Amusing journeys - nie)
+	Parade
 	Roller coaster
 	Abbreviation
 	Molecular detector

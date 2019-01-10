@@ -1,0 +1,4 @@
+Official
+	HYPERLINK("https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2010_solutions","Editorial")
+
+https://github.com/luciocf/Solutions/blob/master/BOI/BOI%202010/candies.cpp
