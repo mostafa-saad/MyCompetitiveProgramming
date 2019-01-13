@@ -1,0 +1,10 @@
+Every POI problem has name and TaskCode
+	E.g. POI 15-Necklace (https://szkopul.edu.pl/problemset/problem/SbvfueoDtZe2DQFHrywTIakc/site/?key=statement)
+		TaskCode = pod, find in the POI link
+		
+	This problem from POI 2015, go to this directory
+		Find directory for the code in editorials, e.g 		Olympiad/POI/official/2015-XXII/pod/prog
+		
+		Find Polish Editorial at: e.g. 						Olympiad/POI/official/2015-XXII/EDITORIAL/pod.pdf
+			Go to Doc translator: 	https://translate.google.ca/#view=home&op=translate&sl=pl&tl=en
+			Upload the pdf
