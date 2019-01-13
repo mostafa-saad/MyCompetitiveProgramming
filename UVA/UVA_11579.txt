@@ -1,2 +1,3 @@
 https://github.com/MedoN11/CompetitiveProgramming/blob/master/UVA/11579.cpp
 https://github.com/Firastic/CompetitiveProgramming/blob/master/UVA/UVA%2011579.cpp
+https://ideone.com/cbIQOH

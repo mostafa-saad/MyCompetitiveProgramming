@@ -5,8 +5,10 @@ POI Editorials are in Polish. File typically > 1 Mega, so can't translate direct
 		If this is the case, you will find (problem name - code)
 		So items format below is <Translated name> [Actual name - Actual code]
 		
+		Note, search the translation direction may not work, as translation are lazy mode
+		
 	Once realized which file will have the editorial
-		Go to Doc translator: https://translate.google.ca/#view=home&op=translate&sl=pl&tl=en
+		Go to Doc translator: 	https://translate.google.ca/#view=home&op=translate&sl=pl&tl=en
 		Upload the pdf
 		Search using the translated name.
 
@@ -14,13 +16,13 @@ POI Editorials are in Polish. File typically > 1 Mega, so can't translate direct
 
 p1
 	Hydrorozgrywka
-	chaplet (Necklace - kor)
+	chaplet / Corals (Necklace - kor)
 	transmitters
 	It is difficult (Nim)
 	water park
 	Christmas chain
 	Variable directions (Streets - dro)
-	stammering (Stutter - zaj)
+	stammering / Stuttering (Stutter - zaj)
 
 p2
 	Arkanoid

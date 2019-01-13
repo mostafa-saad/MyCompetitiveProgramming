@@ -1,0 +1,2 @@
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/IdealCity2012.cpp
+https://oj.uz/submission/93800

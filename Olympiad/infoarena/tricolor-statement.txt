@@ -1,0 +1,8 @@
+https://www.infoarena.ro/problema/tricolor
+
+	Problem: 
+	Given a tree with n nodes, color the tree nodes in black or white so that the number of (unordered) pairs of twin nodes is maximum.
+	Two nodes are twinned if and only if both are white and either are bound directly by an edge, or the single elemental chain of them contains
+	only black nodes
+	
+	by stef dasca

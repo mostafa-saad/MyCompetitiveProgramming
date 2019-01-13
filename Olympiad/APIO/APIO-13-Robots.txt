@@ -15,3 +15,5 @@ also memory limit exceeded happened to me,so I cut half memory of dp by implemen
 There are more clarifications by hogloid in the post
 
 ====================
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/APIO/13-Robots.cpp
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/APIO%20Robots/main.cpp

@@ -1,0 +1,7 @@
+Explained here as part of Convex Hull DP
+	http://wcipeg.com/wiki/Convex_hull_trick
+	
+It is also from USACO MAR08 problem, here is the analysis: http://contest.usaco.org/TESTDATA/MAR08.acquire.htm
+	Data http://contest.usaco.org/MAR08.htm
+	
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/SPOJ/ACQUIRE.cpp
