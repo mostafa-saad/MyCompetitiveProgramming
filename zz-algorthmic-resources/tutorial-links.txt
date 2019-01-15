@@ -15,6 +15,7 @@ DP
 	
 Math
 	Möbius inversion    http://codeforces.com/blog/entry/53925
+	Dirichlet convolution	https://codeforces.com/blog/entry/54150
 	Linear sieve        http://codeforces.com/blog/entry/54090
 	Sprague-Grundy      http://codeforces.com/blog/entry/63054
 						https://codeforces.com/blog/entry/63067
