@@ -1,0 +1,5 @@
+See official editorial/Sol
+
+
+FFT
+	https://github.com/aviroop123/CompetitiveProgramming/blob/master/CodeForces/CF-213171W.cpp
