@@ -1,0 +1,2 @@
+https://github.com/Coder-Boy1/SPOJ/blob/master/SPOJ%20DIVEQL
+https://github.com/swapnil119/CompetitiveProgramming/blob/master/CompetitiveProgramming/SPOJ/diveql.cpp

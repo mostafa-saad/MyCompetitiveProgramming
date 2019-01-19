@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/official/2011		O(N)
+	
+O(N^2)
+	https://oj.uz/submission/94217

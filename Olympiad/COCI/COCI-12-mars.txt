@@ -3,4 +3,5 @@ Official
 
 
 
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Mars%20n%5E2%20log%20n/main.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/mars/main.cpp		O(n^4 log n) (1e9 operations) passes

@@ -1,0 +1,5 @@
+Official	
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Baltic/official/boi2015_solutions
+	
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BtOI/15-Tug.cpp
+https://github.com/updown2/OI-Practice/blob/master/BOI%20(Baltic)/2015%20Tug%20of%20War.cpp

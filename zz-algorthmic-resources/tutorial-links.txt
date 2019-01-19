@@ -22,6 +22,7 @@ Math
 	Geometry Trick   	http://codeforces.com/blog/entry/61710
 	Sums and Expected Value		http://codeforces.com/blog/entry/62690
 								http://codeforces.com/blog/entry/62792
+	FFT					https://csacademy.com/blog/fast-fourier-transform-and-variations-of-it
 								
 	
 	
@@ -61,4 +62,9 @@ Misc
 	C++ Tricks				https://codeforces.com/blog/entry/15643
 	C++11 for programming contests	https://codeforces.com/blog/entry/10124
 	Competitive C++ Manifesto: A Style Guide		https://codeforces.com/blog/entry/64218
+	
+
+
+Books
+	Competitive programming books - written by Antti Laaksonen			https://codeforces.com/blog/entry/50728
 	
