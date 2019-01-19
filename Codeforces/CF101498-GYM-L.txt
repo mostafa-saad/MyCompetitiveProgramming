@@ -1,3 +1,7 @@
+https://github.com/aryanc403/CompetitiveProgramming/blob/master/Codeforces/CF101498-GYM-L.cpp
 https://ideone.com/Prm14d
 https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/GYM/CF10149-GYM-L.cpp
 
+
+The problem is similar to CODECHEF BESTPATH, which has editoiral
+	https://www.codechef.com/LTIME67A/problems/BESTPATH
