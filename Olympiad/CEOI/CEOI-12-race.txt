@@ -3,3 +3,4 @@ Official
 	
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/12-Race.cpp
 https://github.com/updown2/OI-Practice/blob/master/CEOI/2012_Sailing%20Race.cpp
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/CEOI%20Race%202012/main.cpp

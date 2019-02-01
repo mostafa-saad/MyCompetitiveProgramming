@@ -1,3 +1,5 @@
+Simiar to APIO 10-Commando
+
 dp_convex_hull problem
 
 Editoral
@@ -8,3 +10,6 @@ Editoral
 		https://www.youtube.com/watch?v=OrH2ah4ylv4
 		
 Another OJ: https://www.e-olymp.com/en/problems/3972
+
+
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/Kattis/coveredwalkway.cpp

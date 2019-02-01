@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2016/contest1_solutions
+	
+https://github.com/aviroop123/CompetitiveProgramming/blob/master/Miscellaneous/COCI%2015-relativnost.cpp

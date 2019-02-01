@@ -1,2 +1,3 @@
+https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/UVA/UVA1194.cpp
 https://github.com/ilyesG/Competitive-Programming/blob/master/UVA/UVA%201194.cpp
 https://github.com/Huvok/CompetitiveProgramming/blob/master/UVA/1149.cpp

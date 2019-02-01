@@ -1,0 +1,2 @@
+https://github.com/tanmoy13/CompetitveProgramming/blob/master/Online-Judge-Solutions/LightOJ/1306%20-%20Solutions%20to%20an%20Equation.cpp
+https://github.com/mosta7il/Competitive-programming/blob/master/LightOJ/1306.cpp

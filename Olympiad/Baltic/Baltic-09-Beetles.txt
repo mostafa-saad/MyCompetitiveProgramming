@@ -42,3 +42,5 @@ Solutions
 	https://github.com/zoooma13/Competitive-Programming/blob/master/beetle.cpp
 	https://github.com/abdrakhman/Olymp/blob/master/BOI/2009/Beetle/main.cpp
 	https://github.com/sjhuang26/competitive-programming/blob/master/baltic/Baltic%2009-Beetles.cpp
+	https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/BalticOI/Baltic-09-beetle.cpp
+	

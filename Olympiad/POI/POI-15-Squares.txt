@@ -1,0 +1,5 @@
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/POI/22-Squares.cpp
+
+
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

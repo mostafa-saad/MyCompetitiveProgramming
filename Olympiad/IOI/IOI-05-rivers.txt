@@ -1,0 +1,6 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/IOI/official/2005/sol.pdf
+	
+	
+https://github.com/updown2/OI-Practice/blob/master/IOI/2005%20Rivers.cpp
+https://github.com/ShabdanBatyrkulov/codee/blob/master/IOI%2005-rivers.cpp

@@ -1,0 +1,8 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2016
+	
+
+This problem can be solved using another DP called, DP component
+	https://codeforces.com/blog/entry/47764
+		article explains 'JOI 2016 Open Contest — Skyscrapers' a bit harder than this task
+	https://oj.uz/submission/78741

@@ -1,0 +1,2 @@
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/Balkan/17-Monsters.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalkanOI/Balkan%2017-Monsters.cpp

@@ -1,0 +1,2 @@
+https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/BkOI/17-Cats.cpp
+https://github.com/Yehezkiel01/CompetitiveProgramming/blob/master/Balkan/Balkan-17-Cats.cpp
