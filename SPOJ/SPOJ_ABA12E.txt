@@ -1,12 +1,27 @@
-Mohamed Nasser Aly 
+Hint1: Given S, can you count how many subarrays of sum == S?
 
-The kth subarray is larger than or equal to k subarrays. So we binary search on the sum of the kth subarray. 
-We can count subarrays with sum less or equal to K in O(N) by 2ptrs or O(NlogN) using binary search. 
-Some sums don't really exist as a sub array sum but if we take the minimum possible sum it's guranteed to be in the array. 
-Complexity is nlogS * logS where S is maximum sum possible around 1e15. Code here : 
+Hint2: Given S, can you count how many subarrays of sum <= S?
 
-https://github.com/MedoN11/CompetitiveProgramming/blob/master/SPOJ/ABA12E.cpp
+Hint3 (if found answer to hint2): General Pattern for such problems
+	When you have an array of values >= 0, and the problem is: Given index, find array value of this index
+		then we may binary-search on the value to match requested the index
+			the array her: the sorted array of all possible sums of sub-arrays
 
+======
+https://www.geeksforgeeks.org/kth-smallest-sum-of-continuous-subarrays-of-positive-numbers/
+
+
+Mohamed Nasser Aly
+	The kth subarray is larger than or equal to k subarrays. So we binary search on the sum of the kth subarray. 
+	We can count subarrays with sum less or equal to K in O(N) by 2ptrs or O(NlogN) using binary search. 
+	Some sums don't really exist as a sub array sum but if we take the minimum possible sum it's guranteed to be in the array. 
+	Complexity is nlogS * logS where S is maximum sum possible around 1e15. Code here : 
+
+		https://github.com/MedoN11/CompetitiveProgramming/blob/master/SPOJ/ABA12E.cpp
+
+
+	Binary Search with 2 pointers
+		https://github.com/tr0j4n034/SPOJ/blob/master/ABA12E.cpp
 
 
 ====
