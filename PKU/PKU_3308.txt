@@ -1,0 +1,2 @@
+https://github.com/tanmoy13/CompetitveProgramming/blob/master/Online-Judge-Solutions/PKU/Paratroopers.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/POJ/3308.cpp

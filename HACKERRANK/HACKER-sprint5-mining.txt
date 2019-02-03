@@ -1,0 +1,8 @@
+DP Divide and Conquer
+	See Editorial
+	
+Dp Convex Hull
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/HACKR/sprint5-mining.cpp
+	
+DP Knuth?
+	Someone cliam to be solvable using knuth

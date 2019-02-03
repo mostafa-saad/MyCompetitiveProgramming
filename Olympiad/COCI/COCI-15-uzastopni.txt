@@ -3,3 +3,4 @@ Official
 	
 https://github.com/updown2/OI-Practice/blob/master/COCI/2015%20Uzastopni.cpp
 https://github.com/sjhuang26/competitive-programming/blob/master/coci/COCI%2015-uzastopni.cpp
+https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/COCI/COCI-15-uzastopni.cpp
