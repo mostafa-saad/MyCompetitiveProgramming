@@ -3,3 +3,6 @@ DP, Greedy, Impl
 	
 Bit, Dp
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/18-Global.cpp
+
+Segment tree, Grid Compress
+	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/CEOI/CEOI%2018-Global%20Warming.cpp
