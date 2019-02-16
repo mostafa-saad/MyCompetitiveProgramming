@@ -8,8 +8,27 @@ DP
 	DP SOS              http://codeforces.com/blog/entry/45223
 	DP Siblings         http://codeforces.com/blog/entry/18523
 	
+	DP Trees			https://codeforces.com/blog/entry/63257
+						https://codeforces.com/blog/entry/20935
+						https://codeforces.com/blog/entry/61572
+	
 	General				https://apps.topcoder.com/forums/?module=Thread&threadID=697369&start=0
 						http://codeforces.com/blog/entry/47764
+						
+						
+						
+	Dp trees vs Siblings (Nasser):
+		DP Siblings a technique using DP on trees but it's very different technique from the regular "DP on Trees". It involves solving for a node's children prefix given we have solved previous ones.
+
+		Let's say we have N nodes, and we want to distribute K items on the tree nodes, and we want to count the ways to do so. This is somehow hard to formulate as a regular tree dp, but instead imagine we do our state as (Node,currentChild,remaining items), and each time we decide how many items to distribute on current's node subtree, then distribute rest to "siblings".
+
+		For example, consider the following tree attached. Initially we want to distribute 10 items on the tree. So we give 10 items to 1. The 1 then decides to give 10 items to it's first child, the first child bruteforces from 1 to 10 how many items it keeps in it's subtree, and then passes the rest to it's siblings the 3.
+
+		The items distributed to the 2 are then forwarded to it's first child, the 4, which decides how many to keep in it's subtree, and sends the rest to the 5. 
+
+		This keeps going recursively. The idea of siblings is that DP is kind of done on the children themselves. This technique is pretty good, but downsides is that when it appears it's more complex & usually very lengthy to code.
+
+		Sample problem here : http://codeforces.com/problemset/problem/440/D
 
 
 	

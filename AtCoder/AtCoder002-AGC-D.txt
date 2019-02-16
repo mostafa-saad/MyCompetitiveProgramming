@@ -9,3 +9,5 @@ Sqrt decomposoition
 
 Persistent DSU + binary search
 	https://github.com/Cerberus97/CompetitiveProgrammingSolutions/blob/master/AtCoder/AtCoder002-AGC-D.cpp
+
+	See CF101194-GYM-G	https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/CodeForces/CF101194-GYM-G%20-%20Pandaria.cpp

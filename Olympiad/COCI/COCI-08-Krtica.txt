@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2009/contest1_solutions/solutions.pdf
+	
+https://github.com/updown2/OI-Practice/blob/master/COCI/2008%20Krtica.cpp	(enhanced than ednitorial)

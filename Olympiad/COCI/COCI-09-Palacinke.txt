@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2010/contest4_solutions
+	
+https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/COCI/COCI-09-palacinke.cpp

@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/APIO/official/2009/2009.pdf
+	
+https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/APIO/09-convention.cpp
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/APIO/Convention2009.cpp

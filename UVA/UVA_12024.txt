@@ -1,3 +1,7 @@
 https://github.com/AliOsm/CompetitiveProgramming/blob/master/UVA/12024%20-%20Hats.cpp
 http://www.mathpages.com/home/kmath430.htm
 	https://github.com/BRAINOOO/CompetitiveProgramming/blob/master/UVA/V-120/UVA%2012024.cpp
+
+
+
+https://ideone.com/fVMkXh	[hard coded]

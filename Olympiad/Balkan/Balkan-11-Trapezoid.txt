@@ -5,3 +5,4 @@ Official
 https://github.com/OmarHashim/Competitive-Programming/blob/master/Olympiad/Balkan/11-Trapezoid.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/Balkan/Trapezoid2011.cpp
 https://github.com/Mohammad-Yasser/CompetitiveProgramming/blob/master/BOI/11_Trapezoid.cpp
+https://github.com/updown2/OI-Practice/blob/master/BOI%20(Balkan)/2011%20Trapezoid.cpp

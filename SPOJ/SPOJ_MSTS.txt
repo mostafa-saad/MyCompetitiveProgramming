@@ -24,4 +24,5 @@ Misof (https://apps.topcoder.com/forums/?module=Thread&threadID=626113)
 
 		
 
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/SPOJ/MSTS.cpp
 https://blog.csdn.net/liguan1/article/details/9532315

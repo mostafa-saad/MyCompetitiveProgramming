@@ -1,0 +1,2 @@
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Sticks/main.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/POI/POI11_PAT%20-%20Sticks.cpp
