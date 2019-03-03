@@ -1,14 +1,24 @@
 By Mohamed Nasser
 	https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF101064-GYM-B.cpp
 	
-	irst, and before solving this problem, someone should know the (less,more) state which commonly appears in DP. (It makes reading, and reasoning about this state much easier).
+	First, and before solving this problem, someone should know the (less,more) state which commonly appears in DP. 
+		(It makes reading, and reasoning about this state much easier).
 
 	The observation itself is N!  - LIS is what the problem describes. The hard part is counting the LIS.
 
-	To count LIS, The DP is a function F(L1,L2,L3,L4) which fills the positions of the list starting from position 0, each Li is a count of an ordered set of non-placed items, for which there exists a placed element less than it forming a LIS of i - 1.
+	To count LIS, The DP is a function F(L1,L2,L3,L4) which fills the positions of the list starting from position 0, each Li is 
+	a count of an ordered set of non-placed items, for which there exists a placed element less than it forming a LIS of i - 1.
 
 
-	Initially when you start with the ordered set of items, the state is F(N,0,0,0) because we haven't placed any elements yet. Now let's iterate over all the ordered elements from 1 to N (we are iterating over this relative order, and not the values themselves, that's the trick here!). When you decided to place an item from set L1, you know that |L1| - i  items are larger than it, so they must be added to the L2 state along with others already existing in L2, since we always assume each set of items is sorted, iterating over relative order will not causing over counting. For filling L4s, we just place them in order for example, if the L4 set is {9.11.12}. we must place them in that order [9,11,12] so we don't cause LIS of size 5. F is just a flag which counts if we have a maximum LIS of size 3 or 4. The idea here is using relative ordering to avoid bitmasks.
+	Initially when you start with the ordered set of items, the state is F(N,0,0,0) because we haven't placed any elements yet. 
+	Now let's iterate over all the ordered elements from 1 to N (we are iterating over this relative order, 
+	and not the values themselves, that's the trick here!). 
+	When you decided to place an item from set L1, you know that |L1| - i  items are larger than it, 
+	so they must be added to the L2 state along with others already existing in L2, since we always assume each 
+	set of items is sorted, iterating over relative order will not causing over counting. 
+	For filling L4s, we just place them in order for example, if the L4 set is {9.11.12}. 
+	we must place them in that order [9,11,12] so we don't cause LIS of size 5. F is just a flag which counts if 
+	we have a maximum LIS of size 3 or 4. The idea here is using relative ordering to avoid bitmasks.
 
 	Let's trace this with an example, N = 4
 
@@ -22,6 +32,7 @@ By Mohamed Nasser
 
 	 A LIS of size 3 is formed here! That's the trick! The final array is [3 1 2 4]. 
 
-	 I think this DP function really needs tracing by hand, it's the best way to see it. If someone doesn't know the (less,more) state, I'd say this problem for now might be too hard, better to start with that version, solving some problems on it, then tackle this! 
+	 I think this DP function really needs tracing by hand, it's the best way to see it. If someone doesn't know the (less,more) state, 
+	 I'd say this problem for now might be too hard, better to start with that version, solving some problems on it, then tackle this! 
 
 	If someone still can't get this, let them try to write a bitmask DP that isn't too naive since this DP essentially can be seen as an improvement for it.
