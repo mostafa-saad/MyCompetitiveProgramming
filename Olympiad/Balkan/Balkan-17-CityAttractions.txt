@@ -4,3 +4,9 @@ DP/Tree Solution
 	
 Segment Tree
 	https://github.com/updown2/OI-Practice/blob/master/BOI%20(Balkan)/2017/City%20Attractions.cpp
+
+
+DP+Centroid
+	https://github.com/win11905/submission/blob/master/Balkan/17/city_attractions.cpp
+	
+	

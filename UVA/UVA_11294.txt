@@ -1,0 +1,2 @@
+https://github.com/tanmoy13/CompetitveProgramming/blob/master/Online-Judge-Solutions/UVA/11294%20-%20Wedding.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/11294.cpp

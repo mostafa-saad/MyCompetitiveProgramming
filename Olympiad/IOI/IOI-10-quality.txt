@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/IOI/official/2010
+	
+https://github.com/mraron/CompetitiveProgramming/blob/master/ioi/10quality.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/IOI/IOI%202010-Quality%20of%20living.cpp

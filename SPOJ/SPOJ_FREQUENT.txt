@@ -24,5 +24,8 @@ Segment Tree
 	https://github.com/math10/Solved-Problem/blob/master/UVA-11235%20-%20Frequent%20values.cpp
 
 
+
+https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/SPOJ_FREQUENT.cpp
+
 Hmm
 	https://github.com/morris821028/UVa/blob/master/volume112/11235%20-%20Frequent%20values%5Bvx%5D.cpp

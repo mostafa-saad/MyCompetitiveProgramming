@@ -1,0 +1,31 @@
+Original Problem
+	https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=5599
+	
+
+Some of guys think it is unclear text, so I assked for a better version
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/Livearchive/7577.md 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sol
+	Official: http://www.csc.kth.se/~austrin/icpc/finals2016solutions.pdf
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/Livearchive/7577.cpp

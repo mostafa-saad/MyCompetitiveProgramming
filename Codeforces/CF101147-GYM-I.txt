@@ -1,0 +1,2 @@
+https://github.com/aboodJAD/CompetitiveProgramming/blob/master/CodeForces/CF101147-GYM-I.cpp
+https://github.com/aabdelzaher/Competitive-Programming/blob/master/Codeforces/CF101147-gym-I.java

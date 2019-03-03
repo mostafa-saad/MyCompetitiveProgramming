@@ -18,3 +18,9 @@ So we can rerun an iteration of floyd with this node i as the intermediate k, an
 Code for reference which implements the same idea :https://github.com/ajahuang/UVa/blob/master/UVa%20125%20-%20Numbering%20Paths.cpp
 
 Done by : Medo Nasser
+
+
+====
+
+
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/125.cpp	O(max(deg(u)) * n^2)

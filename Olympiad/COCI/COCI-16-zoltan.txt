@@ -2,3 +2,4 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2017/contest3_solutions
 	
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Zoltan/main.cpp
+https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/COCI/COCI16-zoltan.cpp
