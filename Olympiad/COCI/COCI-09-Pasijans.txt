@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2010/contest2_solutions
+	
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/COCI/10-Pasijans.cpp

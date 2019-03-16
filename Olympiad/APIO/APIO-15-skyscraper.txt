@@ -2,3 +2,4 @@ https://csacademy.com/contest/ceoi-2017-day-2/analysis
 
 https://codeforces.com/blog/entry/17717?#comment-226989
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Jakarta%20Skyscraper/main.cpp
+	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/APIO/APIO%2015-Jakarta%20Skyscrapers.cpp

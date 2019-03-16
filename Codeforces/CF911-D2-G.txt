@@ -4,6 +4,7 @@ Segment tree
 	
 Sqrt decomposition
 	https://github.com/adarshkr532/CompetitiveProgramming/blob/master/Codeforces/CF911-D2-G.cpp
+		[One of trainees say this sol doesn't work]
 	
 	
 A brute force may pass too

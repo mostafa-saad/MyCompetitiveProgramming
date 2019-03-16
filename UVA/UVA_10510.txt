@@ -5,6 +5,8 @@ Background
 https://github.com/achrafmam2/CompetitiveProgramming/blob/master/UVA/10510.cc	[with its notes]
 https://www.ugrad.cs.ubc.ca/~cs490/sec202/notes/graph/cactus.cpp	[notes]
 https://ideone.com/RKxn1t
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/10510.cpp
+
 
 Web
 	https://github.com/godely/Problems/blob/master/UVa/10510.cpp

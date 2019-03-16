@@ -1,4 +1,7 @@
 segment tree, lazy propagation, [handle dimensions independently]
+	https://github.com/ahmedsamir221/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20IOPC1207.cpp	
+		Includes problem summary
+	
 	https://github.com/tanmoy13/CompetitveProgramming/blob/master/Online-Judge-Solutions/SPOJ/IOPC1207%20-%20GM%20plants.cpp
 	
 	

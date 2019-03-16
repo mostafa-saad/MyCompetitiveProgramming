@@ -1,0 +1,2 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/regat.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/InfoArena/Regat.cpp

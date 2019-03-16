@@ -1,0 +1,5 @@
+treap
+	https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/Kattis/lazylearner.cpp
+	
+Segment tree
+	https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/Kattis/hanoi18.lazylearner.cpp

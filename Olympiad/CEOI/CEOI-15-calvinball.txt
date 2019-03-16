@@ -1,0 +1,5 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/official/2015/day2
+
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Calvinball%20championship/main.cpp
+https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI15-teams.cpp

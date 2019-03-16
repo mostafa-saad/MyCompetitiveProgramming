@@ -1,0 +1,4 @@
+Official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2010/contest6_solutions
+	
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2009-Gremlini.cpp
