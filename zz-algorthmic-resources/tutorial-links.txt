@@ -42,6 +42,8 @@ Math
 	Sums and Expected Value		http://codeforces.com/blog/entry/62690
 								http://codeforces.com/blog/entry/62792
 	FFT					https://csacademy.com/blog/fast-fourier-transform-and-variations-of-it
+	
+	Don't use rand(): a guide to random number generators in C++		https://codeforces.com/blog/entry/61587
 								
 	
 	
@@ -67,7 +69,14 @@ DataStructures
 		
 		More								http://codeforces.com/blog/entry/22616
 											http://codeforces.com/blog/entry/59081
+											
+											
+	Monotonic Queue							https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6
 	
+	
+Graph
+	Center of a graph			https://codeforces.com/blog/entry/17974
+
 Misc
 	Slope Trick        		https://codeforces.com/blog/entry/47821
 	Gosper's hack			https://softwareengineering.stackexchange.com/questions/67065/whats-your-favorite-bit-wise-technique

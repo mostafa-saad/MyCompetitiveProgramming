@@ -1,0 +1,2 @@
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Take-out/main.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/POI/POI13_OSU%20-%20Take-out.cpp
