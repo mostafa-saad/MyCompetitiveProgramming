@@ -1,0 +1,5 @@
+Intended sol: Binary search + Bellman O(n^3 logn)
+	https://github.com/miguelAlessandro/CompetitiveProgramming/blob/master/UVA/11090.cpp
+	
+DP + Bellman O(N^4)
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/11090.java

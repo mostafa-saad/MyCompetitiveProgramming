@@ -15,6 +15,7 @@ https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/JOI/P
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17-Port_Facility.cpp
 https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/JOI/JOISC-17-PortFacility.cpp
 https://github.com/updown2/OI-Practice/blob/master/JOISC/2017%20Port%20Facility.cpp
+https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/JOI/JOISC17-portfacility.cpp
 
 
 Can be done using only DSU too (no segment tree)

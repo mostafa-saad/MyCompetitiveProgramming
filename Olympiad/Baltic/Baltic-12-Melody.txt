@@ -4,3 +4,4 @@ Official
 
 https://github.com/zoooma13/Competitive-Programming/blob/master/melody.cpp
 https://github.com/updown2/OI-Practice/blob/master/BOI%20(Baltic)/2012%20Melody.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalticOI/Baltic%2012-Melody.cpp

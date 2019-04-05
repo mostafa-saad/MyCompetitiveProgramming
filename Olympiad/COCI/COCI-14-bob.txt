@@ -3,3 +3,4 @@ Official
 	
 Datastructures
 	https://github.com/updown2/OI-Practice/blob/master/COCI/2014%20Bob.cpp
+	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/COCI/COCI%2014-Bob.cpp
