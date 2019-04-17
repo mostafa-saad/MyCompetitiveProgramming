@@ -1,0 +1,6 @@
+CHT
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/puncte.cpp
+
+LiChao 
+	https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/infoarena/puncte.cpp
+	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/Infoarena/Puncte.cpp

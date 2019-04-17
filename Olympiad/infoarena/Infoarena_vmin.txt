@@ -1,0 +1,5 @@
+CHT
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/vmin.cpp
+	
+LiChao
+	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/Infoarena/Vmin.cpp

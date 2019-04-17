@@ -1,0 +1,2 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Info1Cup/2018%20-%20International%20Round/Info1Cup%2018-Hidden.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/Info1Cup/18-Hidden.cpp	[shorter]

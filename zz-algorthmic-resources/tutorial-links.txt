@@ -3,7 +3,7 @@ DP
 	DP Optimizations    https://codeforces.com/blog/entry/8219            
 						https://codeforces.com/blog/entry/63823
 						https://www.youtube.com/watch?v=OrH2ah4ylv4
-						http://h0rnet.hatenablog.com/entry/2016/02/06/155748
+						http://h0rnet.hatenablog.com/entry/2016/02/06/155748		[Monotonous slope optimization DP]
 						http://codeforces.com/blog/entry/47247
 	DP SOS              http://codeforces.com/blog/entry/45223
 	DP Siblings         http://codeforces.com/blog/entry/18523
@@ -30,6 +30,14 @@ DP
 
 		Sample problem here : http://codeforces.com/problemset/problem/440/D
 
+
+LiChao Tree
+	Good to learn in same time of learning DP Convex hull optimization
+		Mohamed Ahmed: more simpler than CHT and have nice implemenation and also have more features
+	http://www.secmem.org/blog/2019/01/03/lichao-tree/		[use google translate]
+		https://pastebin.com/69Czv0Y0
+	https://cp-algorithms.com/geometry/convex_hull_trick.html
+	
 
 	
 Math

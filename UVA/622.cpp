@@ -4,6 +4,8 @@
 
 // One can still handle it using stl datastructures
 	// E.g. https://en.wikipedia.org/wiki/Context-free_grammar
+	
+// More token style: https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/UVA%20622.cpp
 
 #include <iostream>
 #include <string>

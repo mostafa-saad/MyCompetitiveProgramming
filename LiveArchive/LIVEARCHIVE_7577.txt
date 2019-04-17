@@ -1,20 +1,18 @@
-Original Problem
-	https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=5599
-	
-
-Some of guys think it is unclear text, so I assked for a better version
-	https://github.com/quangloc99/CompetitiveProgramming/blob/master/Livearchive/7577.md 
+Original Problem URL: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=5599
+	Text rewriting (simplified): 		https://github.com/quangloc99/CompetitiveProgramming/blob/master/Livearchive/7577.md 
 
 
 
 
+Official: 	http://www.csc.kth.se/~austrin/icpc/finals2016solutions.pdf
 
 
 
+dp with divide and conquer optimization
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/Livearchive/7577.cpp
 
-
-
-
+DP Knuth
+	https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/LiveArchive/7577.cpp
 
 
 
@@ -27,5 +25,5 @@ Some of guys think it is unclear text, so I assked for a better version
 
 
 Sol
-	Official: http://www.csc.kth.se/~austrin/icpc/finals2016solutions.pdf
-	https://github.com/quangloc99/CompetitiveProgramming/blob/master/Livearchive/7577.cpp
+	
+	
