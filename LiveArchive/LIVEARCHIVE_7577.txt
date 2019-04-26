@@ -8,7 +8,7 @@ Official: 	http://www.csc.kth.se/~austrin/icpc/finals2016solutions.pdf
 
 
 
-dp with divide and conquer optimization
+DP D&C
 	https://github.com/quangloc99/CompetitiveProgramming/blob/master/Livearchive/7577.cpp
 
 DP Knuth
@@ -17,13 +17,3 @@ DP Knuth
 
 
 
-
-
-
-
-
-
-
-Sol
-	
-	

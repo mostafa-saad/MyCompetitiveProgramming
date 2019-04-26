@@ -3,3 +3,6 @@ This is a good problem to learn 0-1 BFS
 	https://codeforces.com/blog/entry/22276
 	
 		https://ideone.com/2RNWVr
+
+
+Similar problems: CF1064-D2-D, CF877-D2-D, SPOJ KATHTHI

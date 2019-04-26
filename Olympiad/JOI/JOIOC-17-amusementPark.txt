@@ -1,0 +1,3 @@
+https://ivaniscoding.wordpress.com/2018/08/29/communication-6-amusement-park
+
+https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/JOI/JOIOC17-amusementPark-Joi.cpp

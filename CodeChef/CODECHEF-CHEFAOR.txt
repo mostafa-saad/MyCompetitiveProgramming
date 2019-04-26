@@ -3,3 +3,7 @@ The problem has several solutions as mentioned in the editoiral. https://discuss
 
 It is a good practice to implement the dp using knuth trick in O(NK)
 	https://github.com/HeartBlue/CompetitiveProgramming/blob/master/CodeChef/CHEFAOR%20Chef%20and%20Bitwise%20OR%20Operation.cpp
+
+
+DP D&C
+	https://www.codechef.com/viewsolution/24006923

@@ -2,3 +2,4 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2009/contest3_solutions
 	
 https://github.com/updown2/OI-Practice/blob/master/COCI/2008%20Najkraci.cpp
+https://gist.github.com/luciocf/542c123135cdbc433834c4b934978f4a
