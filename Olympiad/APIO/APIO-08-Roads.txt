@@ -3,6 +3,7 @@ Official
 	
 MST, Greedy as official sol
 	https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/APIO/08-Roads.cpp
+	https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/APIO/APIO08-roads.cpp
 	
 Greedy	
 	https://github.com/Yehezkiel01/CompetitiveProgramming/blob/master/APIO/APIO-08-Roads.cpp

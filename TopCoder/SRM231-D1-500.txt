@@ -1,0 +1,7 @@
+Read editorials
+
+binimial distribution / approcimation [not in editorial]
+	https://github.com/Andres-Unt/problem_solving/blob/master/TopCoder/SRM231-D1-500.cpp
+
+DP + Math / No distr
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/Topcoder/SRM231-D1-500.cpp

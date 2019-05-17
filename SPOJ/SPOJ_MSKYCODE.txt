@@ -1,0 +1,2 @@
+https://github.com/aboodJAD/CompetitiveProgramming/blob/master/SPOJ/MSKYCODE-%20Sky%20Code.cpp
+https://github.com/thackerhelik/spoj/blob/master/SPOJ_MSKYCODE.cpp

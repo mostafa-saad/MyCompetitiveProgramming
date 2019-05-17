@@ -1,0 +1,2 @@
+https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/codeforces/CF100488-GYM-L.cpp
+https://github.com/3agwa/CompetitiveProgramming/blob/master/CodeForces/CFGYM-100488-L.cpp

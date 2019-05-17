@@ -2,6 +2,7 @@
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/18-Doll.cpp
 https://github.com/swapnil119/CompetitiveProgramming/blob/master/CompetitiveProgramming/IOI/IOI18-Doll.cpp
 https://github.com/win11905/submission/blob/master/IOI/18/doll/cpp/doll.cpp
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/IOI%20dolls/main.cpp
 
 
 https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI18-doll.cpp

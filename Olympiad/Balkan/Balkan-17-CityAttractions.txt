@@ -1,6 +1,7 @@
 DP/Tree Solution
 	https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/Balkan/CityAttractions2017.cpp
 	https://github.com/abdrakhman/Olymp/blob/master/CEOI/2017/City%20Attractions/main.cpp
+	https://github.com/luciocf/Problems/blob/master/Balkan/Balkan%202017/city.cpp
 	
 Segment Tree
 	https://github.com/updown2/OI-Practice/blob/master/BOI%20(Balkan)/2017/City%20Attractions.cpp

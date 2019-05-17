@@ -1,0 +1,2 @@
+https://github.com/luciocf/Problems/blob/master/COI/COI%202016/torrent.cpp
+https://github.com/win11905/submission/blob/master/COI/16/torrent.cpp

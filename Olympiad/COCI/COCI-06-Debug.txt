@@ -1,0 +1,5 @@
+Easier problem: COCI 06-Dvaput
+
+Official: https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2007/contest1_solutions
+
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Debug/solution.txt

@@ -1,0 +1,18 @@
+I had nothing to do with IOI 2006's problems, but still I can offer my insight on some issues:
+
+* On detailed feedback: This was a new thing and many leaders were reluctant to do this for all tasks, thus a compromise was made to see how it all works out.
+* The "printing -1" issue did also hurt one of our students, and it was clearly a mistake of the organizers. (IMHO the loss was 45 points if you didn't handle this. Still way too much. Should've been included in one of the examples.)
+* Pyramid has many solutions with different time complexities. AFAIK both O(mn) and O(mn log n) solutions got 100. Which one is "the slow solution" you talk about? I would expect O(mn^2) to score around 70, and this seems fair to me.
+* An issue that did bother me: for the writing tasks, 52*n solutions scored 100 points. I expected to see a difference between a 52*n solution and one that requires constant time per letter.
+* Regarding the ideas of the problems, IMHO you are not doing the organizers justice.
+writing: Okay, an easy problem -- but still, even with the feedback there were contestants (and probably countries) that scored (close to) zero. The IOI is not a contest only for the good guys. There should also be a way to differentiate between the other half of the participants.
+pyramid: a great task, lots of different approaches
+subgraph: Approximation algorithms are algorithms, too. There is, for example, a way to transform this problem to a set cover problem (elements = all occurrences of the forbidden subgraph, each edge determines one set = the set of occurrences that contain this edge). Furthermore, the sooner you finished the first two problems, the more you could play around and grab some additional points.
+mexico: A textbook-like dynamic programming. Too bad that the problem didn't contain edge weights, this probably caused that some brute force algorithms found a solution quickly. Still, as a concept the task is nice.
+points: whoa, this task was tough... but the solution is just sooo cool.
+blackbox: Also for this open data task I have to say that I quite liked it. The main idea is clear and easy to explain. And using a combination of your skills and the computer is not a bad thing. In fact, it's probably closer to the real life than the "pure algorithmic" problems are. Here, the computer was just a tool. But still, there was a plenty of algorithmic stuff to do here. I just missed visualisation.
+
+I guess that the bottom line of what I was trying to say is: even if some of the problems were of an unexpected kind, this doesn't necessarily make them bad problems. After all, IOI tries to prefer skill to experience and knowledge (e.g., of textbooks).
+
+
+src: https://apps.topcoder.com/forums/?module=Thread&threadID=512157&view=threaded

@@ -1,0 +1,25 @@
+See the editorial way
+
+Also can be handeled similarly but as DP with cycles
+
+Also DP depth trick can be used. See notes below
+
+Mohamed Nasser:
+User profile picture Mostafa Saad	Mostafa Saad
+If I understand "Depth Cyclic handling" correctly they are simulating depth to say X, and saying it's ok for EPS, but there is no 
+need to do that here. and this somehow gets TL. In such cases of expectation with cycling it can be solved as follows for "some" 
+recurrences. Consider E(X) as expectation of X. Now say E(X) = P1*E(X) + P2*E(Y) where Y > X, and P1 is the probability of
+ ending at where we are, and P2 is probability of going to another place ( Remember Y > X ). Now if you write it as E(X) - P1*E(X) = P2*E(Y), 
+ you can see that E(X) = P2*E(Y) / 1 - P1. So now you don't need to worry about cycles, and the recurrence is sequential. 
+ 
+ If I understand "depth" incorrectly, someone let me know. Now as an editorial of this problem, I remember I used DP where the editorial 
+ solved it by a system of linear equations ( something like this). Now let's solve this by DP. Let our state be solve(x) 
+ how many distinct cards we have so far. If we already have N cards then we can see that the expectation is indeed zero. 
+ If not then we know that we have N - x new cards, and x olds ones. Now assume we get a new cards pile of size C, 
+ we just need to enumerate all possible cases of cards we might get with pascal's triangle. ( 1 new card 2 new cards..etc). 
+ Case of zero new cards is cyclic, and can be solved by writing the recurrence like above. Now for the transitions, 
+ you can see that for each state no matter where we are going the turn just increased by one, so E(X) = 1 + Summations of 
+ (all reachable states * their probability). I'm editing the code now, if someone has trouble understanding it let me know.
+
+
+Depth: https://github.com/thabetx/CompetitiveProgramming/blob/master/CodeJam/Round_1A_2009_C_Collecting_Cards.cpp

@@ -1,0 +1,6 @@
+Greedy
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Mergers/main.cpp
+	
+	
+DSU on trees
+	https://github.com/luciocf/Problems/blob/master/JOI/JOISC/JOISC%202019/mergers.cpp

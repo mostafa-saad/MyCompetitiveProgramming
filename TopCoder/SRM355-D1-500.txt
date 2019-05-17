@@ -1,16 +1,24 @@
-Mohamed Emad Emsawy we can imagine any four points like two triangles :
+Hint: polar system
 
-First shape:
-Triangle (p0,p1,p2) is parallel with (p0,p1,p3) and the distance between the points (p2,p3) is the minimum distance we can get if they are parallel ( angle between the them is 0).
+Sol by Mohamed Emad Emsawy 
+	we can imagine any four points like two triangles :
 
-Second shape:
-Triangle (p0,p1,p2) is opposite to (p0,p1,p3) and the distance between the points (p2,p3) is the maximum distance we can get if they are opposite (angle between them is 180).
+	First shape:
+	Triangle (p0,p1,p2) is parallel with (p0,p1,p3) and the distance between the points (p2,p3) is the minimum distance we can get if they are parallel ( angle between the them is 0).
 
-if we get maximum and minimum distance which the two triangle can make , then w can compare the given distance (X) between points (p2,p3) with the minimum and maximum distance.
-if the min <= X and max >= X ,then it is a valid four points.
+	Second shape:
+	Triangle (p0,p1,p2) is opposite to (p0,p1,p3) and the distance between the points (p2,p3) is the maximum distance we can get if they are opposite (angle between them is 180).
 
-We can get the coordinates of points (p2,p3) using polar system.
+	if we get maximum and minimum distance which the two triangle can make , then w can compare the given distance (X) between points (p2,p3) with the minimum and maximum distance.
+	if the min <= X and max >= X ,then it is a valid four points.
 
-See img: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/TopCoder/SRM355-D1-500.jpg
+	We can get the coordinates of points (p2,p3) using polar system.
 
-https://github.com/Emsawy/CompetitiveProgramming/blob/master/Topcoder/SRM355-D1-500.cpp
+	See img: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/TopCoder/SRM355-D1-500.jpg
+
+	https://github.com/Emsawy/CompetitiveProgramming/blob/master/Topcoder/SRM355-D1-500.cpp
+
+
+========
+Another Sol
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/Topcoder/SRM355-D1-500.py

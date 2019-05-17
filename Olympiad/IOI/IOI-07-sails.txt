@@ -1,2 +1,6 @@
-https://github.com/Triplem5ds/Competitve-Programming/blob/master/Olympiad/IOI%2007-sails.cc
-https://github.com/win11905/submission/blob/master/IOI/07/sail.cpp
+BIT
+	https://github.com/Triplem5ds/Competitve-Programming/blob/master/Olympiad/IOI%2007-sails.cc
+	https://github.com/win11905/submission/blob/master/IOI/07/sail.cpp
+
+Segment tree
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Sails%20IOI%202007/main.cpp			

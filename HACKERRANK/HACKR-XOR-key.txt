@@ -1,0 +1,5 @@
+Editorial: persistent segment tree
+
+
+Trie
+	https://github.com/aboodJAD/CompetitiveProgramming/blob/master/Hackerrank/HACKR%20XOR-key.cpp
