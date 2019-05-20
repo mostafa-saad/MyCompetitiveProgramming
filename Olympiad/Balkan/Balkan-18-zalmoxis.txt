@@ -3,3 +3,5 @@ Official
 	
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Zalmoxis/main.cpp
 https://github.com/MohamedAhmed04/Competitive-programming/blob/master/BOI/BOI%2018-zalmoxis.cpp
+
+https://github.com/koosaga/olympiad/blob/master/Balkan/balkan18_zalmoxis.cpp

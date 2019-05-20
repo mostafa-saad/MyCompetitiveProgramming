@@ -1,0 +1,39 @@
+Generally speaking, a lot of problems (and many are hard), depend on a very small probability scope
+	So you actually don't need to revise a lot
+	Majority needs basic frequncy rule subset/total in discrete domains
+	Many problems depend on Expectations
+
+References: https://www.probabilitycourse.com/
+	
+Basics	
+	Axioms of Probability
+	Mean and Variance
+	
+	Set Theory
+		Venn Diagrams
+		Set Operations
+		Cardinality: Countable and Uncountable Sets
+	
+	Combinatorics: Counting Methods	
+
+	Expectation (I explained the folloing 2 in DP series)
+		Linearity of Expectation
+		Law of total expectation
+
+
+Less priority
+	Conditional Probability
+
+	Discrete Probability
+		Bernoulli distribution
+		Binomial distribution
+		Cumulative distribution function
+	
+	Bayes Rule
+
+
+
+
+===
+
+IF you solved a problem and felt one more topic should be added, email me

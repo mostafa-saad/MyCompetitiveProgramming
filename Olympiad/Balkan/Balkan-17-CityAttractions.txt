@@ -11,3 +11,6 @@ DP+Centroid
 	https://github.com/win11905/submission/blob/master/Balkan/17/city_attractions.cpp
 	
 	
+
+
+https://github.com/koosaga/olympiad/blob/master/Balkan/balkan17_city.cpp

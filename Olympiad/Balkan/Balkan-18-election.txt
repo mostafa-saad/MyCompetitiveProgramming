@@ -3,3 +3,7 @@ Official
 	
 	
 https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan18-election.cpp
+
+
+
+https://github.com/koosaga/olympiad/blob/master/Balkan/balkan18_election.cpp
