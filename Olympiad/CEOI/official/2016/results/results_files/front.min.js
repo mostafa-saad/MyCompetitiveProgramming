@@ -1,0 +1,1 @@
+jQuery.fn.isInViewport=function(){var e=jQuery(this).offset().top,r=e+jQuery(this).outerHeight(),t=jQuery(window).scrollTop(),i=t+jQuery(window).height();return r>t&&e<i};

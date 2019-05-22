@@ -1,0 +1,1 @@
+!function(i){"use strict";i(".fruitful_alert .ff-alert-dismiss").on("click",function(){return i(this).parent().slideToggle(400,function(){i(this).remove()}),!1})}(window.jQuery);

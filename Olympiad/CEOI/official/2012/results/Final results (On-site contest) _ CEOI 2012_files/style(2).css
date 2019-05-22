@@ -1,0 +1,192 @@
+/**********************************************************************************/
+/* Create your own look and feel by setting Display Style = Custom Style on the   */
+/* PWA+PHP Wordpress Settings Page and editing the styles below                   */
+/**********************************************************************************/
+
+.pwaplusphp_thumbnail  { float: left; margin: 5px; padding: 5px; }
+.pwaplusphp_albumcover { float: left; margin-right: 25px; padding: 5px; }
+.pwaplusphp_imglink    { }
+.pwaplusphp_img        { border: #CCC 1px solid; padding: 5px; background: #f1f1f1;}
+.pwaplusphp_caption    { margin-top: 5px; } 
+.pwaplusphp_captext    { float: left;  }
+.pwaplusphp_comment    { float: right; }
+.pwaplusphp_download   { float: right; }
+.pwaplusphp_galdata    { float: left; font-size: 13px; padding-top: 5px;} 
+.pwaplusphp_albstat    { font-style: italic; font-size: 11px; clear: both; float: left;}
+
+
+/***********************************************************************************/
+/* Pre-Defined Styles for Overlay, Hover and Never caption styles are defined      */
+/* below.  To customize the look and feel, set Display Style = Custom Style on the */
+/* PWA+PHP Wordpress Settings Page and modify the styles ABOVE.                    */
+/***********************************************************************************/
+
+.album_link {font-weight: bold; float: left;}
+
+#pages {
+        padding-top:    20px;
+        padding-bottom: 10px;
+        width:          100%;
+        float:          right;
+        font-size:      12px;
+}
+
+#title {
+
+        margin:         20px 0px 20px 5px;
+
+
+}
+
+#pwafooter {
+
+        float:          right;
+        text-align:     center;
+        width:          100%;
+        margin:         10px 0px 10px 0px;
+        font-size:      10px;
+        color:          #C0C0C0;
+        font-style:     italic;
+	padding-top: 	75px;
+
+}
+
+#pwaheader {
+	padding-bottom: 20px;
+}
+
+#pwafooter a 	{ color: #C0C0C0; }
+.current_page   { font-weight: bold; float: left;}
+.back_to_list   { padding: 0px; margin: 0px; font-style: italic; font-size: 11px; color: #5c5c5c; }
+.titlepg        { font-size: 13px; color: #808080; padding: 3px 0px 0px 2px; margin: 0px; }
+.overlaypg      { font-size: 13px; color: #000; padding: 3px 0px 0px 2px; margin: 0px; font-weight: normal;}
+.titlestats     { font-size: 11px; color: #808080; padding: 0px 0px 10px 2px; margin: 0px; font-style: italic;}
+.overlaystats   { font-size: 11px; color: #808080; padding: 5px 0px 0px 2px; margin: 0px; font-style: italic; font-weight: normal; }
+.thumbnail      { float: left; padding-right: 20px; }
+.thumbimage 	{ float: left; padding-bottom: 5px; margin: 0px; }
+.exif           { font-size:11px; color:#808080; float: left; }
+.dlimg          { float: right; }
+.albstat-wpt	{ font-size: 11px; padding-bottom: 5px; float: left; }
+.lang_gallery   { font-size: 18px; font-weight: bold; }
+.total_images_wpt   { font-size: 14px; color: #B0B0B0; margin-left: 0px }
+.total_images   { font-size: 14px; color: #B0B0B0; margin-left: 10px; }
+
+#left_navigation .albstat { padding-left: 10px; }
+
+a.overlay{position:relative;display:block;text-decoration:none;font-family:Verdana,Helvetica,Arial;color:#000}
+a.overlay:hover{background:#FFF;}
+a.overlay span{display:none;}
+a.overlay:hover span{display:block;text-align: left;color:#000;position:absolute;top:0;left:0;width:100%;height:90%;padding:10px;background:#FFF;z-index:999;cursor:pointer;opacity: 0.80; filter:alpha(opacity=80);}
+
+#options{height: 25px; font-size: 10px; position:relative;display:block;text-decoration:none;font-family:Verdana,Helvetica,Arial;color:#000}
+#options:hover{background:#FFF;}
+#options span{display:none;}
+#options:hover span{display:block;color:#808080;position:absolute;top:0;left:0;background:#FFF;z-index:999;cursor:pointer;opacity: 0.80; filter:alpha(opacity=80);}
+
+/*
+	Bloc Photo
+*/
+.blocPhoto {
+	position:relative;
+	display: block;
+	float: left;
+	padding-right: 10px;
+	margin: 0px 15px 25px 0px;
+	overflow: hidden;
+	background-position: 50% 45%;
+	background-repeat: no-repeat;
+	font-family: Helvetica, Arial, Sans-serif;
+	font-size: 10px;
+	text-align: center;
+}
+.dl_link {
+	z-index: 10;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	opacity: 0.7;
+}
+
+.comment_link {
+	z-index: 10;
+        position: absolute;
+        top: 10px;
+        left: 30px;
+        opacity: 0.7;
+}
+
+.dl_link2 {
+        z-index: 10;
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        opacity: 0.7;
+}
+
+.comment_link2 {
+        z-index: 10;
+        position: absolute;
+        top: 10px;
+        left: 30px;
+        opacity: 0.7;
+}
+
+a.dl_link:hover { opacity: 1; }
+
+a.comment_link:hover { opacity: 1; }
+.blocPhoto a.photo {
+	position: absolute;
+	display: block;
+	overflow: hidden;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CCC;
+	text-decoration: none;
+}
+.blocPhoto .border {
+	display: block;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #f1f1f1;
+}
+.blocPhoto .title {
+	color: #FFF;
+	position: absolute;
+	z-index: 10;
+	left: 5px;
+	bottom: 5px;
+	line-height: 1.4em;
+	opacity: 0.8;
+	visibility: hidden;
+}
+.blocPhoto a.photo:hover .title {
+	visibility: visible;
+}
+.blocPhoto .title span {
+	display: block;
+	left: 0px;
+	padding: 5px 2px 3px 5px;
+	white-space: nowrap;
+}
+
+.border span { background-color: #333; }
+
+.pwathumb {
+  display: table;
+  line-height:110%;
+  position: relative;
+  }
+
+.pwathumb span {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  }
+
+.short_caption  { padding-top: 3px; font-size: 10px; color: #808080;}
+.short_caption2 { float: left; padding-top: 3px; font-size: 10px; color: #808080; }
+
+.comment_content  { padding-top: 0px; margin-top: 3px; float: left; }
+.comment_content2 { float: right; padding-top: 3px; font-size: 10px; }

@@ -1,0 +1,53 @@
+login;firstname;famname;service;depot;keys;day1;ticket;fence;net;day2;total
+rom03;Dan Ionut;Fechete;39;100;100;239;100;100;100;300;539
+pol04;Tomasz;Kulczyñski;70;75;90;235;100;100;100;300;535
+pol01;Filip;Wolski;65;95;75;235;100;55;100;255;490
+pol02;Adam;Gawarkiewicz;47;80;100;227;55;100;100;255;482
+rom01;Dan Leonard;Crestez;92;5;100;197;69;55;100;224;421
+pol03;Daniel;Czajka;100;60;100;260;0;100;10;110;370
+ger02;Thomas;Fersch;38;30;100;168;100;0;92;192;360
+cro01;Davor;Prugovecki;40;10;100;150;100;5;100;205;355
+ger01;Felix;Arends;6;25;100;131;50;100;65;215;346
+cro03;Igor;Canadi;38;43;9;90;40;100;95;235;325
+hun04;Ákos;Ludányi;90;43;100;233;6;0;60;66;299
+cro04;Jasmin;Velkic;8;;90;98;90;60;50;200;298
+svk01;Peter;Pere¹íni;0;43;90;133;6;55;95;156;289
+ger03;Benjamin;Franz;65;13;100;178;100;5;5;110;288
+hun01;János;Vincze;15;15;100;130;44;45;50;139;269
+svk03;Daniel;Bundala;21;13;90;124;45;85;15;145;269
+rom04;Marin;Radu;16;0;100;116;55;0;95;150;266
+fra02;Mehdi;Bouaziz;7;30;100;137;36;0;70;106;243
+ger04;Erik;Panzer;40;100;100;240;;0;0;0;240
+hun02;Péter;Acsai;50;20;100;170;12;;35;47;217
+svk04;Matú¹;Petruµák;5;26;100;131;15;65;0;80;211
+rom02;Sorin;Stancu-Mara;0;15;5;20;100;5;80;185;205
+fra04;David;Waszek;0;;100;100;;;95;95;195
+ned03;Bauke;Conijn;15;20;100;135;55;0;5;60;195
+fra03;Stéphane;Caron;88;0;;88;6;0;100;106;194
+svk02;Jakub;Imri¹ka;38;7;5;50;79;0;40;119;169
+cro02;Relja;Medic;16;13;90;119;20;;10;30;149
+bih01;Emir;Habul;0;0;100;100;0;5;35;40;140
+cze04;Michal;Vaner;0;11;100;111;22;;0;22;133
+cze02;Josef;Pihera;20;15;5;40;37;0;45;82;122
+hun08;László;Jobbágy;5;20;60;85;12;0;10;22;107
+ned02;Timon;Bijlsma;8;15;5;28;20;55;0;75;103
+est01;Aleksandr;Nikiforov;;10;;10;50;;35;85;95
+hun03;Balázs;Kormányos;0;;40;40;16;0;37;53;93
+esp03;Roger;Isanta;20;;5;25;;10;50;60;85
+hun06;Judit;Kõszegi;;20;5;25;;60;;60;85
+est04;Rivo;Laks;;33;5;38;;45;0;45;83
+ned01;Bas;van der Aardweg;35;27;6;68;0;5;;5;73
+hun07;Dániel;Leskó;5;4;5;14;0;45;10;55;69
+cze03;Roman;Smrz;0;5;5;10;10;0;45;55;65
+fra01;Elie;Rotenberg;;30;5;35;;;30;30;65
+ned04;Jan;van der Vegt;10;;55;65;;;;;65
+hun05;Sándor;Jancsó;;4;;4;55;;;55;59
+bih02;Alvin;Abdagic;;0;5;5;37;0;;37;42
+esp01;Ricardo;Martin;0;30;5;35;0;0;;0;35
+est02;Andrei;Korsunski;;5;5;10;25;;;25;35
+est03;Timo;Petmanson;0;9;;9;;;25;25;34
+esp04;Jordi;Graells;15;0;5;20;2;0;5;7;27
+esp02;Joan;Bel;;4;0;4;10;0;5;15;19
+cze01;Cyril;Hrubis;;5;5;10;0;;2;2;12
+bih04;Srecko;Toroman;0;;5;5;0;0;4;4;9
+bih03;Amir;Borovac;;;0;0;0;;;0;0

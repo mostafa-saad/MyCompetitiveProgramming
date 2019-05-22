@@ -1,0 +1,511 @@
+
+html
+{
+  height: 101%;
+}
+
+body
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-bottom: 30px;
+  color: #000066;
+  background-color: #FFFFFF;
+}
+
+td
+{
+  font-size: small;
+  font-weight: normal;
+  text-align: left;
+  color: #000066;
+  background-color: #DDDDDD;
+}
+
+a:link
+{
+  text-decoration: none;
+  color: #0000CC;
+  background-color: inherit;
+}
+
+a:visited
+{
+  text-decoration: none;
+  color: #0000CC;
+  background-color: inherit;
+}
+
+a:hover
+{
+  text-decoration: underline;
+  color: #0000CC;
+  background-color: inherit;
+}
+
+a:active
+{
+  text-decoration: none;
+  color: #0000CC;
+  background-color: inherit;
+}
+
+.padded
+{
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+.title1
+{
+  font-size: large;
+  font-weight: bold;
+}
+
+.title2
+{
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.title3
+{
+  font-weight: bold;
+}
+
+.menu_over
+{
+  font-size: 85%;
+  font-weight: bold;
+  vertical-align: top;
+  text-decoration: none;
+  height: 15px;
+  color: #0000CC;
+  background-color: inherit;
+}
+
+.menu_out
+{
+  font-size: 85%;
+  font-weight: bold;
+  vertical-align: top;
+  text-decoration: none;
+  height: 15px;
+  color: #0000CC;
+  background-color: inherit;
+}
+
+.submenu_over
+{
+  font-size: 85%;
+  font-weight: bold;
+  vertical-align: middle;
+  text-decoration: underline;
+  height: 16px;
+  color: #0000CC;
+  background-color: inherit;
+}
+
+.submenu_out
+{
+  font-size: 85%;
+  font-weight: bold;
+  vertical-align: middle;
+  text-decoration: none;
+  height: 16px;
+  color: #000066;
+  background-color: inherit;
+}
+
+.submenu_selected
+{
+  font-size: 85%;
+  font-weight: bold;
+  vertical-align: middle;
+  text-decoration: none;
+  height: 16px;
+  color: #CC0000;
+  background-color: inherit;
+}
+
+.ul1
+{
+  list-style-type: square;
+  list-style-position: inside;
+  margin-left: 5px;
+  margin-top: 0px;
+}
+
+.ul2
+{
+  list-style-type: square;
+  list-style-position: outside;
+  margin-left: 30px;
+  margin-top: 0px;
+}
+
+ol
+{
+  list-style-type: decimal;
+  list-style-position: outside;
+  margin-left: 40px;
+  margin-top: 5px;
+}
+
+.monospace
+{
+  font-family: "Courier New", Courier, monospace;
+}
+
+.error_off
+{
+  display: none;
+}
+
+.error_on
+{
+  font-weight: bold;
+  color: #CC0000;
+  background-color: inherit;
+}
+
+#schedule table
+{
+  border-collapse: collapse;
+
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #666699;
+
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #666699;
+
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #666699;
+
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #666699;
+}
+
+#schedule tr
+{
+  height: 20px;
+}
+
+#schedule td
+{
+  text-align: center;
+  padding: 2px;
+  color: inherit;
+  background-color: #E6E6EE;
+
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-color: #666699;
+
+  border-bottom-style: dashed;
+  border-bottom-width: 1px;
+  border-bottom-color: #666699;
+
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #666699;
+
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #666699;
+}
+
+#schedule .td_activity
+{
+  font-weight: bold;
+  color: inherit;
+  background-color: #BBBBD2;
+}
+
+#schedule .td_first_row
+{
+  font-weight: bold;
+  color: #000000;
+  background-color: #A2A2C2;
+  border-bottom-style: solid;
+  height: 30px;
+}
+
+#schedule .td_first_col
+{
+  color: #000000;
+  background-color: #A2A2C2;
+  border-bottom-style: solid;
+}
+
+#tasks table
+{
+  border-collapse: collapse;
+
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #666699;
+
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #666699;
+
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #666699;
+
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #666699;
+}
+
+#tasks td
+{
+  text-align: center;
+  padding: 8px;
+  color: inherit;
+  background-color: #E6E6EE;
+
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #666699;
+
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #666699;
+
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #666699;
+
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #666699;
+}
+
+#tasks .td_dark
+{
+  font-weight: bold;
+  color: #000000;
+  background-color: #A2A2C2;
+}
+
+#tasks .td_light
+{
+  font-weight: bold;
+  line-height: 130%;
+}
+
+#results table
+{
+  border-collapse: collapse;
+
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #666699;
+
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #666699;
+
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #666699;
+
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #666699;
+}
+
+#results td
+{
+  text-align: center;
+  color: inherit;
+  background-color: #E6E6EE;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 0px;
+  padding-right: 0px;
+
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #666699;
+
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #666699;
+
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #666699;
+
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #666699;
+}
+
+#results .td_first_row
+{
+  font-weight: bold;
+  color: #000000;
+  background-color: #A2A2C2;
+}
+
+#results td.gold
+{
+  color: inherit;
+  background-color: #FFD700;
+}
+
+#results td.silver
+{
+  color: inherit;
+  background-color: #C0C0C0;
+}
+
+#results td.bronze
+{
+  color: inherit;
+  background-color: #F0AF55;
+}
+
+.visas table
+{
+  border-collapse: collapse;
+  border-style: none;
+  border-width: 1px;
+  border-color: #000066;
+}
+
+.visas td
+{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000066;
+  padding: 10px;
+  background-color: #CCCCCC;
+}
+
+.visas p
+{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.conf td
+{
+  padding-top: 3px;
+  padding-bottom: 3px;
+
+  background-color: #D6D6D6;
+
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #000099;
+
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #000099;
+
+  border-left-style: none;
+  border-right-style: none;
+}
+
+#schedule table
+{
+  border-collapse: collapse;
+
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #666699;
+
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #666699;
+
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #666699;
+
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #666699;
+}
+
+#schedule tr
+{
+  height: 20px;
+}
+
+#schedule td
+{
+  text-align: center;
+  padding: 2px;
+  background-color: #E6E6EE;
+
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-color: #666699;
+
+  border-bottom-style: dashed;
+  border-bottom-width: 1px;
+  border-bottom-color: #666699;
+
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: #666699;
+
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: #666699;
+}
+
+#schedule .td_activity
+{
+  font-weight: bold;
+  background-color: #BBBBD2;
+}
+
+#schedule .td_first_row
+{
+  font-weight: bold;
+  color: #000000;
+  background-color: #A2A2C2;
+  border-bottom-style: solid;
+  height: 30px;
+}
+
+#schedule .td_first_col
+{
+  color: #000000;
+  background-color: #A2A2C2;
+  border-bottom-style: solid;
+}
+
+table
+{
+  border-collapse: collapse;
+  border-style: none;
+  border-width: 1px;
+  border-color: #000066;
+}
+
+#tablica td
+{
+  border-style: solid;
+  border-width: 1px;
+	background-color: #EEEEEE;
+
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 7px;
+  padding-right: 7px;
+}

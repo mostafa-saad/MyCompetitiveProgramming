@@ -1,0 +1,524 @@
+body {
+	background-color: #202020;
+	font-family: "Garamond", "Times New Roman";
+	color: #000000;
+	margin: 0px;
+}
+p {
+	text-align:justify;
+}
+a:link, a:visited, a:active {
+	color: #005e98;
+	border-bottom: 1px solid rgba(0, 94, 152, 0);
+	transition: border 500ms ease; 
+	text-decoration: none;
+}
+
+a:hover {
+	border-bottom: 1px solid rgba(0, 94, 152, 255);
+}
+
+.menu a:link, .menu a:visited, .menu a:active {
+	color: #005e98;
+	border-bottom: 1px solid rgba(0, 94, 152, 0);
+	transition: border 500ms ease; 
+	text-decoration: none;
+}
+
+.menu a:hover {
+	border-bottom: 1px solid rgba(0, 94, 152, 255);
+}
+
+.menu li li {
+	display: none;
+	background-color:rgba(235, 235, 235, 255);
+	padding-left:15px;
+}
+.menu li.active li {
+	display: block;
+}
+
+.menu li.active > a {
+	color: black;
+	text-decoration: none;
+}
+
+.menu ul {
+	line-height: 1.2em;
+	list-style: none outside none;
+	padding:0;
+}
+
+.menu li {
+	border-bottom: 1px solid #D1D1D1;
+	padding: 5px 0;
+}
+
+.head {
+	width: 1000px;
+	background-color: white;
+	position: relative;
+	left: 50%;
+	margin-left: -520px; /* -(width/2) */
+	padding-bottom: 0;
+	box-shadow: 0px 0px 10px white;
+}
+
+.header {
+	margin-bottom: 10px;
+	margin-left: 0px;
+	width: 1000px;
+	height: 310px;
+	background-color: #005e98;
+	box-shadow: 0px 00px 20px #005e98;
+}
+
+.headerkop {
+	font-size: 105px;
+	color: #90e61d;
+	margin-bottom:0;
+	padding-top: 10px;
+	margin-left: 35px;
+}
+.headerkopsubtitle {
+	font-size: 25px;
+	margin-left: 35px;
+	margin-top:-15px;
+	color: #90e61d;
+}
+
+.headersubtitle {
+	font-size: 25px;
+	color: white;
+	padding-top: 80px;
+	margin-left: 35px;
+	width: 580px;
+}
+
+.menu {
+	float: left;
+	margin-left: 0px;
+	margin-top: 8px;
+	margin-left: 15px;
+	font-size: 12pt;
+	width: 140px;
+}
+
+.submenu {
+	float: left;
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-right: 20px;
+	font-size: 12pt;
+	width: 120px;
+}
+
+.submenu ul {
+	line-height: 1.2em;
+	list-style: none outside none;
+}
+
+.submenu li {
+	border-bottom: 1px solid #D1D1D1;
+	padding: 5px 0;
+}
+
+.submenu a {
+	text-decoration: none;
+}
+
+.submenu li#active a {
+	color: black;
+}
+
+.content {
+	width: 1000px;
+	background-color: #FFFFFF;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+
+h1 {
+	font-size: 27px;
+ 	color: #005e98;
+	padding-top: 25px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.txt {
+	font-size: 16px;
+	padding-bottom: 30px;
+	padding-right: 40px;
+	padding-left: 30px;
+	margin-left:150px;
+}
+
+.footer {
+	margin-bottom: 0;
+	margin-left: 0px;
+	padding-top:10px;
+	padding-bottom:4px;
+	width: 1000px;
+	height: 120px;
+	color: white;
+	background-color: #005e98;
+	box-shadow: 0px 00px 20px #005e98;
+}
+
+.footer a {
+	color: white;
+}
+
+input {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	color: black;
+	background-color: white;
+	border: 1px solid black;
+	padding: 1pt;
+	margin: 5px;
+}
+
+textarea {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	color: black;
+	background-color: white;
+	border: 1px solid black;
+	padding: 1pt;
+	margin: 5px;
+}
+
+/* Blog */
+.blog_post {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.blog_post_title {
+	font-size: 18px;
+	margin-bottom: 5px;
+	text-decoration: none;
+}
+
+.blog_post_title a {
+	text-decoration: none;
+}
+
+.blog_post_info, #blog_post_info {
+	font-size: 10px;
+	color: gray;
+}
+
+.blog_post_content, #blog_post_content {
+	margin-top: 5px;
+}
+
+#blog_reactions > p {
+	color: #DD0B0B;
+	font-size: 17px;
+}
+
+.blog_reaction {
+	border-left: 5px solid #DD0B0B;
+	padding-left: 10px;
+	margin-left: 5px;
+	width: 370px;
+	text-align: justify;
+}
+
+.blog_reaction_name {
+	margin-bottom: -3px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.blog_reaction_name a {
+	text-decoration: none;
+}
+
+.blog_reaction_info a {
+	font-weight: normal;
+	font-size: 10px;
+	color: gray;
+	text-decoration: none;
+}
+
+.blog_reaction_message {
+	margin-top: 15px;
+}
+
+/* Contactform */
+#contactform {
+margin: 15px 0 15px 0;
+}
+
+/* Albums */
+.album {
+	background-color: white;
+	border: 1px solid #D1D1D1;
+	border-left: 5px solid #D1D1D1;
+	padding: 7px;
+	margin: 15px auto;
+}
+
+.albuminfo {
+	font-size: 17pt;
+}
+
+.error {
+	color: red;
+	font-size: 14px;
+}
+
+.orgrow1 {
+	background-color: #DEDEDE;
+}
+	
+
+.orgrow2 {
+	background-color: #EBEBEB;
+}
+
+.burger-shower {
+	display: none;
+	visibility: hidden;
+}
+
+@media only screen and (orientation: portrait) {
+
+	.txt {		
+		margin-left: 30px;
+	}
+	
+	.menu {
+		margin-left: 50px;
+	   	display: none;
+	}
+
+	.burger-shower {
+	  	display: none;
+		visibility: visible;
+	}
+
+	.burger-shower:checked ~ .menu {
+		display: block;
+	}
+
+	.burger-shower:checked ~ .txt {
+		margin-top: 250px;
+	}
+
+	.hamburger {
+		display: block;
+		/*width: 3.4em;
+		height: 2.4em;
+		line-height: .1em;
+		border: .1em solid #ddd;*/
+		padding: 0 .4em .4em;
+		margin-left: 50px;
+
+		width: 40px;
+		height: 40px;
+		cursor: pointer;
+		background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' x='0px' y='0px' width='30px' height='30px' viewBox='0 0 30 30' enable-background='new 0 0 30 30' xml:space='preserve'><rect width='30' height='6'/><rect y='24' width='30' height='6'/><rect y='12' width='30' height='6'/></svg>");
+		background-size: contain;
+	}
+
+	.hamburger hr {
+		color: #ddd;
+		height: .1em;
+		border: 0;
+		background: #ddd;
+		/* border: none; */
+	}
+}
+
+
+@media only screen and (max-width: 900px) {
+
+	.txt {		
+		margin-left: -20px;
+		width: 100%;
+	}
+	
+	.menu {
+		margin-left: 20px;
+	   	display: none;
+	}
+
+	.burger-shower {
+	  	display: none;
+		visibility: visible;
+	}
+
+	.burger-shower:checked ~ .menu {
+		display: block;
+	}
+
+	.burger-shower:checked ~ .txt {
+		margin-top: 250px;
+	}
+
+	.hamburger {
+		display: block;
+		/*width: 3.4em;
+		height: 2.4em;
+		line-height: .1em;
+		border: .1em solid #ddd;*/
+		padding: 0 .4em .4em;
+		margin-left: 10px;
+
+		width: 20px;
+		height: 20px;
+		cursor: pointer;
+		background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' x='0px' y='0px' width='30px' height='30px' viewBox='0 0 30 30' enable-background='new 0 0 30 30' xml:space='preserve'><rect width='30' height='6'/><rect y='24' width='30' height='6'/><rect y='12' width='30' height='6'/></svg>");
+		background-size: contain;
+	}
+
+	.hamburger hr {
+		color: #ddd;
+		height: .1em;
+		border: 0;
+		background: #ddd;
+		/* border: none; */
+	}
+	
+	.head {
+		left: 0;
+		margin: 0 auto;
+	}
+}
+
+.sponsors_page h2 {
+	margin:2em 0 1em 0;
+	text-align: center;
+	font-size:2.5em;
+}
+
+.golden_sponsor {
+	text-align: center;
+}
+
+.silver_sponsor {
+	text-align: center;
+	width: 49%;
+	float: left;
+}
+
+.bronze_sponsors_table {
+	margin: 0 auto;
+}
+
+.bronze_sponsors_table td {
+	width: 23em;
+}
+
+.partner_sponsors_table {
+	margin: 0 auto;
+}
+
+.partner_sponsors_table td {
+	width: 19em;
+}
+
+.partner_sponsors_table_last {
+	margin: 0 auto;
+}
+
+.partner_sponsors_table_last td {
+	width: 11em;
+}
+
+#schedule-page a:link, a:visited, a:active {
+	color: inherit;
+}
+
+#schedule-page .schedule-table-head {
+	background-color: lightgray;
+}
+
+#schedule-page .schedule-food-row {
+	color: brown;
+}
+
+#schedule-page .schedule-leisure-row {
+	color: green;
+}
+
+#schedule-page .schedule-official-row {
+	color: red;
+}
+
+#schedule-page .schedule-leaders-row {
+	font-style: italic;
+}
+
+#schedule-page .schedule-activities-row {
+	font-weight: bold;
+}
+
+#schedule-page .schedule-pr-classrooms {
+	color: blue;
+}
+
+.organizers-table {
+	width: 100%;
+}
+
+.organizers-table h2 {
+	text-align: center;
+}
+
+.organizers-table ul {
+	width: 48%;
+	margin: 0 auto;
+	list-style-type: none;
+}
+
+.team {
+	float: left; 
+	width: 49%;
+	min-height: 20em;
+}
+
+.ceoi-team img {
+	border: 7px #005e98 solid;
+	border-radius: 5em;
+	
+}
+
+.team-flag {
+	float: left;
+	border: 2px #373a3a solid;
+	border-radius: 5em;
+}
+
+.team-title h2 {
+	font-size: 2.7em; 
+	padding-left: 2em; 
+	color: #373a3a;
+	padding-top: 0.3em;
+}
+
+.team table .team-position {
+	color: gray;
+	vertical-align: top;
+	width: 7em;
+}
+
+.team table .team-leader {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.team table .team-deputy-leader {
+	font-size: 1.3em; 
+	font-style: italic;
+}
+
+.team table .team-members {
+	font-size: 1.3em;
+}

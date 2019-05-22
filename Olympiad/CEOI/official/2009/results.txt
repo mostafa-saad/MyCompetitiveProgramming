@@ -1,0 +1,58 @@
+No.	Name	Country	boxes	harbingers	photo	logs	sorting	tri	Sum
+1	Wu Neal	United States	0	70	30	100	100	100	400
+2	Pachocki Jakub	Poland	0	100	100	90	20	30	340
+3	Zuzic Goran	Croatia	-	100	40	100	40	50	330
+4	Gheorghe Cosmin	Romania	-	0	100	100	60	20	280
+5	Tataroiu Bogdan Cristian	Romania	17	20	50	100	70	20	277
+6	Cohen Michael	United States	-	60	100	100	10	-	270
+7	Glavina Stjepan	Croatia	0	40	70	100	20	30	260
+8	Hamrick Brian	United States	-	20	100	60	20	50	250
+9	Kociumaka Tomasz	Poland	0	20	10	70	100	50	250
+10	Dragus Marius Ioan	Romania	-	60	50	90	10	30	240
+11	Karczmarz Adam	Poland	-	20	100	90	-	20	230
+12	Parvu Andrei Bogdan	Romania	-	20	90	100	10	-	220
+13	Stan Serban Andrei	Romania	10	20	50	80	40	20	220
+14	Antonescu Andrei Bogdan	Romania	-	20	40	100	10	30	200
+15	Ocwieja Jakub	Poland	0	20	10	100	10	50	190
+16	Pilat Ivan	Croatia	10	20	30	40	20	50	170
+17	Belan Tomas	Slovak Republic	10	20	-	100	10	30	170
+18	Puni Andrei Paul	Romania	7	40	0	100	0	20	167
+19	Blasiok Jaroslaw	Poland	0	60	0	100	-	0	160
+20	Wagner Zsolt Adam	Hungary	16	20	50	30	10	30	156
+21	Meszaros Andras	Hungary	-	20	-	100	0	30	150
+22	Pepelea Flaviu	Romania	0	20	0	90	20	20	150
+23	Czechowski Robert	Germany	0	0	40	30	50	20	140
+24	Yuschuk Oleg	Germany	-	20	40	50	10	20	140
+25	Ionescu Victor	Romania	17	20	30	40	10	20	137
+26	Markotic Jaksa	Croatia	-	20	30	50	0	30	130
+27	Herencsar Albert	Slovak Republic	0	20	40	40	10	20	130
+28	Turi Zsolt	Hungary	0	20	80	0	0	30	130
+29	 	 	-	40	0	50	0	30	120
+30	 	 	20	20	20	-	10	50	120
+31	 	 	0	20	10	60	10	20	120
+32	 	 	0	60	-	0	10	50	120
+33	 	 	-	40	0	20	10	50	120
+34	 	 	0	20	20	50	0	20	110
+35	 	 	20	20	30	-	10	30	110
+36	 	 	-	20	30	50	-	-	100
+37	 	 	0	20	10	-	40	30	100
+38	 	 	-	10	0	50	10	30	100
+39	 	 	0	20	10	30	10	20	90
+40	 	 	0	20	0	30	10	20	80
+41	 	 	10	20	0	0	10	30	70
+42	 	 	10	20	10	10	0	20	70
+43	 	 	0	10	-	30	0	20	60
+44	 	 	-	20	10	-	20	10	60
+45	 	 	10	20	-	0	10	20	60
+46	 	 	-	20	0	30	10	0	60
+47	 	 	0	20	20	0	0	0	40
+48	 	 	0	0	0	-	10	30	40
+49	 	 	-	0	-	10	10	20	40
+50	 	 	-	-	-	30	-	-	30
+51	 	 	0	-	0	20	0	10	30
+52	 	 	0	0	0	0	0	30	30
+53	 	 	-	0	-	-	-	20	20
+54	 	 	-	20	-	-	-	0	20
+55	 	 	-	-	-	-	0	20	20
+56	 	 	-	10	-	-	0	-	10
+57	 	 	-	-	-	-	-	0	0

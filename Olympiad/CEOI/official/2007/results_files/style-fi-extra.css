@@ -1,0 +1,141 @@
+.u-mb-10 {
+    margin-bottom: 10px;
+}
+
+.u-mt-10 {
+    margin-top: 10px;
+}
+
+.box-hero--particles-fi .box-hero__particles {
+    display:        block;
+}
+
+.box-hero--particles-fi .box-hero__particles:before {
+    background-image: url("/files/cvtadm/particles-fi.png");
+}
+
+.menu-secondary__link {
+    color:          inherit; /* #002776 */
+}
+
+.no-touch .btn-fi:hover:not(.is-disabled):not(:disabled) > span,
+.no-touch .btn-fi:focus:not(.is-disabled):not(:disabled) > span,
+.no-touch .btn-primary:hover:not(.is-disabled):not(:disabled) > span,
+.no-touch .btn-primary:focus:not(.is-disabled):not(:disabled) > span {
+    color:          #000000;
+}
+
+.btn-fi.btn-border > span,
+.btn-primary.btn-border > span {
+    color:          #000000;
+}
+
+.box-hero.box-hero--background.box-hero--background-muni .box-hero__content .box-hero__content-inner h1,
+.box-hero.box-hero--background.box-hero--background-muni .box-hero__content .box-hero__content-inner h2,
+.box-hero.box-hero--background.box-hero--background-muni .box-hero__content .box-hero__content-inner h3,
+.box-hero.box-hero--background.box-hero--background-muni .box-hero__content .box-hero__content-inner h4,
+.box-hero.box-hero--background.box-hero--background-muni .box-hero__content .box-hero__content-inner h5 {
+    color:          #ffffff;
+}
+
+#page_source > .box-hero:nth-child(1) {
+    margin-top: -31px;
+}
+
+pre.errorart {
+    color:          #808080;
+}
+
+.justified {
+    text-align:     justify;
+    text-justify:   inter-word;
+}
+
+.fi-google-calendar {
+    position:       relative;
+    height:         0;
+    width:          100%;
+    padding-bottom: 100%;
+}
+
+.fi-google-calendar iframe {
+    position:       absolute;
+    top:            0;
+    left:           0;
+    width:          100%;
+    height:         100%;
+}
+
+.fi-box-event__story {
+    max-height:     100px;
+    overflow-y:     hidden;
+    position:       relative;
+
+    text-align:     justify;
+    text-justify:   inter-word;
+}
+
+.fi-box-event__story:before {
+    width:          100%;
+    height:         100%;
+    position:       absolute;
+    left:           0;
+    top:            0;
+}
+
+ol[type="a"].legal.uc > li:before {
+    content:        counter(item, upper-alpha) ")";
+}
+
+ol[type="a"].legal > li:before {
+    content:        counter(item, lower-alpha) ")";
+}
+
+/* CSS pre mapu studia v /admission/ */
+
+#mapa-studia .box {
+	border: 1px solid #ddd;
+	background-image: none;
+	margin: 0 0 1em;
+	padding: 1em; /* 1em 1.5em; */
+	display: block;
+}
+
+#mapa-studia ul {
+	margin-bottom: 0;
+	font-size: 0.9em;
+}
+#mapa-studia h5 {
+	margin-bottom: 0;
+}
+
+@media (min-width: 700px) {
+	.fi-mgr-1, .fi-mgr-2, .fi-mgr-3 {
+		min-height: 5em;
+	}
+	.fi-bc-1 {
+		min-height: 23em;
+	}
+	.fi-bc-2 {
+		min-height: 5em;
+	}
+	.fi-bc-3 {
+		min-height: 5em;
+	}
+	.fi-phd {
+		min-height: auto;
+	}
+}
+@media (min-width: 1000px) {
+	.fi-phd-1 {
+		min-height: 29em;
+	}
+}
+
+.fi-bc-1 { background-color: #fef2cd; }
+.fi-bc-2 { background-color: #eafecd; }
+.fi-bc-3 { background-color: #e5ecff; }
+.fi-mgr-1 { background-color: #fce49c; }
+.fi-mgr-2 { background-color: #d4fc9c; }
+.fi-mgr-3 { background-color: #ccdaff; }
+.fi-phd-1 { background-color: #ffb199; }
