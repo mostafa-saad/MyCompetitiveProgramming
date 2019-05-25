@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2006_solutions
 
+https://github.com/zoooma13/Competitive-Programming/blob/master/rle.cpp
 https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/olympiad/Baltic-06-RLE.cpp

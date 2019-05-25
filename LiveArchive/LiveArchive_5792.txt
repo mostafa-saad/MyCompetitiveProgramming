@@ -1,3 +1,4 @@
 Analysis: https://neerc.ifmo.ru/past/2011/neerc-2011-analysis.pdf - Neerc11-D
 
 Sol: https://github.com/HosamEissa/Competitive-programming-/blob/master/ACM-ICPC%20Live%20Archive/5792.cpp
+https://github.com/khaledsliti/CompetitiveProgramming/blob/master/LA/LA5792.cpp

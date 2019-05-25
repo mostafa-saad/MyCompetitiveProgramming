@@ -1,0 +1,6 @@
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2015/contest2_solutions
+
+
+Greedy
+	https://github.com/luciocf/Problems/blob/master/COCI/COCI%202014-2015/studentsko.cpp

@@ -1,4 +1,5 @@
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2008_solutions/gloves-sol-en.pdf
-	
+
+https://github.com/zoooma13/Competitive-Programming/blob/master/gloves.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Gloves/main.cpp
