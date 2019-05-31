@@ -1,0 +1,2 @@
+https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/UVA/11765.cpp
+https://github.com/khaledsliti/CompetitiveProgramming/blob/master/UVA/UVA11765.cpp

@@ -1,3 +1,7 @@
+Several ppt
+	https://github.com/mostafa-saad/ArabicCompetitiveProgramming
+
+
 DP
 	Digital DP			http://codeforces.com/blog/entry/53960
 	DP Optimizations    https://codeforces.com/blog/entry/8219            
@@ -80,6 +84,8 @@ DataStructures
 											
 											
 	Monotonic Queue							https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6
+	
+	binary indexed tree						https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/
 	
 	
 Graph

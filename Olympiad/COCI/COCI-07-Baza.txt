@@ -1,4 +1,5 @@
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2008/contest5_solutions
 	
+https://github.com/zoooma13/Competitive-Programming/blob/master/baza.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/baza/main.cpp

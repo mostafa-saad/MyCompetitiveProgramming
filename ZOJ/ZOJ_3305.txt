@@ -1,0 +1,2 @@
+https://github.com/magdy-hasan/competitive-programming/blob/master/Other/ZOJ%20Get%20Sauce.cpp
+https://github.com/ilyesLtifi/Competitive-Programming/blob/master/ZOJ/ZOJ%203305.cpp

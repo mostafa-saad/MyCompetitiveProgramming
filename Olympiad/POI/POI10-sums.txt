@@ -13,3 +13,7 @@ See Solution By Mohamed Nasser
 		https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/POI/POI10-sums.cpp  [with notes]
 		https://github.com/OmarHashim/Competitive-Programming/blob/master/Other/POI/10sums.cpp
 		
+
+
+Dif Sol
+	https://github.com/SuperJavaCoder/training/blob/master/OI/POI/2010/sums.cpp
