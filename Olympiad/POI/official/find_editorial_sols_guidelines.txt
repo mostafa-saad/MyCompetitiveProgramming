@@ -1,15 +1,20 @@
 Every POI problem has name and TaskCode. Editorials are in Polish.
 
-E.g. POI 15-Necklace (https://szkopul.edu.pl/problemset/problem/SbvfueoDtZe2DQFHrywTIakc/site/?key=statement)
-	TaskCode = pod, find in the POI link
+
+E.g. POI 16-Hydro
+	https://szkopul.edu.pl/problemset/problem/y9HM1ctDU8V8xLMRUYACDIRs/site/?key=statement
+		TaskCode = hyd, find in the POI link above
 	
-Problem (POI 15-Necklace) from POI 2015
-	For the codes, go to the problem directory
-		Olympiad/POI/official/2015-XXII/pod
 	
-	Find Polish Editorial at				
-		Olympiad/POI/official/2015-XXII/EDITORIAL/pod.pdf
-			Download PDF
+To find editorial/code for Problem (POI 16-Hydro)
+
+	Go to page:    https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/POI/official/2016
+		editorial/hyd.pdf
+		code/hyd
+	
+	
+	To translate the Polish Editorial
+			Download the PDF
 			Go to Google Doc translator: 			
 				https://translate.google.ca/#view=home&op=translate&sl=pl&tl=en
 			Upload the pdf
