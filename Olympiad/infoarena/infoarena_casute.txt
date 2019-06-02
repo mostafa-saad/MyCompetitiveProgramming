@@ -1,0 +1,6 @@
+Problem: Given a DAG with n nodes and m edges, find the LCA for all pairs of distinct nodes
+
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/casute.cpp
+
+dag,bfs ,bitset ,compression
+	https://github.com/zoooma13/Competitive-Programming/blob/master/casute.cpp
