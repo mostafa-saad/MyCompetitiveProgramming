@@ -1,0 +1,4 @@
+Same as UVA 13164
+
+https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/CodeForces/CF101174-GYM-F%20-%20Performance%20Review.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/13164.cpp

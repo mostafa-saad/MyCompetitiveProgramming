@@ -1,0 +1,4 @@
+official
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2017/contest1_solutions/
+	
+https://github.com/zoooma13/Competitive-Programming/blob/master/vjestica.cpp

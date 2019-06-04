@@ -3,3 +3,4 @@ Official
 	
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/17-Wiring.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/Wiring2017.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/IOI/IOI2017-Mountains.cpp

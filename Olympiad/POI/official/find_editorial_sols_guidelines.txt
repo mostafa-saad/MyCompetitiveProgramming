@@ -15,6 +15,9 @@ To find editorial/code for Problem (POI 16-Hydro)
 	
 	To translate the Polish Editorial
 			Download the PDF
-			Go to Google Doc translator: 			
-				https://translate.google.ca/#view=home&op=translate&sl=pl&tl=en
+			Go to Google Doc translator: https://translate.google.ca/#view=home&op=translate&sl=pl&tl=en
+			Choose Documents
 			Upload the pdf
+
+
+	For some PDFs, doc translate may fail. Then translate paragraph by paragraph/
