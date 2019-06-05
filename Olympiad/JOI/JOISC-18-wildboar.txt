@@ -1,2 +1,2 @@
 https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/JOI/SC18-Boar.cpp
-https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18SC-Wild_Boar.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18S-Wild_Boar.cpp

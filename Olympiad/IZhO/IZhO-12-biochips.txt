@@ -1,5 +1,10 @@
 To learn	https://www.youtube.com/watch?v=3nxtY1KStww
 
+
+To know how to compute its tricky complexity, study amortizd analysis
+
+https://github.com/SuperJavaCoder/training/blob/master/IZhO/2012/biochips.cpp
+
 https://github.com/ShabdanBatyrkulov/codee/blob/master/IZhO%2012-biochips.cpp
 https://github.com/luciocf/Solutions/blob/master/IZhO/IZhO%202013/schools.cpp
 https://github.com/zoooma13/Competitive-Programming/blob/master/biochips.cpp
