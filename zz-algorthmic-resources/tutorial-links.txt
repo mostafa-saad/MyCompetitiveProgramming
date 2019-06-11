@@ -87,6 +87,8 @@ DataStructures
 	
 	binary indexed tree						https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/
 	
+	Tournament Tree							https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/
+	
 	
 Graph
 	Center of a graph			https://codeforces.com/blog/entry/17974

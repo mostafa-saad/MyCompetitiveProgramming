@@ -1,0 +1,3 @@
+Official	HYPERLINK("https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2004","Editorial")
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/04-Football.cpp

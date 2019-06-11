@@ -1,2 +1,3 @@
 https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/CodeForces/CF100182-GYM-G.cpp
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/Codeforces/CF100182-GYM-G.cpp
+https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/Codeforces/CF100812-GYM-G.cpp

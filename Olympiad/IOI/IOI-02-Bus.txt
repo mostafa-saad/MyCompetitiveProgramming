@@ -1,0 +1,6 @@
+English txt https://ioinformatics.org/files/ioi2002problem5.pdf
+
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2002
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/02-Bus.cpp

@@ -1,0 +1,4 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/IOI/official/2009
+
+https://github.com/radoslav11/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI%2009-regions.cpp
+https://github.com/luciocf/Problems/blob/master/IOI/IOI%202009/regions.cpp

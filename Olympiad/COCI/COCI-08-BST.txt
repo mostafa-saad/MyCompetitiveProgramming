@@ -1,3 +1,4 @@
 Official:	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2009/contest3_solutions
 
+https://github.com/thecodingwizard/competitive-programming/blob/master/DMOJ/COCI%2008-BST.cpp
 https://github.com/thackerhelik/DMOJ/blob/master/COCI%2008-BST.cpp

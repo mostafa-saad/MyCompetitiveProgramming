@@ -52,3 +52,9 @@ Tmp = 1
 After query we get 1 as well. Difference is zero, since this element didn’t do any new contributions.
 
 I thought of it like a kind of inclusion exclusion.
+
+
+
+===========
+seg tree
+	https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/SPOJ/INCDSEQ.cpp

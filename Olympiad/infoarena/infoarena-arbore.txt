@@ -1,0 +1,7 @@
+Given a tree with n nodes, rooted at 1, where all values of nodes are initially empty, and m queries where at each of the queries,
+we either add a value q to the subtree rooted at node p, or we have to report whether it exists a node with a value z or not.
+
+
+
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/arbore.cpp
+https://gist.github.com/luciocf/cfaebb57ea04e16704483b9cdb05e388
