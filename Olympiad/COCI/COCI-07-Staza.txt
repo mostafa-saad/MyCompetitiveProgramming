@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2008/contest1_solutions
+
+https://github.com/SuperJavaCoder/training/blob/master/OI/COCI/2007/staza.cpp

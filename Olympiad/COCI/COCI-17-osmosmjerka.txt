@@ -1,0 +1,5 @@
+Official	HYPERLINK("https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2017/contest4_solutions","Editorial")
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/COCI/17-Osmosmjerka(2).cpp
+
+Not intended	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/COCI/17-Osmosmjerka(1).cpp
