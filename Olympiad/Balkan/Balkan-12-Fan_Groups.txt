@@ -1,0 +1,5 @@
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Fan%20Groups/main.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/BkOI/12-FanGroup.cpp
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BkOI/12-FanGroups.cpp
+https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2012

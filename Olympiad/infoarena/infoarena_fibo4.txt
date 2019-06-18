@@ -1,0 +1,11 @@
+Given an array of N elements, initially empty and M queries of type a b c, add for each element i in range [a, b], c + (i - a)th
+Fibonacci number modulo 666013 and print the array resulting
+
+
+Segment tree
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/fibo4.cpp
+	
+fibonacci numbers, pisano period
+	https://github.com/thecodingwizard/competitive-programming/blob/master/Infoarena/fibo4.cpp
+	
+

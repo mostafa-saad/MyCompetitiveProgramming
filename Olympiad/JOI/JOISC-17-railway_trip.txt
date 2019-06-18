@@ -1,0 +1,13 @@
+Basic Hints:			https://codeforces.com/blog/entry/51010
+Japenese Editorial: 	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/JOI/official/JOISC/2017
+	Segment tree
+
+Contest at AtCoder (To see more AC codes)
+	https://joisc2017.contest.atcoder.jp/
+	
+====
+sqrt decomposition
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17S-Railway.cpp
+
+sparse table / binary lifting (short - hard to prove?)
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17S-Railway(2).cpp

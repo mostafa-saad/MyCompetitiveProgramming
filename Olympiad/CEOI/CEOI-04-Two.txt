@@ -1,0 +1,6 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2004
+
+
+
+dp, dp_convex_hull, tree, [k-median problem]
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/04-Two.cpp

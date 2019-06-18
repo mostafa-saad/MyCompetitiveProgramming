@@ -1,0 +1,3 @@
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Reading/main.cpp
+
+https://github.com/koosaga/olympiad/blob/master/Balkan/balkan09_reading.cpp

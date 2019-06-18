@@ -1,0 +1,4 @@
+https://ivaniscoding.wordpress.com/2018/08/28/communication-5-city		[interesting sol]
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17S-City/Encoder.cpp		[another sol]
+

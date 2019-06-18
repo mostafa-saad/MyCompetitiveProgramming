@@ -1,0 +1,6 @@
+https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI16-nim.cpp
+
+
+
+
+Official: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

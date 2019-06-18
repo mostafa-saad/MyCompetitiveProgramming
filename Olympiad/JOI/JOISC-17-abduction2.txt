@@ -12,10 +12,4 @@ Contest at AtCoder (To see more AC codes)
 --------------------------
 	https://oj.uz/submission/63741
 	https://oj.uz/submission/73005
-
---------------------------
-JOISC 17-railway_trip
-	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17S-Railway.cpp
-	https://oj.uz/submission/116527
-
-
+	

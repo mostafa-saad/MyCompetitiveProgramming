@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2010_solutions
+
+https://github.com/SuperJavaCoder/training/blob/master/OI/BOI/2010/bins.cpp

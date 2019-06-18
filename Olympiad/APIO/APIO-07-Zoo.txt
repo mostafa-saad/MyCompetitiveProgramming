@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/APIO/official/2007/2007.pdf
+
+https://github.com/thecodingwizard/competitive-programming/blob/master/APIO/07-Zoo.cpp

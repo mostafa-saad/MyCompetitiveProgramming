@@ -1,0 +1,13 @@
+https://github.com/WaleedAbdelhakim/Competitive-Programming/blob/master/LiveArchive/4008.cpp
+
+===
+Mohamed Nasser Ali Formula for permutations without repetitions is just N!/a1!*a2!*an1 where a1,a2 are repetitions for each character. 
+Now we need to calculate the last non zero digit. Now let's do a prime factorization of N!, and keep track each prime frequency 
+in the array. Now iterate over denominators, doing the same but instead subtract from the frequency array ( Since we are dividng). 
+We now have the desired number in the form of it's prime factorization, but we need the last non zero digit, but notice that 0's only 
+come from 2 * 5, so if we divide by min(f[2],f[5]], we will get a number with no zeros, do that to the array, and then calculate each 
+prime term as modPow(prime,frequency,10), and multiply them with each other modulo 10. Code here : 
+	https://github.com/MedoN11/CompetitiveProgramming/blob/master/LiveArchive/4008.cpp?fbclid=IwAR1vmJzbHKGKM_5Yg6zQRz-oauM2-JrxRNjvxysYkipe9D5CEhw5oRLA_F0
+	
+	
+	Khaled Kee "Formula for permutations without repetitions is just N!/a1!*a2!*..*an". This is called multinomial theorem: 
