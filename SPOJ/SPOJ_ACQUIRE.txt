@@ -5,3 +5,4 @@ It is also from USACO MAR08 problem, here is the analysis: http://contest.usaco.
 	Data http://contest.usaco.org/MAR08.htm
 	
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/SPOJ/ACQUIRE.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/SPOJ/SPOJ%20ACQUIRE.cpp

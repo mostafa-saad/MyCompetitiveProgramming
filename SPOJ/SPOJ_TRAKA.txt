@@ -1,0 +1,2 @@
+https://github.com/aviroop123/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20TRAKA
+https://github.com/MetalBall887/Competitive-Programming/blob/master/SPOJ/SPOJ_TRAKA.cpp

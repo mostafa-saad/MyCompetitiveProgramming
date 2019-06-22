@@ -21,3 +21,5 @@ To find editorial/code for Problem (POI 16-Hydro)
 
 
 	For some PDFs, doc translate may fail. Then translate paragraph by paragraph/
+
+	The code usually namings in Plish, just paste whole of it in Google translate

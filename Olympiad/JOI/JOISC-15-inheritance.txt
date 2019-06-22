@@ -1,0 +1,3 @@
+https://github.com/thecodingwizard/competitive-programming/blob/master/JOI/JOISC%2015-inheritance.cpp
+
+tps://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/JOI/official/JOISC/2015

@@ -4,3 +4,5 @@ Official
 
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/CEOI/Hotel2011.cpp
 https://ideone.com/PN70eC
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/11-Hotel.cpp
+

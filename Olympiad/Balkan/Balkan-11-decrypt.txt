@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/2011/decrypt-sol.pdf
+
+https://github.com/thecodingwizard/competitive-programming/blob/master/BkOI/11-decrypt/decrypt.cpp

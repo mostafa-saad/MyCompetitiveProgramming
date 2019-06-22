@@ -4,3 +4,4 @@ Official
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Mountain/main.cpp
 https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202005/Mountain.cpp
 https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI05-mountains.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/IOI/IOI%2005-mountains.cpp
