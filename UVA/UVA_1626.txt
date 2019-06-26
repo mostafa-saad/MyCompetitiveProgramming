@@ -1,0 +1,2 @@
+https://github.com/ZeyadKhattab/Competitive-Programming/blob/master/UVA/UVA%201626.java
+https://github.com/abdullaAshraf/Problem-Solving/blob/master/UVA/1626.cpp

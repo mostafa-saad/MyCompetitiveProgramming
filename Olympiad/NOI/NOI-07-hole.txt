@@ -1,0 +1,4 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official
+
+https://github.com/Rockbet/Problems/blob/master/NOI/2007/Hole.cpp
+

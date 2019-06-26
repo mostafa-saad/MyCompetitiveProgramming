@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2001
+
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Depot%20ioi/main.cpp

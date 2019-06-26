@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/official/2014
+
+https://github.com/luciocf/OI-Problems/blob/master/COI/COI%202014/krave.cpp

@@ -1,0 +1,3 @@
+https://github.com/WaleedAbdelhakim/Competitive-Programming/blob/master/UVA/707.cpp
+https://github.com/ahmedsamir221/CompetitiveProgramming/blob/master/UVA/UVA%20707.cpp
+https://github.com/ZeyadKhattab/Competitive-Programming/blob/master/UVA/UVA%20707.java

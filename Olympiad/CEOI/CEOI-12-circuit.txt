@@ -1,0 +1,6 @@
+correction:  constraints for n is actually 2e5
+
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/official/2012/
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/12-Circuit.cpp

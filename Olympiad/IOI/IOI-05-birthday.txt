@@ -5,5 +5,7 @@ Official
 	https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202005/Birthday.cpp
 	
 	
-Binary search O(nlogn), but very optimized to pass
-	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Birthday/main.cpp
+Binary search O(nlogn)
+	https://github.com/win11905/submission/blob/master/IOI/05/birthday.cpp
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Birthday/main.cpp	[very optimized to pass]
+	
