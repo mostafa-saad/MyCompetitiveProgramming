@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2004
+
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/CEOI/CEOI%2004-trips.cpp

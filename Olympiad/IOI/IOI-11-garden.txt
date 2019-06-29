@@ -4,3 +4,4 @@ Official
 https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202011/Tropical%20Garden.cpp
 https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/IOI/11-Garden.cpp
 https://github.com/luciocf/Problems/blob/master/IOI/IOI%202011/garden.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/IOI/2011/garden/garden.cpp

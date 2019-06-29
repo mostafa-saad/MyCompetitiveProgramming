@@ -19,6 +19,7 @@ DP
 	General				https://apps.topcoder.com/forums/?module=Thread&threadID=697369&start=0
 						http://codeforces.com/blog/entry/47764
 						
+	Hirschberg's Trick	https://www.quora.com/What-is-the-best-trick-in-dynamic-programming
 						
 						
 	Dp trees vs Siblings (Nasser):

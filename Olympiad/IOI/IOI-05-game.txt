@@ -1,0 +1,3 @@
+Official	https://www.oi.edu.pl/old/ioi/downloads/ioi2005-tasks-and-solutions-a5.pdf
+
+https://github.com/win11905/submission/blob/master/IOI/05/game.cpp
