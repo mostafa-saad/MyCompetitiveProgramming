@@ -1,3 +1,8 @@
+[use cout/cin not printf/scanf]
+
+
 Official	https://www.oi.edu.pl/old/ioi/downloads/ioi2005-tasks-and-solutions-a5.pdf
+
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Rectangle%20game/main.cpp
 
 https://ideone.com/yHk9Ef		[from https://github.com/win11905/submission/blob/master/IOI/05/game.cpp]
