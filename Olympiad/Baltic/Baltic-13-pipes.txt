@@ -1,0 +1,2 @@
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BtOI/13-Pipes.cpp
+https://github.com/SuperJavaCoder/training/blob/master/OI/BOI/2013/pipes.cpp
