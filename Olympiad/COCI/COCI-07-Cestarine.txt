@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2008/contest6_solutions
 
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Cestarine/main.cpp
+https://docs.google.com/spreadsheets/d/1K8_XOxHM-hZ_CiQdSwKFEobW5v2Ig7cWQkr1d1fdVgs/edit#gid=823083703

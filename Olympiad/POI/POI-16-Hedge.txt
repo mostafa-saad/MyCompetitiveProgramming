@@ -1,0 +1,3 @@
+https://github.com/sofhiasouza/CompetitiveProgramming/blob/master/POI/2016/zyw.cpp
+
+Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
