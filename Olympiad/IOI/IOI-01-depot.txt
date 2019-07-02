@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2001
 
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Depot%20ioi/main.cpp
+https://github.com/SuperJavaCoder/training/blob/master/OI/IOI/2001/depot.cpp
