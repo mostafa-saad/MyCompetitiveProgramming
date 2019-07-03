@@ -1,0 +1,4 @@
+Official https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official
+	smart approach
+
+https://github.com/thecodingwizard/competitive-programming/blob/master/NOI/14-Cats.cpp

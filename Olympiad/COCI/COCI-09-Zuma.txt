@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2010/contest5_solutions
+
+https://github.com/samyravitoria/olympics-problems/blob/master/COCI/2009%20-%202010/Contest%20%235/zuma.cpp

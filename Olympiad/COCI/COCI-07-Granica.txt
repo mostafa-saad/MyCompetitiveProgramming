@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2008/contest6_solutions
+
+https://github.com/sofhiasouza/CompetitiveProgramming/blob/master/COCI/granica.cpp
