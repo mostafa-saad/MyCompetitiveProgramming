@@ -6,3 +6,6 @@ This problem can be solved using another DP called, DP component
 	https://codeforces.com/blog/entry/47764
 		article explains 'JOI 2016 Open Contest — Skyscrapers' a bit harder than this task
 	https://oj.uz/submission/78741
+	https://github.com/win11905/submission/blob/master/CEOI/16/kangaroo.cpp
+	
+Harder versions: MCO 17-MagicalTeleporter, JOIOC 16-skyscraper

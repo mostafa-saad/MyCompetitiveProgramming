@@ -1,0 +1,2 @@
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/APIO/19-strange_device.cpp
+https://github.com/Evilandrew228/CompetitiveProgramming/blob/master/APIO%2019-strange_device

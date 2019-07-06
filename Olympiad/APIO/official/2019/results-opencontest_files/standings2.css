@@ -1,0 +1,201 @@
+body {
+    text-align: center;
+}
+
+table.wrapper {
+    text-align: center;
+    border-collapse: collapse;
+    border: none;
+    margin: 0pt;
+    padding: 0pt;
+    width: 100%;
+} 
+
+table.standings {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-family: serif;
+    max-width: 98vw;
+}
+
+
+p {
+    text-align: center;
+}
+
+small {
+    font-size: xx-small;
+}
+
+h2 { 
+    font-family: helvetica; 
+    font-size: large;
+    text-align: center;
+}
+
+h3 { 
+    font-family: helvetica; 
+    font-size: medium;
+}
+
+table { 
+}
+
+th {
+    background-color: #F9F9F0;
+}
+
+th.solved {
+    text-align: center;
+    width: 2em;
+}
+
+th.penalty {
+    text-align: center;
+    padding-right: 10pt;
+    width: 2em;
+}
+
+th.party {
+    text-align: left;
+    padding-left: 10pt;
+}
+
+td.stat {
+    text-align: right;
+    padding-right: 10pt;
+}
+
+th.rankl {
+    text-align: center;
+    padding-left: 10pt;
+    width: 2em;
+}
+
+th.problem {
+    text-align: center;
+    width: 2em;
+}
+
+td {
+    text-align: center;
+}
+
+td.solved {
+    text-align: right;
+}
+
+td.penalty {
+    text-align: right;
+    padding-right: 10pt;
+}
+
+td.ioiprob {
+    text-align: center;
+    padding-left: 5pt;
+    padding-right: 5pt;
+}
+
+td.party {
+    text-align: left;
+    padding-left: 10pt;
+}
+
+td.partyOther {
+    text-align: left;
+    padding-left: 10pt;
+    color: grey;
+}
+
+td.rankl {
+    text-align: right;
+    padding-left: 10pt;
+    padding-right: 10pt;
+}
+
+td.problem {
+    text-align: center;
+}
+
+b {
+    color: #c06060;
+    font-weight: normal;
+}
+
+i {
+    color: green;
+    font-style: normal;
+}
+
+em {
+    color: blue;
+    font-style: normal;
+    background: yellow;
+}
+
+u {
+    color: #406090;
+    font-style: normal;
+    text-decoration: none;
+}
+
+i.first-to-solve {
+    display: block;
+    background-color: #c0ffc0;
+    font-style: normal;
+}
+
+s {                        
+    font-style: normal;
+    text-decoration: none;
+    font-size: x-small;
+}
+
+.row00 { background-color: #f8f8f8; }
+.row01 { background-color: #ffffff; }
+.row10 { background-color: #c8e8f8; }
+.row11 { background-color: #d0f0ff; }
+
+.standings > thead { border-bottom: solid 1px silver; }
+.standings > tfoot { border-top:    solid 1px silver; }
+
+
+span.winner {
+    border-radius: 5px;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    margin-left: 2pt;
+    margin-right: 2pt;
+    background: #FFFACD;
+}
+
+
+span.award {
+    border-radius: 5px;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    margin-left: 2pt;
+    margin-right: 2pt;
+    background: #E6E6FA;
+}
+
+
+span.award3 {
+    border-radius: 5px;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    margin-left: 2pt;
+    margin-right: 2pt;
+    background: #FADDB1;
+}
+
+
+span.awardRC {
+    border-radius: 5px;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    margin-left: 2pt;
+    margin-right: 2pt;
+    background: #CEFFD0;
+}
