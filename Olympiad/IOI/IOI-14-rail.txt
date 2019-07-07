@@ -1,0 +1,5 @@
+Editorial	IOI 14-rail
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/14-Rail.cpp
+https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-14-rail.txt
+

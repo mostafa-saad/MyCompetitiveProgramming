@@ -1,6 +1,3 @@
-https://github.com/luciocf/Problems/blob/master/POI/POI%202016/johny.cpp
-https://ideone.com/GR3bhw
-
-
+https://github.com/luciocf/OI-Problems/blob/master/POI/POI%202006/invasion.cpp
 
 Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
