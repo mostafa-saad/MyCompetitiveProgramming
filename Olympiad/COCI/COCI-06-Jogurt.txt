@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2007/contest4_solutions
 
 https://github.com/samyravitoria/olympics-problems/blob/master/COCI/2006-2007/jogurt.cpp
+https://github.com/Thiago4532/CompetitiveProgramming/blob/master/COCI/2006/Contest%204/jogurt.cpp

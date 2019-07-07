@@ -93,6 +93,7 @@ DataStructures
 	
 Graph
 	Center of a graph			https://codeforces.com/blog/entry/17974
+	Finding Bridges Online		https://cp-algorithms.com/graph/bridge-searching-online.html
 
 Misc
 	Slope Trick        		https://codeforces.com/blog/entry/47821
