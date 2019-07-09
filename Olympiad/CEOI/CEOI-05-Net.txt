@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2005
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/CEOI/CEOI%2005-Net.cpp
+https://github.com/luciocf/OI-Problems/blob/master/CEOI/CEOI%202005/net.cpp

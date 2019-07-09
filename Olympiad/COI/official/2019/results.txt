@@ -1,0 +1,65 @@
+https://docs.google.com/spreadsheets/d/14Sh1siYSby2oQ33hX6bDSfqMNBXXoLjKVAasnoHnp0A/edit#gid=0
+
+
+Rank	Position	Score	Name	Country	Izlet	Ljepotica	Segway	Tenis
+1	1	400	Mateusz P	Poland	100	100	100	100
+1	1	400	sangsoo park	Korea	100	100	100	100
+2	3	351	Yaroslav Tverdokhlib	Ukraine	100	100	100	51
+3	4	343	Alexander Shekhovtsov	Russia	43	100	100	100
+4	5	294	Vytis Banaitis	Lithuania	43	100	100	51
+4	5	294	natsugiri natsugiri	Jamaica	43	100	100	51
+4	5	294	Joey Yu	Canada	43	100	100	51
+5	8	269	Fausta Dianparama	Indonesia	18	100	100	51
+6	9	251	Federico Glaudo	Italy	0	100	100	51
+7	10	243	Áron Noszály	Hungary	43	100	100	0
+8	11	200	Egor Lifar	Russia	0	100	100	0
+8	11	200	Pongsaphol Pongsawakul	Thailand	100	100	0	0
+8	11	200	Tran Quang Thanh	Vietnam	100	100	0	0
+9	14	185	Fabrizio Brioni	Italy	0	100	85	0
+10	15	143	Alexandra Udristoiu	Romania	43	0	100	0
+11	16	100	Gaurav Arya	Hong Kong China	0	100	0	0
+11	16	100	András Csertán	Hungary	100	0	0	0
+11	16	100	MoNsTeR CuBe	Belgium	100	0	0	0
+11	16	100	Lan Dao	Vietnam	0	100	0	0
+11	16	100	Tahsin Enes Kuru	Turkey	100	0	0	0
+11	16	100	Max Mustermann	Germany	0	100	0	0
+11	16	100	Sirawit Pongnakintr	Thailand	100	0	0	0
+11	16	100	Eduardo Venturini	Italy	100	0	0	0
+12	24	83	Daniel Agassy	Israel	43	0	40	0
+13	25	68	Lorenzo Conti	Germany	43	25	0	0
+14	26	55	Rafik Hachana	Tunisia	0	0	55	0
+15	27	51	Daniel Hadas	Israel	0	0	0	51
+15	27	51	Wesley Leung	Canada	0	0	0	51
+16	29	47	Diego E. García Moreno	Mexico	25	22	0	0
+17	30	40	Emīls Krasts	Latvia	0	0	40	0
+18	31	33	cun cun	Vietnam	25	8	0	0
+19	32	26	Nader Jemel	Tunisia	18	8	0	0
+19	32	26	oscar sierra	Colombia	18	8	0	0
+20	34	23	Omar Besbes	Tunisia	0	8	15	0
+21	35	22	Khai Ly	Vietnam	0	22	0	0
+22	36	18	Youssef Boughizane	Tunisia	0	0	0	18
+22	36	18	Kerim Kochekow	Turkmenistan	0	0	0	18
+22	36	18	Paolo Pellizzoni	Italy	0	0	0	18
+23	39	15	Elyes Chaabouni	Tunisia	0	0	15	0
+24	40	14	Artur Atamuradov	Turkmenistan	0	14	0	0
+24	40	14	Apostol Daniel	Romania	0	14	0	0
+24	40	14	Saparly Saparlyyew	Turkmenistan	0	14	0	0
+25	43	8	Hedi Ben Daoud	Tunisia	0	8	0	0
+26	44	7	Juan Martinez	Colombia	0	0	0	7
+27	45	0	Hassen Aissa	Tunisia	0	0	0	0
+27	45	0	Anton Älgmyr	Sweden	0	0	0	0
+27	45	0	amir arbi	Tunisia	0	0	0	0
+27	45	0	Luis Callapa	Bolivia	0	0	0	0
+27	45	0	Aziz Hanafi	Tunisia	0	0	0	0
+27	45	0	Juan Ignacio	Argentina	0	0	0	0
+27	45	0	Karim Kallel	Tunisia	0	0	0	0
+27	45	0	Mohamed Kallel	Tunisia	0	0	0	0
+27	45	0	Jihed Kdiss	Tunisia	0	0	0	0
+27	45	0	Selma Kedidi	Tunisia	0	0	0	0
+27	45	0	Anaid Oberweis	Luxembourg	0	0	0	0
+27	45	0	Eya Rekik	Tunisia	0	0	0	0
+27	45	0	Dario Sindičić	Croatia	0	0	0	0
+27	45	0	Oliver Tennisberg	Estonia	0	0	0	0
+27	45	0	Amine Trabelsi	Tunisia	0	0	0	0
+27	45	0	Liran Vernik	Israel	0	0	0	0
+27	45	0	John White	United States	0	0	0	0

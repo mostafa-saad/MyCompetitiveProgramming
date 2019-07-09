@@ -1,0 +1,4 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2009/contest4_solutions
+
+https://github.com/thecodingwizard/competitive-programming/blob/master/DMOJ/COCI%2008-Trezor.cpp
+https://github.com/ZeyadKhattab/Competitive-Programming/blob/master/Problems/COCI%2008-Trezor.java

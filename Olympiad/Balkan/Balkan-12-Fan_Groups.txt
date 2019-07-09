@@ -3,3 +3,4 @@ https://github.com/thecodingwizard/competitive-programming/blob/master/BkOI/12-F
 
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BkOI/12-FanGroups.cpp
 https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2012
+https://github.com/luciocf/OI-Problems/blob/master/Balkan/Balkan%202012/fan-groups.cpp
