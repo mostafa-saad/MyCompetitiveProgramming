@@ -1,11 +1,12 @@
-Official
-	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2016
-	
-
-This problem can be solved using another DP called, DP component
+This problem can be solved using DP component technique
 	https://codeforces.com/blog/entry/47764
 		article explains 'JOI 2016 Open Contest — Skyscrapers' a bit harder than this task
 	https://oj.uz/submission/78741
 	https://ideone.com/m7mRM3			[from https://github.com/win11905/submission/blob/master/CEOI/16/kangaroo.cpp]
 	
 Harder versions: MCO 17-MagicalTeleporter, JOIOC 16-skyscraper
+
+
+===
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2016
+	One of traines this it is wrong: https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/CEOI/2016/error-in-offical-solution-of-kagaroo.md

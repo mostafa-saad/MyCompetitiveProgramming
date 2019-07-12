@@ -4,3 +4,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 https://github.com/updown2/OI-Practice/blob/master/CEOI/2011%20Traffic.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/CEOI/CEOI%2011-Traffic.cpp
+https://github.com/luciocf/OI-Problems/blob/master/CEOI/CEOI%202011/traffic.cpp

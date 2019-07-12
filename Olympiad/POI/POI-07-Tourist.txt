@@ -1,0 +1,5 @@
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Tourist/main.cpp
+
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
+

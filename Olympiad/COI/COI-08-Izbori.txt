@@ -1,3 +1,4 @@
 Official:	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2009/olympiad_solutions
 
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/izbori/main.cpp
+https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/COI/coi08-izbori.cpp

@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2009
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/09-Archery.cpp	[use segment tree while the intended doesn't.]
