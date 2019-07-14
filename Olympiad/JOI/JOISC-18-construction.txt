@@ -3,8 +3,8 @@ William Lin
 	
 
 1- HLD
-	https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/JOI/JOISC18-construction.cpp
-	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18SC-Construction.cpp
+	https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/JOI/JOISC18-construction.cpp
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18S-Construction.cpp
 	
 	https://oj.uz/submission/44000
 		Detailed explantation here by zscoder: https://codeforces.com/blog/entry/58433

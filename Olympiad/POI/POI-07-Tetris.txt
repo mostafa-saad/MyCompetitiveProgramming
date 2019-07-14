@@ -1,0 +1,3 @@
+https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI07-Tetris.cpp
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/POI-07-Pipelines.txt

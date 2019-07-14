@@ -1,2 +1,3 @@
 https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/DCP/176.cpp
 https://github.com/win11905/submission/blob/master/DCP/176.cpp
+https://gist.github.com/luciocf/1a2cc4be488b104490b566f3b873c6eb

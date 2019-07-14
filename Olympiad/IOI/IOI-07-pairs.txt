@@ -1,0 +1,4 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2007
+
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/07-Pairs.cpp

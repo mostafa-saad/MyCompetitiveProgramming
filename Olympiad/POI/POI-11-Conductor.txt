@@ -3,3 +3,7 @@ dp_convex_hull
 	
 segment tree
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Conductor/main.cpp
+
+
+observation + arrays of prefix and suffix
+	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/POI/POI11_pio-Conductor.cpp

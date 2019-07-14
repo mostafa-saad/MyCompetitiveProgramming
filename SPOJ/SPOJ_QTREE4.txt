@@ -1,0 +1,22 @@
+
+
+centroid decomposition [tight time - TLEs]
+	https://www.quora.com/What-is-the-approach-to-solve-the-SPOJ-problem-QTREE4
+	https://github.com/IvanIsCoding/OlympiadSolutions/blob/master/SPOJ/QTREE4.cpp
+
+segment tree on the euler tour
+	https://codeforces.com/blog/entry/59898
+
+graph, datastructures
+	https://enkerewpo.github.io/archive/2017/0x13.html
+
+
+
+Codes
+	http://www.voidcn.com/article/p-rpwgonjb-mm.html
+	https://gist.github.com/Sd-Invol/6232b64564b7147d39e9
+	https://blog.sengxian.com/solutions/qtree-4
+	http://www.echojb.com/access/2017/02/24/333285.html			[link cut ?]
+	https://www.itread01.com/content/1531144577.html
+	https://orzsiyuan.com/archives/SPOJ-2666-QTREE4/
+	

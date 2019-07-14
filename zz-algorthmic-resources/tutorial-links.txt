@@ -8,8 +8,14 @@ DP
 						https://codeforces.com/blog/entry/63823
 						https://www.youtube.com/watch?v=OrH2ah4ylv4
 						http://h0rnet.hatenablog.com/entry/2016/02/06/155748		[Monotonous slope optimization DP]
+						https://codeforces.com/blog/entry/49691
 						http://codeforces.com/blog/entry/47247
+						
 	DP SOS              http://codeforces.com/blog/entry/45223
+						https://www.geeksforgeeks.org/sum-subsets-dynamic-programming/
+						https://algowarehouse.blogspot.com/2018/01/bitmask-dp-buildup-to-sos-dp-pt-2.html
+	
+	
 	DP Siblings         http://codeforces.com/blog/entry/18523
 	
 	DP Trees			https://codeforces.com/blog/entry/63257

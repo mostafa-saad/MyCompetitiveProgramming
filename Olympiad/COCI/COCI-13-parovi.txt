@@ -1,0 +1,5 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2014/contest3_solutions
+	
+Math
+	https://github.com/Coder-Boy1/Others/blob/master/COCI%2013-parovi
+	https://github.com/thecodingwizard/competitive-programming/blob/master/DMOJ/COCI%2013-parovi.cpp
