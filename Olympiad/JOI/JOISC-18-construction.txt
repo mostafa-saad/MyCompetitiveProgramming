@@ -2,7 +2,8 @@ William Lin
 	Common amortization trick for queries like "find value on range and set all values on this range to x".
 	
 
-1- HLD
+1- HLD, BIT
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/JOISC/2018/construction.cpp
 	https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/JOI/JOISC18-construction.cpp
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18S-Construction.cpp
 	
@@ -13,4 +14,4 @@ William Lin
 
 2- link-cut tree
 
-2- binary lifting and segment tree
+2- binary lifting, segment tree
