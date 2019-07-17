@@ -1,2 +1,2 @@
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/APIO/16-Boat.cpp
-https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/APIO/APIO16_boat.cpp
+https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/APIO/APIO16_boat.cpp
