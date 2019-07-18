@@ -9,7 +9,10 @@ Contest at AtCoder (To see more AC codes)
 	
 	
 	
+
+
 --------------------------
-	https://oj.uz/submission/63741
-	https://oj.uz/submission/73005
+https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/JOISC/JOISC17-abduction2.cpp
+https://oj.uz/submission/63741
+https://oj.uz/submission/73005
 	

@@ -9,3 +9,6 @@ Binary search O(nlogn)
 	https://github.com/win11905/submission/blob/master/IOI/05/birthday.cpp
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Birthday/main.cpp	[very optimized to pass]
 	
+
+Adhoc
+	https://github.com/guskal01/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI%2005-birthday.cpp

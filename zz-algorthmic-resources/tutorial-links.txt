@@ -1,13 +1,22 @@
+CF resources
+	https://github.com/Errichto/youtube/wiki/Learning-resources
+	https://codeforces.com/blog/entry/57282
+
+
+
 Several ppt
 	https://github.com/mostafa-saad/ArabicCompetitiveProgramming
 
 
 DP
 	Digital DP			http://codeforces.com/blog/entry/53960
-	DP Optimizations    https://codeforces.com/blog/entry/8219            
-						https://codeforces.com/blog/entry/63823
-						https://www.youtube.com/watch?v=OrH2ah4ylv4
-						http://h0rnet.hatenablog.com/entry/2016/02/06/155748		[Monotonous slope optimization DP]
+	
+	DP Optimizations    https://codeforces.com/blog/entry/63823
+						https://codeforces.com/blog/entry/8219            
+						
+						https://www.youtube.com/watch?v=OrH2ah4ylv4		[long not that useful]
+						
+	DP Adhoc optimization
 						https://codeforces.com/blog/entry/49691
 						http://codeforces.com/blog/entry/47247
 						
@@ -100,10 +109,14 @@ DataStructures
 	
 	Two ways to apply Mo's Algorithm on Trees		https://codeforces.com/blog/entry/68271
 	
+	Link-Cut			http://www.cs.cmu.edu/~sleator/papers/dynamic-trees.pdf
+	
 	
 Graph
 	Center of a graph			https://codeforces.com/blog/entry/17974
 	Finding Bridges Online		https://cp-algorithms.com/graph/bridge-searching-online.html
+	2SAT						https://codeforces.com/blog/entry/16205
+	DFS tree and its applications		https://codeforces.com/blog/entry/68138
 
 Misc
 	Slope Trick        		https://codeforces.com/blog/entry/47821

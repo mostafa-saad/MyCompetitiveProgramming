@@ -1,0 +1,3 @@
+https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI12-Salaries.cpp
+
+

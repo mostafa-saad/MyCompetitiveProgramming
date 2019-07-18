@@ -9,4 +9,7 @@ Harder versions: MCO 17-MagicalTeleporter, JOIOC 16-skyscraper
 
 ===
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2016
+			https://codeforces.com/blog/entry/52563
+			
 	One of traines this this sol is wrong: https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/CEOI/2016/error-in-offical-solution-of-kagaroo.md
+	
