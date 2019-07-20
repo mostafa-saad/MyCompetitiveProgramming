@@ -1,0 +1,4 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2015/contest3_solutions
+
+https://github.com/win11905/submission/blob/61c76f8b073e5e5446e7688626c487a4dcbfcd9e/COCI/14/Stogovi.cpp
+https://ideone.com/oIDnUl

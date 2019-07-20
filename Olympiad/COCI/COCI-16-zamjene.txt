@@ -2,3 +2,4 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2017/contest2_solutions
 	
 https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/COCI/COCI-16-zamjene.cpp
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Zamjene/main.cpp

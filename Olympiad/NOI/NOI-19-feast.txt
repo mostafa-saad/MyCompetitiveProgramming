@@ -1,0 +1,9 @@
+Solve APIO 07-backup first
+
+
+dp, dp_alien
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/SGNOI/19-Feast.cpp
+
+
+greedy, dp
+	https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/NOI/NOI19-feast.cpp
