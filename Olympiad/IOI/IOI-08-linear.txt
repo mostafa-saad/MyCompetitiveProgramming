@@ -3,6 +3,7 @@ Official
 
 DP
 	https://github.com/luciocf/Problems/blob/master/IOI/IOI%202008/garden.cpp
+	https://github.com/goar5670/CompetitiveProgramming/blob/master/IOI/IOI08-Linear.cpp
 	
 Combinatorics
 	https://github.com/win11905/submission/blob/master/IOI/08/linear.cpp

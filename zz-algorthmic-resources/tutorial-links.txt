@@ -25,7 +25,7 @@ DP
 						https://algowarehouse.blogspot.com/2018/01/bitmask-dp-buildup-to-sos-dp-pt-2.html
 	
 	
-	DP Siblings         http://codeforces.com/blog/entry/18523
+	DP Siblings         https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/
 	
 	DP Trees			https://codeforces.com/blog/entry/63257
 						https://codeforces.com/blog/entry/20935

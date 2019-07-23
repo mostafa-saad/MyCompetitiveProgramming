@@ -2,3 +2,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/08-Pyramid.cpp
 https://github.com/taow-com-prog/problemsolving/blob/master/Olympiad/IOI/IOI%2008-pyramid_base.cpp
+https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/IOI/08-pyramid_base.cpp
