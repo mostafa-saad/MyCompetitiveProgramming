@@ -2,6 +2,7 @@ Matrix pow
 	https://github.com/OmarHashim/Competitive-Programming/blob/master/SPOJ/PLHOP%20(2).cpp
 	https://github.com/rishitsanmukhani/spoj/blob/master/PLHOP.cpp
 	https://github.com/gcdart/PC-solutions/blob/master/Spoj/PLHOP.cpp
+	https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/spoj/PLHOP.cpp
 
 Floyd, dp digit
 	https://github.com/OmarHashim/Competitive-Programming/blob/master/SPOJ/PLHOP.cpp

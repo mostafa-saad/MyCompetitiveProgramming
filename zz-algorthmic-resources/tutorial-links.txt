@@ -144,4 +144,5 @@ Books
 
 Misc
 	Atcoder testcases		https://codeforces.com/blog/entry/46389
+	Speeding Up for Naive Algorithm		https://codeforces.com/blog/entry/66279
 	

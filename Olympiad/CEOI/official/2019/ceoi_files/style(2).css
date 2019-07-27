@@ -1,0 +1,67 @@
+.miu-comment .markItUp .markItUpButton1 a {
+    background-image:url(images/bold.png);
+}
+.miu-comment .markItUp .markItUpButton2 a {
+    background-image:url(images/italic.png);
+}
+.miu-comment .markItUp .markItUpButton3 a {
+    background-image:url(images/list-bullet.png);
+}
+.miu-comment .markItUp .markItUpButton4 a {
+    background-image:url(images/list-numeric.png);
+}
+.miu-comment .markItUp .markItUpButton5 a {
+    background-image:url(images/picture.png);
+}
+.miu-comment .markItUp .markItUpButton6 a {
+    background-image:url(images/link.png);
+}
+.miu-comment .markItUp .markItUpButton7 a   {
+    background-image:url(images/code.png);
+}
+.miu-comment .markItUp .markItUpButton8 a   {
+    background-image:url(../../../images/codeforces-stripes-16x16.png);
+}
+
+.miu-complete .markItUp .markItUpButton1 a {
+    background-image:url(images/h1.png); 
+}
+.miu-complete .markItUp .markItUpButton2 a {
+    background-image:url(images/h2.png); 
+}
+.miu-complete .markItUp .markItUpButton3 a {
+    background-image:url(images/h3.png); 
+}
+.miu-complete .markItUp .markItUpButton4 a {
+    background-image:url(images/h4.png); 
+}
+
+.miu-complete .markItUp .markItUpButton5 a {
+    background-image:url(images/bold.png);
+}
+.miu-complete .markItUp .markItUpButton6 a {
+    background-image:url(images/italic.png);
+}
+
+.miu-complete .markItUp .markItUpButton7 a {
+    background-image:url(images/list-bullet.png);
+}
+.miu-complete .markItUp .markItUpButton8 a {
+    background-image:url(images/list-numeric.png);
+}
+.miu-complete .markItUp .markItUpButton9 a {
+    background-image:url(images/picture.png); 
+}
+.miu-complete .markItUp .markItUpButton10 a {
+    background-image:url(images/link.png);
+}
+.miu-complete .markItUp .markItUpButton11 a   {
+    background-image:url(images/code.png);
+}
+.miu-complete .markItUp .markItUpButton12 a   {
+    background-image:url(../../../images/codeforces-stripes-16x16.png);
+}
+
+.markItUp .preview a {
+    background-image:url(images/preview.png);
+}

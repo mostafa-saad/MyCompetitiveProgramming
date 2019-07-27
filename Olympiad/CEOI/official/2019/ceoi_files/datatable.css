@@ -1,0 +1,107 @@
+.datatable td {
+    width: auto !important;
+    max-width: 20em !important;
+    overflow: auto;
+}
+
+.datatable {
+    width: 100%;
+    position: relative;
+}
+
+.datatable table {
+    width: 100%;
+}
+
+.datatable td, .datatable th {
+    border-top: 1px solid #e1e1e1;
+    border-right: 1px solid #e1e1e1;
+    padding: 0.4em;
+    font-size: 1.3rem;
+    /*font-size: 0.9em;*/
+    text-align: center;
+    overflow: hidden;
+}
+
+.datatable th {
+    font-weight: bold;
+}
+
+.datatable .left {
+    border-left: none;
+}
+
+.datatable .top {
+    border-top: none;
+}
+
+.datatable .bottom {
+    border-bottom: none;
+}
+
+.datatable .right {
+    border-right: none;
+}
+
+.datatable .dark {
+    background-color: #f8f8f8;
+}
+
+.datatable .lt {
+    background: url(../images/datatable/datatable-corner-lt.png) no-repeat top left;
+    width: 6px;
+    height: 6px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.datatable .rt {
+    background: url(../images/datatable/datatable-corner-rt.png) no-repeat top right;
+    width: 6px;
+    height: 6px;
+    right: 0;
+    top: 0;
+    position: absolute;
+}
+
+.datatable .lb {
+    background: url(../images/datatable/datatable-corner-lb.png) no-repeat bottom left;
+    width: 4px;
+    height: 4px;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.datatable .rb {
+    background: url(../images/datatable/datatable-corner-rb.png) no-repeat bottom right;
+    width: 4px;
+    height: 4px;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.datatable .ilt {
+    background: url(../images/datatable/datatable-inner-corner-lt.png) no-repeat top left;
+    width: 6px;
+    height: 6px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.datatable .irt {
+    background: url(../images/datatable/datatable-inner-corner-rt.png) no-repeat top right;
+    width: 6px;
+    height: 6px;
+    right: 0;
+    top: 0;
+    position: absolute;
+}
+
+.datatable .filter input {
+    background: white url(../images/icons/magnifier-medium.png) 2px 2px no-repeat;
+    padding-left: 20px;
+}

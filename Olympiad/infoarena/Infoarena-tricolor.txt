@@ -1,2 +1,8 @@
-https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/tricolor.cpp		[problem summary also]
-https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/infoarena/tricolor.cpp
+stefdasca: "Given a tree with n nodes, color the tree nodes in black or white so that the number of (unordered) pairs of twin nodes is maximum.
+Two nodes are twinned if and only if both are white and either are bound directly by an edge, or the single elemental chain of them contains
+only black nodes."
+
+
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/infoarena/tricolor.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/tricolor.cpp
+https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/infoarena/tricolor.cpp

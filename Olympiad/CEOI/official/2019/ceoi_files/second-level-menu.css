@@ -1,0 +1,55 @@
+.second-level-menu {
+    position: absolute;
+    left: 7px;
+    top: -12px;
+}
+
+.second-level-menu-list {
+    position: relative;
+    height: 29px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.second-level-menu-list li {
+    /*font-family: 'Cuprum', sans-serif !important;*/
+    /*font-family: 'Arial Narrow', Arial, sans-serif;*/
+    font-family: 'PT Sans Narrow', sans-serif;
+    float: left;
+    list-style: none;
+}
+
+.second-level-menu-list li.backLava  {
+    background: url( "../images/menu/lava-right.png" ) no-repeat top right;
+    width: 9px;
+    height: 20px;
+    z-index: 8;
+    position: absolute;
+}
+
+.second-level-menu-list li.backLava .leftLava {
+    background: url( "../images/menu/lava-left.png" ) no-repeat top left;
+    height: 20px;
+    margin-right: 9px;
+}
+
+.second-level-menu-list li a {
+    /*font-family: 'Cuprum', sans-serif !important;*/
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: black;
+    outline: none;
+    text-align: center;
+    line-height: 20px;
+    height: 20px;
+    top: 1px;
+    z-index: 10;
+    letter-spacing: 0;
+    float: left;
+    display: block;
+    margin: auto 8px;
+}

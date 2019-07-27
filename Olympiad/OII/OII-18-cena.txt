@@ -1,5 +1,6 @@
 DP
 	https://github.com/ShabdanBatyrkulov/codee/blob/master/OII%2018-cena.cpp
 	
-Math
+Math/greedy
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Cena/main.cpp
+	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/OII/cena.cpp

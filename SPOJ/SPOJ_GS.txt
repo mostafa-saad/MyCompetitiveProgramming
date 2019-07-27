@@ -1,0 +1,5 @@
+DP
+	https://github.com/TomConerly/Competition-Programming/blob/master/SPOJ/GS.java
+	
+gaussian elimination
+	https://github.com/cacophonix/SPOJ/blob/master/GS.cpp

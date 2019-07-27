@@ -1,0 +1,5 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2009/contest4_solutions
+
+
+https://github.com/racsosabe/CompetitiveProgramming/blob/master/DMOJ/COCI-08-Slikar.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2008/slikar.cpp

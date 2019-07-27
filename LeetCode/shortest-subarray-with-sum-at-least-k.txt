@@ -1,0 +1,5 @@
+2 pointers
+	https://www.geeksforgeeks.org/minimum-length-subarray-sum-greater-given-value
+	
+segment tree
+	https://github.com/WaleedAbdelhakim/Competitive-Programming/blob/master/LeetCode/shortest-subarray-with-sum-at-least-k.cpp
