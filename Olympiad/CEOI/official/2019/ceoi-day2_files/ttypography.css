@@ -1,0 +1,382 @@
+div.ttypography textarea,
+div.ttypography pre,
+div.ttypography code,
+div.ttypography kbd,
+div.ttypography samp,
+div.ttypography var,
+div.ttypography tt {
+    font-family: Consolas, "Lucida Console", "Andale Mono", "Bitstream Vera Sans Mono", "Courier New", Courier;
+}
+
+div.ttypography {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    base: 14px;
+    line-height: 21px;
+    color: #222;
+    -webkit-text-size-adjust: 100%;
+    font-size: 1.4rem;
+    word-wrap: break-word;
+    margin: 1.5em 0 0 0 !important;
+    /*background-color: #ffffff;*/
+}
+
+div.ttypography .tt {
+    margin: 0 4px;
+    padding: 2px 4px;
+    /*white-space: nowrap;*/
+    border: 1px solid #CCC;
+    background-color: #F8F8F8;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-image: initial;
+}
+
+div.ttypography h1,
+div.ttypography h2,
+div.ttypography h3,
+div.ttypography h4,
+div.ttypography h5,
+div.ttypography h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #161e21;
+    margin: 0;
+}
+
+div.ttypography h1 {
+    font-size: 250%;
+    line-height: 0.8571em;
+        margin: 0.4286em 0 0;
+}
+
+div.ttypography h2 {
+    font-size: 200%;
+    line-height: 1.2em;
+    margin: 0.6em 0 0 0;
+}
+
+div.ttypography h3 {
+    font-size: 175%;
+    line-height: 0.8571em;
+    margin: 0.8571em 0 0 0;
+}
+
+div.ttypography h4 {
+    font-size: 150%;
+    line-height: 1.25em;
+    margin: 1.25em 0 0 0;
+}
+
+div.ttypography h5 {
+    font-size: 135%;
+    line-height: 1.2857em;
+    margin: 1.2857em 0 0 0;
+}
+
+div.ttypography h6 {
+    font-weight: bold;
+    font-size: 100%;
+    line-height: 1.5em;
+    margin: 1.5em 0 0 0;
+}
+
+/* --- Lists | Listen  -------------------------------------------------------------------------------- */
+
+div.ttypography ul,
+div.ttypography ol,
+div.ttypography dl {
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 0.5em 0 0 1em;
+}
+
+div.ttypography ul {
+    list-style-type: disc;
+}
+
+div.ttypography ol {
+    list-style-type: decimal;
+}
+
+div.ttypography ul ul {
+    list-style-type: circle;
+    margin-top: 0;
+}
+
+div.ttypography ol ol {
+    list-style-type: lower-latin;
+    margin-top: 0;
+}
+
+div.ttypography ol ul {
+    list-style-type: circle;
+    margin-top: 0;
+}
+
+div.ttypography li {
+    font-size: 1em;
+    line-height: 1.5em;
+    margin-left: 0.8em;
+}
+
+div.ttypography dt {
+    font-weight: bold;
+}
+
+div.ttypography dd {
+    margin: 0 0 1.5em 0.8em;
+}
+
+div.ttypography p:not(:first-child) {
+    margin: 1.5em 0 0 0;
+}
+
+div.ttypography p {
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+div.ttypography blockquote,
+div.ttypography cite,
+div.ttypography q {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+}
+
+div.ttypography blockquote {
+    margin: 1.5em 0 0 1.5em;
+    color: #666;
+}
+
+div.ttypography strong,
+div.ttypography b {
+    font-weight: bold;
+}
+
+div.ttypography em,
+div.ttypography i {
+    font-style: italic;
+}
+
+div.ttypography big {
+    font-size: 116.667%;
+}
+
+div.ttypography small {
+    font-size: 85.71%;
+}
+
+div.ttypography pre,
+div.ttypography code,
+div.ttypography kbd,
+div.ttypography tt,
+div.ttypography samp,
+div.ttypography var {
+    font-size: 100%;
+}
+
+div.ttypography pre {
+    line-height: 1.5em;
+    margin: 1.5em 0 0 0;
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+div.ttypography pre, div.ttypography code {
+    color: #800;
+}
+
+div.ttypography pre.lstlisting {
+    background-color: #eff0f1;
+    margin: 0.75em 0;
+}
+
+div.ttypography kbd,
+div.ttypography samp,
+div.ttypography var,
+div.ttypography tt {
+    color: #666;
+    font-weight: bold;
+}
+
+div.ttypography var,
+div.ttypography dfn {
+    font-style: italic;
+}
+
+div.ttypography acronym,
+div.ttypography abbr {
+    border-bottom: 1px #aaa dotted;
+    font-variant: small-caps;
+    letter-spacing: .07em;
+    cursor: help;
+}
+
+div.ttypography sub,
+div.ttypography sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+div.ttypography sup {
+    top: -0.5em;
+}
+
+div.ttypography sub {
+    bottom: -0.25em;
+}
+
+div.ttypography mark {
+    background: #ff0;
+    color: #000;
+}
+
+div.ttypography hr {
+    color: #fff;
+    background: transparent;
+    margin: 0 0 0.75em 0;
+    padding: 0 0 0.75em 0;
+    border: 0;
+    border-bottom: 1px #eee solid;
+}
+
+div.ttypography a {
+    color: #4D87C7;
+    background: transparent;
+    text-decoration: none;
+}
+
+div.ttypography a:active {
+    outline: none;
+}
+
+/* (en) maximum constrast for tab focus - change with great care */
+/* (en) Maximaler Kontrast f�_r Tab Focus - �"ndern Sie diese Regel mit Bedacht */
+div.ttypography a:hover,
+div.ttypography a:focus {
+    background-color: #800;
+    color: #fff;
+    text-decoration: none;
+}
+
+/* --- images ------------------ */
+
+div.ttypography img,
+div.ttypography figure {
+    margin: 0;
+}
+
+div.ttypography .flexible {
+    margin-top: 1.5em;
+    max-width: 100%;
+}
+
+div.ttypography .bordered {
+    margin-top: 1.5em;
+    border: 2px #eee solid;
+    border: 2px rgba(255, 255, 255, 1) solid;
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .25);
+    -moz-box-shadow: 0 0 3px rgba(0, 0, 0, .25);
+    box-shadow: 0 0 3px rgba(0, 0, 0, .25);
+}
+
+div.ttypography table {
+    border-collapse: collapse;
+    margin: 1.3571em 0 0 0;
+    color: #222;
+    border-top: 1px #ccc solid;
+    border-bottom: 1px #ccc solid;
+}
+
+div.ttypography table.narrow {
+    margin: 1.4286em 0 0 0;
+}
+
+div.ttypography table.narrow th,
+div.ttypography table.narrow td {
+    padding: 0 0.5em;
+    line-height: 1.4286em;
+}
+
+div.ttypography table.bordertable {
+    border: 1px #ccc solid;
+}
+
+div.ttypography table caption {
+    font-variant: small-caps;
+}
+
+div.ttypography th,
+div.ttypography td {
+    line-height: 1.5em;
+    vertical-align: top;
+    padding: 0.7143em 0.5em;
+}
+
+div.ttypography th *:first-child,
+td *:first-child {
+    margin-top: 0;
+}
+
+div.ttypography th.nowrap,
+div.ttypography td.nowrap {
+    white-space: nowrap;
+}
+
+div.ttypography thead th {
+    text-align: left;
+    color: #000;
+    border-bottom: 2px #000 solid;
+    font-weight: bold;
+}
+
+div.ttypography .bordertable thead th {
+    background: #e0e0e0;
+    border-right: 1px #ccc solid;
+    border-bottom: 1px #ccc solid;
+    font-weight: bold;
+}
+
+div.ttypography .bordertable tbody th[scope="row"] {
+    background: #f0f0f0;
+}
+
+div.ttypography tbody th {
+    text-align: left;
+    border-top: 1px solid #ccc;
+    text-align: left;
+    font-weight: bold;
+}
+
+div.ttypography .bordertable tbody th {
+    border-right: 1px solid #ccc;
+    font-weight: bold;
+}
+
+div.ttypography tbody td {
+    text-align: left;
+    border-top: 1px solid #ccc;
+}
+
+div.ttypography .bordertable tbody td {
+    border-right: 1px solid #ccc;
+}
+
+/* highlight row on mouse over */
+div.ttypography tbody tr:hover th,
+div.ttypography tbody tr:hover td {
+    background: #f8f8f8;
+}
+
+div.ttypography pre code {
+    font-size: 95%;
+    position: relative;
+}
+
+div.ttypography .MathJax {
+    color: black !important;
+}

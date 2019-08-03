@@ -1,0 +1,6 @@
+Convex Hull Trick
+	Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/MCO/official
+	
+	
+Adhock, Binary search
+	https://github.com/luciocf/OI-Problems/blob/master/MCO/MCO%202016/acorn.cpp

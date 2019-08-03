@@ -1,4 +1,5 @@
 Official: https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2008/olympiad_solutions
 	Read
-	
+
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COI/2007-2008/tamnica/main.cpp	
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Tamnica/main.cpp

@@ -1,0 +1,10 @@
+Statement in English.
+There are n volunteers, in the beginning they are standing in row.
+M-people (in increasing order) choose some [l;r] people in the row, delete them, becoming their chief, and then stand in their place.
+It continues until there is only one person left.
+K-people do the same.
+There is a conflict situation if an m-person and a k-person are both chiefs of a specific volunteer (probably not straight chief).
+For every m-person, one has to find how many k-people he is in conflict situation with.
+The answer is sum of those numbers.
+
+Andrey Svinolupov

@@ -1,0 +1,21 @@
+@charset "utf-8";
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;} ol,ul{list-style:none;} caption,th {text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;} q:before,q:after{content:'';} abbr,acronym {border:0;}
+textarea{margin:0;padding:2px;}
+a:link { color: #0000cc; }
+body { background: #fff; margin: 3px 8px;}
+body, select, input { font-family: verdana,arial,sans-serif;}
+/*
+body { font-size: 87.5%;}
+*/
+body { font-size: 1.4rem;}
+h1 { font-size: 1.8em; font-weight: bold;}
+h2 { font-size: 1.6em; font-weight: bold;}
+h3 { font-size: 1.4em; font-weight: bold;}
+h4 { font-size: 1.2em; font-weight: bold;}
+h5 { font-size: 1em; font-weight: bold;}
+td td, th th, th td, td th { font-size: 100%;}
+strong { font-weight:bold; }
+em { font-style: italic; }
+pre { font-size: 110%;}
+form { padding:0; margin:0;}
+input { padding-left:1px; padding-right:1px; }

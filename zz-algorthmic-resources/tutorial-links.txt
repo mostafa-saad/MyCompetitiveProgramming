@@ -16,9 +16,8 @@ DP
 						
 						https://www.youtube.com/watch?v=OrH2ah4ylv4		[long not that useful]
 						
-	DP Adhoc optimization
-						https://codeforces.com/blog/entry/49691
-						http://codeforces.com/blog/entry/47247
+	
+	Alien Trick			https://codeforces.com/blog/entry/68778		[originally https://ioinformatics.org/files/ioi2016solutions.pdf]						
 						
 	DP SOS              http://codeforces.com/blog/entry/45223
 						https://www.geeksforgeeks.org/sum-subsets-dynamic-programming/
@@ -33,6 +32,7 @@ DP
 	
 	General				https://apps.topcoder.com/forums/?module=Thread&threadID=697369&start=0
 						http://codeforces.com/blog/entry/47764
+						http://codeforces.com/blog/entry/47247
 						
 	Hirschberg's Trick	https://www.quora.com/What-is-the-best-trick-in-dynamic-programming
 						

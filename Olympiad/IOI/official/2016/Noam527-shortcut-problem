@@ -1,0 +1,5 @@
+O(nlogn) => O(n) optimisation was based on the fact that if i > j and x_i < x_i+1
+ |xi - xj| becomes xi - xj
+But then he sorts elements that way x can no longer be increasing
+So either he skipped a vast part in editorials l or just is wrong
+Noam is Noam527

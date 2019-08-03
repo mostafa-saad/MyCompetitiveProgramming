@@ -1,3 +1,6 @@
+You could use this grader https://github.com/quangloc99/CompetitiveProgramming/tree/master/olympiad/CEOI/2016/icc-custom-grader
+
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/CEOI/2016/icc.cpp
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/16-ICC.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/CEOI/ICC2016.cpp
 https://github.com/Yehezkiel01/CompetitiveProgramming/blob/master/CEOI/CEOI-16-icc.cpp

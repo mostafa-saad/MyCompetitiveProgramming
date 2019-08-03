@@ -1,0 +1,4 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2002
+
+https://github.com/luciocf/OI-Problems/blob/master/IOI/IOI%202002/utopia.cpp
+https://github.com/sofhiasouza/CompetitiveProgramming/blob/master/IOI/2002/utopia.cpp

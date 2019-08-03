@@ -1,0 +1,4 @@
+official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2018
+
+https://github.com/luciocf/OI-Problems/blob/master/CEOI/CEOI%202018/cloud.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/18-Cloud.cpp

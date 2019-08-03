@@ -1,0 +1,49 @@
+.table-form {
+    margin: 1em auto;
+    font-size: 1.1em;
+}
+
+.table-form tr {
+    height: 2em;
+}
+
+.table-form tr td {
+    height: 2em;
+}
+
+.table-form td td {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.table-form .field-name {
+    text-align: right;
+    padding: 0.5em 2em 0.5em 0.5em;
+    width: 7.5em;
+}
+
+.table-form input {
+    padding: 0.1em;
+}
+
+.table-form .submit {
+    padding: 0 1em;
+    margin: 1em 1em 0 1em;
+    height: 2em;
+    color: black;
+}
+
+.table-form tr.subscription-row {
+    height: 1.2em;
+    line-height: 1.2em;
+    font-size: 0.7em;
+}
+
+.table-form tr.subscription-row td {
+    height: 1.2em;
+    line-height: 1.2em;
+}
+
+.table-form textarea.bottom-space-small {
+    margin-bottom: 5px;
+}

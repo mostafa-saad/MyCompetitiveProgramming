@@ -1,0 +1,107 @@
+.roundbox {
+    border: 1px solid rgb(185, 185, 185);
+    position: relative;
+}
+
+.roundbox .caption {
+    color:#3B5998;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0.2em 0;
+    position: relative;
+}
+
+.roundbox .titled {
+    padding: 0 0 0.3em 0.5em;
+    border-bottom:1px solid rgb(185, 185, 185);
+}
+
+.roundbox .caption .top-links {
+    font-size: 1.1rem;
+    font-family: arial;
+    position: absolute;
+    right: 0.5em;
+    top: 0.3em;
+}
+
+.roundbox .bottom-links {
+    font-family: arial;
+    font-size: 1.1rem;
+    border-top:1px solid rgb(185, 185, 185);
+    background-color: #F5F5F5;
+    padding: 0.45em;
+}
+
+.roundbox .dark {
+    background-color: #F5F5F5;
+}   
+
+.roundbox .bottom-links a {
+    margin: 0.1em;
+}
+
+.roundbox table.rtable {
+    width: 100%;
+    margin-top: -4px;
+    border: none;
+}
+
+.roundbox .rtable td, .roundbox .rtable th {
+    border: 1px solid rgb(185, 185, 185);
+    border-right: none;
+    border-top: none;
+    padding: 4px;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.roundbox .rtable th {
+    /*font-weight: bolder;*/
+    font-size: 1em;
+    padding-top: 7px;
+}
+
+.roundbox .rtable .left {
+    border-left: none;
+}
+
+.roundbox .rtable .bottom {
+    border-bottom: none;
+}
+
+.roundbox .rtable .corner {
+    width: 10px;
+    height: 10px;
+}
+
+.roundbox .roundbox-lt {
+    background: url('../images/roundbox/roundbox-lt.png') no-repeat top left;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+}
+
+.roundbox .roundbox-rt {
+    background: url('../images/roundbox/roundbox-rt.png') no-repeat top right;
+    position: absolute;
+    top: -1px;
+    right: -1px;
+}
+
+.roundbox .roundbox-lb {
+    background: url('../images/roundbox/roundbox-lb.png') no-repeat bottom left;
+    position: absolute;
+    bottom: -1px;
+    left: -1px;
+}
+
+.roundbox .roundbox-rb {
+    background: url('../images/roundbox/roundbox-rb.png') no-repeat bottom right;
+    position: absolute;
+    bottom: -1px;
+    right: -1px;
+}
+
+.rtable th {
+    font-weight: bold;
+}

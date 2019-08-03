@@ -1,6 +1,0 @@
-Official
-	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/official/2015/day2
-	
-https://github.com/goar5670/CompetitiveProgramming/blob/master/CEOI/CEOI%2015-Calvinball.cpp
-https://github.com/nikolapesic2802/Programming-Practice/blob/master/Calvinball%20championship/main.cpp
-https://github.com/win11905/submission/blob/master/CEOI/15/calvinball.cpp

@@ -1,0 +1,87 @@
+/**
+ * @license
+ * Copyright (C) 2015 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/* Pretty printing styles. Used with prettify.js. */
+
+
+/* SPAN elements with the classes below are added by prettyprint. */
+.prettyprint .pln { color: #000 }  /* plain text */
+
+@media screen {
+  .prettyprint .str { color: #080; font-weight: bold }  /* string content */
+  .prettyprint .kwd { color: #008; font-weight: bold }  /* a keyword */
+  .prettyprint .com { color: #800; font-weight: bold }  /* a comment */
+  .prettyprint .typ { color: #606; font-weight: bold }  /* a type name */
+  .prettyprint .lit { color: #066 }  /* a literal value */
+  /* punctuation, lisp open bracket, lisp close bracket */
+  .prettyprint .pun, .prettyprint .opn, .prettyprint .clo { color: #660 }
+  .prettyprint .tag { color: #008; font-weight: bold }  /* a markup tag name */
+  .prettyprint .atn { color: #606 }  /* a markup attribute name */
+  .prettyprint .atv { color: #080; font-weight: bold }  /* a markup attribute value */
+  .prettyprint .dec, .prettyprint .var { color: #606 }  /* a declaration; a variable name */
+  .prettyprint .fun { color: red }  /* a function name */
+}
+
+/* Use higher contrast and text-weight for printable form. */
+@media print, projection {
+  .prettyprint .str { color: #060 }
+  .prettyprint .kwd { color: #006; font-weight: bold }
+  .prettyprint .com { color: #600; font-style: italic }
+  .prettyprint .typ { color: #404; font-weight: bold }
+  .prettyprint .lit { color: #044 }
+  .prettyprint .pun, .prettyprint .opn, .prettyprint .clo { color: #440 }
+  .prettyprint .tag { color: #006; font-weight: bold }
+  .prettyprint .atn { color: #404 }
+  .prettyprint .atv { color: #060 }
+}
+
+/* Put a border around prettyprinted code snippets. */
+pre.prettyprint { padding: 2px; border: 1px solid #888 }
+
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums { margin-top: 0; margin-bottom: 0 } /* IE indents via margin-left */
+li.L0,
+li.L1,
+li.L2,
+li.L3,
+li.L5,
+li.L6,
+li.L7,
+li.L8 { list-style-type: none }
+/* Alternate shading for lines */
+/*li.L1,*/
+/*li.L3,*/
+/*li.L5,*/
+/*li.L7,*/
+/*li.L9 { background: #eee }*/
+
+/* lstlisting */
+
+@media screen, print, projection {
+  .lstlisting .str { color: #090; font-weight: bold }  /* string content */
+  .lstlisting .kwd { color: #009; font-weight: bold }  /* a keyword */
+  .lstlisting .com { color: #900; font-weight: bold }  /* a comment */
+  .lstlisting .typ { color: #707; font-weight: bold }  /* a type name */
+  .lstlisting .lit { color: #077 }  /* a literal value */
+  /* punctuation, lisp open bracket, lisp close bracket */
+  .lstlisting .pun, .lstlisting .opn, .lstlisting .clo { color: #770 }
+  .lstlisting .tag { color: #009; font-weight: bold }  /* a markup tag name */
+  .lstlisting .atn { color: #707 }  /* a markup attribute name */
+  .lstlisting .atv { color: #070; font-weight: bold }  /* a markup attribute value */
+  .lstlisting .dec, .lstlisting .var { color: #707 }  /* a declaration; a variable name */
+  .lstlisting .fun { color: red }  /* a function name */
+}
