@@ -1,9 +1,13 @@
 dp_convex_hull
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/POI/18-Lightning_Conductor.cpp
+	https://github.com/Evilandrew228/CompetitiveProgramming/blob/master/POI%2011-Conductor%20(2)
 	
 segment tree
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Conductor/main.cpp
 
 
+d&c
+	https://github.com/Evilandrew228/CompetitiveProgramming/blob/master/POI%2011-Conductor
+	
 observation + arrays of prefix and suffix
 	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/POI/POI11_pio-Conductor.cpp

@@ -1,0 +1,6 @@
+can be solved in 2 DP ways
+	dp, monotonic queue or dp, rmq
+	
+https://codeforces.com/contest/939/submission/35431937
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Codeforces/Codeforces%20Round%20%23464/CF939-D2-F.cpp
+https://codeforces.com/contest/939/submission/35431937

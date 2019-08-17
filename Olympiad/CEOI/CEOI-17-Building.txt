@@ -1,0 +1,4 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2017
+
+https://github.com/Evilandrew228/CompetitiveProgramming/blob/master/CEOI%2017-Building
+https://github.com/luciocf/OI-Problems/blob/master/CEOI/CEOI%202017/bridges.cpp

@@ -1,0 +1,5 @@
+DP, LCS
+	https://github.com/taow-com-prog/problemsolving/blob/master/CodeForces/CF178-D12-F3.cpp
+	
+DP D&C
+	https://github.com/Szawinis/CompetitiveProgramming/blob/master/CodeForces/CF178-D2-F3.cpp

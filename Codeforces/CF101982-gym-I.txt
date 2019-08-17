@@ -1,0 +1,5 @@
+http://codeforces.com/blog/entry/63070
+
+
+D&C
+	https://github.com/taow-com-prog/problemsolving/blob/master/CodeForces/CF101982-gym-I.cpp

@@ -1,3 +1,5 @@
+https://github.com/MetalBall887/Competitive-Programming/blob/master/CodeForces/CF101064-GYM-B.cpp
+
 By Mohamed Nasser
 	https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF101064-GYM-B.cpp
 	
@@ -41,3 +43,4 @@ By Mohamed Nasser
 
 	If someone still can't get this, let them try to write a bitmask DP that isn't too naive since this DP essentially can
 	 be seen as an improvement for it.
+

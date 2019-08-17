@@ -1,0 +1,4 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Baltic/official/boi2012_solutions
+
+https://github.com/thecodingwizard/competitive-programming/blob/master/BOI/BOI12-peaks.cpp
+https://github.com/zoooma13/Competitive-Programming/blob/master/peaks.cpp

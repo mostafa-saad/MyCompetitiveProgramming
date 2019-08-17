@@ -2,31 +2,24 @@ Background
 	At some time, there were several Cactus based problems in ICPC and Japanian OI. 
 	Right now, kind of out-dated topic, but much fun & benifical to solve
 	
-https://github.com/achrafmam2/CompetitiveProgramming/blob/master/UVA/10510.cc	[with its notes]
-https://www.ugrad.cs.ubc.ca/~cs490/sec202/notes/graph/cactus.cpp	[notes]
-https://ideone.com/RKxn1t
-https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/10510.cpp
-https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/uva/10510.cpp
+Le Trong Dat: some code are AC on judge but wrong, e.g. this test case
+	1
+	4 5
+	0 1
+	1 3
+	3 0
+	1 2
+	2 0
+	The answer is NO.
 
-
-Web
-	https://github.com/godely/Problems/blob/master/UVa/10510.cpp
-	https://github.com/allenwhale/code/blob/master/uva/10510.cpp
-	https://github.com/dulljester/UVa-Online-Judge-Solutions/blob/master/10510.c
-
-
-==================
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/10510.cpp	
+https://github.com/achrafmam2/CompetitiveProgramming/blob/master/UVA/10510.cc
+https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/UVA/10510.cpp
 http://codeforces.com/blog/entry/4018
 	First you see if it is a SCC. Then you run 1 dfs, with vectors seen[], and finished[]. What you are looking for is if a the dfs reaches a finished node, that would mean that that some edge takes part in more than one cicle, and it is not a cactus. Because we know every node is in a cicle, and if we reach a finished node, we ca "re-use" part of the cicle from that node and make a new cicle using the same edge, it is not easy to convince yourself of this, but if you make a few drawings, you will see.
 
 
-https://www.ugrad.cs.ubc.ca/~cs490/sec202/notes/graph/cactus.cpp
-	First check the graph is a single strongly connected component. Then draw the DFS tree - if the graph has any cross/forward edge, then it's not a cactus. If there exists a node who has more than one children with a back edge to the ancestor of the node, then the graph is not a cactus.
-==================
-Translated from: https://blog.csdn.net/u011498819/article/details/24921837
-
-	Cactus map is necessarily Euler map! In this way, you can simply judge the strong connectivity (Eulath is obviously strongly connected) only with "in degree = degree out"! And this necessary (incomplete) condition also spikes a lot of data (strongly connected ++).
-	Personal Proof: Anti-evidence: If a bit in! = out of degree, (may wish to add more), then, for each out of degree, the only way to "back" from the corresponding in degrees, to form a ring, one out of one entry, one to one correspondence, now more into the degree, Only from the previous degree of "back" (the principle of the pigeonhole), so the side in two rings, contradictions. That is evidence.
-	This is only a necessary condition, there are degrees of == out of degree, but there are obviously many cases of the ring, the following is used to exclude a general solution: use dfs again, when the discovery of the ring (dfs found ancestral point ) Mark all points on the ring (except ancestral points/cut points). Once, if there is a point marked two or more times (indicating that there are edges in both rings), then it must be a non-cactus.
-	The two conditions add up, enough to judge the cactus map. Although it is unable to prove its adequacy for the time being, no counter-example can be provided.
-	The data is stronger.
+===
+Fails in above case
+	https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/uva/10510.cpp
+	https://www.ugrad.cs.ubc.ca/~cs490/sec202/notes/graph/cactus.cpp	

@@ -1,0 +1,7 @@
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/JOISC/2018/snakeescaping.cpp
+https://codeforces.com/blog/entry/57637?#comment-413663
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18F-Snake.cpp
+
+
+Official codes: https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/JOI/official/JOI/2018
+

@@ -1,3 +1,4 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2014-Panels.cpp
 https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/POI/POI14-panels.cpp
 https://github.com/zoooma13/Competitive-Programming/blob/master/pan.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Panels/main.cpp

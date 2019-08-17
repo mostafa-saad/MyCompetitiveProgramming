@@ -1,3 +1,13 @@
-https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/IdealCity2012.cpp
-https://oj.uz/submission/93800
-https://github.com/win11905/submission/blob/master/IOI/12/city/city.cpp
+Editorial
+	http://www.ioi2012.org/hints-for-tasks-of-day-2/index.html (Ideal city)
+	http://blog.brucemerry.org.za/2012/09/ioi-2012-day-2-analysis.html (Ideal City)
+
+Shortest path, dsu	[as in editorial]
+	https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/IdealCity2012.cpp
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/IOI/2012/city.cpp
+	https://github.com/win11905/submission/blob/master/IOI/12/city/city.cpp		
+		[Quang: use the logic in the editorial, though the way of finding sum of distance in a tree in that code is different]
+
+
+DP
+	https://oj.uz/submission/93800

@@ -2,3 +2,4 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2015/contest4_solutions
 	
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Coci%20Stanovi/main.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/DMOJ/COCI%2014-Stanovi.cpp

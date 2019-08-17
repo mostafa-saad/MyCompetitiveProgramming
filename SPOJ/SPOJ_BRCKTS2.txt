@@ -3,3 +3,4 @@ Segment tree
 	
 Adhock, implicit graph
 	https://github.com/ZeyadKhattab/Competitive-Programming/blob/master/Spoj/SPOJ%20BRCKTS2.java
+	https://github.com/shashank0107/CompetitiveProgramming/blob/master/SPOJ/BRCKTS2.cpp

@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2005
 
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Depot%20Rearrangement/main.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/CEOI/CEOI%2005-Depot.cpp

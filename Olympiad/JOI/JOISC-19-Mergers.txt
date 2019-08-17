@@ -1,7 +1,9 @@
-Greedy
+Greedy/LCA
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Mergers/main.cpp
-	
+	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/JOI/JOISC2019-Mergers.cpp
+	https://github.com/goar5670/CompetitiveProgramming/blob/master/JOISC/JOISC19%20-%20mergers.cpp
 	
 DSU on trees
 	https://github.com/win11905/submission/blob/master/JOISC/19/mergers.cpp
 	https://github.com/luciocf/Problems/blob/master/JOI/JOISC/JOISC%202019/mergers.cpp
+
