@@ -12,6 +12,9 @@ This problem can be tackled in several ways, please study.
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/SPOJ/SPOJ_ORDERS.cpp
 	https://github.com/ilyesG/Competitive-Programming/blob/master/SPOJ/SPOJ%20ORDERS.cpp
 
+*) Policy Based DS
+	https://github.com/shashank0107/CompetitiveProgramming/blob/master/SPOJ/ORDERS.cpp
+
 *) Binary Search Tree
 	https://github.com/pushkarmishra/SPOJ/blob/master/ORDERS.cpp
 	https://github.com/vfonic/SPOJ/blob/master/orders.cpp

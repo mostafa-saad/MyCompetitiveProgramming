@@ -1,0 +1,9 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/APIO/official/2019/codes/bridges
+
+
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/APIO/2019/bridges.cpp
+https://github.com/Evilandrew228/CompetitiveProgramming/blob/master/APIO%2019-bridges
+
+
+
+submission also available at: https://dmoj.ca/problem/apio19p2		[more time strict - probably hardware slower]

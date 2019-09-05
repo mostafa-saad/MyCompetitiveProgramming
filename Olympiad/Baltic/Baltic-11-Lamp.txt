@@ -5,4 +5,6 @@ Official
 	https://github.com/sjhuang26/competitive-programming/blob/master/baltic/Baltic%2011-Lamp.cpp
 
 Dijkstra
+	https://github.com/Rockbet/Problems/blob/master/BOI/2011/Day%201/Lamp.cpp
 	https://ideone.com/YHgETP
+	

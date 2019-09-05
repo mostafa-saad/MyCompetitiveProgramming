@@ -6,3 +6,4 @@ only black nodes."
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/infoarena/tricolor.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/tricolor.cpp
 https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/infoarena/tricolor.cpp
+https://github.com/luciocf/OI-Problems/blob/master/infoarena/tricolor.cpp

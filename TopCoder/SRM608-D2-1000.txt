@@ -6,3 +6,6 @@ Graph, Floyd, Brute Force
 Max Flow
 	https://github.com/ahmedsamir221/CompetitiveProgramming/blob/master/TopCoder/SRM608-D2-1000.cpp
 	
+
+Matrix pow
+	https://github.com/ZeyadKhattab/Competitive-Programming/blob/master/Topcoder/SRM608-D2-1000.java

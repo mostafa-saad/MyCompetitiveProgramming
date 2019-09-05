@@ -1,5 +1,20 @@
+Problem
+	You are given a 3d grid where some spaces are full of stone ('N') and some are full of air ('P')
+	You need to find a cuboid that is completely made up of stone, has two sides of equal length, and has the maximum value of 4*a*b, where a and b are the two different length values among the sides.
+	Print that maximum value of 4*a*b.
+
+
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2009_solutions
 	
 trainees
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Monument/main.cpp
+	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Monument.txt
+		First lets fix in which two dimensions the square will be located in.
+		There are 3 possible combinations and we can run the solution for each one.
+		Now dp[x][y][z] will store the biggest square that can be formed with the cube (x,y,z) and the cubes with coordinates (i,j,z) where i<x and j<y.
+		We can calculate this dp by fixing the z dimension and by iterating through the matrix we get row by row.
+		If the cube (x,y,z) is normal ('N') dp[x][y][z]=min({dp[x-1][y][z],dp[x][y-1][z],dp[x-1][y-1][z]})+1 otherwise dp[x][y][z]=0.
+		Now for each position (x,y,z) we need to calculate the first position (x,y,i) where dp[x][y][i] is smaller than dp[x][y][z] for cases when i<z and i>z, mark these values nxt[x][y][z] and prv[x][y][z]. This can be done with a stack.
+		Now we will know the biggest monument we can make for each position (x,y,z) will have the square of side dp[x][y][z] (a=dp[x][y][z]) and b=nxt[x][y][z]-prv[x][y][z]-1.
+		Find the biggest value of 4*a*b for each position of each combination of starting dimensions.

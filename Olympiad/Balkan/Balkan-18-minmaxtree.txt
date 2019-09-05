@@ -2,7 +2,7 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/2018/minmaxtree-solution.pdf
 	
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BkOI/18-Minmaxtree.cpp
-
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/Balkan/2017/2018/minmaxtree.cpp			[implement official]
 
 https://github.com/koosaga/olympiad/blob/master/Balkan/balkan18_minmaxtree.cpp
 https://github.com/taow-com-prog/problemsolving/blob/master/Olympiad/Balkan/Balkan%2018-minmaxtree.cpp

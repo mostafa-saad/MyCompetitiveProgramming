@@ -2,3 +2,4 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2014_solutions/coprobber
 	
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BtOI/14-Cop_Robber.cpp
+https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/Baltic/14-coprobber.cpp

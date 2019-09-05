@@ -3,3 +3,4 @@ Official
 	
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/COCI/17-Rima.cpp
 https://github.com/updown2/OI-Practice/blob/master/COCI/2017%20Rima.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2017/RIMA.cpp
