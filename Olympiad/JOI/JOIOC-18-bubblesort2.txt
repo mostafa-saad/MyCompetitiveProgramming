@@ -1,0 +1,5 @@
+Segment tree
+	https://github.com/luciocf/OI-Problems/blob/master/JOI/JOIOC/JOIOC%202018/bubble2.cpp
+	
+Treap
+	https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/JOIOC/18-bubblesort2.cpp  [editorial]

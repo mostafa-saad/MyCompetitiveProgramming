@@ -3,7 +3,7 @@ Solve APIO 07-backup first
 
 dp, dp_alien
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/SGNOI/19-Feast.cpp
-
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/NOI-Singapore/NOI%2019-Feast.cpp
 
 greedy, dp
 	https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/NOI/NOI19-feast.cpp
