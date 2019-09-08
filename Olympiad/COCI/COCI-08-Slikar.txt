@@ -3,3 +3,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 https://github.com/racsosabe/CompetitiveProgramming/blob/master/DMOJ/COCI-08-Slikar.cpp
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2008/slikar.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/COCI/COCI%2008-Slikar.cpp
