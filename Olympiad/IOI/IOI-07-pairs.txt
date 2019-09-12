@@ -2,3 +2,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/07-Pairs.cpp
+https://github.com/luciocf/OI-Problems/blob/master/IOI/IOI%202007/pairs.cpp

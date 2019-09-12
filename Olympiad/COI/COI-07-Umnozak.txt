@@ -3,3 +3,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Ol
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Umnozak/main.cpp
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/wcipeg/coi07p4.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/COI/COI%2007-Umnozak.cpp
+https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/COI/07-Umnozak.cpp

@@ -1,0 +1,4 @@
+Hint: minimum vertex cover
+
+https://github.com/shashank0107/CompetitiveProgramming/blob/master/SPOJ/QUEST4.cpp
+https://github.com/BRAINOOOO/CompetitiveProgramming/blob/master/Spoj/SPOJ%20QUEST4.Cpp

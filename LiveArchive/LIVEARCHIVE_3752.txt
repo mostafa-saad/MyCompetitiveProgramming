@@ -1,0 +1,8 @@
+Greedy (the main way)
+	https://github.com/AbdelrahmanRamadan/competitive-programming/blob/master/World%20Finals/2007/3752%20-%20Containers.cpp
+	
+DP
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/LiveArchive/LIVEARCHIVE%203752.cpp
+	
+Max Flow - Min path coverage **
+	https://github.com/shashank0107/CompetitiveProgramming/blob/master/LIVEARCHIVE/3752(using%20flow).cpp
