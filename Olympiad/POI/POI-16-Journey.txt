@@ -1,0 +1,6 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2016-Journey.cpp
+
+Errichto: https://www.youtube.com/watch?v=PRmAUzgbOBI
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
+

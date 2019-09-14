@@ -3,3 +3,4 @@ https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IO
 Quick sort (3rd approach in editorial)
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/median/main.cpp
 	
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/dunjudge/median/ans.cpp
