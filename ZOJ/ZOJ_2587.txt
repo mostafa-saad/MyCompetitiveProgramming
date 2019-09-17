@@ -1,0 +1,6 @@
+editorial:	https://codeforces.com/topic/22997/en3
+
+https://github.com/WaleedAbdelhakim/Competitive-Programming/blob/master/ZOJ/2587.cpp
+
+Available to submit also on https://codeforces.com/gym/100200 
+

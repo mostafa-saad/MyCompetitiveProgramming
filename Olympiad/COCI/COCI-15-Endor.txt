@@ -2,6 +2,7 @@ Official (DP)
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2016/contest4_solutions
 	
 DP
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2015-Endor.cpp
 	https://github.com/updown2/OI-Practice/blob/master/COCI/2015%20Endor.cpp
 	
 Greedy

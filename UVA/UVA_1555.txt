@@ -3,5 +3,6 @@ Formula
 
 Binary Search
 	https://github.com/achrafmam2/CompetitiveProgramming/blob/master/UVA/1555.cc
+	https://github.com/ilyesLtifi/Competitive-Programming/blob/master/UVA/UVA%201555.cpp	[another way]
 	https://github.com/aboodJAD/CompetitiveProgramming/blob/master/UVA/UVA%201555.cpp
 	https://github.com/shashank0107/CompetitiveProgramming/blob/master/UVA/1555.cpp
