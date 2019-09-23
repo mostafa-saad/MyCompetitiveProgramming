@@ -20,22 +20,22 @@ Read Problem carefully
 Hint 1: Write rank 1. Write rank 2. Find pairs. Any observations?
 
 
-Hint 2: Build Graph - which algorithms care of nodes order?
+Hint 2: No answer with ? .As problem mentioned ALL pairs will be given, then either 1 solution or inconsistent
+	Sometimes, problem setters cheat u this way
+	
+	
+Hint 3: Build Graph - which algorithms care of nodes order?
 
 
-Hint 3: Use the topological sort
+Hint 4: Use the topological sort
 
-
-Hint 4: No answer with ? .As problem mentioned ALL pairs will be given, then either 1 solution or inconsistent
-Sometimes, problem setters cheat u this way
 
 ====================
 
 Solution:
 
 Given last year rank, we can build a graph of all relative ranks. E.g. edge from A to B if team A better than team B
-
-Note: If we have such graph, we can use topological sort to get back the rank itself of last year.
+	Note: If we have such graph, we can use topological sort to get back the rank itself of last year.
 
 Now, as we are given a complete list of changes: just go to the array and flip the edge per a pair
 
@@ -43,7 +43,7 @@ This creates a new graph where:
 	edges not part of changes remain not changed, hence keep relations
 	changed relations are swapped in edges
 
-Now again, topological sort on this new graph either
+Now, run topological sort on this new graph then either
 	has cycle = inconsistent
 	has a solution
 
