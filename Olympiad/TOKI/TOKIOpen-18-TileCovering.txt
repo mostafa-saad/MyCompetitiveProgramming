@@ -1,3 +1,4 @@
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/TOKI/TileCovering2018.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/TOKI/TOKI2018-TileCovering.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/TOKI/Open%2018-TileCovering.cpp
+https://github.com/luciocf/OI-Problems/blob/master/TOKI/TOKI%20Open/TOKI%20Open%202018/tile.cpp

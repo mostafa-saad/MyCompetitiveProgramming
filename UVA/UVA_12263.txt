@@ -1,0 +1,59 @@
+Read Problem carefully
+	We have 2 competitions of N teams (last year and this year)
+
+	Say last year rank is: 5 4 3 2 1
+	and this year rank is: 5 3 2 4 1
+
+	let's compare:
+
+	last year: team 4 was better than 3 and 2 AND team 3 was better than 2 + other relations
+	this year: 3 better than 4 AND 2 better than 4. All other relations are the same (e.g. 3 better than 2 and 1)
+
+	If we were given the 2 ranks, we could find the different relations
+	E.g. for every pair of relations, see if changed or not
+
+	We actually take the reverse: Given last year rank and the ALL changed pairs: find this year rank
+	Either we have a solution or inconsistent or some teams are ambiguous (?)
+
+=======================
+
+Hint 1: Write rank 1. Write rank 2. Find pairs. Any observations?
+
+
+Hint 2: Build Graph - which algorithms care of nodes order?
+
+
+Hint 3: Use the topological sort
+
+
+Hint 4: No answer with ? .As problem mentioned ALL pairs will be given, then either 1 solution or inconsistent
+Sometimes, problem setters cheat u this way
+
+====================
+
+Solution:
+
+Given last year rank, we can build a graph of all relative ranks. E.g. edge from A to B if team A better than team B
+
+Note: If we have such graph, we can use topological sort to get back the rank itself of last year.
+
+Now, as we are given a complete list of changes: just go to the array and flip the edge per a pair
+
+This creates a new graph where:
+	edges not part of changes remain not changed, hence keep relations
+	changed relations are swapped in edges
+
+Now again, topological sort on this new graph either
+	has cycle = inconsistent
+	has a solution
+
+Exercise: build on paper some examples to verify
+
+Code: https://github.com/morris821028/UVa/blob/master/volume122/12263%20-%20Rankings.cpp
+	build a graph of all edges
+	swap given pairs
+	compute degrees and then topological sort
+
+Code for a bit change in approach: http://ideone.com/6IMSkX
+
+

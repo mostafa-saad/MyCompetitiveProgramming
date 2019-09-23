@@ -1,6 +1,7 @@
-Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/JOI/official/JOIOC/2018
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/JOI/official/JOI/2013		[japanese]
 
 NOTE:  "\n" in end of file is required for AC
 
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/13F-BubbleSort.cpp
-https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/JOI/JOIHO13-bubblesort.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/JOI/JOI%2013-Bubblesort.cpp
+https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/JOI/JOIHO13-bubblesort.cpp

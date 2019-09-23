@@ -1,0 +1,3 @@
+https://github.com/farmerboy95/CompetitiveProgramming/blob/master/POI/POI09-Island.cpp
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
