@@ -100,6 +100,8 @@ DataStructures
 		More								http://codeforces.com/blog/entry/22616
 											http://codeforces.com/blog/entry/59081
 											
+		Arpa's trick						https://cp-algorithms.com/data_structures/disjoint_set_union.html#arpa
+											
 											
 	Monotonic Queue							https://medium.com/algorithms-and-leetcode/monotonic-queue-explained-with-leetcode-problems-7db7c530c1d6
 	

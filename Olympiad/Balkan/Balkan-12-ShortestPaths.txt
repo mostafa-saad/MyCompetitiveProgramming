@@ -7,6 +7,6 @@ SPOJ problem has tigher TL	https://www.spoj.com/problems/SPATHS
 
 
 https://github.com/luciocf/Problems/blob/master/Balkan/Balkan%202012/paths.cpp		[AC on SPOJ]
-
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/balkan/12-ShortestPaths.cpp
 https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2012		[AC on judge - TLE SPOJ]
 

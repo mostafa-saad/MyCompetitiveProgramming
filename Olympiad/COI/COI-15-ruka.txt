@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2015
 
 https://github.com/luciocf/OI-Problems/blob/master/COI/COI%202015/Final%20Exam%201/ruka.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COI/COI%2015-ruka.cpp

@@ -1,2 +1,4 @@
 https://ideone.com/6W9fnO
 https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CodeforcesGym/CF101864-GYM-L.cpp
+https://github.com/ZeyadKhattab/Competitive-Programming/blob/master/Codeforces/Gyms/2018%20BACS%20Contest%20Replay%20(101864)/CF101864-GYM-L.java
+https://github.com/ilyesLtifi/Competitive-Programming/blob/master/CodeForces/CF101864-GYM-L.cpp
