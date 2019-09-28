@@ -1,0 +1,3 @@
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/infoarena/amici2.cpp
+https://github.com/luciocf/OI-Problems/blob/master/infoarena/amici2.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/amici2.cpp

@@ -3,3 +3,4 @@ Codeforces Blog		https://codeforces.com/blog/entry/68940
 
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/IOI/IOI%2019-vision.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/IOI/IOI%2019-vision.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/IOI/IOI%2019-vision.cpp
