@@ -1,0 +1,4 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2017/practice
+
+
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/oj.uz/museum.cpp		[use LCA like to optimize]

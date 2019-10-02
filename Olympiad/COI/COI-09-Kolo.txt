@@ -1,6 +1,9 @@
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2010
 	
+	
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COI/COI%2009-Kolo.cpp
+	
 Sol + TLE Sols(Treap, Splay tree, built-in Rope)
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/Coci%20correct/main.cpp
 	

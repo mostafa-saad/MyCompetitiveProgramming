@@ -1,0 +1,3 @@
+https://github.com/win11905/submission/blob/master/OCN/16/1B.cpp
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/toki/taming_a_bomb.cpp
+https://github.com/QuickSorting/CompetitiveProgramming/blob/master/Olympiad/TOKI/OSN%2016-1B.cpp
