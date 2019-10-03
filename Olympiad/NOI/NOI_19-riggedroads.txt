@@ -1,0 +1,2 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/NOI-Singapore/NOI%2019-RiggedRoads.cpp
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Rigged%20Roads/main.cpp

@@ -2,3 +2,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Ol
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/BOI/BOI12-peaks.cpp
 https://github.com/zoooma13/Competitive-Programming/blob/master/peaks.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/Balkan/2012/PEAKS.cpp
