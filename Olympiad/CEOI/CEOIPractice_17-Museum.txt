@@ -1,4 +1,9 @@
 Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2017/practice
 
 
-https://github.com/peon-pasado/CompetitiveProgramming/blob/master/oj.uz/museum.cpp		[use LCA like to optimize]
+DP Trees
+	https://github.com/peon-pasado/CompetitiveProgramming/blob/master/oj.uz/museum.cpp		[use LCA like to optimize]
+	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/CEOI/CEOIPractice%2017-Museum-Sol.cpp
+	
+DP Siblings
+	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/CEOI/CEOIPractice%2017-Museum.cpp		[optimized to AC]

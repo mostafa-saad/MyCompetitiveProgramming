@@ -1,0 +1,4 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2015
+
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/COI/COI%2015-nafta.cpp
+https://github.com/luciocf/OI-Problems/blob/master/COI/COI%202015/Final%20Exam%202/nafta.cpp

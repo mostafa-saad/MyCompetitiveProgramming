@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2009/contest6_solutions
 
 https://github.com/thackerhelik/DMOJ/blob/master/COCI%2008-Dostava.cpp	: Dijkstra - barely AC / or TLE based on system
+https://github.com/luciocf/OI-Problems/blob/master/COCI/COCI%202008-2009/dostava.cpp
