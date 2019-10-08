@@ -1,3 +1,5 @@
 https://docs.google.com/spreadsheets/d/1qsNDtzVgP2aB3frFYO5O7JqLkz13mUrVeKyVimumL4g/edit#gid=1231104568
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/szkoput/POI-09-Walk.cpp
+
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

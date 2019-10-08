@@ -1,5 +1,6 @@
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI04-Maximal.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2004-Maximal.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2004-Maximal.cpp
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/szkoput/POI-04-Maximal.cpp
 
 Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
