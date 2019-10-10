@@ -3,6 +3,7 @@ https://github.com/luciocf/OI-Problems/blob/master/POI/POI%202004/tournament.cpp
 
 https://github.com/peon-pasado/CompetitiveProgramming/blob/master/szkoput/POI-04-tournament.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2004-Tournament.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2004-Tournament.cpp
 
 
 Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

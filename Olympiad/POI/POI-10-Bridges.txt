@@ -1,0 +1,4 @@
+https://github.com/farmerboy95/CompetitiveProgramming/blob/master/POI/POI%2010-Bridges.cpp
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt"
+
