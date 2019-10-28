@@ -1,57 +1,56 @@
 By Mohamed Nasser Aly 
 
 
-Let’s say you want to solve this problem without having the sequences to be distinct (SPOJ INCSEQ)
+SPOJ INCSEQ  (easier than SPOJ INCDSEQ)
+	Let’s say you want to solve this problem without having the sequences to be distinct (SPOJ INCSEQ)
 
-Notice K is small so for each length from 1 to K we can have a BIT for it. The ith element in the BIT here means number of sequences ending with i. Also since K is small O(N*K) would be a good complexity. 
+	Notice K is small so for each length from 1 to K we can have a BIT for it. The ith element in the BIT here means number of sequences ending with i. Also since K is small O(N*K) would be a good complexity. 
 
-Define DP[I][k] ad sequences of length k ending with i.
+	Define DP[I][k] ad sequences of length k ending with i.
 
-Now for each element you can see the transition is SUM(DP[j][k-1]) for all j < i.
+	Now for each element you can see the transition is SUM(DP[j][k-1]) for all j < i.
 
-We need to do this fast. So we make use of BIT.
+	We need to do this fast. So we make use of BIT.
 
-So BIT[4][2] would represent number of increasing sequences of length 2 ending with 4. ( In another words DP[4][2])
+	So BIT[4][2] would represent number of increasing sequences of length 2 ending with 4. ( In another words DP[4][2])
 
-Now how to carry the updates ? Iterate on elements from 1 to N in order in the array. We should try to find for each length from 1 to K, how many sequences we can form of that length ending with arr[I]. This can be done by querying the (k - 1) BIT for elements less than you. ( Since they are DP’s ending with v[I], and of length K - 1). Case 1 is special since you can only form sequences of length 1 by using yourself, and is the base for the DP.
+	Now how to carry the updates ? Iterate on elements from 1 to N in order in the array. We should try to find for each length from 1 to K, how many sequences we can form of that length ending with arr[I]. This can be done by querying the (k - 1) BIT for elements less than you. ( Since they are DP’s ending with v[I], and of length K - 1). Case 1 is special since you can only form sequences of length 1 by using yourself, and is the base for the DP.
 
-In another words, I’m just changing the DP array to BIT, and using the sum query to update quickly.
-
-Code here : https://github.com/.../Compet.../blob/master/SPOJ/INCSEQ.cpp
-
+	In another words, I’m just changing the DP array to BIT, and using the sum query to update quickly.
 
 
-Back to SPOJ INCDSEQ:
+SPOJ INCDSEQ:
 
+	First understand: SPOJ INCSEQ
 
-Now to modify this for distinct increasing subsequences, we should try to see how the DP is updated, and what causes us to over count. Let’s see case of k = 1, here you can see that we should only be interested in distinct elements, or in another word don’t update previously seen elements.
+	Now to modify this for distinct increasing subsequences, we should try to see how the DP is updated, and what causes us to over count. Let’s see case of k = 1, here you can see that we should only be interested in distinct elements, or in another word don’t update previously seen elements.
 
-So let’s define now DP[I][k] as *distinct* sequences of length k ending with i. For k = 1, we can do this manually by a set or bool array.
+	So let’s define now DP[I][k] as *distinct* sequences of length k ending with i. For k = 1, we can do this manually by a set or bool array.
 
-What about k > 1 ? Let’s say we are updating DP[I][k], now before we update, let’s see this value and call it tmp. Let’s query again on previous layers, answer must be >= tmp.
+	What about k > 1 ? Let’s say we are updating DP[I][k], now before we update, let’s see this value and call it tmp. Let’s query again on previous layers, answer must be >= tmp.
 
-The difference between them is simply how many unique sequences did this element contribute.
+	The difference between them is simply how many unique sequences did this element contribute.
 
-Example 5 6 7 1 7, and here K = 2. I will trace it for 7.
+	Example 5 6 7 1 7, and here K = 2. I will trace it for 7.
 
-When meeting first 7, easy case
-BIT will return 2 so update DP[7][2] = 2
+	When meeting first 7, easy case
+	BIT will return 2 so update DP[7][2] = 2
 
-Meeting second 7
-BIT will return 3. (Tmp was previously 2)
-Now subtract them which gives us 1, which is in that case {1,7}.
+	Meeting second 7
+	BIT will return 3. (Tmp was previously 2)
+	Now subtract them which gives us 1, which is in that case {1,7}.
 
-Let’s see case 1,2,2
+	Let’s see case 1,2,2
 
-K = 2, and I will trace for 2.
+	K = 2, and I will trace for 2.
 
-Meeting first 2
-DP[2][2] = 1
-Meeting second 2
-Tmp = 1
-After query we get 1 as well. Difference is zero, since this element didn’t do any new contributions.
+	Meeting first 2
+	DP[2][2] = 1
+	Meeting second 2
+	Tmp = 1
+	After query we get 1 as well. Difference is zero, since this element didn’t do any new contributions.
 
-I thought of it like a kind of inclusion exclusion.
+	I thought of it like a kind of inclusion exclusion.
 
 
 

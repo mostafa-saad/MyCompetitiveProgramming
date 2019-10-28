@@ -1,3 +1,7 @@
 https://github.com/luciocf/OI-Problems/blob/master/POI/POI%202006/invasion.cpp
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/szkoput/POI-06-Invasion.cpp
+
+
+
 
 Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

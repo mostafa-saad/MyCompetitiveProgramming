@@ -1,0 +1,3 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2016-Arkanoid.cpp
+
+Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

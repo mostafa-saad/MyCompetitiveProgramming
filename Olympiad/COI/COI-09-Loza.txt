@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2010
 
+https://github.com/fiv2001/CompetitiveProgramming/blob/master/wcipeg/COI%2009-Loza.cpp
 https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/COI/09-loza.cpp

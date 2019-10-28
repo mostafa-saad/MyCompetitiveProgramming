@@ -6,3 +6,6 @@ https://github.com/updown2/OI-Practice/blob/master/IOI/2005%20Rivers.cpp
 https://github.com/ShabdanBatyrkulov/codee/blob/master/IOI%2005-rivers.cpp
 https://github.com/luciocf/Problems/blob/master/IOI/IOI%202005/rivers.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/IOI/IOI%2005-rivers.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/IOI/IOI%2005-rivers.cpp
+
+

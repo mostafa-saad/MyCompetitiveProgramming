@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2008
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/CEOI/CEOI%2008-Knights.cpp
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/cses/CEOI_08-Knihgts.cpp

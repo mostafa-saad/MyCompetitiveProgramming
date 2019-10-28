@@ -148,3 +148,7 @@ Misc
 	Atcoder testcases		https://codeforces.com/blog/entry/46389
 	Speeding Up for Naive Algorithm		https://codeforces.com/blog/entry/66279
 	
+	IOI output-only problems			https://codeforces.com/blog/entry/61150
+										https://codeforces.com/blog/entry/53626
+										
+							

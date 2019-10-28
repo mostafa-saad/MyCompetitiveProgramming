@@ -2,5 +2,6 @@ Problem: Given a DAG with n nodes and m edges, find the LCA for all pairs of dis
 
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/casute.cpp
 
-dag,bfs ,bitset ,compression
+dag, bfs, bitset
 	https://github.com/zoooma13/Competitive-Programming/blob/master/casute.cpp
+	https://github.com/luciocf/OI-Problems/blob/master/infoarena/casute.cpp

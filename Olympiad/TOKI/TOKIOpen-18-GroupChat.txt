@@ -5,6 +5,7 @@ https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/TOKI/18-Gr
 https://github.com/vmaddur/Competitive_Programming/blob/master/TOKI/groupchat.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/TOKI/GroupChat2018.cpp
 https://github.com/Yehezkiel01/CompetitiveProgramming/blob/master/TOKIOpen/TOKIOpen-18-GroupChat.cpp
+https://github.com/DrSchwad/CompetitiveProgramming/blob/master/TOKI/TOKIOpen%2018-GroupChat.cpp
 
 
 To practice the reverse of this trick (Chebysehv distance into Manhattan distance)

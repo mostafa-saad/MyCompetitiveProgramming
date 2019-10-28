@@ -3,3 +3,4 @@ Official
 	
 https://github.com/ivokaragyozov/CompetitiveProgramming/blob/master/COCI/COCI-09-palacinke.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/COCI/COCI%2009-Palacinke.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2009-Palacinke.cpp

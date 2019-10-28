@@ -2,3 +2,4 @@ Official
 	HYPERLINK("https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2010_solutions","Editorial")
 
 https://github.com/luciocf/Solutions/blob/master/BOI/BOI%202010/candies.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/Balkan/2018/candies.cpp

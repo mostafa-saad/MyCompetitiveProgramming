@@ -1,0 +1,12 @@
+Binary Indexed tree
+	https://www.quora.com/How-do-I-solve-SPOJ-com-Problem-MSE06H-using-BIT
+	https://github.com/akhiluanandh/SPOJ/blob/master/MSE06H.cpp
+	https://github.com/cacophonix/SPOJ/blob/master/MSE06H.cpp
+	
+	
+Also solvable in other ways
+	http://nbu-cp.wikidot.com/spoj-mse06h
+
+
+Similar problems
+	SPOJ RATING

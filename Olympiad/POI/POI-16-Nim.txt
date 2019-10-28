@@ -1,5 +1,5 @@
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI16-nim.cpp
-
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/POI/2016/nim.cpp
 
 
 

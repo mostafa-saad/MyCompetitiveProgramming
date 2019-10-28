@@ -1,11 +1,10 @@
 English text: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/2012/2012-statements.pdf
+	SPOJ problem has tigher TL	https://www.spoj.com/problems/SPATHS
 
 
+https://codeforces.com/blog/entry/17630?#comment-225408
 
-SPOJ problem has tigher TL	https://www.spoj.com/problems/SPATHS
-
-
-
+https://github.com/thecodingwizard/competitive-programming/blob/master/BkOI/12-ShortestPaths.cpp		[AC on both]
 https://github.com/luciocf/Problems/blob/master/Balkan/Balkan%202012/paths.cpp		[AC on SPOJ]
 https://github.com/peon-pasado/CompetitiveProgramming/blob/master/balkan/12-ShortestPaths.cpp
 https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2012		[AC on judge - TLE SPOJ]

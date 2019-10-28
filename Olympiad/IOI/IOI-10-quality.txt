@@ -1,3 +1,7 @@
+Note
+	Not sure why no language box. Use C++
+
+
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/IOI/official/2010
 	

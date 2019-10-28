@@ -1,3 +1,5 @@
 https://github.com/luciocf/OI-Problems/blob/master/POI/POI%202010/sheep.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2010-Sheep.cpp
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/szkoput/POI_10-Sheep.cpp
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
