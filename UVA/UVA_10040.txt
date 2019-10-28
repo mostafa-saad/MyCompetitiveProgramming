@@ -1,0 +1,8 @@
+This poblem is about: De Bruijn
+	https://en.wikipedia.org/wiki/De_Bruijn_sequence
+	https://en.wikipedia.org/wiki/De_Bruijn_graph
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/10040.cpp
+	
+
+Not intended: pattern finding
+	https://github.com/OmarAhmedSaleh/competitive-programming/blob/master/UVA/10040%20-%20Ouroboros%20Snake.cpp
