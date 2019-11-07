@@ -1,3 +1,4 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2004
 
-https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/CEOI/CEOI%2004-Sweets.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/CEOI/CEOI%2004-Sweets.cpp		[Stars-and-Bars method]
+https://github.com/fiv2001/CompetitiveProgramming/blob/master/szkopul/sweets.cpp

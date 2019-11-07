@@ -1,6 +1,7 @@
 DP Siblings
 	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/LiveArchive/LIVEARCHIVE%207172-Sol.cpp
 	https://github.com/MetalBall887/Competitive-Programming/blob/master/LiveArchive/LIVEARCHIVE%207172.cpp
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/LiveArchive/7172.cpp
 	
 DP trees (not intended - harder)
 	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/LiveArchive/LIVEARCHIVE%207172.cpp

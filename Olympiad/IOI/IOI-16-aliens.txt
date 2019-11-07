@@ -1,0 +1,10 @@
+Aliens Trick
+
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/IOI/2016/aliens.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/16-Aliens.cpp
+
+
+
+
+http://ioinformatics.org/locations/ioi16/contest/IOI2016_analysis.pdf
+http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens

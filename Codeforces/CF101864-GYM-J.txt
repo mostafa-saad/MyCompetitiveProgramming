@@ -1,0 +1,5 @@
+Hashing, 2 pointers
+	https://github.com/tanmoy13/CompetitveProgramming/blob/master/Online-Judge-Solutions/CodeForces/CF101864-GYM-J.cpp
+	
+Manachar’s Algorithm, [Longest Palindromic Sub-string]
+	https://github.com/Coder-Boy1/CodeForces/blob/master/CF101864-GYM-J

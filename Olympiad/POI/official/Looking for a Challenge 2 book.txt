@@ -1,0 +1,9 @@
+
+https://codeforces.com/blog/entry/71004
+
+
+Note from a trainee:
+a cool book called "looking for a challenge?" First part is not online (legally) but the second one is free but editorials are in process. 
+These books contain problems and editorials to polish problems including POI
+
+Reply:  seems there is a 2nd version
