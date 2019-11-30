@@ -1,0 +1,6 @@
+BIT
+	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/infoarena/infoarena%20unique.cpp
+	
+DSU
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/unique.cpp
+	

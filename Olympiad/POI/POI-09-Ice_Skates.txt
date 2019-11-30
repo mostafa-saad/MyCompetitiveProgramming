@@ -1,4 +1,5 @@
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI09-Ice_Skates.cpp
+https://github.com/andriy-zhuk/CompetitiveProgramming/blob/master/POI/POI%2009-Ice_Skates.cpp
 
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

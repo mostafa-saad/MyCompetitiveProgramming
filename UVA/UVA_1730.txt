@@ -1,2 +1,3 @@
 https://github.com/arvindr9/CompetitiveProgramming/blob/master/UVA/UVA%201730.cpp
 https://github.com/Coder-Boy1/UVA/blob/master/1730
+https://github.com/magdy-hasan/competitive-programming/blob/0b7ce5fc814d3371f698171433d92beb8725a83f/uva-/uva%201730%20-%20Sum%20of%20MSLCM.cpp

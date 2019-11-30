@@ -1,3 +1,4 @@
+https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI16-Not_Nim.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2016-Not_Nim.cpp
 
 

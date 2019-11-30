@@ -1,0 +1,6 @@
+https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI12-Squarks.cpp
+https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/POI/Squarks19.cpp
+
+
+
+Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

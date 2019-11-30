@@ -2,3 +2,7 @@ https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/POI/19-War
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/POI/WarehouseStore19.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Warehouse%20Store/main.cpp
 https://github.com/zoooma13/Competitive-Programming/blob/master/WarehouseStore.cpp
+
+
+
+Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

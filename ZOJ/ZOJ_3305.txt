@@ -1,2 +1,4 @@
+Learn Submask Enumeration DP: https://cp-algorithms.com/algebra/all-submasks.html		(also explained in my videos)
+
 https://github.com/magdy-hasan/competitive-programming/blob/master/Other/ZOJ%20Get%20Sauce.cpp
 https://github.com/ilyesLtifi/Competitive-Programming/blob/master/ZOJ/ZOJ%203305.cpp

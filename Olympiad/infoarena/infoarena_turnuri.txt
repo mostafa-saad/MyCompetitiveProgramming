@@ -1,0 +1,4 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/turnuri.cpp
+https://github.com/farmerboy95/CompetitiveProgramming/blob/master/infoarena/infoarena%20turnuri.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/Infoarena/turnuri.cpp			use parser for fast IO
+https://www.infoarena.ro/job_detail/2447490?action=view-source

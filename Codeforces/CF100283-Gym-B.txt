@@ -1,3 +1,4 @@
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/Codeforces/CF100283-Gym-B.cpp
 https://raw.githubusercontent.com/eveningqwq/oo/master/CodeForces/CF-100283-B.cpp
+https://github.com/magdy-hasan/competitive-programming/blob/07ca4b68539a3fa991d6afd377a52a77f76f4ec7/Codeforces/CF100283-Gym-B.cpp
 

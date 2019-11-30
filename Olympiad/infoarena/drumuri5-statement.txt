@@ -1,4 +1,0 @@
-https://www.infoarena.ro/problema/drumuri5
-	Given a directed graph with n vertexes and m edges, find the popular vertexes in the graph. A popular vertex i is a vertex such that
-	for each other node, one can either get from i to that node or one can get from that node to i
-		by stef dasca

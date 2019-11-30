@@ -1,5 +1,0 @@
-https://www.infoarena.ro/problema/amici2
-	Given an undirected graph with n vertexes and m edges, estimate in how many days the given graph will become complete.
-	During a certain day, if there is no edge between nodes a and b but there is another node c such that there are
-	edges between a and c, respectively b and c, there will be created an edge between a and b.
-		By stefdasca

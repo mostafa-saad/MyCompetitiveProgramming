@@ -61,21 +61,21 @@ LiChao Tree
 
 	
 Math
-	Möbius inversion    http://codeforces.com/blog/entry/53925
-	Dirichlet convolution	https://codeforces.com/blog/entry/54150
-	Linear sieve        http://codeforces.com/blog/entry/54090
-	Sprague-Grundy      http://codeforces.com/blog/entry/63054
-						https://codeforces.com/blog/entry/63067
-	Geometry Trick   	http://codeforces.com/blog/entry/61710
+	Möbius inversion    		http://codeforces.com/blog/entry/53925
+	Dirichlet convolution		https://codeforces.com/blog/entry/54150
+	Linear sieve       			http://codeforces.com/blog/entry/54090
+	Sprague-Grundy      		http://codeforces.com/blog/entry/63054
+								https://codeforces.com/blog/entry/63067
+	Geometry Trick   			http://codeforces.com/blog/entry/61710
 	Sums and Expected Value		http://codeforces.com/blog/entry/62690
 								http://codeforces.com/blog/entry/62792
-	FFT					https://csacademy.com/blog/fast-fourier-transform-and-variations-of-it
+	FFT							https://csacademy.com/blog/fast-fourier-transform-and-variations-of-it
 	
 	Don't use rand(): a guide to random number generators in C++		https://codeforces.com/blog/entry/61587
-	
-	Linear Recurrence and Berlekamp-Massey Algorithm		https://codeforces.com/blog/entry/61306
-								
-	
+	Randomized algorithms lecture, part 1 & 2							https://codeforces.com/blog/entry/71097
+	Linear Recurrence and Berlekamp-Massey Algorithm					https://codeforces.com/blog/entry/61306
+	Intro to Staircase Nim												https://codeforces.com/blog/entry/44651
+	A Dance with Mobius Function										https://www.quora.com/q/negtyofjndusvnle/A-Dance-with-Mobius-Function
 	
 
 DataStructures
@@ -115,10 +115,11 @@ DataStructures
 	
 	
 Graph
-	Center of a graph			https://codeforces.com/blog/entry/17974
-	Finding Bridges Online		https://cp-algorithms.com/graph/bridge-searching-online.html
-	2SAT						https://codeforces.com/blog/entry/16205
+	Center of a graph					https://codeforces.com/blog/entry/17974
+	Finding Bridges Online				https://cp-algorithms.com/graph/bridge-searching-online.html
+	2SAT								https://codeforces.com/blog/entry/16205
 	DFS tree and its applications		https://codeforces.com/blog/entry/68138
+	Prüfer codes						https://cp-algorithms.com/graph/pruefer_code.html#toc-tgt-8
 
 Misc
 	Slope Trick        		https://codeforces.com/blog/entry/47821

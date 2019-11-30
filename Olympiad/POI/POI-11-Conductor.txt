@@ -11,3 +11,7 @@ d&c
 	
 observation + arrays of prefix and suffix
 	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/POI/POI11_pio-Conductor.cpp
+
+
+
+Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

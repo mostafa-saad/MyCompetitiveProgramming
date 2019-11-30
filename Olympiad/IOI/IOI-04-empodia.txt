@@ -1,6 +1,7 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2004
 
 
-https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/04-Empodia.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/04-Empodia.cpp				stack/set
+https://github.com/luciocf/OI-Problems/blob/master/IOI/IOI%202004/empodia.cpp							bit
 https://github.com/thecodingwizard/competitive-programming/blob/master/IOI/2004/D.%20Empodia.cpp
-https://github.com/luciocf/OI-Problems/blob/master/IOI/IOI%202004/empodia.cpp
+

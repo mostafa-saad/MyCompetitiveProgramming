@@ -5,5 +5,5 @@ https://github.com/luciocf/OI-Problems/blob/master/COI/COI%202015/Final%20Exam%2
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/COI/COI%2015-ruka.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/COI/COI%2015-ruka.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/COI/COI%2015-ruka.cpp
-
+https://github.com/QuickSorting/CompetitiveProgramming/blob/master/Olympiad/COI/COI%2015-ruka.cpp
 

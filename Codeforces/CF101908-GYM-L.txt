@@ -1,0 +1,5 @@
+LCA
+	https://github.com/nya-nya-meow/CompetitiveProgramming/blob/master/CodeForces/CF101908-GYM-L.cpp
+
+HLD
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/Codeforces/Gym/CF101908-gym-L.cpp

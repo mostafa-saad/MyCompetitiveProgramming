@@ -1,0 +1,11 @@
+Please solve using bit and sweep
+
+BIT
+	https://github.com/magdy-hasan/competitive-programming/blob/master/SPOJ/SPOJ%20NICEDAY%20-%20The%20day%20of%20the%20competitors.cpp
+	
+Segment Tree
+	https://www.quora.com/How-do-you-solve-this-SPOJ-problem-using-both-BIT-and-a-segment-tree
+	
+Sweep line
+	https://apps.topcoder.com/forums/?mc=16&messageID=801760&module=Thread&threadID=575041&view=tree#801760
+		See http://www.algorithmist.com/index.php/LA_3525 for a similar task.
