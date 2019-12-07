@@ -1,3 +1,4 @@
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Gas%20pipeline/main.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2007-Pipelines.cpp
 https://github.com/peon-pasado/CompetitiveProgramming/blob/master/szkoput/POI-07-Pipelines.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI07-Pipelines.cpp

@@ -4,3 +4,4 @@ Official
 https://github.com/tsouza0/CompetitiveProgramming/blob/master/Olympiads/COCI/galaksija.cpp
 https://github.com/updown2/OI-Practice/blob/master/COCI/2015%20Galaksija.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/DMOJ/COCI%2015-Galaksija.cpp
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Galaksija/main.cpp				centroid-decomposition

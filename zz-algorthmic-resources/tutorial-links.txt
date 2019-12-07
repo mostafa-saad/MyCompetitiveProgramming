@@ -120,6 +120,7 @@ Graph
 	2SAT								https://codeforces.com/blog/entry/16205
 	DFS tree and its applications		https://codeforces.com/blog/entry/68138
 	Prüfer codes						https://cp-algorithms.com/graph/pruefer_code.html#toc-tgt-8
+	Dominator Tree						https://codeforces.com/blog/entry/22811
 
 Misc
 	Slope Trick        		https://codeforces.com/blog/entry/47821

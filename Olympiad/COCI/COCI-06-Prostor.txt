@@ -1,3 +1,4 @@
 Offical		https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2007/contest6_solutions
 
+https://github.com/farmerboy95/CompetitiveProgramming/blob/master/COCI/COCI%2006-Prostor.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Prostor/main.cpp
