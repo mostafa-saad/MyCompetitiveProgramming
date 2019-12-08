@@ -1,3 +1,4 @@
 https://github.com/goswami-rahul/competitive-coding/blob/master/CompetitiveProgramming/codeforces/CF101939-gym-K.cpp
 https://github.com/antimirage/Problems-solutions/blob/master/Split%20a%20tree%20into%20equal%20parts.cpp
 https://github.com/ahmedsamir221/CompetitiveProgramming/blob/master/CodeForces/CF101939-gym-K.cpp
+https://github.com/MedoN11/CompetitiveProgramming/blob/master/CodeForces/CF101939-gym-K.cpp			[dsu on trees]
