@@ -1,0 +1,6 @@
+Read where_editorials.txt
+	http://apps.topcoder.com/wiki/display/tc/SRM+526.5
+
+https://github.com/swapnil119/CompetitiveProgramming/blob/master/CompetitiveProgramming/Topcoder/SRM526.5-D1-500.cpp
+https://github.com/OmarHashim/Competitive-Programming/blob/master/TopCoder/SRM526.5-D1-500.cpp
+https://community.topcoder.com/stat?c=problem_solution&cr=22717415&rd=14762&pm=11690

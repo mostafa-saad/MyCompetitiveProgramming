@@ -1,0 +1,4 @@
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/RusOI/reg/2016/train.java
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/RusOI-reg/16-trains.cpp
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/yandex/RusOI-reg_16-trains.cpp
+

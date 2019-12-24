@@ -1,7 +1,9 @@
 This poblem is about: De Bruijn
 	https://en.wikipedia.org/wiki/De_Bruijn_sequence
 	https://en.wikipedia.org/wiki/De_Bruijn_graph
+	
 	https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/10040.cpp
+	https://github.com/MetalBall887/Competitive-Programming/blob/master/UVA/UVA%2010040.cpp
 	
 
 Not intended: pattern finding

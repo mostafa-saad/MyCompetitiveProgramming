@@ -6,3 +6,5 @@ Official Codes
 	
 https://github.com/updown2/OI-Practice/blob/master/APOI/2006%20Gap.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/APIO/Gap2016.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/APIO/APIO%2016-gap.cpp
+

@@ -1,0 +1,5 @@
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/szkoput/POI-08-BBB.cpp
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
+
+

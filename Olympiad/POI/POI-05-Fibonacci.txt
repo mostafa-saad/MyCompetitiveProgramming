@@ -1,3 +1,4 @@
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Fibonachi/main.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2005-Fibonacci.cpp
 
 Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

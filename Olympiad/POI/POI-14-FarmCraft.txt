@@ -1,0 +1,2 @@
+https://github.com/zoooma13/Competitive-Programming/blob/master/farmcraft.cpp
+https://github.com/QuickSorting/CompetitiveProgramming/blob/master/Olympiad/POI/POI%2014-Farmcraft.cpp

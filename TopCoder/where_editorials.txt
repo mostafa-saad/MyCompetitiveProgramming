@@ -1,0 +1,7 @@
+Login first on new platoform
+	https://www.topcoder.com
+	
+Editorials in a few different places :(
+	https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis
+	https://www.topcoder.com/tc?d1=match_editorials&d2=archive&module=Static
+	https://www.topcoder.com/blog/tag/srm-editorials/  [for recent SRMs]
