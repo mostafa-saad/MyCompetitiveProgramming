@@ -2,6 +2,7 @@ binary indexed tree, dfs
 	Much simpler solution that relies on more observations. Although it has the same time and memory complexities, the constant factors are much smaller.
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/13OC-Synchronization(2).cpp
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/13OC-Synchronization(1).cpp
+	https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/JOI/JOI%2013-synchronisation.cpp
 	
 centroid-decomposition, segment tree
 	I didn't expect centroid decomposition to be in this problem. Although this problem is interesting in the use of centroid decomposition, 

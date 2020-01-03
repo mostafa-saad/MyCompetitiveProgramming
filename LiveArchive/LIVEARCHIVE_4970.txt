@@ -1,0 +1,9 @@
+The important part is the knight distance in infinite chess
+	https://math.stackexchange.com/questions/3270282/chess-board-knight-distance
+	
+	
+DP Bitmasks
+	https://github.com/mahmoudbadawy5/CompetitiveProgramming/blob/master/livearchive/LIVEARCHIVE%204970.cpp
+	
+Min Cost Max Flow
+	https://github.com/3agwa/CompetitiveProgramming/blob/master/LiveArchive/LIVEARCHIVE%204970.cpp

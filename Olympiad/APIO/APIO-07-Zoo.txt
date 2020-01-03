@@ -2,3 +2,5 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Ol
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/APIO/07-Zoo.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Zoo/main.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/APIO/APIO%2007-Zoo.cpp
+

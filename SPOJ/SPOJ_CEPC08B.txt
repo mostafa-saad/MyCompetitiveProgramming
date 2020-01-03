@@ -1,10 +1,5 @@
-The problem can be solved in 2 ways:
 
-1) Line Sweep [please learn]
-	https://github.com/rajeev3983/Spoj-Solutions/blob/master/CEPC08B.cpp
-	https://github.com/aboodJAD/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20CEPC08B.cpp
-
-
-2) Greedy
-	https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/SPOJ/CEPC08B.cpp
-	https://github.com/mukel/ProgrammingContests/blob/master/OldStuff/SPOJ/new7/cepc08b.cpp
+https://github.com/rajeev3983/Spoj-Solutions/blob/master/CEPC08B.cpp
+https://github.com/aboodJAD/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20CEPC08B.cpp
+https://github.com/MohamedNabil97/CompetitiveProgramming/blob/master/SPOJ/CEPC08B.cpp
+https://github.com/mukel/ProgrammingContests/blob/master/OldStuff/SPOJ/new7/cepc08b.cpp

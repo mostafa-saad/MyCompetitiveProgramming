@@ -1,0 +1,5 @@
+may solve first CF342-D2-E
+
+
+https://github.com/luciocf/OI-Problems/blob/master/BOI/BOI%202017/cat.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/BOI/BOI%2017-Cat.cpp

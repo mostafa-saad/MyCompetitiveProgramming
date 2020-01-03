@@ -1,5 +1,6 @@
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI16-messenger.cpp
 https://github.com/luciocf/OI-Problems/blob/master/POI/POI%202016/messenger.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2016-Messenger.cpp
 
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
