@@ -1,0 +1,3 @@
+https://github.com/arvindr9/CompetitiveProgramming/blob/master/SPOJ/SPOJ%20TRIOMINO.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/SPOJ/TRIOMINO.cpp
+

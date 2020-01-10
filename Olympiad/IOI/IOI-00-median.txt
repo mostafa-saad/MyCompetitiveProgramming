@@ -5,5 +5,5 @@ Quick sort (3rd approach in editorial)
 	
 https://github.com/peon-pasado/CompetitiveProgramming/blob/master/dunjudge/median/ans.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/IOI/IOI%2000-median.cpp		[randomization]
-
+https://github.com/thecodingwizard/competitive-programming/blob/master/IOI/IOI%2000-median.cpp
 

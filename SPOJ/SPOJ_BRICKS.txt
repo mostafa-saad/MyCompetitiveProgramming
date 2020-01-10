@@ -2,6 +2,7 @@ Segment Tree
 	https://github.com/miguelAlessandro/CompetitiveProgramming/blob/master/live_archive/4976.cpp
 	
 BIT
+	https://github.com/shashank0107/CompetitiveProgramming/blob/master/SPOJ/BRICKS.cpp
 	https://github.com/MedoN11/CompetitiveProgramming/blob/master/SPOJ/BRICKS.java
 	https://github.com/gcdart/PC-solutions/blob/master/Spoj/BRICKS.cc
 	

@@ -1,4 +1,7 @@
 https://github.com/farmerboy95/CompetitiveProgramming/blob/master/COI/COI%2015-zarulje.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COI/COI%2015-zarulje.cpp
+
+
 
 official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2015
 

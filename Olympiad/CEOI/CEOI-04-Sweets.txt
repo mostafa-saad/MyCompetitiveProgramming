@@ -2,3 +2,6 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Ol
 
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/CEOI/CEOI%2004-Sweets.cpp		[Stars-and-Bars method]
 https://github.com/fiv2001/CompetitiveProgramming/blob/master/szkopul/sweets.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/CEOI/CEOI%2004-Sweets.cpp
+
+

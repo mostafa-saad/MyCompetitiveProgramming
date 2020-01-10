@@ -4,3 +4,5 @@ Official
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2008/Periodni.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Coci%202008%20Contest%204%20Periodni/main.cpp
 https://github.com/taow-com-prog/problemsolving/blob/master/Olympiad/COCI/COCI%2008-Periodni.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2008-Periodni.cpp
+

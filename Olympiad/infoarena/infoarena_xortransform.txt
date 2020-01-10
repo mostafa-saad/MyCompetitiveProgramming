@@ -1,0 +1,8 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/xortransform.cpp
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/xortransform.cpp			[pattern]
+https://github.com/farmerboy95/CompetitiveProgramming/blob/master/infoarena/infoarena%20xortransform.cpp
+https://github.com/veljko02/CompetitiveProgramming/blob/master/Olympiad/infoarena/xortransform.cpp
+
+
+
+Close to CSA78-E	https://csacademy.com/contest/round-78/task/xor-transform/

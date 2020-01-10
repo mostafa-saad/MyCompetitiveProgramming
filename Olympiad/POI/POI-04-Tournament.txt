@@ -5,7 +5,7 @@ https://github.com/peon-pasado/CompetitiveProgramming/blob/master/szkoput/POI-04
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2004-Tournament.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2004-Tournament.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI04-Tournament.cpp
-
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/the%20tournament.cpp
 
 
 

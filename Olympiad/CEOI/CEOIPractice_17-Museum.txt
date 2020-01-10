@@ -7,6 +7,7 @@ DP Trees
 	https://github.com/peon-pasado/CompetitiveProgramming/blob/master/oj.uz/museum.cpp		[use LCA like to optimize]
 	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/CEOI/CEOIPractice%2017-Museum-Sol.cpp
 	https://github.com/thecodingwizard/competitive-programming/blob/master/CEOI/CEOIPractice%2017-Museum.cpp
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/CEOI/CEOI%2017-museum(practice).cpp
 	
 DP Siblings
 	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/CEOI/CEOIPractice%2017-Museum.cpp		[optimized to AC]

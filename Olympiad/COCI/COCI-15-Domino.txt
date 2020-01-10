@@ -3,3 +3,4 @@ Official
 	
 https://github.com/updown2/OI-Practice/blob/master/COCI/2015%20Domino.cpp
 https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/Coci/coci15-domino.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2015/domino.cpp
