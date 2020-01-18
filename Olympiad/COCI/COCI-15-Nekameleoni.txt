@@ -2,3 +2,4 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2016/contest3_solutions
 	
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2016-nekameleoni.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/COCI/COCI%2015-Nekameleoni.cpp

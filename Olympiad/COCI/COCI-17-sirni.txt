@@ -3,3 +3,4 @@ Official
 	
 https://github.com/updown2/OI-Practice/blob/master/COCI/2017%20Sirni.cpp
 https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/Coci/coci17-sirni.cpp
+https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/COI/COCI%2017-sirni.cpp

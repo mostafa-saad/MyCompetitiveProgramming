@@ -1,5 +1,6 @@
 https://github.com/farmerboy95/CompetitiveProgramming/blob/master/POI/POI%2005-Parties.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2005-Parties.cpp
+https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/POI/POI%2005-parties.cpp
 
 
 Problem in 'Looking for a Challenge' challenge. See pics from farmerboy95 sol

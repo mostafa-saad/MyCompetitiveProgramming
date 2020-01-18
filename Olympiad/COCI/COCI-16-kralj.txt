@@ -2,3 +2,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Kralj/main.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2016-kralj.cpp

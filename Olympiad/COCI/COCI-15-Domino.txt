@@ -1,6 +1,10 @@
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2016/contest3_solutions
 	
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/COCI/COCI%2015-Domino.cpp		[graph, observations]
+
+	
 https://github.com/updown2/OI-Practice/blob/master/COCI/2015%20Domino.cpp
 https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/Coci/coci15-domino.cpp
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2015/domino.cpp
+https://github.com/stefanbalaz2/CompetitiveProgramming/blob/master/DMOJ/COCI%2015-Domino.cpp			mcmf
