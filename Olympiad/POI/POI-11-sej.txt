@@ -1,0 +1,4 @@
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/POI/18T-Strongbox.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2011-sej.cpp
+
+Official polish code/editorial: https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

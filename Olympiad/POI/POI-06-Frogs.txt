@@ -1,0 +1,6 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2006-Frogs.cpp			math, dp
+https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI06-Frogs.cpp		bf/const opt sol
+
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
+	official code gets TLE on 2 testcases

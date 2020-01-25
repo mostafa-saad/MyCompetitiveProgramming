@@ -1,0 +1,4 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/ratway.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/Infoarena/ratway.cpp
+
+

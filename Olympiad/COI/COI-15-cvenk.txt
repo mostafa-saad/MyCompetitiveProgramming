@@ -1,2 +1,3 @@
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Cvenk/main.cpp
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/COI/15-Cvenk.cpp
+https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/COI/COI%2015-cvenk.cpp

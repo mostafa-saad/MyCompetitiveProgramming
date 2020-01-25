@@ -2,6 +2,7 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Ol
 
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2007/backup.cpp		[clarify parts in editorial]
 https://github.com/win11905/submission/blob/master/APIO/07/backup.cpp
+https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/APIO/APIO%2007-backup.cpp
 
 
 Problem almost similar to: JOISC 18-candies  	https://oj.uz/problem/view/JOI18_candies

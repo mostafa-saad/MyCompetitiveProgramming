@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Baltic/official/boi2019_solutions
+
+https://github.com/thecodingwizard/competitive-programming/blob/master/BOI/BOI19-necklace1.cpp

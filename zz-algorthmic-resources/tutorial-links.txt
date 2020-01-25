@@ -77,6 +77,12 @@ Math
 	Intro to Staircase Nim												https://codeforces.com/blog/entry/44651
 	A Dance with Mobius Function										https://www.quora.com/q/negtyofjndusvnle/A-Dance-with-Mobius-Function
 	
+	Matrix Pow
+		http://fusharblog.com/solving-linear-recurrence-for-programming-contest/
+		https://www.quora.com/q/threadsiiithyderabad/Solving-Dynamic-Programming-with-Matrix-Exponentiation
+		https://codeforces.com/blog/entry/43225
+		My slides: https://github.com/mostafa-saad/ArabicCompetitiveProgramming/blob/master/04%20Math/Algorithms_Number_Theory_06_Matrix_Power_Applications.pptx
+	
 
 DataStructures
 	Blowing up unordered_map		http://codeforces.com/blog/entry/62393
