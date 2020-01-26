@@ -5,3 +5,5 @@ Official
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2012/mars.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Mars%20n%5E2%20log%20n/main.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/mars/main.cpp		O(n^4 log n) (1e9 operations) passes
+https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/Coci/coci12-mars.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2012-Mars.cpp
