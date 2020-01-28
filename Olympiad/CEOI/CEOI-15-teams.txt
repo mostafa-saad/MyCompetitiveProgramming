@@ -10,3 +10,4 @@ https://github.com/goar5670/CompetitiveProgramming/blob/master/CEOI/CEOI%2015-Ca
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Calvinball%20championship/main.cpp
 https://github.com/win11905/submission/blob/master/CEOI/15/calvinball.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/CEOI/CEOI%2015-teams.cpp
+https://github.com/mahmoudbadawy5/CompetitiveProgramming/blob/master/CEOI/CEOI%2015-teams.cpp
