@@ -1,0 +1,4 @@
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BtOI/16-Swap.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalticOI/Baltic%2016-Swap.cpp
+
+

@@ -1,4 +1,6 @@
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Double%20row/main.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/POI/POI05-DoubleRow.cpp
+
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI05-Double_Row.cpp
 	[longer than official]

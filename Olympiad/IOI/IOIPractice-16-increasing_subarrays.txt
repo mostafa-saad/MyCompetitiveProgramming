@@ -1,0 +1,6 @@
+https://github.com/thecodingwizard/competitive-programming/blob/master/IOI/IOIPractice%2016-increasing_subarrays.cpp
+https://github.com/tsouza0/CompetitiveProgramming/blob/master/Olympiads/ioi-training/increasingsub.cpp
+
+
+dp, 2 pointers 
+	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/IOIPractice/IOIPractice%2016-increasing_subarrays.cpp

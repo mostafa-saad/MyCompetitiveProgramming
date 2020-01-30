@@ -3,7 +3,7 @@ https://github.com/nikolapesic2802/Programming-Practice/blob/master/Banknote/mai
 https://github.com/luciocf/OI-Problems/blob/master/POI/POI%202005/banknotes.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI05-Banknote.cpp
 https://github.com/veljko02/CompetitiveProgramming/blob/master/Olympiad/POI/2005/banknotes.cpp
-
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2005-Banknote.cpp
 
 
 
