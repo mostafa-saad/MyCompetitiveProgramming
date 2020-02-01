@@ -1,0 +1,4 @@
+Editorial 	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2006
+
+
+https://github.com/thecodingwizard/competitive-programming/blob/master/CEOI/CEOI%2006-Connect.cpp

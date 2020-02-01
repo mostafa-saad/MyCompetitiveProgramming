@@ -1,4 +1,6 @@
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI04-Gates.cpp
 https://github.com/veljko02/CompetitiveProgramming/blob/master/Olympiad/POI/2004/bra.cpp	[tle in a case]
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2004-Gates.cpp
+
 
 Offical	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

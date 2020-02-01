@@ -2,3 +2,5 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Ol
 
 https://github.com/peon-pasado/CompetitiveProgramming/blob/master/baekjoon/CEOI-02-fence.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Fence/main.cpp
+https://github.com/mahmoudbadawy5/CompetitiveProgramming/blob/master/CEOI/CEOI%2002-Fence.cpp
+

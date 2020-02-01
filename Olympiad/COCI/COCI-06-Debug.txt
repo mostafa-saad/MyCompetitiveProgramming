@@ -4,3 +4,6 @@ Official: https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/O
 
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Debug/solution.txt
 https://github.com/thecodingwizard/competitive-programming/blob/master/COCI/COCI%2006-debug.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2006-Debug.cpp
+
+

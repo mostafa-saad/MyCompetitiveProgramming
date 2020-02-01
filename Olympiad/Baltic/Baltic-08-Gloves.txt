@@ -5,3 +5,4 @@ https://github.com/zoooma13/Competitive-Programming/blob/master/gloves.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/BOI/BOI%2008-Gloves.cpp			bitmasks
 https://github.com/farmerboy95/CompetitiveProgramming/blob/master/BalticOI/BalticOI%2008-Gloves.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Gloves/main.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/Baltic/Baltic%2008-Gloves.cpp
