@@ -4,3 +4,4 @@ https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/Baltic/B
 https://github.com/Triplem5ds/Competitve-Programming/blob/master/Olympiad/Baltic%2017-PoliticalDevelopment.cc
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/baltic/2017/politicaldevelopment.cpp
 https://github.com/veljko02/CompetitiveProgramming/blob/master/Olympiad/Baltic/2017/PoliticalDevelopment.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/Baltic/Baltic%2017-PoliticalDevelopment.cpp

@@ -2,3 +2,5 @@ Editorial	https://codeforces.com/blog/entry/68748
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/CEOI/COI%2019-MagicTree.cpp	
 	Same solution as editorial, but instead of using range trees, we can just use maps and merge smaller->larger.
+
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/CEOI/CEOI%2019-MagicTree.cpp

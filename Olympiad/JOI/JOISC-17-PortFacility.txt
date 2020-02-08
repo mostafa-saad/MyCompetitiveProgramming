@@ -19,6 +19,7 @@ https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympi
 
 
 Can be done using only DSU too (no segment tree)
+	https://github.com/thecodingwizard/competitive-programming/blob/master/JOI/JOISC%2017-PortFacility.cpp
 	https://oj.uz/submission/77895
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/port%20facility/main.cpp
 	

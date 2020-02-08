@@ -4,3 +4,4 @@ Official
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Coci%20Stanovi/main.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/DMOJ/COCI%2014-Stanovi.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/COCI/COCI%2014-Stanovi.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/COCI/COCI%2014-Stanovi.cpp
