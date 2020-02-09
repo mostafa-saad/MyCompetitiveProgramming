@@ -1,0 +1,2 @@
+https://github.com/luciocf/OI-Problems/blob/master/CEOI/CEOI%202010/tower.cpp
+https://github.com/arvindr9/CompetitiveProgramming/blob/master/CEOI/CEOI%2010-Tower.cpp
