@@ -3,3 +3,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Kolekcija/main.cpp
 https://github.com/zoooma13/Competitive-Programming/blob/master/kolekcIja.cpp	[anther way]
+https://github.com/mahmoudbadawy5/CompetitiveProgramming/blob/master/coci/COI%2007-Kolekcija.cpp

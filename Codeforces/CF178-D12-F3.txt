@@ -6,3 +6,6 @@ DP, Trie
 	
 DP D&C
 	https://github.com/Szawinis/CompetitiveProgramming/blob/master/CodeForces/CF178-D2-F3.cpp
+
+Dp Sibling
+	https://github.com/useredsa/ICPCtrainning/blob/master/codeforces/178/f3/f3.cpp

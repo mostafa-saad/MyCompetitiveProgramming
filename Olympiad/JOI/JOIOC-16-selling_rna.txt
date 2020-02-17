@@ -1,0 +1,3 @@
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/JOIOC/2016/selling_rna.cpp
+https://github.com/Yehezkiel01/CompetitiveProgramming/blob/master/JOIOC/JOIOC-16-selling_rna.cpp
+

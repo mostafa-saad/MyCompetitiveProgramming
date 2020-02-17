@@ -3,3 +3,4 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Ol
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/CEOI/CEOI%2008-Snake/snake.cpp
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Snake/main.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/CEOI/CEOI%2008-Snake.cpp

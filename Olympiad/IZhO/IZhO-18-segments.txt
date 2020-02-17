@@ -1,0 +1,3 @@
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/IZhO/2018/segment.cpp
+https://github.com/fiv2001/CompetitiveProgramming/blob/master/oj/IZhO%2018-segments.cpp
+https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/IZhO/IZhO18-segments.cpp

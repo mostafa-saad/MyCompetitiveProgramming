@@ -3,6 +3,7 @@ Official
 	
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Patrol/Patrol.cpp
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/APIO/Patrol2010.cpp
-https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/APIO/APIO10-patrol.cpp
+https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/APIO/APIO10-patrol.cpp
 https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/APIO/APIO%2010-patrol.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/APIO/APIO%2010-Patrol.cpp
 

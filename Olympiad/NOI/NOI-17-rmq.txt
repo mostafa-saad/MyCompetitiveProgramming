@@ -1,0 +1,3 @@
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official
+
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/dunjudge/NOI_17_RMQ.cpp

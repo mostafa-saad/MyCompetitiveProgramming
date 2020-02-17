@@ -2,3 +2,4 @@ Official https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 	smart approach
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/NOI/14-Cats.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/NOI/NOI%2014-cats.cpp

@@ -3,4 +3,5 @@ Ternary Search (I guess more intuitive)
 	Hints: https://uva.onlinejudge.org/board/viewtopic.php?f=38&t=19340&sid=9216ec6b138dabefd64aefe3f775f64d
 	
 Binary Search
+	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/UVA/UVA%2011243.cpp
 	https://github.com/quangloc99/CompetitiveProgramming/blob/master/UVA/11243.cpp

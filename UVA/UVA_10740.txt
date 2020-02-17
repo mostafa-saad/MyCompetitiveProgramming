@@ -1,2 +1,3 @@
 https://github.com/ilyesG/Competitive-Programming/blob/master/UVA/UVA%2010740.cpp
 https://reponroy.wordpress.com/2015/10/15/uva-10740-not-the-best/
+https://github.com/Ahmed-Zaher/CompetitiveProgramming/blob/master/UVA/UVA%2010740.cpp
