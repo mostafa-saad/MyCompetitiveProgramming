@@ -5,6 +5,10 @@ https://github.com/luciocf/Solutions/blob/master/BOI/BOI%202010/candies.cpp
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/Balkan/2018/candies.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalticOI/Baltic%2010-Candies.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/Baltic/Baltic%2010-Candies.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/BOI/Baltic%2010-Candies.cpp
+
+
+
 
 
 Some of the tricks also in CF981-D12-E https://codeforces.com/problemset/problem/981/E
