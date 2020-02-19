@@ -3,6 +3,7 @@ binary indexed tree, dfs
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/13OC-Synchronization(2).cpp
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/13OC-Synchronization(1).cpp
 	https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/JOI/JOI%2013-synchronisation.cpp
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/JOIOC/2013/synchronization.cpp
 	
 centroid-decomposition, segment tree
 	I didn't expect centroid decomposition to be in this problem. Although this problem is interesting in the use of centroid decomposition, 

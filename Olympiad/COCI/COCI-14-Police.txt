@@ -2,3 +2,4 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2015/contest7_solutions
 	
 https://github.com/racsosabe/CompetitiveProgramming/blob/master/DMOJ/COCI-14-Police.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/COCI/2014/police.cpp

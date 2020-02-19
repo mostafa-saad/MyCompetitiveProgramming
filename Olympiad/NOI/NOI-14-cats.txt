@@ -3,3 +3,4 @@ Official https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/NOI/14-Cats.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/NOI/NOI%2014-cats.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/NOI/2014/CATS.cpp

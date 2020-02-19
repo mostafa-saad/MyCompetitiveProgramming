@@ -1,7 +1,7 @@
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI16-Christmas.cpp		dsu, sqrt decomposition	[editorial]
 https://github.com/Shash-Wat/competitive-programming/blob/master/POI/chainchrist.cpp				dsu, bit, binary search
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2016-Christmas.cpp
-
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2016-Christmas.cpp
 
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
