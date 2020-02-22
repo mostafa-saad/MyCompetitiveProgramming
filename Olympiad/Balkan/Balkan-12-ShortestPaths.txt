@@ -8,4 +8,4 @@ https://github.com/thecodingwizard/competitive-programming/blob/master/BkOI/12-S
 https://github.com/luciocf/Problems/blob/master/Balkan/Balkan%202012/paths.cpp		[AC on SPOJ]
 https://github.com/peon-pasado/CompetitiveProgramming/blob/master/balkan/12-ShortestPaths.cpp
 https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2012		[AC on judge - TLE SPOJ]
-
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalkanOI/Balkan%2012-ShortestPaths.cpp   [AC on SPOJ]

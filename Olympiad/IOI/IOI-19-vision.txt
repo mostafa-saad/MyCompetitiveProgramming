@@ -1,4 +1,6 @@
-Official codes		https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/IOI/official/2019
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2019
+
+
 Codeforces Blog		https://codeforces.com/blog/entry/68940
 
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/IOI/IOI%2019-vision.cpp
