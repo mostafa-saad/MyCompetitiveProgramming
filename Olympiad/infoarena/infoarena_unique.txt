@@ -3,4 +3,4 @@ BIT
 	
 DSU
 	https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/unique.cpp
-	
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/infoarena/unique.cpp

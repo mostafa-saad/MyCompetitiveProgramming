@@ -1,3 +1,5 @@
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/tetris%203d/main.cpp		seg tree 2d
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2006-Tetris_3D.cpp			[no need for 2d :)]
+
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

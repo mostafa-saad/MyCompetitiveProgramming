@@ -1,3 +1,6 @@
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/sabin.cpp
 https://github.com/farmerboy95/CompetitiveProgramming/blob/master/infoarena/infoarena%20sabin.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/Infoarena/sabin.cpp
+https://github.com/mahmoudbadawy5/CompetitiveProgramming/blob/master/infoarena/infoarena%20sabin.cpp
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/infoarena/sabin.cpp
+

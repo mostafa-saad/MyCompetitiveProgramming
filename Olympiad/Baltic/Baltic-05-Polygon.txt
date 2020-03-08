@@ -2,3 +2,6 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2005_solutions
 	
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Polygon/main.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/Baltic/Baltic%2005-Polygon.cpp
+
+

@@ -9,5 +9,5 @@ https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/IOI
 https://github.com/thecodingwizard/competitive-programming/blob/master/IOI/IOI%2005-rivers.cpp
 https://github.com/veljko02/CompetitiveProgramming/blob/master/Olympiad/IOI/2005/rivers.cpp
 https://github.com/mahmoudbadawy5/CompetitiveProgramming/blob/master/IOI/IOI%2005-rivers.cpp
-
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/IOI/IOI%2005-rivers.cpp
 

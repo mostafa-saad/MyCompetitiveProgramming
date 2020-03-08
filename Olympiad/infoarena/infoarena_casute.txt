@@ -5,3 +5,4 @@ https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/casute
 dag, bfs, bitset
 	https://github.com/zoooma13/Competitive-Programming/blob/master/casute.cpp
 	https://github.com/luciocf/OI-Problems/blob/master/infoarena/casute.cpp
+	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/infoarena/infoarena%20casute.cpp

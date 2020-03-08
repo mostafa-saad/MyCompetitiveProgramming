@@ -1,6 +1,6 @@
 https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI11-Contest.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2011-Contest.cpp
-
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2011-Contest.cpp
 
 
 Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

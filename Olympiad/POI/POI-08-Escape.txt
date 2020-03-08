@@ -1,5 +1,8 @@
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2008-Escape.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2008-Escape.cpp
+https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/POI/POI%2008-escape.cpp
+
+
 
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

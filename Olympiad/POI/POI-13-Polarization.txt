@@ -1,4 +1,8 @@
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/POI/POI%2013-Polarization.cpp
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/POI/POI%2013-Polarization.cpp
+
+
+
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
 

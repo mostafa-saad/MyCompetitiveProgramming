@@ -2,3 +2,4 @@ https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/permso
 https://github.com/MetalBall887/Competitive-Programming/blob/master/infoarena/infoarena%20permsort.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/Infoarena/permsort2.cpp
 
+https://github.com/mahmoudbadawy5/CompetitiveProgramming/blob/master/infoarena/infoarena%20permsort2_splay.cpp		[slow - splay tree - 70 pts]

@@ -2,3 +2,6 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 https://github.com/luciocf/OI-Problems/blob/master/IOI/IOI%202002/utopia.cpp
 https://github.com/sofhiasouza/CompetitiveProgramming/blob/master/IOI/2002/utopia.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/IOI/IOI%2002-Utopia.cpp
+
+
