@@ -2,3 +2,7 @@ official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Ol
 
 https://github.com/luciocf/OI-Problems/blob/master/CEOI/CEOI%202018/cloud.cpp
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/18-Cloud.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/CEOI/18-cloudcomputing.cpp
+
+
+

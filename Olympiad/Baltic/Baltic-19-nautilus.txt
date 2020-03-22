@@ -4,3 +4,7 @@ https://github.com/thecodingwizard/competitive-programming/blob/master/BOI/BOI19
 https://github.com/DrSchwad/CompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic%2019-nautilus.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalticOI/Baltic%2019-nautilus.cpp				dp
 https://github.com/peon-pasado/CompetitiveProgramming/blob/master/oj.uz/BOI19_nautilus.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/BOI/BOI19-Nautils.cpp
+
+
+

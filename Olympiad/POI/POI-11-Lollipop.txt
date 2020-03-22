@@ -1,0 +1,4 @@
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/POI/POI11-Lollipop.cpp
+
+Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
+

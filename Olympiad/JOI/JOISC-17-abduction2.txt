@@ -13,7 +13,8 @@ Contest at AtCoder (To see more AC codes)
 
 --------------------------
 https://github.com/LeTrongDat/CompetitiveProgramming/blob/master/JOISC/JOISC17-abduction2.cpp
-https://github.com/stefdasca/CompetitiveProgramming/blob/master/JOI/JOISC%2017-abduction2.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/JOI/Spring%20Camp/JOISC%2017-abduction2.cpp
+https://github.com/useredsa/ICPCtrainning/blob/master/oj.uz/joi17-abduction2.cpp		[different approach?]
 https://oj.uz/submission/63741
 https://oj.uz/submission/73005
 	
