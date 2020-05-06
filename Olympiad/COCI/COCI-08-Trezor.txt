@@ -2,3 +2,6 @@ Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Ol
 
 https://github.com/thecodingwizard/competitive-programming/blob/master/DMOJ/COCI%2008-Trezor.cpp
 https://github.com/ZeyadKhattab/Competitive-Programming/blob/master/Problems/COCI%2008-Trezor.java
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/dmoj/COCI_08_trezor.cpp
+
+
