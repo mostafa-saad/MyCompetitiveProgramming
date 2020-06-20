@@ -1,0 +1,3 @@
+Editorial 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2004
+
+https://github.com/thecodingwizard/competitive-programming/blob/master/IOI/2004/A.%20Artemis.cpp

@@ -1,0 +1,5 @@
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/Baltic/15-hac.cpp
+https://github.com/Raghavan098/CP-Codes/blob/master/Baltic/Baltic%2015-hac.cpp
+
+
+See easier approaches at the submission page

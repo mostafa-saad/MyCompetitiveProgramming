@@ -1,0 +1,3 @@
+https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2006
+
+https://github.com/aryanc403/CompetitiveProgramming/blob/master/cses/CEOI06-Meandian.cpp

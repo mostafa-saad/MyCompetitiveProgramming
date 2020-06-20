@@ -1,0 +1,2 @@
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Schools/main.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/IZhO/IZhO13-school.cpp

@@ -1,0 +1,4 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2005
+
+
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CEOI/05-fence.cpp

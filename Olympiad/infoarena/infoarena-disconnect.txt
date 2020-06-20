@@ -1,0 +1,2 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/disconnect.cpp
+https://github.com/dolphingarlic/CompetitiveProgramming/tree/master/infoarena/infoarena%20disconnect

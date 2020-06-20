@@ -1,0 +1,4 @@
+https://github.com/goar5670/CompetitiveProgramming/blob/master/CEOI/CEOI%2018-Lottery.cpp
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/CEOI/CEOI%2018-Lottery.cpp
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/CEOI/18-Lottery.cpp

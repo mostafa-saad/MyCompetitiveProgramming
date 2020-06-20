@@ -1,0 +1,2 @@
+https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/JOI/19-Coin.cpp
+https://github.com/fiv2001/CompetitiveProgramming/blob/master/oj/JOI%2019-Coin.cpp

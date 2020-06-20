@@ -1,0 +1,4 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2006/ioi06_pyramid_sol.pdf
+
+https://ideone.com/w3a6rL
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/IOI/IOI2006-Pyramid.cpp

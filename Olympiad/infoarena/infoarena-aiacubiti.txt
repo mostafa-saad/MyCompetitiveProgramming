@@ -1,0 +1,2 @@
+https://github.com/zoooma13/Competitive-Programming/blob/master/aiacubiti.cpp
+https://github.com/veljko02/CompetitiveProgramming/blob/master/Olympiad/infoarena/iaicubiti.cpp

@@ -1,0 +1,4 @@
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Skwishinese/main.cpp
+
+https://github.com/Coder-Boy1/Others/blob/master/IOIPractice%2014-skwishinese-ioi14
+https://github.com/MohamedAhmed04/Competitive-programming/blob/master/IOI/IOI2014practice-Skwishinese.cpp

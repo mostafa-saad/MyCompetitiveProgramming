@@ -1,0 +1,4 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-12-editorials.txt
+
+
+dp trees https://github.com/win11905/submission/blob/master/IOI/12/tournament/tournament.cpp

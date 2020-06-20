@@ -1,0 +1,6 @@
+https://github.com/luciocf/OI-Problems/blob/master/POI/POI%202006/teddies.cpp
+
+
+
+
+https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt

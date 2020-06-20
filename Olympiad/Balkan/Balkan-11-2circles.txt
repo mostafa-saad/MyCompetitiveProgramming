@@ -1,0 +1,3 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/2011/2circles-sol.pdf
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BkOI/11-2Circles.cpp

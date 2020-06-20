@@ -1,0 +1,25 @@
+https://gist.github.com/luciocf/415527e18c3d6f40b00a7f6a684aabea
+// DMOPC '18 Contest 3 - Bob and English Class
+// Lúcio Cardoso
+
+// Solution:
+
+// Root the tree at any node. Notice the sum of distances of all pairs is equal
+// to the sum of the depths of all K nodes - 2 * (sum of dephts of K/2 LCAs). Therefore,
+// we want to minimize the sum of the depths of such LCAs.
+
+// Take the centroid of the marked nodes, that is, a vertex such that the amount of marked
+// nodes in each of its subtrees is <= K/2. The idea is to let the centroid be the root of
+// the tree. This way, if we consider the marked nodes in their euler tour order, we can connect
+// the ith node with the (i + K/2)th node. Since there are <= K/2 marked nodes in each subtree, 
+// we will "escape the subtree" and the root of the tree will become the LCA of the connected vertices.
+
+// Thus, the sum of depths of LCAs becomes 0. The answer is the sum of the depths of marked vertices.
+
+// Complexity: O(n + k).
+
+
+
+
+
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/MCO/DMOPC%2018-BobEnglishClass.cpp

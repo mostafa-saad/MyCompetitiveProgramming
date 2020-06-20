@@ -1,0 +1,3 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2010/contest4_solutions
+
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Kaboom/main.cpp

@@ -1,4 +1,0 @@
-Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COCI/official/2007/contest3_solutions
-
-https://pastebin.com/La2YWLg6
-https://github.com/Rockbet/Problems/blob/master/COCI/COCI%202006-2007/Bicikli.cpp

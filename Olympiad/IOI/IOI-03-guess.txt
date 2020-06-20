@@ -1,0 +1,3 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2003
+
+https://github.com/SuperJavaCoder/training/blob/master/OI/IOI/2003/guess.cpp

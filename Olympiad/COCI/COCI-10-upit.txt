@@ -1,0 +1,3 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COCI/official/2011/contest7_solutions
+
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/COCI/COCI%2010-upit.cpp

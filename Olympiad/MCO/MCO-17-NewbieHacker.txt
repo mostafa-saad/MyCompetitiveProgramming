@@ -1,0 +1,2 @@
+https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/MCO/official
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/MCO/MCO%2017-NewbieHacker.cpp

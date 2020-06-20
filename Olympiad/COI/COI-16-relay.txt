@@ -1,0 +1,3 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2016
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/COI/16-Relay.cpp

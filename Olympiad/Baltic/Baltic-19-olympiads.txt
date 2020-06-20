@@ -1,0 +1,4 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Baltic/official/boi2019_solutions
+
+
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/oj.uz/Olympiads.cpp

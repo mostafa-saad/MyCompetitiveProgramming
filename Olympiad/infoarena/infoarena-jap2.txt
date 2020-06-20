@@ -1,0 +1,4 @@
+stefdasca: At first read it looks like a classical implementation of one of the well known theorems for computing nCr for big values of n and r. But, the small prime restriction gives us a very good hint, by precomputing modular inverse and factorials up to p. Then, it took me several time to discover and debug my formula, which surprisingly proved to be the right one
+
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/jap2.cpp
+

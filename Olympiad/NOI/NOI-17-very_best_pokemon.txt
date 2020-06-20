@@ -1,0 +1,2 @@
+https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official
+https://github.com/Thiago4532/CompetitiveProgramming/blob/master/NOI/Singapura/2017/pokemon.cpp

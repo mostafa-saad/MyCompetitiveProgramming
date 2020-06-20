@@ -1,0 +1,2 @@
+https://github.com/thecodingwizard/competitive-programming/blob/master/Infoarena/karb.cpp
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/infoarena/karb.cpp

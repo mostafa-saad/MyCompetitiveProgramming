@@ -1,0 +1,5 @@
+Editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2016
+
+
+https://github.com/nikolapesic2802/Programming-Practice/blob/master/Paint/main.cpp
+https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/IOI/16-paint.cpp

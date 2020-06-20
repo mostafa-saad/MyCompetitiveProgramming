@@ -1,0 +1,3 @@
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/permsort.cpp
+https://github.com/peon-pasado/CompetitiveProgramming/blob/master/infoarena/permsort.cpp
+

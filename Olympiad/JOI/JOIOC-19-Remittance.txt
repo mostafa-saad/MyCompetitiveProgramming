@@ -1,0 +1,3 @@
+worse than tmwilliamlin168 sol: https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/JOIOC/19-remittance.cpp
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/19O-Remittance.cpp

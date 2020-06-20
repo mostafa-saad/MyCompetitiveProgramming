@@ -1,0 +1,3 @@
+editorial	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2000
+
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/IOI/IOI%202000-BLOCKS.cpp
