@@ -1,4 +1,4 @@
 https://github.com/zoooma13/Competitive-Programming/blob/master/grid.cpp
 https://github.com/MohamedAhmed04/Competitive-programming/blob/master/BOI/BOI08-Grid.cpp
-
-
+https://github.com/mohamedsobhi777/CompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic%2008-Grid.cpp
+https://github.com/besherislambouley/Grid/blob/master/Baltic.cpp

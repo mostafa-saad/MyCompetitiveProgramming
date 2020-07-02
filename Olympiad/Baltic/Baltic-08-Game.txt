@@ -1,7 +1,8 @@
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2008_solutions
 	
-https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/regat.cpp
-https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/Baltic/Baltic%2008-Game.cpp
 
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/Baltic/Baltic%2008-Game.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalticOI/Baltic%2008-Game.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/BOI/BOI%2008-Game.cpp
 

@@ -3,3 +3,4 @@ https://github.com/Yehezkiel01/CompetitiveProgramming/blob/master/Balkan/Balkan-
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/Cats/main.cpp
 https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/Balkan/Balkan%2017-cats.cpp
 https://github.com/koosaga/olympiad/blob/master/Balkan/balkan17_cats.cpp
+https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalkanOI/Balkan%2017-Cats.cpp

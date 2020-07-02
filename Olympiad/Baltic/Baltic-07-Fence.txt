@@ -1,4 +1,5 @@
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2007_solutions
-	
+
+https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/Baltic/Baltic%2007-Fence.cpp	
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BtOI/07-Fence.cpp

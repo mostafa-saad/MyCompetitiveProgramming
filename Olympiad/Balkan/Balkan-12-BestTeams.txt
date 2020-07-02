@@ -1,6 +1,10 @@
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2012
 
 
-https://github.com/thecodingwizard/competitive-programming/blob/master/BkOI/12-BestTeams.cpp
-https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalkanOI/Balkan%2012-BestTeams.cpp
+Segment tree
+	https://github.com/thecodingwizard/competitive-programming/blob/master/BkOI/12-BestTeams.cpp
 
+
+BIT
+	https://github.com/stefdasca/CompetitiveProgramming/blob/master/BalkanOI/Balkan%2012-BestTeams.cpp			
+	https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/Balkan/2012/best-teams.cpp

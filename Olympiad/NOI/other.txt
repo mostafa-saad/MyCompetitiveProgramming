@@ -6,3 +6,6 @@ NOI 14-orchard	impl, [https://github.com/ZeyadKhattab/Competitive-Programming/bl
 NOI 17-hotspot	graph, dijkstra, [https://github.com/sofhiasouza/CompetitiveProgramming/blob/master/NOI/hotspot.cpp]
 NOI 17-roadside_adverts	graph. lca, mst, [https://github.com/samyravitoria/olympics-problems/blob/master/NOI%20Singapore/2017/roadsideadverts.cpp]
 NOI 17-best_place	ad-hoc, math, [https://github.com/luciocf/OI-Problems/blob/master/NOI%20Singapore/NOI%20Singapore%202017/bestplace.cpp]
+NOI 18-collectmushrooms	ad-hoc, prefix sum, [https://github.com/win11905/submission/blob/master/NOI/18/collectmushrooms.cpp]
+NOI 13-diesel	graph, dijsktra or bfs, [ignore subtask 5/6 in evaluation], [https://github.com/samyravitoria/olympics-problems/blob/master/NOI%20Singapore/2013/diesel.cpp], [https://github.com/PATH242/CompetitiveProgramming/blob/master/NOI%2013-diesel.cpp]
+NOI 17-best_place	ad-hoc, math, [https://github.com/luciocf/OI-Problems/blob/master/NOI%20Singapore/NOI%20Singapore%202017/bestplace.cpp]
