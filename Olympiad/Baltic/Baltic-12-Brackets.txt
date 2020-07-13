@@ -1,5 +1,5 @@
 Official	
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2012_solutions
 	
-https://github.com/updown2/OI-Practice/blob/master/BOI%20(Baltic)/2012_Brackets.cpp
+https://github.com/updown2/OI-Practice/blob/master/BOI%20(Baltic)/2012%20Brackets.cpp
 https://github.com/MetalBall887/Competitive-Programming/blob/master/Olympiad/Baltic/Baltic%2012-Brackets.cpp

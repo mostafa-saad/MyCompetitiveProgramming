@@ -1,2 +1,2 @@
-https://github.com/goar5670/CompetitiveProgramming/blob/master/18-Paths.cpp
+https://github.com/goar5670/CompetitiveProgramming/blob/master/Baltic/Baltic%2018-paths.cpp
 https://github.com/updown2/OI-Practice/blob/master/BOI%20(Baltic)/2018/Paths.cpp

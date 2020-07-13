@@ -1,0 +1,11 @@
+https://github.com/shashank0107/CompetitiveProgramming/blob/master/LIVEARCHIVE/5133.cpp			[Used kactl's LineContainer for dynamic convex hull leading to a very short code.]
+https://github.com/quangloc99/CompetitiveProgramming/blob/master/Livearchive/5133.cpp
+
+
+
+
+
+[needs bbst (e.g. set) not usual deque - line's angle coefficient is not monotune)
+
+
+

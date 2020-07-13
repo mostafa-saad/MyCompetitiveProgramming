@@ -1,6 +1,6 @@
 Ternay Search
 	https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/CCO/18-GradientDescent.cpp
-	https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/CCO/CCO18-GradientDescent.cpp
+	https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/CCO/CCO18-GradientDescent.cpp
 	https://github.com/MohamedAhmed04/Competitive-programming/blob/master/CCO/CCO%2018-GradientDescent.cpp
 	
 Binary Search

@@ -8,7 +8,7 @@ Segment Tree
 
 
 DP+Centroid
-	https://ideone.com/y5ZI4c	[=https://github.com/win11905/submission/blob/master/Balkan/17/city_attractions.cpp]
+	https://github.com/win11905/submission/blob/master/Balkan/17/city_attractions.cpp
 	https://github.com/Evilandrew228/CompetitiveProgramming/blob/master/Balkan%2017-CityAttractions
 	
 

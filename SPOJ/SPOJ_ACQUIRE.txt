@@ -1,3 +1,9 @@
+txt clarification: 
+	In this problem FJ can actually *REARRANGE* the plots and then groups them. * I misunderstood the statement by the word 'successive'
+
+
+
+
 Explained here as part of Convex Hull DP
 	http://wcipeg.com/wiki/Convex_hull_trick
 	

@@ -1,5 +1,5 @@
 Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2007_solutions
 	
-https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/Bkoi07sorting.cpp
+https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/BtOI/07-sorting.cpp
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BtOI/07-Sorting.cpp

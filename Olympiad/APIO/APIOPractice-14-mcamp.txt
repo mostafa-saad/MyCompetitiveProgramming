@@ -5,4 +5,4 @@ Greedy
 	
 	
 BIT
-	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IZHO/14-Divide.cpp
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IZhO/14-Divide.cpp

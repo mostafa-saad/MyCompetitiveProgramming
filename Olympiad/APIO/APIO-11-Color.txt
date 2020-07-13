@@ -2,7 +2,7 @@ https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/APIO/11-
 	(n-1)*(m-1) equalities suggests that we have n+m-1 variables. By looking at the relations (using excel), the pattern becomes clear. 
 	
 	
-https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/APIO/APIO11-color.cpp
+https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/APIO/APIO11-color.cpp
 	2-SAT with xor, observation
 	Based on http://momo-funnycodes.blogspot.com/2013/05/apio-2011-table-coloring.html / https://ideone.com/o9XFTY
 		https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO-11-Color.png

@@ -2,4 +2,4 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/2011/medians-sol.pdf
 	
 https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/Balkan/Medians2011.cpp
-https://github.com/goar5670/CompetitiveProgramming/blob/master/BOI%2011-medians.cpp
+https://github.com/goar5670/CompetitiveProgramming/blob/master/BOI/BOI%2011-medians.cpp
