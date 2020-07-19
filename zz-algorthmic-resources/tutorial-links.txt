@@ -12,7 +12,8 @@ DP
 	Digital DP			http://codeforces.com/blog/entry/53960
 	
 	DP Optimizations    https://codeforces.com/blog/entry/63823
-						https://codeforces.com/blog/entry/8219            
+						https://codeforces.com/blog/entry/8219        
+						http://maratona.ic.unicamp.br/MaratonaVerao2017/documents/dp.pdf    
 						
 						https://www.youtube.com/watch?v=OrH2ah4ylv4		[long not that useful]
 						

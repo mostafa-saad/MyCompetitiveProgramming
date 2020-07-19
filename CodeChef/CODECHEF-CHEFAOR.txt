@@ -8,3 +8,4 @@ It is a good practice to implement the dp using knuth trick in O(NK)
 
 DP D&C
 	https://www.codechef.com/viewsolution/24006923
+	https://github.com/shashank0107/CompetitiveProgramming/blob/master/CODECHEF/CHEFAOR.cpp
