@@ -1,5 +1,5 @@
 Official
-	https://www.ioi2011.or.th/hsc/tasks/solutions/garden.pdf
+	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2011
 	
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/IOI/2011/garden.cpp
 https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%202011/Tropical%20Garden.cpp

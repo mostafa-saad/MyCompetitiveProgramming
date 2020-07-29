@@ -12,3 +12,6 @@ https://github.com/nikolapesic2802/Programming-Practice/blob/master/Vjestica/mai
 https://github.com/thecodingwizard/competitive-programming/blob/master/COCI/COCI%2016-vjestica.cpp
 https://github.com/mahmoudbadawy5/CompetitiveProgramming/blob/master/coci/COCI%2016-vjestica.cpp
 
+
+
+https://github.com/TheNaskator/CPSolutions/blob/master/Olympiad%20problems/COCI16witch.cpp			DP_SOS

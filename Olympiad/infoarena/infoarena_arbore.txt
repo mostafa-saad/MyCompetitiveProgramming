@@ -4,4 +4,4 @@ we either add a value q to the subtree rooted at node p, or we have to report wh
 
 
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/arbore.cpp
-https://gist.github.com/luciocf/cfaebb57ea04e16704483b9cdb05e388
+

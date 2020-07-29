@@ -1,4 +1,4 @@
-COCI 13-ladice	graph, dsu, cycles, [https://github.com/MohamedAhmed04/Competitive-programming/blob/master/COCI/COCI%2013-Ladice.cpp  https://github.com/mosta7il/Competitive-programming/blob/master/dunjudge/ladice.cpp]
+COCI 13-ladice	graph, dsu, cycles, [https://github.com/MohamedAhmed04/Competitive-programming/blob/master/COCI/COCI%2013-Ladice.cpp  https://github.com/mosta7il/Competitive-programming/blob/master/dunjudge/ladice.cpp
 COCI 06-Zbrka	dp, [https://github.com/Thiago4532/CompetitiveProgramming/blob/master/COCI/2006/Contest%204/zbrka.cpp]
 COCI 13-Organizator	ad-hoc, sieve-like [https://github.com/samyravitoria/olympics-problems/blob/master/COCI/2013-2014/Contest%20%231/organizator.cpp], [https://github.com/PATH242/CompetitiveProgramming/blob/master/COCI%2013-Organizator.cpp]
 COCI 07-Avogadro	greedy, [https://github.com/samyravitoria/olympics-problems/blob/master/COCI/2007-2008/Contest%20%235/avogadro.cpp]
@@ -8,7 +8,7 @@ COCI 08-Setnja	dp, tree, bignum, memory compression, [https://github.com/peon-pa
 COCI 09-Vuk	graph, dijkstra, bfs, [https://github.com/samyravitoria/OI-problems/blob/master/COCI/2009-2010/Contest%20%232/vuk.cpp]
 COCI 12-KOSARE	dp, dp_sos, [standard], [https://github.com/nikolapesic2802/Programming-Practice/blob/master/Kosare/main.cpp]
 COCI 15-Slon	ad-hoc, expressions, postfix, infix, queue, [https://github.com/peon-pasado/CompetitiveProgramming/blob/master/dmoj/COCI_15_Slon.cpp
-COCI 17-ronald	graph, dfs, ad-hoc, [https://github.com/Rockbet/Problems/blob/master/COCI/COCI%202016-2017/Ronald.cpp - https://ideone.com/ukhGPo]
+COCI 17-ronald	graph, dfs, ad-hoc, [https://github.com/Rockbet/Problems/blob/master/COCI/COCI%202016-2017/Ronald.cpp - https://ideone.com/ukhGPo
 COCI 07-Princeza	geometry, adhcok, [https://github.com/samyravitoria/olympics-problems/blob/master/COCI/2007-2008/Contest%20%236/princeza.cpp]
 COCI 07-Cudak	dp, dp_digit, [https://github.com/Rockbet/Problems/blob/master/COCI/COCI%202007-2008/Cudak.cpp]
 COCI 17-vode	dp, periodic output, [https://github.com/Coder-Boy1/Others/blob/master/COCI%2017-vode]

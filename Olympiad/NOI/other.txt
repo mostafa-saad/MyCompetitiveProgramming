@@ -3,7 +3,6 @@ NOI 08-rank	graph, dfs, topological sort, [https://github.com/ZeyadKhattab/Compe
 NOI 07-hole	binary search or dp, [https://github.com/sofhiasouza/CompetitiveProgramming/blob/master/NOI/2007/hole.cpp]
 NOI 09-invest	dp, binary search, [https://github.com/Rockbet/Problems/blob/master/NOI/2007/Hole.cpp]
 NOI 14-orchard	impl, [https://github.com/ZeyadKhattab/Competitive-Programming/blob/master/Problems/NOI%2014-orchard.java]
-NOI 17-hotspot	graph, dijkstra, [https://github.com/sofhiasouza/CompetitiveProgramming/blob/master/NOI/hotspot.cpp]
 NOI 17-roadside_adverts	graph. lca, mst, [https://github.com/samyravitoria/olympics-problems/blob/master/NOI%20Singapore/2017/roadsideadverts.cpp]
 NOI 17-best_place	ad-hoc, math, [https://github.com/luciocf/OI-Problems/blob/master/NOI%20Singapore/NOI%20Singapore%202017/bestplace.cpp]
 NOI 18-collectmushrooms	ad-hoc, prefix sum, [https://github.com/win11905/submission/blob/master/NOI/18/collectmushrooms.cpp]

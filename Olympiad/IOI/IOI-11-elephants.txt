@@ -2,6 +2,5 @@ Official
 	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/IOI/official/2011/elephants.pdf
 
 
-https://github.com/tsouza0/CompetitiveProgramming/blob/master/Olympiads/IOI/11/elephants.cpp
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/11-Elephants.cpp
 https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/IOI/11-Elephants.cpp	[sqrt decomposition, unrolled link list	]

@@ -1,4 +1,4 @@
-https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18SC-Fences.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18S-Fences.cpp
 
 For another comment/cases, see
 	https://codeforces.com/blog/entry/58433		(reply from ko_osaga)

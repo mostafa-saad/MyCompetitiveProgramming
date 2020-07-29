@@ -1,4 +1,4 @@
 https://github.com/nikolapesic2802/Programming-Practice/blob/master/k%20consecutive/main.cpp
 
 This problem is same as infoarena kcons (https://infoarena.ro/problema/kcons), but has higher limits
-	https://github.com/stefdasca/CompetitiveProgramming/blob/master/Infoarena/kcons.cpp
+	

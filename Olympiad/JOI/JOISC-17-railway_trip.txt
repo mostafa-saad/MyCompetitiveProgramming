@@ -7,7 +7,7 @@ Contest at AtCoder (To see more AC codes)
 	
 ====
 sqrt decomposition
-	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17S-Railway.cpp
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17S-Railway(1).cpp
 
 sparse table / binary lifting (short - hard to prove?)
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17S-Railway(2).cpp

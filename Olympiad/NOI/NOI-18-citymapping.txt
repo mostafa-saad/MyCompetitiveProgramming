@@ -3,7 +3,7 @@ Official (2 approaches)
 	
 	
 Randomization
-	https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/SGPNOI18-citymapping.cpp
+	https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/Others/SGPNOI18-citymapping.cpp
 	
 
 Another

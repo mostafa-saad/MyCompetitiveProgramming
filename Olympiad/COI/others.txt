@@ -1,4 +1,3 @@
-COI 08-Reljef	graph, dfs, [https://github.com/sofhiasouza/CompetitiveProgramming/blob/master/COCI/reljef.cpp]
 COI 16-dijament	graph, ad-hoc, map, [https://github.com/samyravitoria/olympics-problems/blob/master/COI/2016/dijamant.cpp]
 
 

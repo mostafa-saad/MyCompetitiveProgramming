@@ -4,7 +4,7 @@ http://blog.brucemerry.org.za/2014/07/
 
 Bit, D&C
 	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/14-Holiday.cpp
-	https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/IOI14-Holiday.cpp
+	https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/IOI/14-Holiday.cpp
 	
 
 Segment tree, D&C

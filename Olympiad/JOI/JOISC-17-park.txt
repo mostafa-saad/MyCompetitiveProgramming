@@ -1,4 +1,4 @@
 https://codeforces.com/blog/entry/51010
 
-https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17SC-Park.cpp
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/17S-Park.cpp
 https://github.com/gametothepower8/Solutions-to-OI-problems/blob/master/JOI/SC17-Park.cpp

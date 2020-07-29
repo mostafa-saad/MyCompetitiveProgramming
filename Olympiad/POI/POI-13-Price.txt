@@ -1,2 +1,2 @@
 https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/POI/20-Price_List.cpp
-https://github.com/CPSolutionsSzawinis/CompetitiveProgramming/blob/master/Olympiad/POI/POI13-price.cpp
+https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/POI/POI13-price.cpp

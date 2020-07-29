@@ -6,7 +6,7 @@ Problem was available on https://oj.uz/problem/view/IOI10_saveit (e.g. see old s
 
 
 https://github.com/farmerboy95/CompetitiveProgramming/blob/master/IOI/IOI%2010-saveit.cpp
-https://github.com/luciocf/OI-Problems/blob/master/IOI/IOI%202010/saveit.cpp	[evalauted on IO https://ioi2010.org/CompetitionTask.shtml]
+https://github.com/luciocf/OI-Problems/blob/master/IOI/IOI%202010/saveit.cpp		evalauted on IO https://ioi2010.org/CompetitionTask.shtml
 https://github.com/QuickSorting/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI%2010-saveit.cpp
 https://github.com/stefdasca/CompetitiveProgramming/tree/master/IOI/IOI%2010-saveit
 

@@ -5,10 +5,7 @@ To know how to compute its tricky complexity, study amortizd analysis
 
 https://github.com/SuperJavaCoder/training/blob/master/IZhO/2012/biochips.cpp
 
-https://github.com/ShabdanBatyrkulov/codee/blob/master/IZhO%2012-biochips.cpp
-https://github.com/luciocf/Solutions/blob/master/IZhO/IZhO%202013/schools.cpp
+https://github.com/ShabdanBatyrkulov/codee/blob/master/IZhO/2012/IZhO%2012-biochips.cpp
 https://github.com/zoooma13/Competitive-Programming/blob/master/biochips.cpp
-https://github.com/tsouza0/CompetitiveProgramming/blob/master/Olympiads/IZHO/12/biochips.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/IZhO/IZhO%2012-biochips.cpp
-https://github.com/luciocf/Solutions/blob/master/IZhO/IZhO%202012/biochips.cpp
 https://github.com/quangloc99/CompetitiveProgramming/blob/master/olympiad/IZhO/2012/biochips.cpp

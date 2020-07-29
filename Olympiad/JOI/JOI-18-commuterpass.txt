@@ -1,5 +1,8 @@
-https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18-Commuter_Pass.cpp
-https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/JOI/CommuterPass2018.cpp
+http://codeforces.com/blog/entry/57637?#comment-413356 (Problem 4)
+
+
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/JOI/18F-Commuter_Pass.cpp
+https://github.com/timpostuvan/competitive-programming/blob/master/Olympiad/JOI/CommuterPass2018.cpp
 https://github.com/mushisgosuuu/oj-solutions/blob/master/JOI/commuter_pass2018.cpp
 https://github.com/stefdasca/CompetitiveProgramming/blob/master/JOI/JOI%2018-commuterpass.cpp
 https://github.com/thecodingwizard/competitive-programming/blob/master/JOI/JOI%2018-commuterpass.cpp

@@ -7,4 +7,4 @@ O(LG) Knuth optimization
 
 dp_divide and conquer optimization   O(L * G * log L)
 	https://github.com/radoslav11/CompetitiveProgramming/blob/master/HackerRank/guardians-lunatics-ioi14.cpp	
-	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/HackerRank/guardians-lunatics-ioi14.cpp
+	https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/HackerRank/ioi-2014-practice-contest-2/guardians-lunatics-ioi14.cpp

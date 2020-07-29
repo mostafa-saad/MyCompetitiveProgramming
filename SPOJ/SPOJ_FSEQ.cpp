@@ -9,6 +9,7 @@
 	// https://github.com/BRAINOOOO/CompetitiveProgramming/blob/dd02ff8e60a2e238e61e6a4421aec2338e3f39a8/Spoj/SPOJ%20FSEQ.Cpp
 	
 // For stack explantation for "next greater element", See: http://www.geeksforgeeks.org/next-greater-element/
+		https://github.com/mostafa-saad/ArabicCompetitiveProgramming/blob/master/18-Programming-4kids/16_homework_09_answer.cpp
 		https://ideone.com/zfXDVU
 		
 // Others:
