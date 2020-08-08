@@ -83,6 +83,8 @@ Math
 		https://www.quora.com/q/threadsiiithyderabad/Solving-Dynamic-Programming-with-Matrix-Exponentiation
 		https://codeforces.com/blog/entry/43225
 		My slides: https://github.com/mostafa-saad/ArabicCompetitiveProgramming/blob/master/04%20Math/Algorithms_Number_Theory_06_Matrix_Power_Applications.pptx
+		
+	Geometry book		https://codeforces.com/blog/entry/59129
 	
 
 DataStructures
