@@ -1,0 +1,2 @@
+https://github.com/luciocf/OI-Problems/blob/master/CCO/CCO%202018/boring.cpp    [seg tree]
+https://github.com/thecodingwizard/competitive-programming/blob/master/CCO/CCO%2018-boring.cpp  [sqrt decomp]

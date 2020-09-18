@@ -1,6 +1,7 @@
 Segment tree
 	https://github.com/nikolapesic2802/Programming-Practice/blob/master/The%20Islands/main.cpp
 	https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI04-Islands.cpp
+	https://github.com/farmerboy95/CompetitiveProgramming/blob/master/POI/POI%2004-Islands.cpp
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
 	sweep-line

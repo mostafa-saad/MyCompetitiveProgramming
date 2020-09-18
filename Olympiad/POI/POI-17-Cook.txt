@@ -1,0 +1,3 @@
+https://github.com/stefanbalaz2/CompetitiveProgramming/blob/master/POI/POI%2017-Cook.cpp
+https://github.com/thecodingwizard/competitive-programming/blob/master/POI/POI%2017-cook.cpp
+

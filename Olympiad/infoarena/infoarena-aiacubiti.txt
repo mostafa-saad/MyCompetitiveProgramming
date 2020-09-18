@@ -1,2 +1,4 @@
 https://github.com/zoooma13/Competitive-Programming/blob/master/aiacubiti.cpp
 https://github.com/veljko02/CompetitiveProgramming/blob/master/Olympiad/infoarena/iaicubiti.cpp
+
+https://github.com/superj6/CPcode/blob/master/c%2B%2B%20sol/Infoarena/infoarena%20aicubiti.cpp		[fastwalsh hadamard transform]

@@ -1,3 +1,4 @@
-https://github.com/farmerboy95/CompetitiveProgramming/blob/master/POI/POI%2004-Islands.cpp
+https://github.com/farmerboy95/CompetitiveProgramming/blob/master/POI/POI%2009-Island.cpp
+https://github.com/dolphingarlic/CompetitiveProgramming/blob/master/POI/POI%2009-island.cpp
 
 Official	https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/POI/official/find_editorial_sols_guidelines.txt
